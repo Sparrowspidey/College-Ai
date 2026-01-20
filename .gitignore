@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data & AI
+backend/vectorstore/
+backend/data/processed/
+
+# Environment
+.env
+
+# OS
+.DS_Store
