@@ -1,5 +1,5 @@
 [project]
-name = "iiitk-ai-assistant"
+name = "College-AI"
 version = "0.1.0"
 description = "AI-powered, secure, college-specific assistant for IIIT Kottayam using RAG and open-source LLMs"
 readme = "README.md"
