@@ -61,7 +61,7 @@ The assistant uses **RAG**:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 College_AI/
@@ -94,7 +94,7 @@ College_AI/
 
 ---
 
-## 🧾 Important Files Explained
+##  Important Files Explained
 
 ### `pyproject.toml`
 
