@@ -231,14 +231,14 @@ http://127.0.0.1:8000/docs
 ---
 
 ##  Contributors
-1.Dr. Dhakshayani J ( Project Supervisor )
-2. Vivek Ediga @ Sparrowpsidey
-3. Himasai Vihar
-4. Vinay V
-5. Sai Akilesh 
-6. Adithya M
-7. Joyal Kumar J
-8. Praising Harris
+* 1.Dr. Dhakshayani J ( Project Supervisor )
+* 2. Vivek Ediga @ Sparrowpsidey
+* 3. Himasai Vihar
+* 4. Vinay V
+* 5. Sai Akilesh 
+* 6. Adithya M
+* 7. Joyal Kumar J
+* 8. Praising Harris
 
 
 ---
