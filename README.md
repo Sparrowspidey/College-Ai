@@ -5,6 +5,11 @@ This project aims to guide students, answer college-related queries, and act as 
 
 ---
 
+## Document
+https://docs.google.com/document/d/1u9MQ6vgbJ8CKvJ7c_ZmI0_UOqxBnH-5hp_8VKsdnaow/edit?usp=sharing
+
+---
+
 ##  Project Vision
 
 To build a **ChatGPT-like assistant**, but **strictly focused on IIIT Kottayam**, capable of:
@@ -226,10 +231,9 @@ http://127.0.0.1:8000/docs
 ---
 
 ##  Contributors
-
-1. Vivek Ediga alias Sparrowpsidey
-2. Himasai Vihar
-3. Hiranya Venkata Reddy
+1.Dr. Dhakshayani J ( Project Supervisor )
+2. Vivek Ediga @ Sparrowpsidey
+3. Himasai Vihar
 4. Vinay V
 5. Sai Akilesh 
 6. Adithya M
