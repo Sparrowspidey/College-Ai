@@ -237,8 +237,8 @@ http://127.0.0.1:8000/docs
 4. Vinay V
 5. Sai Akilesh 
 6. Adithya M
-7. Joyal Kumar J
-8. Praising Harris
+
+
 
 
 ---
