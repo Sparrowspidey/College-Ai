@@ -69,32 +69,31 @@ The assistant uses **RAG**:
 ##  Repository Structure
 
 ```
-College_AI/
+College-AI
 │
-├── backend/                # Core AI backend
-│   ├── app/                # Application source code
-│   │   ├── main.py         # FastAPI entry point
-│   │   ├── api/            # API routes
-│   │   ├── core/           # Config, settings, startup logic
-│   │   ├── rag/            # RAG pipeline (retrieval + generation)
-│   │   ├── models/         # Pydantic models
-│   │   └── utils/          # Helper utilities
+├── backend
+│   └── app
+│       ├── api
+│       ├── rag
+│       ├── vectorstore
+│       ├── ingestion
+│       ├── embeddings
+│       └── config
+│           └── settings.py
+│
+├── data
+│   ├── documents
+│   │   
 │   │
-│   ├── data/               # Raw college documents (PDFs, text)
-│   ├── vectorstore/        # FAISS index storage
-│   └── tests/              # Backend tests
-│   
-|
+│   ├── syllabus
+│   │
+│   └── notices
 │
-├── frontend/               # Frontend application (planned)
-├── security/               # Security research & implementation
-├── docs/                   # Documentation & design notes
+├── vectorstore_data
+│   └── index.faiss
 │
-├── .gitignore              # Files ignored by Git
-├── pyproject.toml          # Project metadata & dependencies
-├── uv.lock                 # Locked dependency versions
-├── .env.example            # Environment variable template
-└── README.md               # Main project README (this file)
+├── docs
+└── README.md
 ```
 
 ---
