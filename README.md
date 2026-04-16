@@ -232,10 +232,11 @@ http://127.0.0.1:8000/docs
 ##  Contributors
 1. Dr. Dhakshayani J ( Project Supervisor )
 2. Vivek Ediga @ Sparrowpsidey
-3. Himasai Vihar
-4. Vinay V
-5. Sai Akilesh 
-6. Adithya M
+3. Reshmitha G
+4. Himasai Vihar
+5. Vinay V
+6. Sai Akilesh 
+7. Adithya M
 
 
 
