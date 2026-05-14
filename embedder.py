@@ -5,5 +5,9 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def generate_embeddings(chunks):
     embeddings = model.encode(chunks, batch_size=32)
+    
+    embeddings = np.array(embeddings, dtype='float32')
+    
     embeddings = embeddings / np.linalg.norm(embeddings, axis=1, keepdims=True)
+    
     return embeddings
