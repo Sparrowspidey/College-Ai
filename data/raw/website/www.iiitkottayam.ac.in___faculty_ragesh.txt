@@ -1,0 +1,405 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/ragesh
+
+Dr. Ragesh G K | IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr Ragesh G K
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: ragesh
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202175
+Research Focus
+Primary Areas:
+Cyber-Physical Systems (CPS)
+Next-Gen Wireless Networks
+Data Security and Privacy
+Unmanned Aerial Vehicles (UAVs)
+Research/Academic Partnerships and International Collaborations
+My research initiatives are greatly enhanced through numerous partnerships and international collaborations. One of the key collaborations is the UK India Future Networks Initiative (UKI-FNI), funded by the EPSRC, United Kingdom, in 2022, in partnership with the University of Glasgow, UK. This initiative focuses on developing advanced network technologies to improve communication infrastructures between the UK and India. Additionally, in 2024, I secured the UKIERI-MeitY Grant, also in collaboration with the University of Glasgow, which strengthens UK-India collaborations in emerging technologies such as cyber-physical systems and IoT.
+Significant collaborations include the DST-DAAD Grant awarded in 2023 and the IGSTC (DST) – SING Grant awarded in 2024, both in partnership with the University of Offenburg, Germany. These projects focus on advanced antenna technologies for 5G networks and sustainable, innovative green technologies. Furthermore, I am collaborating with Universiti Teknologi Brunei and Ajou University, South Korea, on AI for climate resilience. Similar efforts are ongoing with the University of Cambodia and the Asian Institute of Technology, Thailand, focusing on IoT and HPC solutions. In partnership with the Toyota Foundation, Japan, we are addressing sea-level rise and climate influence. Additionally, our work with the University of Agder, Norway, and National Cheng Chung University, Taiwan, focuses on AI and cybersecurity research.
+Funded Projects (National/International)
+Title of the Project
+Funding Agency
+Amount (INR)
+Duration (From)
+Duration (To)
+Role
+Status
+Energy Efficiency Evaluation Framework for ORAN (E3FORAN) – Part II
+EPSRC UK-India Future Networks Initiative (UKI-FNI)
+34,00,000
+01-01-2025
+31-03-2025
+CO - PI
+Ongoing
+Energy Efficiency Evaluation Framework for ORAN (E3FORAN)
+40,00,000
+01-12-2022
+31-05-2023
+Completed
+Highly Isolated Antenna Array using Substrate Integrated Waveguide for 5G and beyond networks
+DST-DAAD
+31,00,000
+15-01-2024
+15-01-2026
+Isolation Enhancement for SIW Antennas for 5G and beyond Systems
+IGSTC
+9,00,000
+15-02-2024
+15-02-2025
+Multi-Layer Security for UAV networks
+C3iHub- IIT Kanpur
+39,34,720
+08-08-2024
+31-03-2027
+Design and Development of Electronic Nose for Aroma Analysis in Ayurveda (Lab to Market Scheme)
+Drishti CPS Foundation-IIT Indore
+9,86000
+15-06-2023
+10-06-2024
+UAV-Enabled Ultra-Reliable Low Latency Communication (6G)
+UKIERI-MeitY
+47,52,000
+01-04-2024
+01-04-2026
+IoT for Intelligent Systems
+British Council
+15,00,000
+02-08-2022
+02-08-2023
+Wearable Sensor Based Anxiety Disorder Prediction using Federated Learning (PhD fellowship, Chanakya scheme)
+12,08,000
+01-06-2023
+01-06-2025
+Hardware Software Co-design for a Low-Cost Egg Quality Prediction and Anomaly Detection System
+01-08-2023
+01-08-2025
+Predictive Modeling and HPC Solutions for Climate Adaptation: Addressing Rising Sea Levels and Community Resilience in India, Thailand, Cambodia, and Brunei
+Anusandhan National Research Foundation (ANRF)
+41,79,152
+01-02-2025
+01-02-2027
+Total Funding as on January 2025:  INR 2,91,67,872
+Professional Recognition/ Award/ Prize/ Certificate
+S.No.
+Name of Award
+Awarding Agency
+Year
+UKI-FNI (UK India Future Networks Initiative) Funding Grant (40 lakhs INR)
+EPSRC, United Kingdom
+2022
+UKIERI-MeitY Grant (approx.. 60 lakhs INR)
+UKIERI-MietY
+2024
+British Council- Going Global Partnership- Exploratory Grant (Approx. 15 lakhs INR)
+British Council, United Kingdom
+2021
+DST- DAAD Grant (Approx. 30 lakhs INR)
+DST- DAAD Germany
+2023
+IGSTC (DST) –SING Grant (9 lakhs INR)
+IGSTC (DST)
+Technology Development Grant- Lab to Market Scheme (10 lakhs INR approx.)
+IIT Indore CPS Foundation-DRISH TI
+Chanakya Fellowship – 2 Fellowships
+Cyber Security- Project Grant from C3iHub (40 lakhs INR)
+Silver Award- KSCSTE TECH FEST’ 2022
+KSCSTE, Kerala
+Secretary- IEEE RFID Council, Kerala Section
+IEEE RFID Council, Kerala Section
+Secretary- IEEE EMC  Kerala Chapter
+IEEE EMC Kerala
+CAB Member- IEEE Kerala Section
+IEEE Kerala Section
+Kerala Police Cyber Dome- Crypto Fraud Investigation- Core member
+Kerala Police Cyber Dome
+Senior Member IEEE (Member #98203618)
+IEEE Global, USA
+Associate Editor
+IET Quantum Communications
+Top 80 social innovators, India
+Youth Co: Lab India2020
+2020
+Education :
+Ph.D, Information and Communication Engineering, Thesis titled: "Cryptographically Enforced Data Access Control in Cloud Assisted Wireless Body Area Networks”. ", Government Collge of Technology, Coimbatore (Anna University, Chennai) 2015.
+M.E., Communication Systems , Anna University, 2008
+B.E., Electronics and Communication Engineering, Anna University, 2005
+Certifications
+Cisco certified Network Associate (CCNA).
+Diploma in IT Infrastructure Management (DIIM) from TATA- CMC Ltd.
+Network Protocol Testing.
+IPR/PATENTS/COPYRIGHTS
+Patent Title
+Name of Applicant(s)
+Patent No
+Award Date
+Agency/Country
+IoT Enabled Urban Environmental Monitoring with Wireless Sensor Network
+Dr.Ragesh G K, Dr.Bipin Dr. Ajay Kumar, Dr.N.Hariharan, Dr. Varun Menon
+527318
+15/03/2024
+India
+Granted
+Scalable space structured ledger framework for Industrial Internet of Things using Block chain technique
+Dr. Ragesh G K, Dr. Shajulin,  Mr. Basil C. Sunny, Mr. Rajesh P S.
+2021106931
+24/08/2021
+Australian
+Multi-Purpose Cauterization Tool for Ayurveda (Set)
+Dr Ragesh G K, Anuroop K B, Dr.Radhakrishnan
+378862-001
+09/05/2023
+Indian
+Wearable Device for Monitoring the health of Mother and Fetus
+Dr.Ragesh G K Dr. Kayode Onireti, Mr. Anuroop K B Ms. Lekha C Warrier
+357136-001
+19/06/2023
+Secure Method for Protecting the Sensitive Information of the Mobile Users
+Dr. Ragesh
+202041003464
+7/2/2020
+Published, Filed FER, Awaiting Examin ation
+Design of a Single Smart Handheld Device for Controlling and Diagnosis of Asthma
+Dr. Ragesh, Dr. Ajay, Anuroop K B, Divya V Chandran, Arya Paul
+202041017320
+5/6/2020
+Published, Filed FER,Awaiting Examination
+Trailblazer: A M Prototyping Machine
+Dr. Ragesh Ragesh G K, Anuroop K B, Sreehari Soman, Aishwarya Lakshmi T, Sanal
+202041017342
+Published, Filed FER, Awaiting Examination
+Doily- Sanitary Napkin Vending Machine Feminine Hygiene
+Divya V Chandran, Ragesh G K, Arya Paul, Remya Ramesh, Anuroop K B
+202041020495
+29/05/2019
+Published, Filed FER, Awaitin g Examination
+Artificial Intelligence Based Traffic Light Anomaly Detection and Predictive Maintenance System
+Dr.Ragesh G K, Mr. Anuroop K B, Sankaran, Vyshakh, Karthik, Varshini
+202341008603
+17/02/2023
+Published,awaiting FER
+LIFE SAVVY:Wearable Flu- Sense Device
+Dr.Ragesh G K, Mr. Anuroop K B, Gokul
+202041027105
+07/2020
+Publish ed, Filed FER, Awaiting Examination
+Copyrights
+Title
+Indian/ International
+Cryptographically Enforced Data Access Control in Cloud Assisted Wireless Body Area Networks
+Granted Reg. no. L-108499/2021
+Revocable Multi Authority Attribute Set Based Encryption for Cloud Storage
+Filed
+Publications(Referred)
+(Google Scholar:
+https://scholar.google.co.in/citations?user=vqO_MBYAAAAJ&hl=en
+Dr. Ragesh G K and Dr. Ajay Kumar, “Node Localization Based on Unsupervised Approach and Secure Routing for Healthcare Management in Delay Tolerant Networks”, The Journal of Communication Systems, Wiley, 2024
+(SCIE Indexed)
+Dr. Ragesh G K and Dr. Ajay Kumar, “Trust-Based Secure Routing and Message delivery Protocol for Signal Processing Attacks in IoT Applications”, The Journal of Supercomputing, Springer, 2022.
+(SCIE indexed)
+Christina Gamal, Kang An , Xingwang Li, Varun G Menon , Dr. Ragesh G K, Mostafa M. Fouda, Basem M. ElHalawany, “Performance of Hybrid Satellite-UAV NOMA Systems”, IEEE International Conference on Communications (IEEE-ICC), May 2022, Seoul, South Korea
+(Flagship Conference of IEEE)
+Xingwang Li, Yike Zheng, WaliUllah Khan, Ming Zeng, Dong Li,
+Ragesh G. K
+, Lihua Li, “Physical Layer Security of Cognitive Ambient Backscatter Communications for Green Internet-of-Things”,
+IEEE Transactions on Green Communications and Networking
+, 2021
+PC Menon, PR Bipin,
+Ragesh G K
+, PV Rao, “Smart Critical Patient Care System with Doctor and  Bystander Support with Wireless Sensor Network Using IoT and Intelligent Recommender Algorithm”,
+Cognitive Informatics and Soft Computing, Springer
+, Singapore, pp. 15-30, 2021.
+(SCOPUS Indexed)
+Dr. N. Hariharan,
+Dr. Ragesh G K
+, Er. Ajay Kumar, “A Compact Microstrip Quad-band Band pass Filter using Six Mode Resonator and a Hairpin resonator”, IJAST, vol. 29, no. 10s, pp. .8153-8158, Jun. 2020.
+, “Design and Implementation of Internet Based Home Health Platform”, International Research Journal of Engineering  and Technology,Vol.4, Issue-4,pp.2526-2531,2017.
+and Dr K Baskaran, “Cryptographically Enforced Data Access Control in Personal Health Record Systems, Procedia Technology Journal- ElsevierBV,Vol.25, pp.473-480,2016.
+Dinu Mary Alias and
+, “Cognitive Radio Networks- A Survey”, WiSPNET International Conference, Chennai,
+IEEE digital library
+, pp. 1981-1986,2016.
+and Dr K Baskaran, “Attribute Set Based Encryption for User Centric Data Security and Privacy in Cloud-Assisted WBANs”,
+Information Journal
+(International Information Institute, Japan) ISSN-1343-45002014.
+and Dr K Baskaran, “Privacy Preserving Ciphertext Policy Attribute Set Based Encryption (PP-CP-ASBE) scheme for Patient Centric Data Access Control in Cloud Assisted WBANs”, ACCIS 2014, published by
+Elsevier
+, 2014.
+and Dr K Baskaran, “A Survey on Futuristic Health Care System: WBANs”,
+Procedia Engineering Journal, Elsevier–30
+, pp. 889–896, 2012.
+and Dr K Baskaran, “An overview of Applications, Standards nd Challenges in Futuristic Wireless Body Area Networks”, is published in
+International Journal of Computer Science Issues (IJCSI)
+, Volume 9,Issue1, January 2012.
+and Dr K Baskaran, “Addressing the need for context awareness and security requirements in wireless body area networks”,
+International journal of future computer and communication (IJFCC)
+, vol.1, No.3, pp.302-308., 2012.
+and Dr K Baskaran, “CRYPE: Towards Cryptographically enforced and Privacy Enhanced wireless Body Area Networks”, presented in the First International Conference on Security of Internet of Things,
+ACM, Trusted Computing Group and Cloud Security Alliance
+, is available in ACM digital library, doi>10.1145/2490428.2490457.
+and Dr K Baskaran, “Enhancing Privacy for Patient Centric Data Access control in Wireless Body Area Networks”,
+Wulfenia journal- Austria
+(ISSN: 1561- 882x)
+(SCIE Journal)
+Vol.19, No. 11;November 2012.
+International/ National Conferences (Selected)
+Kayode, Abubaker, Imran,
+, “Energy Efficiency of Open Radio Access Network: A Survey”,
+IEEE Dr. Ragesh G K VTC 2023
+, Florence, Italy.
+Lekha C Warrier,
+, “A Review on Game Theoretical Incentive Mechanism for Federated Learning”,
+IEEE INDICON’
+2022 International Conference, Cochin, Kerala, India.
+V. A. Binson, M. Subramoniam,
+G. K. Ragesh
+and A. Kumar, "Early Detection of Lung Cancer Through Breath Analysis Using AdaBoost Ensemble Learning Method," 2021 2nd International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS), 2021, pp. 183-187.
+P. S. Hitha,
+and R. Anish, "Comparison Of Image Compression Analysis Using Deep Autoencoder And Deep CNN Approach," 2021 2nd International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS), 2021, pp. 247-251
+V. A. Binson, S. Thomas,
+and A. Kumar, "Non-invasive Diagnosis of COPD with E-nose Using XGBoost Algorithm," 2021 2nd International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS), 2021, pp. 297- 301.
+Praveen C Menon, Bipin P R,
+, P. V Rao, “Smart Critical Patient Care System with Doctor and By Stander support with Wireless sensor network using IoT and Intelligent Recommender Algorithm”, 3rd International Conference on Cognitive Informatics & Soft Computing (CISC-2020), December 2020, Odisha, India.
+Dr. Neelakantan P C,
+, Dr. Hariharan N, “Pathway to Excellence through Well Defined Learning Outcomes, Assessment Strategies and Impact Analysis”, WorldSummit on Accreditation (WOSA2018), 07-09September2018, NBA New Delhi, India.
+, “i-CARE: Real Time Healthcare through Internet”, NCRTET2017, National Conference, April 11-12, 2017, Believers Church Carmel Engg. College, Kottayam, Kerala,India.
+(KSCSTE, Project funded under Student project scheme-2017,Govt.ofKerala)
+, “Blind Assist: Mobile App for Assisting Mobility for the visually Impaired”, NCRTET 2017, National Conference, April 11-12, 2017, Believers Church Carmel Engg. ollege, Kottayam, Kerala, India.
+Paper Published:
+S. B. Samhitha,
+Dr.Ragesh G K.
+, Pretty Joy, V. Madhav, and S. Randive, “Enhancing UAV Reliability and Security: A Machine Learning-Based Framework for Anomaly Detection and Classification,” in
+Proceedings of the 2nd International Conference on Trends in Engineering Systems and Technologies (ICTEST)
+, 2025, pp. 1–8. doi: 10.1109/ICTEST64710.2025.11042453.
+Pretty Joy and
+Dr. Ragesh G. K.
+, “NOMA-Based Secure Physical Layer Communication in UAV Networks with Artificial Noise Injection,” in
+, 2025, pp. 1–8. doi: 10.1109/ICTEST64710.2025.11042319.
+and P. Joy, “Innovative NOMA System for 6G: Integrating RIS and Beamforming for Enhanced Efficiency and Scalable Connectivity,”
+IEEE Communications Standards Magazine
+, vol. 9, no. 2, June 2025. doi: 10.1109/MCOMSTD.2025.3580079.
+Workshop Organized:
+3 Day Drone Hands-on Workshop organized from June 17–19, IIIT Kottayam
+Teaching and Mentoring
+Courses Taught:
+Cyber-Physical Systems , IoT , Wireless Networks, digital communication, Advanced Communication Networks, Cryptography and network security, Business Analytics, Secure Communication, Communication  Networks.
+Research Guidance:
+Supervising multiple PhD, M.Tech, and B.Tech students in IoT, CPS, UAV and 5G /6G networks.
+Postdoctoral Scholar
+Dr. Ansal K A
+Area of Research: MIMO antennas
+“Chief Minister’s Post-Doctoral Fellowship”- Kerala Higher Education Council Government of Kerala
+Ph.D. Guidance- Doctoral Students
+Mr. Ajay Kumar
+Year of Registration: 2016; Area of Research- IoT Routing
+Thesis title:
+Enhanced Context Aware and Content Centric Routing Strategies for IoT Networks
+Status:
+Completed (APJ Abdul Kalam Technological University, Kerala),
+July 2021
+Mr. Anuroop K B
+Month/Year of Registration: January 2022;
+Area of Research: Software-Hardware co-design
+Status: On-going (IIIT Kottayam)
+Ms. Lekha C Warrier
+Area of Research: Federated Learning
+Mr. Vimal Kumar
+Month/Year of Registration: January 2022
+Area of Research: CPS
+Editorial Activities
+for IET Quantum Communications Journal
+Guest Editor
+for Frontiers in Communications and Networks
+Core Member- Conference Advisory Board- IEEE Kerala Section
+Secretary- IEEE Kerala Section- RFID Council, EMC Kerala Chapter
+Reviewer for :
+IEEE Internet of Things Journal
+IEEE Transactions on Green Communication and Networking.
+Springer- Journal of Ambient Intelligence and Humanized Computing
+Springer- Sādhanā – Academy Proceedings in Engineering Sciences.
+Elsevier Journal- Future generation computer systems.
+Wiley- International Journal of Communication Systems.
+Int. J. of Engineering Systems Modelling and Simulation (IJESMS), Inderscience
+International Journal of Systems Assurance Engineering and Management (IJSA), Springer
+Soft Computing Journal, Springer
+Web Intelligence, IoS press
+Professional Experience
+Invited Talks (Selected)
+Title of the Talk/ Invited Guest
+Organizer/ Event
+Beyond 5G and 6G Research Directions
+FDP organized by the Department of Electronics and Communication Engineering, FISAT Angamaly.
+2025
+Generative AI Models for IoT Applications
+Cambodia University of Management and Technology (CUMT) as part of our ASEAN-India Collaborative R&D Grant on advancing climate-smart technologies.
+Internet of Medical things- revolutionising medical health care
+University of Offenburg, Germany
+Research Directions in Data security and privacy of 5G and beyond networks
+VIT, Chennai
+Synergy between IoT, CPS and 5G
+5G Security
+IIIT Kottayam
+5G use cases
+VIT, Vellore
+5G IoT for Healthcare and Smart Cities
+IIIT Kottayam- KARYASHALA Workshop
+5G powered IoT: The next growth wave for digital transformation
+SRIT,Coimbatore, India
+5G Enabled IoT networks: Ushering in a new era
+IEEE- FORUM '22, IEEE SPS KERALA CHAPTER
+5G for Smart Healthcare using IoT
+KTU Sponsored 5-Day FDP/ SCMS School of Engineering and Technology, Karukutty, Ernakulam
+Technology Clinic-on Investment Opportunities in IT Based MSME’s
+Department of Industries and Commerce, Idukki- Govt. of Kerala
+Innovation and Entrepreneurship
+Malayala Manorama News Daily- Manorama Horizon
+Intellectual Property Rights (IPR)
+Online POCO workshop, “Post-conference proceedings compilation and submission, conference conclusion, valedictory”(Role: Panelist)
+IEEE Kochi Subsection
+Smart Sensor applications
+AICTE- ATAL Sponsored FDP organized bySREC, Coimbatore, India.
+Research Trends in Body Sensor Networks
+AICTE- ATAL Sponsored FDP organized by SRIT,Coimbatore, India
+Invited as Special Guest
+Institution' s Innovation Cell, ILM College of Engineering and Technology, Ernakulam, India
+LinkedIn and Your Job Search
+IEEE SB, ASIET, Kalady, India.
+Writing Successful Research Grantproposals and Avenues for Fundingin India’
+Muthoot Institute of Technology and Sciences,Ernakulam, India
+2019
+Writing Research proposal
+Adi Shankara Institute of Engineering andTechnology, Ernakulam, India
+2018
+Introduction to Computer CommunicationNetworks and its Simulation tools
+St Berchmans Higher Secondary School, Changanassery, Kottayam, kerala, India
+Career Orientation Programme for plusone/plus two students
+2017
+Wireless Sensor Networks-Open Issues
+International Conference on Breakthrough in Engineering &Advanced Technology (INC- BEAT'16),Institute of Engineering Research, Cochin, India.
+2016
+WBANs- its applications and its futureprospective
+Adi Shankara Institute of Engineering and Technology,Ernakulam, India
+Research Proposals and Funding
+Wireless Networks
+Indira Gandhi College of Engineering for Woman,Nellikuzhi, Kerala.
+2014
+Wired and Wireless Networks-PHY,MACand Network layer Issues
+NS2 Simulator
+Communication networks and Security
+2013
+Membership of Professional Bodies
+S. No.
+Name of Professional Body
+Grade of Membership
+IEEE (Senior Member)
+98203618
+IAENG (International Association of Engineers)
+Life time Member No:129692
+Thomson Reuter Research Community
+ISTE
+LM 112692
+Research Positions, Internship, and Summer Project Opportunities
+Students interested in pursuing an internship or summer project or any other research positions under my guidance are encouraged to email their Statement of Purpose (SoP) along with their research interests to
+ragesh@iiitkottayam.ac.in

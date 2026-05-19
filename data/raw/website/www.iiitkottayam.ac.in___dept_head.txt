@@ -1,0 +1,35 @@
+URL: https://www.iiitkottayam.ac.in/#!dept_head
+
+Department Head | IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Head of Department
+HOD (Electronics & Communication Eng.)
+Dr. Ananth A
+contact_phone
+0482-2202176
+location_on
+Room No: AB 208 / AC 313
+email
+ananth at iiitkottayam dot ac.in
+insert_link
+link
+HOD(Computer Science & Engineering-1)
+Dr. Christina Terese Joseph
+0482-2202190, 0482-2202173
+Room No: AA 108 / AC 318
+christina at iiitkottayam dot ac.in
+HOD(Computer Science & Engineering-2)
+Dr. Rubell Marion Lincy G
+0482-2202152
+Room No: BC 317 / AB 219
+lincy at iiitkottayam dot ac.in
+HOD (Computational Science & Humanities)
+Dr. Dhanyamol M V
+0482-2202162
+Room No: BC 316 / AA 119
+dhanya at iiitkottayam dot ac.in
+HOD (CSE- Cyber Security)
+Dr. Arun Cyril Jose
+0482-2202159
+Room No: AA 122
+aruncyril at iiitkottayam dot ac.in

@@ -1,0 +1,42 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/mathewcd
+
+Dr. Susheel Kumar Joshi | IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Susheel Kumar Joshi
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: joshi
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202185
+Education :
+Ph.D., Applied Mathematics, Thesis titled: "Gravitational Search Algorithms for Optimization and Their Applications", South Asian University (An international university established by SAARC countries), New Delhi, 2021.
+M.Tech., Systems Analysis and Computer Applications, NIT Surathkal, 2013
+M.Sc., Mathematics, Kumaun University, Nainital, 2005
+Publications
+International Journals
+Susheel Kumar Joshi, Levy flight incorporated hybrid learning model for gravitational search algorithm, Knowledge-Based Systems, volume-265, 110374, 2023, Elsevier, (SCI, Impact factor: 8.139)
+Susheel Kumar Joshi, Chaos embedded opposition based learning for gravitational search algorithm, Applied Intelligence, 1-20, 2022, Springer (SCI, Impact factor: 5.019).
+Susheel Kumar Joshi, Anshul Gopal, Shitu Singh, Atulya k Nagar, Jagdish Chand Bansal, A novel neighborhood archives embedded gravitational constant in GSA, Soft Computing, 2021, Volume 25, page 6539-6555, Springer ( SCI-Expanded, Impact Factor: 3.732).
+Susheel Kumar Joshi, Jagdish Chand Bansal, Parameter tuning for meta-heuristics, Knowledge-Based Systems (2019), Volume 189, page 105094,  Elsevier (SCI, Impact Factor 8.139).
+Jagdish Chand Bansal, Susheel Kumar Joshi, A.K. Nagar, Fitness varying gravitational constant in GSA, Applied Intelligence, Volume 48, page 3446-3461, 2018, ISSN 1573-7497,  Springer (SCI, Impact Factor 5.019).
+Jagdish Chand Bansal, Susheel Kumar Joshi, H.Sharma, Modified global best artificial bee colony for constrained optimization problems, Computers & Electrical Engineering, Volume 67, page 365-82, 2018, Elsevier (SCI-Expanded,  Impact Factor 4.152).
+International Conferences
+Susheel Kumar Joshi, Jagdish Chand Bansal, Grey Wolf Gravitational Search Algorithm, International Workshop on Computational Intelligence (IWCI 2016), pages 224-231, IEEE.
+Preprints
+Susheel Kumar Joshi, Jagdish Chand Bansal, A novel neighbourhood archives embedded gravitational constant based binary gravitational search algorithm and its application to windfarm layout optimization problem, preprint at arXiv:2107.11844 [cs.NE].
+Susheel Kumar Joshi, Chaos embedded opposition based learning for GSA, preprint at arXiv:2108.12610 [cs.NE].
+For details of all research articles, please visit
+google scholar
+Professional Activities
+Reviewer:
+Expert Systems with Applications (Elsevier)
+Artificial Intelligence Review (Springer)
+Knowledge based systems (Elsevier)
+Research Interests :
+Swarm Intelligence
+Nature-inspired Optimization Techniques
+Evolutionary Computation
+Optimization Algorithms
+Soft Computing

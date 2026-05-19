@@ -1,0 +1,66 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/reethathomas
+
+Dr. Nayana P G| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Nayana P G
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: nayanapg
+iiitkottayam
+ac.in
+Hello at: 04822202364
+Honours and Achievements :
+Selected and presented a prototype of a
+Developmental Toy for Neurodivergent Children
+in the grand finale of
+Cognify Shaastra
+, organized by
+IIT Madras
+January 2025.
+Member of
+RMS ( Ramanujan Mathematical Society)
+, Member ID: 1464.
+ADMA (Academy of Discrete Mathematics and Applications)
+Qualified the State Eligibility Test (SET) in 2015.
+Education
+Ph.D. in Graph Theory and Algorithms, Amrita Vishwa Vidyapeetham, Kochi,India.. Title:
+“Security in Some Interconnection Networks”
+. September 2023
+M.Sc in Pure Mathematics, C.E.T. College of Management, Science and Technology, M G University, Kerala, India, June 2015.
+B.Ed in Mathematics, MGUCTE Tripunithura, M G University, Kerala, India, June 2013.
+B.Sc in Mathematics, Sree Sankara College Kalady, M G University, Kerala, India
+Publications
+Journals and Conferences
+Nayana P G, Chithra M R. ”Edge Domination and Secure Edge Domination in Mycielski Graph of Trees”, Ars Combinatoria, Volume 160. 205-209 (2024). DOI: https://doi.org/10.61091/ars-160-16.[scopus indexed].
+Nayana, P.G., and Radha Rajamani Iyer. ”On secure domination number of generalized Mycielskian of some graphs.” Journal of Intelligent and Fuzzy Systems 44.3 (2023): 4831-4841, DOI:10.3233/jifs-223326 [scopus indexed].
+Gangadharan Nayana Palachuvadu, and Radha Rajamani Iyer. ”Secure edge domination in Mycielski graphs.” AIP Conference Proceedings. Vol. 2718. No. 1. AIP Publishing, 2023, DOI: https://doi.org/10.1063/5.0137090 [scopus indexed].
+Nayana, P. G., and Radha Rajamani Iyer. ”An algorithm to find a dominating set that secures any connected graph G.” 2022 IEEE 4th PhD Colloquium on Emerging Domain Innovation and Technology for Society (PhD EDITS). IEEE, 2022,DOI: 10.1109/PhDEDITS56681.2022.9955299 [scopus indexed]
+Paper Presentations
+P. G. Nayana, Divya Sindhu Lekha, “Domination in Brain Network: Using fMRI data and Nilearn” in International Conference on Biological Data Analysis & Computation using Mathematical Modelling and Network Science organized by the School of Computational and Integrative Sciences, Jawaharlal Nehru University (JNU), New Delhi 2025.
+P. G. Nayana, Radha Rajamani Iyer, “Application of secure domination in wrapped butterfly network”, International Conference on Graph Theory and its Applications – ICGTA23 – Amrita Vishwa Vidyapeetham, December 2023.
+P. G. Nayana, Radha Rajamani Iyer, “An algorithm to find a dominating set that secures any connected graph G”, Ph.D edits, IEEE Conference, November 2022.
+P. G. Nayana, Radha Rajamani Iyer, “Secure Edge Domination in Mycielski Graphs”, in AIP Conference Proceedings, May 2023.
+P. G. Nayana, Kumar Abhishek, ”Secure domination in Wrapped Butterfly Network”, International Conference on Recent Trends in Graph Theory (ICRTGT-2020), Department of Mathematics, Karnataka University, Dharwad, July 2020.
+P. G. Nayana, M. R. Chithra, ”Secure Edge Domination in Mycielski Graphs”, National Conference on Emerging Trends in Mathematics and Applications in Engineering and Technology, Department of Mathematics, Hindustan University, Chennai, March 2018.
+Professional Activities:
+Visiting Researcher
+– Topic: Analysis of Brain Network: An fMRI study.
+– 08-07-2024 to current.
+– Network Science Research Lab, Indian Institute of Information Technology, Kottayam.
+– Supported by funding, Mathematical Research Impact Centric Support (MATRICS), Science and Engineering Research Board (SERB), Govt. of India.
+Teaching Assistant
+– Amrita Vishwa Vidyapeetham, Kochi, India (from December 2017 to March 2020).
+– Subjects Handled: Real Analysis, Linear Algebra, and Abstract Algebra.
+–	Cochin Institute of Science and Technology, Muvattupuzha, APJ Abdul
+Kalam Technological University, India (from 20/02/2016 to 23/06/2017).
+– Subjects Handled: Higher Engineering Mathematics and Discrete Computer Structures
+Reviewer:
+Journal of Intelligent & Fuzzy Systems – IOS Press.
+Sohag Journal of Mathematics – Natural Science Publishing
+Research Interests
+Graph Theory
+Domination
+Algorithm
+Interconnection Networks
+Brain Network and Network Analysis
