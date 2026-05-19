@@ -1,0 +1,58 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/deepak
+
+Dr. Deepak Jose| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Deepak Jose
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: deepakjose
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202273
+Education :
+Ph.D, National Institute of Technology Calicut,  Thesis titled: "Low Complexity Transmission Schemes and Detection Techniques for Differential Spatial Modulation", 2022.
+M.Tech., Communication Engineering, Indian Institute of Technology Delhi, 2012
+B.Tech., Electronics and Communication Engineering, Cochin University of Science and Technology, 2009
+Work Experience
+Assistant Professor, Dept. of Electronics and Communication Engineering, Christ (Deemed to be University), Bangalore, Jan. 2022 to Dec. 2023
+Engineer, Cisco Systems Private Ltd., Bangalore, June 2012 to July 2016
+Publications
+Journals
+Deepak Jose and S. M. Sameer, "Differential Transmission Schemes for Generalized Spatial Modulation," in IEEE Transactions on Vehicular Technology, vol. 70, no. 12, pp. 12640-12650, Dec. 2021, doi: 10.1109/TVT.2021.3118457
+Deepak Jose and S. M. Sameer , "Low complexity detector for amplitude phase shift keying-based differential spatial modulation", IET Communications, 2020, 14, (20), p. 3669-3675, DOI: 10.1049/iet-com.2020.0120 IET Digital Library
+Deepak Jose and S. M. Sameer , "Compressive sensing-based low-complexity detector for differential spatial modulation", IET Communications, 2019, 13, (19), p. 3229-3234, DOI: 10.1049/iet-com.2019.0016 IET Digital Library
+Conferences
+S. K. Devarajalu, Deepak Jose, ”Performance Evaluation of OTFS Under Different Channel Conditions for LEO Satellite Downlink,” 10th International Conference on Wireless Networks and Mobile Communications (WINCOM) in Istanbul, Turkey, Oct. 2023
+Deepak Jose, S. M. Sameer, “A low complexity detector with near-ML performance for generalized differential spatial modulation,” in Proc. Of International Conference on Signal Processing and Communications (SPCOM) in Bangalore, India, July 2020, pp. 1–5
+Attended/Conducted Workshops/ Sessions :
+Conducted  a  Five-day FDP and hands on Workshop on "Recent trends in Next Generation Communications: Simulations and Applications" at IIIT Kottayam, on  30th June – 4th July 2025
+Resource person for the Five-day FDP and hands on Workshop on "Recent trends in Next Generation Communications: Simulations and Applications" at IIIT Kottayam, on  30th June 2025
+Resource person for Computer Networking Fundamentals and Demonstration for  Cyber Commandos as part of  the initiative from I4C,  Ministry of Home Affairs, GoI, from 21st to 23rd October, 2024
+Resource person for the FDP cum Hands-on workshop on Wireless Communication technologies for Beyond 5G systems, at IIIT Kottayam, on  25th June 2024
+Resource person for the FDP on Design and  Innovation  on wireless communication with Advanced technology at  GATES Institute of technology, Andhra Pradesh, on 22nd January 2024
+Conducted a workshop on “Machine Learning and Neural Networks using  the Intel Unnati ecosystem”, at  CHRIST (Deemed to be University), Bangalore, Dec 2023
+Train-the-trainer six-day Workshop on “Machine Learning and Artifical Intelligence”, by Intel Unnati Data-Centric Labs in Emerging technologies, Bangalore, July 2022
+Five-day Workshop on “Research trends in Multimedia and Multirate Signal Processing ", NIT Calicut, India , June 2019
+Five-day Workshop on “5G Multi-User MIMO and Massive MIMO Systems”  by Prof. Aditya Jaganatham of IIT Kanpur at M. S. Ramiah Institute, Bangalore, India, June 2017
+Workshop on “Prototyping Experimental 5G Testbeds”,  held as part of the National Conference on Communications (NCC)-2017, IIT Madras, April 2017
+Two-day Workshop on "Patent & Intellectual property Rights”, NIT Calicut, India, March 2017
+Reviewer of:
+IEEE Transactions on Vehicular Technology
+IEEE Communications Letters
+IEEE Systems Journal
+ITU Journal on Future and Evolving Technologies
+Research Interests :
+Networking Security in IoT devices.
+Wireless mesh networking .
+Device fingerprinting for cyber security.
+Spatial Modulation
+Detection and estimation problems in IRS-assisted wireless systems.
+Orthogonal time frequency space (OTFS) modulation
+On-going Research projects:
+Device Fingerprinting: Enhancing Security Through Unique Identifiers
+Intrusion detection and Advanced Persistant threats in networking devices.
+Scalable implementation of IRS-assisted MIMO communication systems in a simulated channel environment
+Multi-Hop Wireless Mesh networks
+Internship/Summer/Research projects:
+Students those who are interested in working with me can drop an email with a short statement of purpose and your research interests.

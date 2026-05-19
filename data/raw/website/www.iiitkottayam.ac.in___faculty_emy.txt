@@ -1,0 +1,55 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/emy
+
+Dr. Emy Mariam George| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Emy Mariam George
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: emy
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202270
+Honours and Achievements :
+VIT University First rank holder in M.Tech-Communication Engineering (2015).
+Qualified UGC NET-Electronic Science (2016).
+Education :
+Ph.D, Department of Electronics and Communication Engineering, Thesis titled: "Heterogeneous Provisioning for Coexisting Wireless Body Area Networks", National Institute of Technology, Calicut, 2022.
+M.Tech., Communication Engineering , VIT University,2015
+B.Tech., Electronics and Communication Engineering, Mahatma Gandhi University, 2012
+Publications
+Journals
+George, E. M., & Jacob, L. (2023). Multi-channel NOMA random access for inter-WBAN communication.
+Wireless Networks
+, 1-9.
+George, E. M., & Jacob, L. (2022). Interference and priority aware resource allocation in co-existing WBANs using game models.
+Physical Communication
+, 101750.
+George, E. M., & Jacob, L. (2022). Medical QoS provisioning for multi-class data in coexist-ing wireless body area networks.
+Telecommunication Systems
+, 79(1), 151-161.
+George, E. M., & Jacob, L. (2021). Game approach for access point selection and bandwidth allocation in co-existing WBANs.
+Sadhana
+, 46(4), 1-5.
+George, E. M., & Jacob, L. (2020). Interference mitigation for coexisting wireless body area networks: Distributed learning solutions.
+IEEE Access
+, 8, 24209-24218.
+Murugadass, A., Pachiyappan, A., Kumaravelu, V. B., & George, E. M. (2017). Quality of service aware antenna selection scheme for multi-hop relay networks.
+AEU-International Journal of Electronics and Communications
+, 71, 9-20.
+Arthi, M., P, A., K, V., Joy, J. & George, E. (2015). Technical challenges in mobile multi-hop relay networks.
+International Journal of Applied Engineering Research
+, 10(10):26025–26036.
+Book Chapters:
+“Connectivity-Bluetooth, Zigbee, Wi-Fi” for AI themed Malayalam encyclopaedia ‘Nirmithabudhi’ by State Institute of Encyclopaedia Publications (SIEP).
+Conference Proceedings
+E. M. George and L. Jacob, "Multi-Class Delay Sensitive Medical Packet Scheduling in    In-ter-WBAN Communication," 2019 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 2019, pp. 1-5.
+E. M. George and L. Jacob, "Distributed Learning Algorithm for Interference Avoidance in Coexisting WBANs," 2018 International Conference on Signal Processing and Communica-tions (SPCOM), 2018, pp. 477-481.
+E. M. George, K. Punia, K. Vinoth Babu and G. R. Reddy, "Performance analysis of multi-antenna multi-hop relay networks using antenna selection with delayed channel state infor-mation at the transmitter," 2015 International Conference on Communications and Signal Processing (ICCSP), 2015, pp. 0113-0117
+K. Punia, Emy Mariam George, K. Vinoth Babu and G. Ramachandra Reddy, "Signal detec-tion for Spatially Multiplexed multi input multi output (MIMO) systems," 2014 International Conference on Communication and Signal Processing, 2014, pp. 612-616.
+Research Interests :
+Wireless Communication
+Wireless Body Area Networks, Sensor Networks
+Game Theory
+Teaching Experience
+Department of ECE, Mar Baselios College of Engineering and Technology, Trivandrum (November 2021-November 2023)

@@ -1,0 +1,122 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/jeenathomas
+
+Dr. Jeena Thomas| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Jeena Thomas
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: jeenathomas
+iiitkottayam
+ac.in
+Hello at: 04822202278
+Honours and Achievements :
+DST Woman Scientist
+[Received the prestigious Women Scientist Scheme-A (WOS-A)fellowship from the Department of Science and Technology, Ministry of Science and Technology, Government of India. The sole recipient from Kerala and one of only nine women scientists across India selected in the Engineering and Technology stream for the year 2020-21.]
+Kusum Deep Best PhD Thesis Award 2025 by Indian Institute of Technology, Roorkee.
+[The award is declared and given as a part of 13th International Conference on Soft Computing for Problem Solving (SocProS 2025) Artificial Intelligence for Viksit Bharat hosted  by Department of Applied Mathematics and Scientific Computing IIT  Roorkee, 24-26 February 2025]
+Research Fellow
+at IIT Palakkad Technology IHub Foundation (IPTIF)
+Best Paper Award
+for the paper entitled “Effectual Single Image Dehazing with Color Correction Transform and Dark Channel Prior,” in 16th International Conference on Information Processing (ICInPro-2021), India
+for the paper entitled “Tabular Data Interpretation on COVID-19 Through Explainable Machine Learning.” in 3rd International Conference on Emerging Trends and Technologies on Intelligent Systems (ETTIS 2023), India
+for the paper entitled “Predicting College Students Failure using Educational Data Mining”, in 2nd International Conference on Emerging Trends in Technology and Applied Sciences, ICETTAS,2015, India
+Best Project Award
+: Issued by Yukthi 2019, St. Joseph's College of Engineering and Technology, Palai [Mentor for the project "A Combined Approach of Deep CNN and RNN for the Diagnosis of Pulmonary Embolism from CTA Images in Radiology"]
+The paper "Single Image Dehazing with Color Correction Transform Dark Channel Prior", was listed on SSRN's
+Top Ten download list
+Selected by Cognizant Technology Solutions India (Campus Placement)
+Selected by NeST Group for project internship
+Education:
+Ph.D : Computer Science and Engineering, Indian Institute of Information Technology Kottayam, Kerala,2024
+Thesis Title - Advances in Visual Analysis : Effective Image Restoration and Explainability in Object Detection .
+M.E : Computer Science and Engineering, Anna University, Chennai, Tamil Nadu,2012
+B. Tech : Computer Science and Engineering, Mahatma Gandhi University, Kottayam, Kerala, 2009
+Employment :
+Assistant Professor at St. Joseph’s College of Engineering and Technology, Palai, Kerala [Sept 2012-July 2019]
+Sponsored Projects & Fellowships
+WOS-A, DST, Ministry of Science and Technology, Government of India
+• Project Title : Analysis of Deep Learning and Metaheuristic Techniques for Object Detection in Various Use Cases under Adverse Environments [Grant : INR22,94,510]
+• Role : Project Scientist-I & Principal Investigator [Ongoing]
+Doctoral Fellowship, IIT Palakkad Technology IHub Foundation (IPTIF)
+• Title : Effective Strategies and Approaches on Object Detection Using Computer Vision [Fellowship: INR 7,44,000] [Completed]
+Invited Talk/Sessions:
+Talk on “Responsible and Explainable AI for Visual Computing” as part of 5 Day Responsible Computing Boot Camp hosted by FACTS-H Lab, IIIT Kottayam, funded by Mozilla. [19 March 2025]
+Delivered a talk on “Explainability in AI Decisions for Image Analysis”  at the online FDP on “Real World AI Applications: Bridging Academia and Industry” hosted by  Electronics and ICT Academy, NIT Warangal and  sponsored by the Ministry of Electronics and Information Technology (MeitY), Government of India. [18 December 2024]
+Resource person and conducted a micro- course titled “Fundamentals of Computer Vision” in collaboration with Manorama Horizon on 31 January 2023 to 2 February 2023.
+A session on the "Importance of Literature survey" at IIIT Kottayam on 19 December 2021.
+Technical talk on " Artificial Neural Network Architectures : An Overview" at IIIT Kottayam on 18 September 2019
+Publications
+Journals
+Jeena Thomas, Ebin Deni Raj, “Improved Image Dehazing Model with Color Correction Transform-based Dark Channel Prior”, The Visual Computer, Springer, pp. 1-24, 2024. [SCI Indexed]
+Amritha Haridasan, Jeena Thomas, and Ebin Deni Raj. “Deep Learning System for Paddy Plant Disease Detection and Classification.” Environmental Monitoring and Assessment, Vol.195, pp. 120-148, Springer, 2022. [SCI Indexed]
+Vedant Sandeep Joshi, Jeena Thomas, and Ebin Deni Raj. “Quantized Coconut Detection Models with Edge Devices.” Journal of Interconnection Networks,Vol.22, no. Supp03, pp.2144010-2144036, World Scientific, 2022. [ESCI]
+Jensia Thomas, Anumol Joseph, Irene Johnson, and Jeena Thomas "Machine Learning Approach for Diabetes Prediction." International Journal of Information Systems and Computer Sciences, Vol 8, no. 2 ,2019, pp 55-58.
+Athira V, Jeena Thomas “Churn Envisage Using TensorFlow” SJCET Journal of Engineering & Management, Vol 11, No.2, 2018, pp. 7-12.
+Anjana Pradeep, Jeena Thomas. "Predicting College Students Dropout using EDM Techniques." International Journal of Computer Applications 123, no. 5 (2015): 26-34.
+Anjana Pradeep, Jeena Thomas "Performance Assessment for Students Using Diferent Defuzzification Techniques." International Journal for Innovative Research in Science and Technology 2, no. 6 (2015): 43-53.
+Jeena Thomas “Analysis of Cloud Vendors in Indian Environment”, International Journal of Advanced Technology in Engineering and Science. 2, (8),2014, pp.19-24
+Conferences
+Jeena Thomas, and Ebin Deni Raj. “Effectual Single Image Dehazing with Color Correction Transform and Dark Channel Prior.” In Data Science and Computational Intelligence: 16th International Conference on Information Processing, ICInPro 2021, Bengaluru, India, October 22–24, 2021,Proceedings 16, pp. 29-41. Springer, 2021.
+[Best Paper Award]
+Bhagya, J., Jeena Thomas, and Ebin Deni Raj. “Exploring Explainability and Transparency in Deep Neural Networks: A Comparative Approach.” In 2023 7th International Conference on Intelligent Computing and Control Systems (ICICCS), pp. 664-669. IEEE, 2023.
+Ruchika Sreedhar, Jeena Thomas, and Ebin Deni Raj. “Detection of Chest Catheters Using Mask R-CNN.” In 2021 International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON), pp. 1-6. IEEE, 2021.
+Ashly Ann Jo, Caina Rose Paul, S. Arundhathi Nair, Jeena Thomas, and Ebin Deni Raj. “Tabular Data Interpretation on COVID-19 Through Explainable Machine Learning.” In 3rd International Conference on Emerging Trends and Technologies on Intelligent Systems (ETTIS 2023), pp. 653-666, Springer, 2023.
+Neetha George, Jeena Thomas “A Review on Various Computer Aided Detection Methods for the Diagnosis of Pulmonary Embolism from CTA Images”, International Conference on IoT, Social, Mobile, Analytics and Cloud in Computational Vision and Bio-Engineering (ISMACCVB-2019),2019.
+Jensia Thomas, Anumol Joseph, Irene Johnson, and Jeena Thomas. “Machine Learning Approach for Diabetes Prediction” International Conference on Computational Intelligence and Digital Technologies (ICCIDT-2K19), 2019
+Neetha George, Jeena Thomas. "Forecasting the Peak Demand Days of Chronic Respiratory Diseases with Fuzzy Logic." In 2018 International Conference on Circuits and Systems in Digital Enterprise Technology (ICCSDET), pp. 1-5. IEEE, 2018.
+Neetha George, Jeena Thomas. “Review on Various Computer Aided Diagnosis Methods for Detection of Liver Tumor from CTA Images” in the International conference on Innovative Trends in Science and Technology (ICITST-2018) organized by Sarabhai Institute of Science and Technology, Trivandrum.
+Neetha George, Jeena Thomas. "Authenticating Communication of Autonomous Vehicles with Artificial Intelligence." In IOP Conference Series: Materials Science and Engineering, vol. 396, no. 1, p. 012017. IOP Publishing, 2018.
+Athira, V., Jeena Thomas. "An Approach of RDD Optimization in Big Data Analytics." In IOP Conference Series: Materials Science and Engineering, vol. 396, no. 1, p. 012022. IOP Publishing, 2018.
+Athira V, Jeena Thomas “Analysing Telecom Churn Trends using ML Techniques”, in International Conference, ICCISCON at GISAT Kottayam, 2018.
+Athira V, Jeena Thomas ‘Surveying Telecom Churn Trends using ML Techniques’, International conference on Breakthrough in Engineering, Science and Technology by Institute of Engineering research, (IER-BEST’18) Salem,2018, pp.153-156.
+Anjana Pradeep, Jeena Thomas “Predicting College Students Failure using Educational Data Mining”,2nd International Conference on Emerging Trends in Technology and Applied Sciences, ICETTAS,2015, pp. 13-23.
+Priyamol James, Jeena Thomas, and Neena Alex. "A Survey on Soft Biometrics and their Application in Person Recognition at a Distance." In 2015 International Conference on SoftComputing and Networks Security (ICSNS), pp. 1-5. IEEE, 2015.
+Anjana Pradeep, Jeena Thomas “Students’ Performance Assessment Using Different Defuzzification Methods” International Conference on Emerging Trends in Engineering and Technology, Bengalaru,2015.
+Sunitha Sunny, Jeena Thomas “Advanced Test Data Generation”, International Research Conference on Innovative Strategies in Commerce, Management, Engineering, Technology & Social Sciences,2013.
+Jeena Thomas, Chamundeswari Arumugam, “Visualizing Data Dependency in Software Ecosystem”, International Conference on Recent Trends in Computer Science and Engineering, (ICRTCSE-2012),2012.
+Book Chapters
+Jeena Thomas, Ebin Deni Raj. “Deep Learning and Multimodal Artificial Neural Network
+Architectures for Disease Diagnosis and Clinical Applications.” Machine Learning and
+Deep Learning in Efficacy Improvement of Healthcare Systems (1st ed.), Boca Raton:CRC
+Press, pp. 227-253, Taylor and Francis, 2022
+STTP/FDP/Conferences/Seminars/Workshops Attended (Selected)
+Participated 56th Annual Convention of Operational Research Society of India(2023-ORSI) & 10th International Conference on Business Analytics and Intelligence (2023-ICBAI) at IISc Bangalore, 18-20 December 2023
+10 days online FDP/ short term training on Artificial Intelligence, Machine Learning, Deep Learning & its Applications, by EduxLabs (Esoir Business Solution LLP) from 3rd to 12th July, 2020
+Participated ACM/CSI/IEEECS Research and Industry Symposium, in honor of Shri. F.C Kohli, on 03/05/2021, at AIC-IIIT Kottayam Foundation, IIIT Kottayam.
+Actively participated in an FDP on “Design Thinking” organized by the Department of Computer Science and Engineering in association with SJCET Startup Bootcamp and ACM-SJCET chapter from 9th to 12th July, 2018
+Successfully completed, five day FDP on Compiler Design at Amal Jyothi College of Engineering, Kanjirapally from 17th to 21st December,2018
+Successfully completed a training course on ISO 9001:2015 Awareness Course by Zandig TQM Solutions on 28th June 2018
+Participated in the two-week ISTE workshop on Technical Communication byIIT Bombay from 8th October to 5th December, 2015
+Participated in a two-week ISTE STTP on Introduction to Design of Algorithms by IIT Kharagpur, from 27th April to 30th May, 2015
+Participated in a two-week ISTE workshop on Computer Programming conducted by IIT Bombay from 20th May to 21st June, 2014
+Participated in a two-day ISTE Workshop on Aakash for Education, conducted by IIT Bombay, on 10th and 11th November, 2012
+Completed a training course on ISO 9001:2008 Awareness by Zandig TQM Solutions on 8th June 2012
+Attended an in-plant training at CCS Technologies, Kottayam from 23rd to 28th June, 2008
+NPTEL Certifications
+Artificial Intelligence: Search Methods for problem Solving, on Jul-Oct 2018(12 week course) from IIT Madras.
+Introduction to Research, on Feb-April 2019 (8 week course) from IIT Madras. [Elite Certification]
+Professional Activities
+ISTE Life Member
+Reviewer
+The International Conference on Global Colloquium in Recent Advancement and Effectual Researches in Engineering, Science and Technology (RAEREST 2016)
+International Conference on Innovative Trends In Information Technology (ICITIIT 2020 - 2024)
+IEEE International Conference on Quantum Technologies, Communications, Computing,Hardware and Embedded Systems Security(iQ-CCHESS'23)
+Research Interests
+Computer Vision
+Responsible Artificial Intelligence
+Explainable AI (XAI)
+Vision Language Models
+Deep Learning
+AI for Social Good
+Academic and Research Networking Platforms :
+AD Scientific Index 2024
+https://www.adscientificindex.com/scientist/jeena-thomas/4782491
+Google Scholar
+https://scholar.google.com/citations?user=1G2WBksAAAAJ&hl=en&oi=ao
+Scopus
+https://www.scopus.com/authid/detail.uri?authorId=57213372103
+Orcid
+https://orcid.org/0000-0003-4424-5248
+Linkedin
+https://www.linkedin.com/in/jeena-thomas-456149167/

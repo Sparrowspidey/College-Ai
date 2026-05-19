@@ -1,0 +1,52 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/chakradhar
+
+Dr. Athira B| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Athira B
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email:athirab
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202268
+Honours and Achievements :
+First Rank in MTech
+Research Intern - School of Informatics and Computing, Indiana University, Indiana State,USA
+Education
+Ph.D, Cochin University of Science and Technology Thesis titled: "Deep Learning based Health Recommender system in online health community forum” CUSAT 2022.
+M.Tech., Software Engineering  ,CUSAT,2011
+Invited Talk/Sessions
+Expert Lecture on “Leveraging AI and ML for Cloud security” in 5- day FDP/workshop on Secure Cloud, AI and Distributed Systems(SCADS) 2025
+Expert lecture on “Know your Data” in 5-day workshop on Data Science Essentials: Python Powered Learning 2025 at IIIT Kottayam.
+Conference chair at 5th International Conference on “Innovative Trends in Information Technology” (ICITIIT 2024)
+Conference co-chair at 2024 IEEE International Conference on “Signal Processing, Informatics, Communication and Energy System (SPICES).
+Resource person in 2-day National Seminar on “Digital Transformation: Innovations in Electronics, Commerce and Communication” at Baselious Poulose II Catholicose College, Piravom
+Speaker at Syposium.”Exploring frontiers of Data Science, Health Informatics& HCI”, organised by IUPUI at New Delhi
+Conference Chair at
+International Conference on Smart Computing and Communications (ICSSC 2023)
+Publications
+Journals
+Athira, B., Josette Jones, Sumam Mary Idicula, Anand Kulanthaivel, and Enming Zhang. "Annotating and detecting topics in social media forum and modelling the annotation to derive directions-a case study."
+Journal of Big Data
+; Springer 2021 Jan 8(1): 1-23. SCI-10.8
+Balakrishnan, Athira, Sumam Mary Idicula, and Josette Jones. "Deep learning based analysis of sen-timent dynamics in online cancer community forums: An experience."
+Health Informatics Journal
+27.2 (2021, April): 14604582211007537. –
+SCI(IF-2.932)
+Athira, B., et al. "An answer recommendation framework for an online cancer community fo-rum." Multimedia Tools and Applications (2023): 1-27.
+(SCI-2.5)
+Book Chapters
+Josu, Anto, Jasu Brinner, and B. Athira. "Improving job recruitment with an interview bot: A study on NLP techniques and AI technologies." Advances in Networks, Intelligence and Computing. CRC Press, 2024. 579-586.
+Sreekumar, Aswathy, R. Reshma, and B. Athira. "Comparative Study of Deep Learning Models for Document Classification." 2023 9th International Conference on Smart Computing and Communications (ICSCC). IEEE, 2023.
+Athira, B., and Sumam Mary Idicula. "Siamese Network with Transfer Learning for Similar Query Re-trieval in Online Health Community Forums." Advances in Micro-Electronics, Embedded Systems and IoT. Springer, Singapore, 2022. 337-346.
+Athira, B., and Sumam Mary Idicula. "An Improved Query Similarity Model for Online Health Community Forum Using Cross-Attention Mechanism on Siamese Network." International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore, 2022.
+Professional Activities
+Reviewer:
+Multimedia Tools and application
+Journal of King Saud University - Computer and Information Sciences
+Research Interests
+Data Mining
+Natural Language Processing
+Health Informatics
+Machine Learning
