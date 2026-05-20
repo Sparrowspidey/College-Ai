@@ -25,6 +25,11 @@ dependencies = [
     # Ollama client
     "ollama>=0.1.8",
 
+    # web crawling 
+    "playwright>=1.43.0",
+    "beautifulsoup4>=4.12.3",
+    "requests>=2.31.0",
+
     # Security & utilities
     "python-dotenv>=1.0.1",
     "pydantic>=2.6.0",

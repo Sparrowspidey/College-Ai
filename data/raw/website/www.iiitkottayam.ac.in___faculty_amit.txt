@@ -1,0 +1,49 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/amit
+
+Dr. Amit Kumar Roy | IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Amit Kumar Roy
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: amit
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202201
+Education :
+Ph.D, School of Computer Science and Engineering, Thesis titled: "Design and Implementation of Efficient Protocols for Secure Communication in Wireless Mesh Networks", Assam University (A Central University)
+M.Tech., Information Technology, Assam University (A Central University)
+B.Tech., Information Technology, Mizoram University (A Central University)
+Invited Talk/Sessions :
+Session Chair at 9th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2021), June 25 - 26, 2021. NIT Mizoram.
+AICTE Training And Learning (ATAL) Academy Program on Workshop on Cyber Security (3rd March- 7th March 2020) at NIT Mizoram.
+Publications
+Journals
+Chhakchhuak, V., Khan, A. K., & Roy, A. K. (2025). Common key multi-hop packet authentication protocol for wireless mesh networks.
+International Journal of Information and Computer Security
+, 26(3), 236-254. (ESCI)
+Roy, A. K., Varadaranjan, V., & Nath, K. (2024). Efficient handover authentication protocol with message integrity for mobile clients in wireless mesh networks. Journal of Information Security and Applications, Elsevier, 84, 103806. (SCIE)
+Roy, A. K., Nath, K., Srivastava, G., Gadekallu, T. R., & Lin, J. C. W. (2022). Privacy Preserving Multi-Party Key Exchange Protocol for Wireless Mesh Networks. Sensors, 22(5), 1958. (SCIE)
+Roy, A. K., & Khan, A. K. (2020). Privacy preservation with RTT-based detection for wireless mesh networks. IET Information Security, 14(4), 391-400. (SCIE)
+Mahanta, H. J., Nath, K., Roy, A. K., Kotecha, K., & Varadaranjan, V. (2021). Using Genetic Algorithm in Inner Product to Resist Modular Exponentiation from Higher Order DPA Attacks. IEEE Access. (SCIE)
+Roy, A. K., & Khan, A. K. (2019). Efficient authentication and key management scheme for wireless mesh networks. International Journal of Internet Technology and Secured Transactions, Inderscience, 9(1-2), 184-200. (Scopus)
+Roy, A. K., & Khan, A. K. (2020). RTT based wormhole detection for wireless mesh networks. International Journal of Information Technology, Springer, 12(2), 539-546. (Scopus)
+Book Chapters
+Roy, A. K., & Khan, A. K. (2020). Authentication Protocol with Privacy Preservation for Handover in Wireless Mesh Networks. In First International Conference on Sustainable Technologies for Computational Intelligence (pp. 383- 395). Springer, Singapore.
+Roy, A. K., & Khan, A. K. (2021). Prevention Against Internal Attack via Trust- Based De-tection for Wireless Mesh Networks. In Advances in Communication and Computational Technology (pp. 109-117). Springer, Singapore.
+Roy, A. K., Khan, A. K., & Mahanta, H. J. (2020, July). Trust-Based Detection of Malicious Nodes for Wireless Mesh Networks. In International Conference on Machine Learning, Im-age Processing, Network Security and Data Sciences (pp. 475-485). Springer, Singapore.
+Roy, A. K., & Khan, A. K. (2021). Handoff Authentication Through Diffie-Hellman Ap-proach for Wireless Mesh Networks. In Proceedings of the International Conference on Computing and Communication Systems (pp. 615-622). Springer, Singapore.
+Professional Activities
+Member of IEEE
+Reviewer:
+Reviewer of IEEE transactions on dependable and secure computing
+Reviewer of Journal of Information Security and Applications, Elsevier.
+Reviewer of Alexandria Engineering Journal, Elsevier.
+Reviewer of Computational and Mathematical Organization Theory, Springer.
+Reviewer of Journal of Supercomputing, Springer.
+10th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2022). NIT Mizoram
+9th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2021). NIT Mizoram
+International Conference on Computational Intelligence, Security and IoT (ICCISIoT) 2019. NIT Agartala
+Research Interests :
+Cryptography & Network Security
+Information Security & Cyber Security
