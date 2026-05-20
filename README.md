@@ -5,6 +5,11 @@ This project aims to guide students, answer college-related queries, and act as 
 
 ---
 
+## Document
+https://docs.google.com/document/d/1u9MQ6vgbJ8CKvJ7c_ZmI0_UOqxBnH-5hp_8VKsdnaow/edit?usp=sharing
+
+---
+
 ##  Project Vision
 
 To build a **ChatGPT-like assistant**, but **strictly focused on IIIT Kottayam**, capable of:
@@ -64,32 +69,31 @@ The assistant uses **RAG**:
 ##  Repository Structure
 
 ```
-College_AI/
+College-AI
 │
-├── backend/                # Core AI backend
-│   ├── app/                # Application source code
-│   │   ├── main.py         # FastAPI entry point
-│   │   ├── api/            # API routes
-│   │   ├── core/           # Config, settings, startup logic
-│   │   ├── rag/            # RAG pipeline (retrieval + generation)
-│   │   ├── models/         # Pydantic models
-│   │   └── utils/          # Helper utilities
+├── backend
+│   └── app
+│       ├── api
+│       ├── rag
+│       ├── vectorstore
+│       ├── ingestion
+│       ├── embeddings
+│       └── config
+│           └── settings.py
+│
+├── data
+│   ├── documents
+│   │   
 │   │
-│   ├── data/               # Raw college documents (PDFs, text)
-│   ├── vectorstore/        # FAISS index storage
-│   └── tests/              # Backend tests
-│   
-|
+│   ├── syllabus
+│   │
+│   └── notices
 │
-├── frontend/               # Frontend application (planned)
-├── security/               # Security research & implementation
-├── docs/                   # Documentation & design notes
+├── vectorstore_data
+│   └── index.faiss
 │
-├── .gitignore              # Files ignored by Git
-├── pyproject.toml          # Project metadata & dependencies
-├── uv.lock                 # Locked dependency versions
-├── .env.example            # Environment variable template
-└── README.md               # Main project README (this file)
+├── docs
+└── README.md
 ```
 
 ---
@@ -226,15 +230,15 @@ http://127.0.0.1:8000/docs
 ---
 
 ##  Contributors
+1. Dr. Dhakshayani J ( Project Supervisor )
+2. Vivek Ediga @ Sparrowpsidey
+3. Reshmitha G
+4. Himasai Vihar
+5. Vinay V
+6. Sai Akilesh 
+7. Adithya M
 
-1. Vivek Ediga alias Sparrowpsidey
-2. Himasai Vihar
-3. Hiranya Venkata Reddy
-4. Vinay V
-5. Sai Akilesh 
-6. Adithya M
-7. Joyal Kumar J
-8. Praising Harris
+
 
 
 ---
