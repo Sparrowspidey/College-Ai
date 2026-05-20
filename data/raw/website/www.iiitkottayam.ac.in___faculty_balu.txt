@@ -1,0 +1,100 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/balu
+
+Dr Ananth A | IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. A. ANANTH
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: ananth
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202176
+Honours and Achievements :
+Secured first class with distinction in both bachelors and masters degree programmes.
+Qualified Graduate Aptitude Test in Engineering (GATE) 2013.
+Received MHRD Doctoral Fellowship from Govt. of India (Jul. 2014 to Feb. 2019)
+Visited The University of Edinburgh under UKIERI Project in July 2015.
+Received "Outstanding Contribution in Reviewing" award for November 2016 and July 2017 from Elsevier Computers and Electrical Engineering Journal.
+Obtained Post Doctoral Fellowship (PDF) offer from Koc University, Turkey (Prof. Ertugrul Basar).
+Attended 3GPP RAN1#98 meeting organized by ETSI at Prague, Czech Republic, in August 2019.
+PhD thesis was shortlisted for PhD Symposium in the 2019 IEEE Conference on Information and Communication Technology (CICT) organized by IIIT Allahabad.
+Obtained prestigious National Post-Doctoral Fellowship (NPDF) offer from SERB during the year 2021.
+Experience :
+Postdoctoral Fellow (PDF)   (Jan. 2020 – Mar. 2021)
+University of Saskatchewan, Saskatoon, Canada
+Research Supervisor: Prof. Ha. H. Nguyen
+Research Topic: Feasibility Study on the Application of OFDM-IM in Cable Systems
+Senior Project Officer 	(Apr. 2019 – Jan. 2020)
+Indian Institute of Technology Madras
+Project Supervisor: Dr. Radhakrishna Ganti
+Project Title: Building End-to-End 5G Testbed in India
+Teaching Assistant (TA)  	(Jul.2014 – Apr. 2019)
+IIITDM Kancheepuram
+Assistant Professor 		(Jul. 2011 – Jul. 2014).
+Department of Electronics and Communication Engineering
+Kalasalingam Institute of Technology, Virudhunagar, Tamilnadu
+Education :
+Ph.D, from Department of Electronics and Communication Engineering, Thesis titled: "Error Analysis of Space Shift Keying Systems",
+Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, 2019.
+M.E., Applied Electronics, Anna University of Technology, Tirunelveli, 2011
+B.E., Electronics and Communication Engineering, Anna University, Chennai, 2009.
+Invited Talk/Sessions :
+“Space Shift Keying Systems” at University of Saskatchewan, Canada (Feb. 18, 2020).
+“Review on OFDM with Index Modulation” at University of Saskatchewan, Canada (Feb. 19, 2020).
+“Selection Combining Receiver for Space Shift Keying Systems” at TEQIP-III Sponsored Online Short-Term Course on 5G and Beyond Wireless Technologies: Modelling and Simulations using MATLAB held at IIT Indore (Dec. 24 to Dec. 26 - 2020).
+“Spatial Modulation and Space Shift Keying Systems” at Enabling Technologies for 5G and Beyond 5G Wireless Communication Systems held at NIT Trichy (Apr. 19 to Apr. 23 - 2021).
+“Writing Introduction and Methodology in Manuscripts” at SERB Sponsored High End Workshop on Methods and Tools for Effective Dissemination of Research Ideas and Findings held at NIT Trichy (Jun. 14 to Jun. 20 - 2021).
+Publications
+Journals
+A. Ananth and M. D. Selvaraj, “Error Analysis of SSK with Euclidean Distance based Selection Combining,” IEEE Transactions on Vehicular Technology, vol. 67, no. 4, pp. 3195 - 3204, Apr.2018.
+A. Ananth and M. D. Selvaraj, “Error Analysis of SSK in DF Cooperative Relaying with Selection Combining,” IEEE Systems Journal, vol. 13, no. 3, pp. 2488 - 2499, Sep. 2019.
+A. Ananth and M. D. Selvaraj, “Full Euclidean Distance based Selection Combining for SSK DF Cooperative Diversity Systems,” IEEE Transactions on Signal and Information Processing over Networks, vol.7, pp.406-422, Jun. 2021.
+Ansith S, A. Ananth, Ebin Deni Raj and Kala S, “Swin-RSIC: Remote Sensing Image Classification using a Modified Swin Transformer with Explainability,” Springer Nature Earth Science Informatics, vol.18, 362, pp.1-18, 2025.
+S. Anjana, P.M. Siva Raja, K. Rejini, Moses Garuba and A. Ananth, “Brain Tumor Detection with Bi-directional Cascade Gaussian Kernel Feature-Generative Adversarial Networks,” Elsevier Biomedical Signal Processing and Control, vol.105, 107838, 2025.
+Annette James and A. Ananth, “Outage Probability and Diversity Analysis of OTFS in AF and DF Cooperative Communication Systems,” Elsevier Computers and Electrical Engineering, Vol. 126, 110516, Aug. 2025.
+Conferences:
+A. Ananth and M. D. Selvaraj, “Performance Analysis of SSK in DF Cooperative Relaying using Min-Max Selection Combining,” IEEE Annual India Conference (INDICON), Dec. 2016, IISc. Bangalore.
+A. Ananth, P. Maheswaran and M. D. Selvaraj, “Generalized Selection Combining for Dynamic SSK-BPSK Systems,” IEEE National Conference on Communications (NCC), Feb. 2019, IISc. Bangalore.
+Nikky Sabu, A. Ananth, and M. D. Selvaraj, “Switched and Scaled Selection Combining in SSK DF Cooperative System,” IEEE International Technical Conference of IEEE Region 10 (TEN-CON), Oct. 2019, Kerala. India.
+A. Ananth, P. Maheswaran, and M. D. Selvaraj, “Scaled Selection Combining for SSK in Decode and Forward Cooperative Relaying,” IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Dec. 2019, BITS Pilani Goa Campus. India.
+P. Maheswaran, A. Ananth, and M. D. Selvaraj. “Simplified Performance Analysis of Space Shift Keying Selection Combining with Reconfigurable Antennas.” International Conference on Signal Processing and Communications (SPCOM), Jul. 2020, IISc. Bangalore.
+A. Ananth, Ha H. Nguyen and C. Howlett, “Frequency Diversity Schemes for OFDM-IM and OFDM-SNM,” 2022 IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2022, Austin, TX, USA.
+Annette James, A. Ananth and Kala S, “Error and Diversity Order Analysis of SSK in DF Cooperative Systems.” 2023 International Conference on Microwave, Antenna and Communication (MAC), Mar. 2023, MNNIT Allahabad, India.
+Annette James and A. Ananth, “Outage Analysis of Orthogonal Time Frequency Space in Cooperative Communication System.” 2024 International Conference on Signal Processing and Communications (SPCOM), Jul. 2024, IISc. Bangalore.
+Additional Responsibilities:
+Assistant Warden - Mar. 2022 - Dec. 2023.
+Warden 					- Dec. 2023 - Till date.
+Member, Disciplinary Action Committee 		- Jun. 2022 - Till date.
+Faculty-in Charge, Physical Education 	- Nov. 2022 - Till date.
+Head in Charge, Department of ECE 		- Jul. 2023 - Till date.
+Internship Coordinator, Batch 2020 ECE 		- Jan. 2024 - May 2024
+Publicity Committee Member 			- ICITIIT - 22, ICITIIT - 23
+Students Grievances & Anti Ragging Committee - Jan. 2024 - Till date.
+Member, Asset Verification Committee 		- Apr. 2023 - Apr. 2025
+Session Chair 					- ICITIIT - 2024, 2025, IEEE SPICES 2024, SPACE 2024
+General Chair 					- ISENSE 2024
+Member, Institute Innovation Council
+Member, Institute Level Purchase Committee
+Professional Activities
+Reviewer of Elsevier’s Physical Communication
+Reviewer of Springer Journal of Soft Computing
+Reviewer of Springer Sadhana Journal by the Indian Academy of Sciences
+Reviewer of Wiley Internet Technology Letters
+Reviewer of Taylor & Francis IETE Journal of Research
+Reviewer of 2019, 2022 National Conference on Communications (NCC)
+Reviewer of 2017 International Conference on design and Manufacturing (IConDM)
+Senior Member of IEEE
+Life Time Member of ISTE
+Member of the Board of Studies for the Department of Electronics and Computer Engineering at St. Joseph’s College of Engineering and Technology, Palai
+Member of Advisory Board for the Department of Electronics and Communication Engineering at St. Joseph’s College of Engineering and Technology, Thanjavur
+Research Funding Sanctioned:
+SERB - Karyashala Scheme sponsored One Week High-End Workshop on Methods for Creating a Quality Research Article: Software and Writing Perspective, July 18 – 24, 2022, Sanctioned amount: Rs 5.00 Lakhs.
+Research Interests :
+Wireless Communications
+Cooperative Communications
+MIMO Communication Systems
+Index Modulation
+OFDM Systems
+Orthogonal Time Frequency Space
+Reconfigurable Intelligent Surfaces

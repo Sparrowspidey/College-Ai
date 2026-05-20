@@ -1,0 +1,83 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/lincy
+
+Dr. Rubell Marion Lincy G | IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Rubell Marion Lincy G
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: lincy
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202152
+Education :
+Ph.D, Department of Mathematics, "Stochastic Learning and Fuzzy Knowledge-based Decision Making for Stock Market Trading", National Institute of Technology Calicut, Kozhikode, 2018
+M. Sc. Applied Mathematics, PSG College of Technology, Coimbatore, 2010
+B. Sc. Applied Sciences (Mathematics, Physics, Chemistry), PSG College of Technology, Coimbatore, 2008
+Experience :
+Adhoc Faculty, Department of Mathematics, National Institute of Technology Calicut, December 2017 – May 2019
+Research Scientist – Advanced Analytics Team, Actionfi Technologies, July 2018 – May 2019
+Full Time Research Scholar, Department of Mathematics, National Institute of Technology Calicut, July 2012 to April 2018
+Lecturer/Assistant Professor, Department of Mathematics and Computer Applications, PSG College of Technology, Coimbatore, June 2010 - June 2011
+Honours and Achievements :
+SET for Lectureship of Tamil Nadu State – February 2016
+MHRD Fellowship for Doctoral Research from July 2012 to June 2017
+GATE for Mathematical Sciences – 2012
+Best Alumni Award in M. Sc. Applied Mathematics 2008-2010 Batch
+Best Outgoing Student Award in M. Sc. Applied Mathematics 2008-2010 Batch
+Proficiency Award in M. Sc. Applied Mathematics 2008-2010 Batch
+Dr Krishna Reddy endowment scholarship - 2010
+University First Rank Holder in M.Sc. - 2010
+International Certifications :
+Diploma in Quantum Computing and Programming (QBronze50) – QIndia and QWorld
+Deep Learning Intermediate Bootcamp – DPhi
+AI and ML for Business Leaders – Analytics Vidhya
+Microsoft Excel: Beginners to Advanced – Analytics Vidhya
+Structured Query Language (SQL) – Analytics Vidhya
+Technical Skills :
+Microsoft Office
+C Programming
+C++ using Unix
+MATLAB
+Mathematica
+Maple
+LaTeX
+R Programming
+Python
+MySQL
+Anaconda
+Lectures/Demonstrations :
+Lectures on the following topics in the TEQIP III MHRD sponsored Faculty Development Programme on “Time Series Forecasting Analysis using Artificial Neural Networks (TSANN-18)” held during 10-15 December 2018 organised by the Department of Mathematics, NIT Calicut twinning with Government Engineering College, Bharatpur, Rajasthan
+1.	An Introduction to Python
+2.	Time Series Forecasting using Python
+3.	A Futuristic View on Deep Learning
+Lectures on the following topics in the TEQIP III MHRD sponsored Faculty Development Programme on “Statistical Methods and Scientific Applications (SMASA-18)” held during 14-19 May 2018 organised by the Department of Mathematics, NIT Calicut twinning with Government Engineering College, Bharatpur, Rajasthan
+1.	An Introduction to R Programming
+2.	Introduction to MATLAB
+3.	Fuzzy Systems for Big Data
+A lecture with demonstration in the National workshop on “MATLAB AND ITS APPLICATIONS (MIA-2017)” conducted by Industrial Power Group of the Department of Electrical Engineering, NIT Calicut, in association with IEEE Power & Energy Society Student Chapter NIT Calicut, during 7-9 March 2017
+Publications
+Journals
+Rubell Marion Lincy G., Jessy John C., Fuzzy knowledge-based system for stock trading decision support, Advances in Fuzzy Sets and Systems, 23(1):1-18, 2018
+Rubell Marion Lincy G., Jessy John C., A multiple fuzzy inference systems framework for daily stock trading with application to NASDAQ stock exchange, Expert Systems with Applications, 44(C):13-21, 2016 (SCI indexed, Impact Factor: 5.452, Citations: 28)
+International Conferences
+Rubell Marion Lincy G., Jessy John C., A Stock Trading Decision Making Agent Using Fuzzy Rule-based Reinforcement Learning, International Conference on Recent Trends in Engineering and Material Sciences (ICEMS 2016), Jaipur National University, Jaipur, India.
+Rubell Marion Lincy G., Jessy John C., Daily Stock Trend Forecasting using Fuzzy Rule-based Reinforcement Learning Agent and Portfolio Management, 34th International Symposium on Forecasting (ISF 2014), Erasmus School of Economics, Rotterdam, Netherlands.
+Rubell Marion Lincy G., Jessy John C., A fuzzy rule-based reinforcement learning agent for Automated Stock Trading, 8th International Conference on Matrix Analytic Methods in Stochastic Models 2014, NIT Calicut, India.
+Professional Activities
+Professional Membership:
+Life Member of Cryptology Research Society of India (CRSI)
+Reviewer
+Expert System with Applications – Elsevier Journal
+Research Interests :
+Stochastic Learning
+Financial Decision Making
+Fuzzy Expert Systems
+Artificial Intelligence – Reinforcement Learning
+Machine Learning
+Data Science
+Deep Learning
+Quantum Computing and Programming
+Quantum Machine Learning
+Internship/Summer Projects/Research
+If interested in working with me, you can drop an email with a statement of purpose and research interest

@@ -1,0 +1,74 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/anumaria
+
+Dr. R. Tharaniya Sairaj| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. R Tharaniya Sairaj
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email:sairaj
+iiitkottayam
+ac.in
+Hello at: 04822202227
+Honours and Achievements :
+2024
+- NPTEL Superstar & Discipline Scholar in
+"Computer Science"
+2023
+- Qualified UGC-NET for Assistant Professor,
+conducted by National Testing Agency for the University Grants Commission.
+2023 - Best Paper Award
+, 1st International Conference on Recent Advances in Artificial Intelli-gence & Smart Applications.
+2022
+- Professional Excellence in Data Science Foundations and Deep Learning.
+Awarded by IBM.
+2019
+- Ranked third in Academic Standing in MCA Degree. SASTRA University.
+2017
+- Best Outgoing Student of the Batch in B.Sc. Computer Science.
+St. Joseph’s College of Arts and Science (Autonomous), Cuddalore.
+Education
+Doctor of Philosophy (Thesis submitted), National Institute of Technology, Tiruchirappalli, 2025
+Master of Computer Applications, SASTRA University, Thanjavur, 2019.
+B.Sc. Computer Science, St. Joseph’s College of Arts and Science (Autonomous), Cuddalore, 2017.
+Publications
+Journals
+R. Tharaniya Sairaj
+S. R. Balasundaram
+, “Fine-tuned t5 transformer with lstm and spider monkey optimizer for redundancy reduction in automatic question generation,”
+SN Computer Science
+, vol. 5, pp. 475–489, 2024.  DOI:
+https://doi.org/10.1007/s42979-024-02826-0.
+, “Ontology with topsis model to improve textual entity mapping in automatic higher-order exam question generation,”
+Knowledge Management and E-Learning
+, 2024.
+, “Reducing tail entity hallucinations with dependency edge prediction in text to text transfer transformer based auto-generated ques-tions,”
+International Journal of Information Technology
+, vol. 16, pp. 5407–5419, 2024. DOI:10.1007/s41870-024-02205-1.
+Conferences
+, “De-noising tail entity selection in automat-ic question generation with fine-tuned t5 model,” in
+International Conference on Data Sci-ence and Applications
+, NIT, Jaipur, 2023, pp. 431–443.
+, “Improving uniqueness of named entities with knowledge-based textual enrichment in automatic question generation,” in
+International Conference on Recent Advances in Artificial Intelligence & Smart Applications
+, Springer, 2023, pp. 57–68.
+, “Improving the cognitive levels of automat-ic generated questions using neuro-fuzzy approach in e-assessment,” in
+2020 IEEE 5th Inter-national Conference on Computing Communication and Automation (ICCCA), IEEE, 2020
+, pp. 454–458.
+Workshops and Technical Symposia
+An entailment analysis based entity map-ping to improve automatic question generation
+. In Proceedings of the 3rd ACM India Joint International Conference on Data Science Management of Data (8th ACM IKDD CODS 26th COMAD) (CODS-COMAD ’21). Association for Computing Machinery, New York, NY, USA, 424.
+https://doi.org/10.1145/3430984.3431049, p. 424
+Exploring sparql query types to improve on-tology mapping and retrieval augmented modelling for auto-generated questions
+. University of Twente, Netherlands, Joint Workshop on the Convergence of Large Language Models and Ontologies - Formal Ontology in Information Systems Conference, 2024, p. 424.
+Book Chapters
+Data Science and Applications: Lecture Notes in Networks and Systems
+, Springer, Springer Nature, 2023, pp. 431–443.
+RECENT ADVANCES IN ARTIFICIAL INTELLIGENCE & SMART APPLICATIONS
+, J. K. Mandal, M. Hinchey, and S. Chakrabarti, Eds., Springer Nature, 2023, pp. 57–68.
+Research Interests
+Artificial Intelligence in Education
+Data Science
+Machine Learning and Deep Learning
+Natural Language Processing
+Knowledge Models

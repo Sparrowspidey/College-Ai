@@ -1,0 +1,98 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/milind
+
+Dr.Vineeth Palliyembil| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr.Vineeth Palliyembil
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email:vineeth
+iiitkottayam
+ac.in
+Hello at: +91 (0) 482-2202274
+Honours and Achievements
+Received the Ministry of Electronics and IT (MEITY) Visvesvaraya PhD Fellowship at NIT Trichy.
+Secured rank of 1331 in GATE 2013.
+Secured all India rank of 1559 in AIEEE 2008.
+Work Experience
+Worked as Assistant Professor at Dept. Of Communication Engineering, School of Electronics, VIT Vellore from June 2023 to December 2023.
+Worked as Assistant Professor at Dept. Of ECE, Amrita School of Engineering Coimbatore, Amrita Vishwa Vidyapeetham from July 2019 to June 2023.
+Education :
+Ph. D, Electronics and Communication Engineering, Thesis titled: " Performance Analysis and Improvement of Free Space Optical Communication Systems over the generalized turbulence channel with pointing errors ", National Institute of Technology Tiruchirappalli, 2020.
+M.Tech., Communication Systems, ECE Dept., National Institute of Technology Tiruchirappalli, 2015.
+B.Tech., Electronics and Communication Engineering, National Institute of Technology Calicut, 2012.
+Invited Talk/Sessions
+Delivered online talk on free space optical communication systems during the MMTTC Sponsored 12-day Refresher Course on Wireless Communication conducted by Department of ECE, IIITDM Kancheepuram.
+Served as Course Instructor for the Certificate Course on Photonics & Optical Communica-tion: Emerging Trends and Future Prospects conducted by the Research Cell, Department of Electronics and Communication Engineering at Adi Shankara Institute of Engineering and Technology.
+Delivered invited talk for the AICTE-sponsored Faculty Development Program (FDP) titled "Advancing Green Communication: Research Perspectives in Sustainable Optical Wireless Technology", conducted by Department of ECE, SSM Institute of Engineering and Tech-nology, Dindigul.
+Delivered a guest lecture on the topic of “Optical Wireless Communication” for the online FDP on “Next Generation Wireless Communication System Design and Simulation”¬ orga-nized by the Faculty Development Training Centre, Government College of Technology, Co-imbatore in association with Department of Electronics and Communication Engineering, Government Polytechnic College, Srirangam, Trichy.
+Served as an invited speaker during Faculty Development Programme on “Research Trends in VLSI, Communications & Signal Processing”, organized by Department of Electronics and Communication Engineering, Bapatla Women’s Engineering College, Bapatla, Andhra Pradesh.
+Publications
+Journals  :
+Palliyembil, V., Jagadeesh, V.K., Sudheesh, P.G. et al. “Selection combining hybrid FSO/RF system for the performance improvement of HAP to ground communication systems”, Journal of Optics, Springer Nature, 2025.
+https://doi.org/10.1007/s12596-025-02783-8
+Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Performance Analysis of RF-FSO Communication Systems Over the Malaga distribution channel with Pointing error”, Optik-International Journal for Light and Electron Optics, Elsevier, Volume 247, 2021, 167891, ISSN 0030-4026.
+Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Asymptotic bit error rate analysis of free space optical systems using spatial diversity”, Optics Communications, Elsevier, 427, 617-621, 2018.
+Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidamdaranathan, Theodoros A Tsiftsis, “Capacity and outage probability analysis of asymmetric dual-hop RF–FSO communication systems”, IET Communications, 12, 1979-1983, 2018.
+Jagadeesh Vellakudiyan, Vineeth Palliyembil, Imran Shafique Ansari, P Muthuchidambaranathan, Khalid A Qaraqe, “Performance analysis of the decode-andforward relay-based RF-FSO communication system in the presence of pointing errors”, IET Signal Processing, 13, 480-485, 2019.
+VK Jagadeesh, Vineeth Palliyembil, P Muthuchidambaranathan, Francis M Bui, “Free space optical communication using subcarrier intensity modulation through generalized turbulence channel with pointing error”, Microwave and Optical Technology Letters, Wiley, 57, 1958-1961, 2015.
+Jagadeesh Vellakudiyan, Imran Shafique Ansari, Vineeth Palliyembil, Palanivel Muthuchidambaranathan, Khalid A Qaraqe, “Channel capacity analysis of a mixed dual-hop radio-frequency–free space optical transmission system with Málaga distribution”, IET Communications, 10, 2119-2124,2016.
+Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, Francis Minhthang Bui, Vineeth Palliyembil, “Performance of a subcarrier intensity modulated differential phaseshift keying over generalized turbulence channel”, AEU-International Journal of Electronics and Communications, Elsevier, 68, 1569-1573, 2015.
+List of Conference Proceedings:
+J. V K, V. Palliyembil, S. Rao V. and S. P G, "Performance Analysis of MIMO FSO Communication system over $\mathcal{M}$-distributed Fading Channel," 2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON), Phuket, Thailand, 2023, pp. 268-272, doi: 10.1109/ECTIDAMTNCON57770.2023.10139545.
+V. Palliyembil, K. Prabu, V. K. Jagadeesh, P. Muthuchidamdaranathan and S. Ekpo, "Performance analysis of FSOC system over generalized turbulence channel with pointing errors using PolSK signalling technique," 2021 4th Biennial International Conference on Nascent Technologies in Engineering (ICNTE), 2021, pp. 1-5, doi: 10.1109/ICNTE51185.2021.9487708.
+B. Sukanya and V. Palliyembil, "Performance Improvement of Indoor Lifi Mobile Users with Random Orientation Using Hybrid Lifi and Wifi Networks (HLWNets)," 2021 Sixth International Conference on Wireless Communications, Signal Processing and Networking(WiSPNET), 2021, pp. 390-394, doi: 10.1109/WiSPNET51692.2021.9419442.
+J. Anandpushparaj, V. Palliyembil, L. G. Nadiminti, M. Magarini and P.Muthuchidambaranathan, "Performance Analysis of UAV Cellular Communications," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 370-373, doi: 10.1109/IMICPW.2019.8933212.
+V. Palliyembil, V. K. Jagadeesh and P. Muthuchidamdaranathan, "Analysis of Free Space Optical DPSK-SIM Based Communication System over Málaga Distributed Channel with Misalignment Fading," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 283-287, doi:10.1109/IMICPW.2019.8933269.
+Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relay Assisted Mixed Dual-Hop RF-FSO Systems with Pointing Errors. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_2.
+V. K. Jagadeesh, V. Palliyembil, P. Muthuchidambaranathan and F. M. Bui, "Channel capacity and outage probability analysis of sub carrier intensity modulated BPSK system over Mdistribution free space optical channel," 2015 2nd International Conference on Electronics and Communication Systems (ICECS), 2015, pp. 1051-1054, doi:10.1109/ECS.2015.7124740.
+Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relaying FSO System over M-Distributed Turbulent Channel with Variable Gain AF Protocol. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_1.
+Book Chapters:
+V. Palliyembil and E. G. Anagha, "AI in optics and photonics," in Advances in All-optical Communication, IOP Publishing, 2024, pp. 7-1–7-21, doi: 10.1088/978-0-7503-5623-7ch7.
+Professional Activities
+Organized the Five Days FDP cum Hands-on Workshop on Wireless Communication Technologies for Beyond 5G Systems at IIIT Kottayam during 24 - 28 June, 2024.
+Worked on the DST-India funded Indo-Italian collaborative project on
+“Networked air-borne systems for disaster management”
+and visited Politechnico di Milano, Italy to carry out research collaboration during October, 2018.
+Served as a Board of Studies member for the Revision and Development of the Syllabus and curriculum for the Post Graduate program of Communication Systems at Amrita Vishwa Vidyapeetham University.
+Organized a webinar titled “Machine Learning for Communication Systems” at Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham on May 15th 2021.
+Reviewer:
+•	Served as a reviewer for
+Journal of Selected areas in communication, IEEE
+Journal of Optics Communications, Elsevier
+ICT Express, Elsevier
+Optical Review, Springer
+Optical and Quantum Electronics, Springer
+Research Interests :
+Free Space Optics
+Visible Light Communication
+Wireless Communication
+Optical Communication
+Photonics
+Machine Learning for communication systems
+Short Term Courses Attended
+Participated in Three Days FDP on Recent trends in Machine/Deep Learning for Computer Vision and Biomedical Applications organized by Academic Staff College in association with School of Electronics Engineering of VIT Vellore from 21-Aug-2023 to 23-Aug-2023.
+Participated in the one-week Faculty Development Programme on
+"EMERGING TECH-NIQUES IN 6G WIRELESS COMMUNICATIONS"
+organized by Department of Elec-tronics and Communication Engineering, SRM INSTITUTE OF SCIENCE AND TECH-NOLOGY, TIRUCHIRAPPALLI CAMPUS, Tamilnadu, India. from 04/01/2023 to 10/01/2023.
+Participated in the SERB sponsored five-day online faculty development program on
+“Recent Trends in Free Space Optics and its Applications (RFA-2021)”
+organized by the De-partment of Electronics and Communication Engineering, National Institute of Technology Karnataka, Surathkal, from 04th to 08th October 2021.
+Participated and successfully completed the 5-day online FDP on the theme
+“Inculcating Universal Human Values in Technical Education”
+organized by All India Council for Technical Education (AICTE) from 22nd November 2021 to 26th November 2021.
+Participated in the TEQIP-III sponsored five-day online faculty development program on
+“Recent Trends in Nanoelectronics and Optoelectronics (RNO – 2020)”
+organized by the Department of Electronics and Communication Engineering, National Institute of Technolo-gy Karnataka, Surathkal, from 12th to 16th October, 2020.
+Participated & completed successfully AICTE Training And Learning (ATAL) Academy Online FDP on
+"Advanced Communication Engineering"
+from 2020-12-7 to 2020-12-11 at Bharati Vidyapeeth College of Engineering, Navi Mumbai.
+"Electrical & Computer Engineering"
+from 2020-11-4 to 2020-11-8 at In-dian Institute of Information Technology Kottayam.
+"Photonics"
+from 2020-10-19 to 2020-10-23 at Govt. Model Engineering College, Ernakulam.
+Participated in online SPARC Sponsored Short Term Course on
+“Non-orthogonal Multiple Access Technology for 5GB”
+conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collaboration with National Research Tomsk Polytechnic University, Russia from 14/06/2021 to 25/06/2021.
+“A New Cooperative Wire-less Strategy: Soft Information Forwarding”
+conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collabora-tion with National Research Tomsk Polytechnic University, Russia from 28/04/2021 to 14/05/2021.

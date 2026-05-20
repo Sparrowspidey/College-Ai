@@ -1,0 +1,52 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/suchithra
+
+Dr.Goutam Mali | IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr.Goutam Mali
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: goutam
+iiitkottayam
+ac.in
+Hello at: 00 91  04822202214
+Honours and Achievements :
+Fellowship for Research Project by Department of Information Technology, Government of India
+Fellowship for M.E. study by Ministry of Human Resource Development, Government of India
+Qualified in Graduate Aptitude Test in Engineering (GATE) Examination 2007 and 2008 in Computer Science
+Education :
+Ph.D., Department of Computer Science and Engineering, Thesis titled: "Cooperation-Aided Distributed Topology Management and Resource Allocation in Wireless Multimedia Sensor Networks", Indian Institute of Technology Kharagpur, 2017.
+M.E., Department of Information Technology, Indian Institute of Engineering Science and Technology Shibpur, 2010
+B.E., Computer Science and Engineering, Jalpaiguri Government Engineering College, University of North Bengal, 2004
+Experience:
+Assistant Professor, School of Computer Science & Engineering, XIM University Bhubaneswar, June 2017 to September 2022.
+Ad Hoc Faculty, Indian Institute of Information Technology Ranchi, July 2016 to May 2017.
+Programme Facilitator, Post Graduate Diploma in Information Technology, School of Information Technology, Indian Institute of Technology Kharagpur, July 2006 to July 2008.
+Visiting Lecturer, Jalpaiguri Government Engineering College, West Bengal, August 2005 to May 2006
+Publications
+Journals
+G. Mali and S. Misra, “Topology Management-Based Distributed Camera Actuation in Wireless Multimedia Sensor Networks,” ACM Transactions on Autonomous and Adaptive Systems, vol. 12, no. 1, article no. 2, 2017.
+G. Mali and S. Misra, “TRAST: Trust-Based Distributed Topology Management for Wireless Multimedia Sensor Networks,” IEEE Transactions on Computers, vol. 65, no. 6, pp. 1978–1991, 2016.
+S. Misra, G. Mali, and A. Mondal, “Distributed Topology Management for Wireless Multimedia Sensor Networks: Exploiting Connectivity and Cooperation,” International Journal of Communication Systems (Wiley), vol. 28, no. 7, pp. 1367–1386, 2015.
+Conferences
+G. Mali, S. Das, H. Rahaman, and C. Giri, “Non-preemptive test scheduling for Network-on-Chip (NoC) based systems by reusing NoC as TAM,” In IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 268-271, 2010.
+Professional Activities
+Reviewer:
+IEEE Transactions on Circuits and Systems for Video Technology
+IEEE Sensors Journal
+IEEE Systems Journal
+International Journal of Communication Networks and Distributed Systems (Inderscience)
+KSII Transactions on Internet and Information Systems
+Mobile Information Systems (Hindawi)
+Technical Program Committee (TPC) members:
+In 2022: International Symposium on Artificial Intelligence (ISAI), IEEE International Conference on Communications (ICC): SAC E-Health Track 2022
+In 2021: Advanced Information Networking and Applications (AINA) 2021, IEEE International Conference on Communications (ICC): SAC E-Health Track 2021
+In 2020: AINA 2020
+In 2019: AINA 2019, International Conference on Advanced Computing and Intelligent Engineering (ICACIE) 2019
+In 2018: ACMWorkshop on Future Industrial Communication Networks (FICN) in conjunction with ACM MobiCom 2018, AINA 2018, ICACIE 2018
+In 2017: Intelligent, Secure and Dependable Systems in Distributed and Cloud Environments (ISDDC) 2017, ICACIE 2017, Track co-chair for the track "Internet of Things and Big Data" in Network-Based Information System (NbiS) 2017
+Research Interests :
+Internet of Things
+Security and Privacy
+Blockchain in IoT
+Machine Learning for data transportation

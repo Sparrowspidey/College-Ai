@@ -1,0 +1,37 @@
+URL: https://www.iiitkottayam.ac.in/#!faculty/sreelakshmy
+
+Dr. Sushitha Susan Joseph| IIIT Kottayam
+Indian Institute of Information Technology Kottayam
+Dr. Sushitha Susan Joseph
+Assistant Professor
+Valavoor P.O, Pala
+Kottayam - 686635, Kerala, India.
+Email: sushithasj
+iiitkottayam
+ac.in
+Hello at: 04822202257
+Education
+Ph.D, School of Computer Science and Engineering, Thesis titled: "Three-Dimensional Reconstruction and Visualization of Brain Tumor for Surgical Peocedures” , Vellore Institute of Technology, Vellore  (An Institute of Eminence Status by GOI), Nov 2023.
+M.Tech., Computer Science and Engineering, Anna University, Chennai, 2012.
+B.Tech., Computer Science and Engineering, Mahatma Gandhi University, 2009.
+Experience
+Assistant Professor in the Department of Computer Engineering at College of Engineering Chengannur, Chengannur, Kerala – Aug 2023 to Aug 2024.
+Assistant Professor in the Department of CSE at Mar Baselios Christian College of Engineering and Technology, Peermade, Kerala - Dec 2011 to July 2017.
+Publications
+Journals
+Joseph, S.S. and Aju, D. “A comparative objective assessment on mesh-based and SVM-based 3D reconstruction of MRI brain”, International Journal of Natural Computing Research, Volume 8 Issue 3, pp. 41–54
+Joseph SS, Dennisan A. “Three-Dimensional reconstruction models for medical modalities: a comprehensive investigation and analysis.” Current Medical Imaging, Bentham Science, 2020, Volume 16(6):pp.653-68. [SCIE, Scopus Indexed]
+Joseph, S.S. and Dennisan, A. “An affinity propagated clustering aided computerized Inherent Seeded Region Growing and Deep learned Marching Cubes Algorithm (ISRG-DMCA) based three-dimensional image reconstruction approach”, International Journal of Imaging Systems and Technology, Wiley, 2022, pp. 1-15, DOI: 10.1002/ima.22736 [Scopus Indexed]
+Joseph, S.S. and Dennisan, A. “Optimised CNN based Brain Tumour Detection and 3D Reconstruction”, Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, Taylor and Francis,2022, 1–16, DOI: 10.1080/21681163.2022.2113436. [Scopus Indexed]
+Joseph, S.S. and Aju, D., “3D Reconstruction Methods Purporting 3D Visualization and Volume Estimation of Brain Tumors”, International Journal of e-Collaboration, 2022, Volume 18, Issue 1, pp.1–18. [Scopus Indexed]
+Joseph SS, Aju D. “Three-Dimensional Reconstruction of Brain Tumours from 2D MRI Scans: Optimised Curve Fitting Process.” International Journal of Biomedical Engineering and Technology. 2023, Volume 42, Issue 4, pp. 377-97 [Scopus Indexed]
+Conference and Book Chapter
+Joseph SS, Aju D. “A comparative survey on three-dimensional reconstruction of medical modalities based on various approaches. In Information Systems Design and Intelligent Applications” In Proceedings of Fifth International Conference INDIA 2018, Volume 1, 2019, pp. 223-233, Springer Singapore.
+Joseph SS, Aju D. “Three-Dimensional Reconstruction and Digital Printing of Medical Objects in Purview of Clinical Applications.” In Machine Learning and Deep Learning in Medical Data Analytics and Healthcare Applications, Taylor and Francis, 2022, pp. 39-64.
+Professional Activities
+Reviewer
+Multimedia Tools and Applications
+Research Interests
+Machine Learning
+Deep Learning
+Medical Image Processing
