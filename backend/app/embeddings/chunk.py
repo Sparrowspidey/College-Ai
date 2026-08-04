@@ -1,106 +1,164 @@
 import os
+import re
 import pickle
-import PyPDF2
 
-chunks_with_metadata = []
 
-# ---------- CUSTOM CHUNK FUNCTION ----------
+# ---------- CONFIGURATION ----------
+CHUNK_SIZE  = 1200   # characters (~200 words) — enough context for RAG answers
+OVERLAP     = 200    # characters (~17%) — ensures continuity across boundaries
 
-def chunk_text(text, chunk_size=500, overlap=50):
 
+# ---------- SMART CHUNK FUNCTION ----------
+def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = OVERLAP) -> list[str]:
+    """
+    Split text into overlapping chunks that respect word boundaries.
+    Never cuts in the middle of a word.
+    """
     chunks = []
-
-    start = 0
+    start  = 0
+    text   = text.strip()
 
     while start < len(text):
-
         end = start + chunk_size
 
-        chunk = text[start:end]
+        if end < len(text):
+            # Walk back to the nearest word boundary (space/newline)
+            boundary = text.rfind(" ", start, end)
+            if boundary == -1:
+                boundary = text.rfind("\n", start, end)
+            if boundary != -1:
+                end = boundary
 
-        chunks.append(chunk)
+        chunk = text[start:end].strip()
+        if chunk:
+            chunks.append(chunk)
 
         start += chunk_size - overlap
 
     return chunks
 
-# ---------- BASE DIRECTORY ----------
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# ---------- EXTRACT URL FROM WEBSITE TXT ----------
+def extract_url_and_text(raw: str) -> tuple[str, str]:
+    """
+    Website txt files start with 'URL: https://...'
+    Extract URL as separate metadata and return clean content.
+    """
+    url  = ""
+    lines = raw.splitlines()
 
-# ---------- UPDATED PATHS ----------
+    if lines and lines[0].startswith("URL:"):
+        url = lines[0].replace("URL:", "").strip()
+        content = "\n".join(lines[2:]).strip()   # skip URL line + blank line
+    else:
+        content = raw.strip()
 
-PDF_FOLDER = os.path.join(BASE_DIR, "..", "..", "data", "raw", "pdf")
+    return url, content
 
-TEXT_FOLDER = os.path.join(BASE_DIR, "..", "..", "data", "raw", "website")
+
+# ---------- BASE DIRECTORY & PATHS ----------
+BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
+PDF_FOLDER      = os.path.join(BASE_DIR, "..", "..", "..", "data", "raw", "pdf")
+TEXT_FOLDER     = os.path.join(BASE_DIR, "..", "..", "..", "data", "raw", "website")
+OUTPUT_FOLDER   = os.path.join(BASE_DIR, "..", "..", "..", "data", "processed")
+
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+
+chunks_with_metadata = []
+
 
 # ---------- PROCESS WEBSITE TXT FILES ----------
+print("\n📄 Processing website text files...")
 
-for file in os.listdir(TEXT_FOLDER):
+txt_files = [f for f in os.listdir(TEXT_FOLDER) if f.endswith(".txt")]
+print(f"   Found {len(txt_files)} files")
 
-    if file.endswith(".txt"):
-
-        file_path = os.path.join(TEXT_FOLDER, file)
-
+for file in txt_files:
+    file_path = os.path.join(TEXT_FOLDER, file)
+    try:
         with open(file_path, "r", encoding="utf-8") as f:
+            raw  = f.read()
 
-            text = f.read()
+        url, content = extract_url_and_text(raw)
 
-            chunks = chunk_text(text)
+        if not content.strip():
+            print(f"   ⚠ Skipped (empty): {file}")
+            continue
 
-            for chunk in chunks:
-
-                if chunk.strip():
-
-                    chunks_with_metadata.append({
-                        "text": chunk,
-                        "source": file,
-                        "type": "website"
-                    })
-
-# ---------- PROCESS PDF FILES ----------
-
-for file in os.listdir(PDF_FOLDER):
-
-    if file.endswith(".pdf"):
-
-        file_path = os.path.join(PDF_FOLDER, file)
-
-        text = ""
-
-        with open(file_path, "rb") as f:
-
-            reader = PyPDF2.PdfReader(f)
-
-            for page in reader.pages:
-
-                extracted_text = page.extract_text()
-
-                if extracted_text:
-                    text += extracted_text
-
-        chunks = chunk_text(text)
-
-        for chunk in chunks:
-
+        chunks = chunk_text(content)
+        for i, chunk in enumerate(chunks):
             if chunk.strip():
-
                 chunks_with_metadata.append({
-                    "text": chunk,
-                    "source": file,
-                    "type": "pdf"
+                    "text":    chunk,
+                    "source":  file,
+                    "url":     url,
+                    "type":    "website",
+                    "chunk_id": i,
                 })
 
+        print(f"   ✓ {file} → {len(chunks)} chunks")
+
+    except Exception as e:
+        print(f"   ✗ Failed: {file} → {e}")
+
+
+# ---------- PROCESS PDF FILES ----------
+print("\n📑 Processing PDF files...")
+
+# Import pypdf (modern replacement for deprecated PyPDF2)
+try:
+    from pypdf import PdfReader
+    print("   Using pypdf ✓")
+except ImportError:
+    try:
+        from PyPDF2 import PdfReader
+        print("   Using PyPDF2 (consider upgrading to pypdf)")
+    except ImportError:
+        print("   ✗ ERROR: Neither pypdf nor PyPDF2 installed.")
+        print("          Run: pip install pypdf")
+        exit(1)
+
+pdf_files = [f for f in os.listdir(PDF_FOLDER) if f.endswith(".pdf")]
+print(f"   Found {len(pdf_files)} files")
+
+for file in pdf_files:
+    file_path = os.path.join(PDF_FOLDER, file)
+    try:
+        text = ""
+        with open(file_path, "rb") as f:
+            reader = PdfReader(f)
+            for page in reader.pages:
+                extracted = page.extract_text()
+                if extracted:
+                    text += extracted + "\n"
+
+        if not text.strip():
+            print(f"   ⚠ Skipped (no extractable text — may be scanned): {file}")
+            continue
+
+        chunks = chunk_text(text)
+        for i, chunk in enumerate(chunks):
+            if chunk.strip():
+                chunks_with_metadata.append({
+                    "text":    chunk,
+                    "source":  file,
+                    "url":     "",
+                    "type":    "pdf",
+                    "chunk_id": i,
+                })
+
+        print(f"   ✓ {file} → {len(chunks)} chunks")
+
+    except Exception as e:
+        print(f"   ✗ Failed: {file} → {e}")
+
+
 # ---------- SAVE OUTPUT ----------
-
-output_path = os.path.join(BASE_DIR, "chunks_with_metadata.pkl")
-
+output_path = os.path.join(OUTPUT_FOLDER, "chunks_with_metadata.pkl")
 with open(output_path, "wb") as f:
-
     pickle.dump(chunks_with_metadata, f)
 
-# ---------- DONE ----------
-
-print(f"Total chunks created: {len(chunks_with_metadata)}")
-
-print("Chunking completed successfully")
+print(f"\n✅ Chunking complete!")
+print(f"   Total chunks : {len(chunks_with_metadata)}")
+print(f"   Output saved : {output_path}")
