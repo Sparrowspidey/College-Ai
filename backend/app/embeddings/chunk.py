@@ -3,6 +3,7 @@ import re
 import pickle
 
 
+
 # ---------- CONFIGURATION ----------
 CHUNK_SIZE  = 1200   # characters (~200 words) — enough context for RAG answers
 OVERLAP     = 200    # characters (~17%) — ensures continuity across boundaries
@@ -111,13 +112,9 @@ try:
     from pypdf import PdfReader
     print("   Using pypdf ✓")
 except ImportError:
-    try:
-        from PyPDF2 import PdfReader
-        print("   Using PyPDF2 (consider upgrading to pypdf)")
-    except ImportError:
-        print("   ✗ ERROR: Neither pypdf nor PyPDF2 installed.")
-        print("          Run: pip install pypdf")
-        exit(1)
+    print("   ✗ ERROR: pypdf is not installed.")
+    print("          Run: pip install pypdf")
+    exit(1)
 
 pdf_files = [f for f in os.listdir(PDF_FOLDER) if f.endswith(".pdf")]
 print(f"   Found {len(pdf_files)} files")
