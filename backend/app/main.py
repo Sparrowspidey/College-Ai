@@ -43,16 +43,16 @@ resources: dict = {
 # ── Startup / Shutdown ────────────────────────────────────────────────────
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    print("\n🚀 College-AI API starting up...")
+    print("\n College-AI API starting up...")
 
     try:
         if not FAISS_INDEX_PATH.exists():
-            print(f"❌ FAISS index not found: {FAISS_INDEX_PATH}")
+            print(f" FAISS index not found: {FAISS_INDEX_PATH}")
             print("   Run build_index.py first.")
             sys.exit(1)
 
         if not CHUNKS_PATH.exists():
-            print(f"❌ Chunks file not found: {CHUNKS_PATH}")
+            print(f" Chunks file not found: {CHUNKS_PATH}")
             print("   Run build_index.py first.")
             sys.exit(1)
 
@@ -60,23 +60,23 @@ async def lifespan(app: FastAPI):
 
         with open(CHUNKS_PATH, "rb") as f:
             resources["chunks"] = pickle.load(f)
-        print(f"   ✓ Chunks loaded       ({len(resources['chunks']):,} chunks)")
+        print(f"    Chunks loaded       ({len(resources['chunks']):,} chunks)")
 
         # Trigger embedding model load
         from app.embeddings.embedder import get_model
         get_model()
-        print(f"   ✓ Embedding model     ({EMBEDDING_MODEL})")
+        print(f"    Embedding model     ({EMBEDDING_MODEL})")
 
         resources["ready"] = True
-        print("\n✅ College-AI API is ready!\n")
+        print("\n College-AI API is ready!\n")
 
     except Exception as e:
-        print(f"❌ Startup failed: {e}")
+        print(f" Startup failed: {e}")
         sys.exit(1)
 
     yield
 
-    print("\n👋 College-AI API shutting down...")
+    print("\n College-AI API shutting down...")
 
 
 # ── FastAPI app ───────────────────────────────────────────────────────────
