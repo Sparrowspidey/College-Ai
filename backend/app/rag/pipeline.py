@@ -1,64 +1,80 @@
 """
-RAG PIPELINE ORCHESTRATOR
-(This file controls the flow of the RAG system)
+rag/pipeline.py
+===============
+RAG Pipeline Orchestrator
+
+Connects all modules into one clean pipeline:
+    Question → Embed → Search → Map → Generate → Answer
+
+This is the core brain of College-AI.
 """
 
-from typing import List
+import faiss
 
-from .search_engine import search
-from .mapper import map_indices_to_text
+from app.config.config import TOP_K_RESULTS, SIMILARITY_THRESHOLD
+from app.vectorstore.search_engine import search_with_threshold
+from app.vectorstore.mapper import map_indices_to_chunks
+from app.llm.ollama_client import generate_answer
 
-SIMILARITY_THRESHOLD = 0.60
-
-def generate_answer(query: str, context_chunks: List[str]) -> str:
-    """
-    Placeholder function for LLM response generation.
-
-    The chatbot should respond only using retrieved
-    college knowledge base context.
-    """
-
-    if not context_chunks:
-        return "No relevant information found in the college knowledge base."
-
-    return "Generation module not integrated yet."
 
 def run_rag_pipeline(
     query: str,
-    index,
-    chunks: List[str]
+    index: faiss.IndexFlatIP,
+    chunks: list[dict],
+    k: int = TOP_K_RESULTS,
 ) -> dict:
     """
-    Executes the high-level RAG pipeline.
+    Execute the full RAG pipeline for a student query.
 
     Flow:
-    Query
-      -> Vector Search
-      -> Similarity Validation
-      -> Context Mapping
-      -> Response Generation
+        Query
+          → Embed query to vector
+          → Search FAISS for top-k similar chunks
+          → Filter by similarity threshold
+          → Map indices to chunk text
+          → Send context + query to Mistral (Ollama)
+          → Return answer + sources
+
+    Args:
+        query:  The student's question.
+        index:  Loaded FAISS index.
+        chunks: Full list of chunk dicts from pickle.
+        k:      Number of chunks to retrieve.
+
+    Returns:
+        Dict with keys: query, answer, context, scores.
     """
 
-    # Step 1 — Retrieve similar chunk indexes and scores
-    indices, scores = search(query, index)
+    # Step 1 — Retrieve relevant chunk indices and scores
+    indices, scores = search_with_threshold(
+        query=query,
+        index=index,
+        k=k,
+        threshold=SIMILARITY_THRESHOLD,
+    )
 
-    # Step 2 — Prevent hallucination using similarity threshold
-    if not scores or scores[0] < SIMILARITY_THRESHOLD:
+    # Step 2 — If nothing relevant found, return early
+    if not indices:
         return {
-            "query": query,
+            "query":   query,
+            "answer":  "I couldn't find relevant information about that in the IIIT Kottayam knowledge base.",
             "context": [],
-            "answer": "No relevant information found in the college Database."
+            "scores":  [],
         }
 
-    # Step 3 — Convert indexes into actual text chunks
-    context_chunks = map_indices_to_text(indices, chunks)
+    # Step 3 — Map indices to actual chunk dicts
+    context_chunks = map_indices_to_chunks(indices, chunks)
 
-    # Step 4 — Generate response
+    # Attach scores to chunks for source display
+    for chunk, score in zip(context_chunks, scores):
+        chunk["score"] = round(score, 4)
+
+    # Step 4 — Generate answer via Ollama/Mistral
     answer = generate_answer(query, context_chunks)
 
     return {
-        "query": query,
+        "query":   query,
+        "answer":  answer,
         "context": context_chunks,
-        "scores": scores,
-        "answer": answer
+        "scores":  scores,
     }
