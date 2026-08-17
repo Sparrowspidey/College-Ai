@@ -1,52 +1,110 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/suchithra
 
-Dr.Goutam Mali | IIIT Kottayam
+Dr. Suchithra M S | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr.Goutam Mali
+Dr. SUCHITHRA M S
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: goutam
+Email: suchithra
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202214
+Hello at: 00 91  04822202169
 Honours and Achievements :
-Fellowship for Research Project by Department of Information Technology, Government of India
-Fellowship for M.E. study by Ministry of Human Resource Development, Government of India
-Qualified in Graduate Aptitude Test in Engineering (GATE) Examination 2007 and 2008 in Computer Science
+Received the "Highest Committed Student Branch Activist Award" under CSI Academic Award at the CSI Annual Convention 2020
+Received "Student with maximum publishing in CSI Publications Award" in recognition of significant contribution to the CSI activities under CSI Academic Award at the CSI Annual Convention 2020.
 Education :
-Ph.D., Department of Computer Science and Engineering, Thesis titled: "Cooperation-Aided Distributed Topology Management and Resource Allocation in Wireless Multimedia Sensor Networks", Indian Institute of Technology Kharagpur, 2017.
-M.E., Department of Information Technology, Indian Institute of Engineering Science and Technology Shibpur, 2010
-B.E., Computer Science and Engineering, Jalpaiguri Government Engineering College, University of North Bengal, 2004
-Experience:
-Assistant Professor, School of Computer Science & Engineering, XIM University Bhubaneswar, June 2017 to September 2022.
-Ad Hoc Faculty, Indian Institute of Information Technology Ranchi, July 2016 to May 2017.
-Programme Facilitator, Post Graduate Diploma in Information Technology, School of Information Technology, Indian Institute of Technology Kharagpur, July 2006 to July 2008.
-Visiting Lecturer, Jalpaiguri Government Engineering College, West Bengal, August 2005 to May 2006
+Ph.D, Computer Science, Thesis titled: " Machine learning based recommendation system to rank agricultural crops for agro-ecological units ", Amrita Vishwa Vidyapeetham University,2021 (Thesis Submitted).
+M.E., Computer Science and Engineering, Anna University, Chennai, 2013
+B.Tech., Computer Science and Engineering, MG University, 2010
+Invited Talk/Sessions :
+Resource person for FDP and workshop on Advanced Computer Vision for Image & Video Analysis and Applications held during 23-27 June 2025 in Offline mode at IIIT Kottayam.
+Resource Person for a Refresher Course on “AI & Open Research Tools for Advancing Environmental Sustainability on 2nd May, 2025 at St. Joseph’s College (Autonomous), Irinjalakuda, in collaboration with the UGC-Malaviya Mission Teacher Training Programme (UGC-MMTTP), Ramanujan College, University of Delhi.
+Online sessions for the AICTE Training and Learning (ATAL) Academy-sponsored Faculty Development Program (FDP) on Next-Gen AI: Innovations in Machine Learning, Deep Learning, and Generative Models on 14th & 15th January 2025, organized by St. Joseph’s College of Engineering and Technology (SJCET), Palai.
+Offline session for the national conference on Computer Science and Commerce on 30th January 2025 organized by Kottayam Cluster College of Applied Science managed by IHRD, Govt of Kerala and hosted by College of Applied Science Kaduthuruthy.
+Talk on “Predictive Analytics” in Agriculture in the National Workshop on Market intelligence, Predictive Analytics and digital innovations on 3-4 October 2024 in Thiruvananthapuram organized by Kerala State Agricultural Prices Board.
+Guest Speaker of the Computer Science and Engineering Department Association Inauguration (VOICE) on 28th October 2024 at Viswajyothi College of Engineering and Technology, Vazhakulam.
+Resource person for ATAL Faculty Development Program (FDP) on "Exploring Explainable and Generative AI in Contemporary Machine Learning," held from January 15th to 20th, 2024, at Adi Shankara Institute of Engineering and Technology, Kalady
+Resource person for FDP and workshop on Advanced Computer Vision for Image & Video Analysis and Applications held during 17-21 June 2024 in Offline mode at IIIT Kottayam.
+Invited talk on “Future IT Trends” on 27/03/2024 organized by Career guidance and adolescent counselling cell (CG&AC) under the General education department, Kerala.
+Guest Speaker for a seminar on “Scope of IT” in association with Pathanamthitta District Career Guidance Cell on 5th January 2024 at Government Boys HSS, Adoor.
+Speaker for HCL TechBee orientation on Jan 11th 2024
+Guest speaker for a summer training programme (Expedia 2024) for Higher Secondary School students during April 8 & 9, 2024 organized by alphona College, Pala.
+Invited Speaker for an orientation session for our first-year degree students of Alphonsa College, Pala on Wednesday, 10th July 2024, at 11:30 am.
+Speaker for the INSPIRE Internship Science Camp sponsored by the Department of Science and Technology, Government of India, from 23rd to 27th September 2024 organized by Mar Augusthinose College, Ramapuram.
+Speaker for Webinar - Upskilling TechBees with IIIT Kottayam on 28 March 2024
+Invited resource person for seminar series on the topic “Machine Learning and basics of Deep learning” on 13-10-2023 organized by the Department of Mathematics, Amrita School of Arts and Sciences, Kochi.
+Invited resource person for Manorama Horizon on the topic “Artificial Neural Network (ANN): The gateway to Artificial Intelligence” from 20th March 2023 to 22nd March 2023.
+Invited resource person for FDP on Deep Learning: Models and use cases using Python Organized by Electronics & ICT Academy, NIT Warangal in association with Indian Institute of Information Technology, Kottayam Sponsored by Ministry of Electronics and Information Technology (MeitY), GOI. 12 -12 -2022 to 21-12 2022.
+Invited resource person for KTU sponsored 5-day Faculty Development Programme (FDP) on "ML and DL applications in Computer Vision” from 30th  January to 3rd February 2023 hosted by the Department of Electronics and Communication Engineering, Adi Shankara Institute of Engineering and Technology, Kalady, Kerala, India.
+Invited Speaker for National Conference on Artificial Intelligence and Cognitive Computing (NCAICC- 22), held during 29 - 30, June 2022 in Hybrid Mode at Federal Institute of Science and Technology, India.
+Invited Speaker for the inauguration of  computer science association "ACER" on 2nd August 2023 at St Joseph's college, Irinjalakuda
 Publications
 Journals
-G. Mali and S. Misra, “Topology Management-Based Distributed Camera Actuation in Wireless Multimedia Sensor Networks,” ACM Transactions on Autonomous and Adaptive Systems, vol. 12, no. 1, article no. 2, 2017.
-G. Mali and S. Misra, “TRAST: Trust-Based Distributed Topology Management for Wireless Multimedia Sensor Networks,” IEEE Transactions on Computers, vol. 65, no. 6, pp. 1978–1991, 2016.
-S. Misra, G. Mali, and A. Mondal, “Distributed Topology Management for Wireless Multimedia Sensor Networks: Exploiting Connectivity and Cooperation,” International Journal of Communication Systems (Wiley), vol. 28, no. 7, pp. 1367–1386, 2015.
+Sebastian, Merin, M. S. Suchithra, and Chippy Maria Antony. "Apple Leaf Disease Detection: Machine Learning & Deep Learning Techniques." 2023 Intelligent Computing and Control for Engineering and Business Systems (ICCEBS). IEEE, 2023
+Shiffa, T. S., M. S. Suchithra, and Aiswarya Vijayakumar. "Potato Leaf Diseases Detection Using Machine Learning And Deep Learning." 2023 Intelligent Computing and Control for Engineering and Business Systems (ICCEBS). IEEE, 2023
+KD, Divya Dileep, M. S. Suchithra, and Chippy Maria Antony. "Corn Leaf Disease Detection: Leveraging Machine Learning and Deep Learning Models on Grayscale Images." 2023 Intelligent Computing and Control for Engineering and Business Systems (ICCEBS). IEEE, 2023.
+Suchithra M.S and Maya L Pai., "Improving the prediction accuracy of soil nutrient classification by optimizing extreme learning machine parameters", Information Processing in Agriculture, Elsevier 7, 72– 82, 2019.
+Suchithra, Marathezhath Subramanian, and Maya L. Pai. "Evaluating the performance of bagging-based k-nearest neighbor ensemble with the voting rule selection method." Multimedia Tools and Applications (2022): 1-22.
+Suchithra, M. S., & Pai, M. L. (2021). Label ranking‐based recommendation system to rank crops for agroecological units. Concurrency and Computation: Practice and Experience, e6695. Wiley.
+Suchithra M.S and Maya L Pai., "Analysis of soil parameters for proper fertilizer recommendation to increase the productivity of paddy field cultivation", International Journal of advanced science and technology, Volume 29, No.3, 4681– 4696, 2020.
+Suchithra M.S, Maya L Pai and U Krishnakumar., "Fuzzy Cognitive Maps: Applicability Towards Agricultural System", International Journal of Trend in Research and Development, Volume 4(4), 299-302, ISSN: 2394-9333, July-Aug 2017.
+Suchithra M.S and Maya L Pai., "Machine Learning in Advanced Python", CSI Communications, 11-14, December 2017.
+Suchithra M.S and Maya L Pai., "Impact of Deep Neural Network on Predicting Application Rate of Fertilizers (Focus on Coconut Trees of Kerala Northern Coastal Plain Agro Ecological Unit)", International Journal of Pure and Applied Mathematics, Volume 119 No. 10, 451-466, 2018.
+Suchithra M.S and Maya L Pai., "Improving the Performance of Sigmoid Kernels in Multiclass SVM Using Optimization Techniques for Agricultural Fertilizer Recommendation System", ICSCS, Communications in Computer and Information Science, Springer, 837, pp. 857–868, 2018.
+Published a paper titled “Recoverable Concealed Data Aggregation Using Shared Key Signature in Wireless Sensor Networks” in International Journal of Advanced Computational Engineering and Networking, ISSN (p): 2320-2106, Volume – 1, Issue– 1, March-2013.
+Books and Book chapters published:
+Shukoor, H., Suchithra, M.S., Sahoo, J. (2024). Automation in Natural Rubber Latex Harvesting Field: A Review. In: Gopi, E.S., Maheswaran, P. (eds) Proceedings of the International Conference on Machine Learning, Deep Learning and Computational Intelligence for Wireless Communication. MDCWC 2023. Signals and Communication Technology. Springer, Cham. https://doi.org/10.1007/978-3- 031-47942-7_42 eBook ISBN:978-3-031-47942-7 eBook titled "Proceedings of the International Conference on Machine Learning, Deep Learning, and Computational Intelligence for Wireless Communication" has been published in Springer on 22-04-2024
+Thennal D K, Ganesh Nathan, and Suchithra M S. 2024. Fisher Mask Nodes for Language Model Merging. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 7349–7355, Torino, Italia. ELRA and ICCL.
 Conferences
-G. Mali, S. Das, H. Rahaman, and C. Giri, “Non-preemptive test scheduling for Network-on-Chip (NoC) based systems by reusing NoC as TAM,” In IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 268-271, 2010.
+Kunjumon, C., Mutharia, A., Shareef, S., & Suchithra, M. S. (2023, May). Implementing a land registration system using non-fungible tokens to represent land in the system and side-chain for data storage. In 2023 International Conference on Control, Communication and Computing (ICCC) (pp. 1-5). IEEE.
+Suchithra M.S and Maya L Pai., "Data Mining based Geospatial Clustering for Suitable Recommendation system", Proceedings of the Fifth International Conference on Inventive Computation Technologies (ICICT-2020), IEEE Xplore Part Number: CFP20F70-ART; ISBN:978-1-7281-4685-0, 2020.
+Research/Academic Partnerships and International Collaborations
+External Doctoral Review Committee member fo PhD Scholars of Basaveshwar Engineering College, Bagalkot Karnataka.
+Research advisory committee member of Visvesvaraya Technological University (VTU)
+Board of Studies Member for Computer Science Department of St. Joseph’s College (Autonomous) Irinjalakuda
+Board of studies member for Artificial Intelligence and Data Science Programme at St.Joseph’s College of Engineering and Technology, Palai
+Consultancy R&D Project with aiRENDER TECHNOLOGY PRIVATE LIMITED, BANGALORE
+Consultancy Project with Manorama Horizon
+E-learning Collaboration with Trycle
+Certification Programme in association with Vedhik Academy
+AICTE QIP-PG Certification on AI and Data Science
+Funded Projects (National/International)
+A project titled "Development of EnhAnced electRonic Aural Instillation Device (EAR-AID)- A comprehensive instrument for Karnapurana" is sanctioned under Central Council for Research in Ayurvedic Sciences (CCRAS) with the total cost of 66 Lakhs.
+Professional Recognition/ Award/ Prize/ Certificate
+Best Paper Award: Sebastian, Merin, M. S. Suchithra, and Chippy Maria Antony. "Apple Leaf Disease Detection: Machine Learning & Deep Learning Techniques." 2023 Intelligent Computing and Control for Engineering and Business Systems (ICCEBS). IEEE, 2023
 Professional Activities
 Reviewer:
-IEEE Transactions on Circuits and Systems for Video Technology
-IEEE Sensors Journal
-IEEE Systems Journal
-International Journal of Communication Networks and Distributed Systems (Inderscience)
-KSII Transactions on Internet and Information Systems
-Mobile Information Systems (Hindawi)
-Technical Program Committee (TPC) members:
-In 2022: International Symposium on Artificial Intelligence (ISAI), IEEE International Conference on Communications (ICC): SAC E-Health Track 2022
-In 2021: Advanced Information Networking and Applications (AINA) 2021, IEEE International Conference on Communications (ICC): SAC E-Health Track 2021
-In 2020: AINA 2020
-In 2019: AINA 2019, International Conference on Advanced Computing and Intelligent Engineering (ICACIE) 2019
-In 2018: ACMWorkshop on Future Industrial Communication Networks (FICN) in conjunction with ACM MobiCom 2018, AINA 2018, ICACIE 2018
-In 2017: Intelligent, Secure and Dependable Systems in Distributed and Cloud Environments (ISDDC) 2017, ICACIE 2017, Track co-chair for the track "Internet of Things and Big Data" in Network-Based Information System (NbiS) 2017
+Reviewer for Journal “Engineering Applications of Artificial Intelligence”
+Reviewer for Second IEEE International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE'24) organized by the School of Computer Science Engineering and Information Systems(SCORE) in collaboration with IEEE and ACM, Vellore Institute of Technology will take place on February 22– 23, 2024.
+Reviewer for 2024 Second International Conference on Emerging Trends in Information Technology and Engineering (ICETITE).
+Reviewer for 10th International Conference on Pattern Recognition and Machine Intelligence (PReMI’23) held at Indian Statistical Institute Kolkata during 12-15 December 2023.
+Reviewer for International Conference on Innovative Trends in Information Technology 2024.
+Reviewer for INDICON-2023: 20th India Council International Conference, National Institute of Technology Warangal, Hanamakonda, India, December 14-17, 2023
+Reviewer for 9th International Conference on Data Management, Analytics & Innovation, Kolkata, India | Date: 17-19 January,2025
+Reviewer of 8th International Conference on Data Management, Analytics and Innovation (ICDMAI 2024) held in VIT, Vellore, India during 19-21 January 2024.
+Reviewer for Recent Advances in Intelligent Computational Systems - RAICS2024
+International journal of Sustainable Agricultural Management and Informatics, Scopus indexed (Q4), Inderscience publishers
+International Journal of Electrical and Computer Engineering (IJECE), Scopus indexed (Q2).
+Concurrency and Computation: Practice and Experience, Scopus indexed (Q2), John Wiley & Sons Ltd.
+Indonesian Journal of Electrical Engineering and Informatics (IJEEI), Scopus indexed (Q4)
+Neural Processing Letters, Scopus indexed (Q2), Springer Nature
+Agronomy Research, Scopus indexed (Q3)
+Events Organized	 :
+Funded FDP on Deep Learning: Models and use cases using Python Organized by Electronics & ICT Academy, NIT Warangal in association with Indian Institute of Information Technology, Kottayam Sponsored by Ministry of Electronics and Information Technology (MeitY), GOI.  12 -12 -2022 to 21-12 2022
+Organized Training Program on Data Science using Python at IIIT Kottayam on 1 July 2024 - 5 July 2024 (Offline)
+Organized Training Program on Data Science Essentials: Python Powered Learning at IIIT Kottayam on 23 June 2025 - 27 June 2025 (Offline).
+Two Weeks offline Certification Course on AI with specialization in Reinforcement Learning supported by MathWorks from 03 July 2023 to 14 July 2023.
+4-day offline "Training School on Machine Learning Using Python from 30 October 2023 to 02 November 2023.
+Webinar "Fair AI: Where AI meets Politics”. 13-10-2022. Speaker: Dr. Deepak Padmanabhan, Associate Professor, Queen's University, Belfast, UK
+Webinar " Visualization: Decoding Performance using Microsoft Power BI”. 16-05-2023. Speaker: Mr. Amit Jain, Data Engineer, National Australian Bank
+Session Chairs:
+Honorary Chair for 3rd International Conference on Advanced Communication and Intelligent Systems (ICACIS-2024), a SCOPUS indexed event jointly organized by Jawaharlal Nehru University (JNU), New Delhi, and Warsaw Management University, Poland on May 16–17, 2024.
+Session Co-Chair for 5th International Conference on Innovative Trends in Information Technology (ICITIIT24).
 Research Interests :
-Internet of Things
-Security and Privacy
-Blockchain in IoT
-Machine Learning for data transportation
+Data Mining
+Machine Learning
+Deep Learning
+Soft Computing
+Computer Vision
+AI in Agriculture

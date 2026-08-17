@@ -1,98 +1,74 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/riyasudheen
 
-Dr.Vineeth Palliyembil| IIIT Kottayam
+Dr. Riyasudheen T K| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr.Vineeth Palliyembil
+Dr. Riyasudheen TK
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email:vineeth
+Email: riyasudheen
 iiitkottayam
 ac.in
-Hello at: +91 (0) 482-2202274
-Honours and Achievements
-Received the Ministry of Electronics and IT (MEITY) Visvesvaraya PhD Fellowship at NIT Trichy.
-Secured rank of 1331 in GATE 2013.
-Secured all India rank of 1559 in AIEEE 2008.
-Work Experience
-Worked as Assistant Professor at Dept. Of Communication Engineering, School of Electronics, VIT Vellore from June 2023 to December 2023.
-Worked as Assistant Professor at Dept. Of ECE, Amrita School of Engineering Coimbatore, Amrita Vishwa Vidyapeetham from July 2019 to June 2023.
-Education :
-Ph. D, Electronics and Communication Engineering, Thesis titled: " Performance Analysis and Improvement of Free Space Optical Communication Systems over the generalized turbulence channel with pointing errors ", National Institute of Technology Tiruchirappalli, 2020.
-M.Tech., Communication Systems, ECE Dept., National Institute of Technology Tiruchirappalli, 2015.
-B.Tech., Electronics and Communication Engineering, National Institute of Technology Calicut, 2012.
-Invited Talk/Sessions
-Delivered online talk on free space optical communication systems during the MMTTC Sponsored 12-day Refresher Course on Wireless Communication conducted by Department of ECE, IIITDM Kancheepuram.
-Served as Course Instructor for the Certificate Course on Photonics & Optical Communica-tion: Emerging Trends and Future Prospects conducted by the Research Cell, Department of Electronics and Communication Engineering at Adi Shankara Institute of Engineering and Technology.
-Delivered invited talk for the AICTE-sponsored Faculty Development Program (FDP) titled "Advancing Green Communication: Research Perspectives in Sustainable Optical Wireless Technology", conducted by Department of ECE, SSM Institute of Engineering and Tech-nology, Dindigul.
-Delivered a guest lecture on the topic of “Optical Wireless Communication” for the online FDP on “Next Generation Wireless Communication System Design and Simulation”¬ orga-nized by the Faculty Development Training Centre, Government College of Technology, Co-imbatore in association with Department of Electronics and Communication Engineering, Government Polytechnic College, Srirangam, Trichy.
-Served as an invited speaker during Faculty Development Programme on “Research Trends in VLSI, Communications & Signal Processing”, organized by Department of Electronics and Communication Engineering, Bapatla Women’s Engineering College, Bapatla, Andhra Pradesh.
+Hello at: 00 91  04822202256
+Honours and Achievements :
+Joint CSIR-UGC SRF (Senior Research Fellowship) for Doctoral Research from August 2019 to July 2022.
+Joint CSIR-UGC JRF (Junior Research Fellowship) for Doctoral Research from July 2017 to July 2019.
+Joint CSIR-UGC NET (National Eligibility Test) in Mathematical Sciences, June 2016.
+Education
+Ph.D, Department of Mathematics, National Institute of Technology Calicut (NITC), Thesis titled: "Eloquent Numerical Strategies for Option Pricing Models Under Asset-Price Dynamics" , 2023.
+M.Sc. Mathematics, Farook College Calicut, University of Calicut, 2015.
+B.Sc. Mathematics, MES Kalladi College Mannarkkad, Palakkad, University of Calicut, 2013.
 Publications
-Journals  :
-Palliyembil, V., Jagadeesh, V.K., Sudheesh, P.G. et al. “Selection combining hybrid FSO/RF system for the performance improvement of HAP to ground communication systems”, Journal of Optics, Springer Nature, 2025.
-https://doi.org/10.1007/s12596-025-02783-8
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Performance Analysis of RF-FSO Communication Systems Over the Malaga distribution channel with Pointing error”, Optik-International Journal for Light and Electron Optics, Elsevier, Volume 247, 2021, 167891, ISSN 0030-4026.
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Asymptotic bit error rate analysis of free space optical systems using spatial diversity”, Optics Communications, Elsevier, 427, 617-621, 2018.
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidamdaranathan, Theodoros A Tsiftsis, “Capacity and outage probability analysis of asymmetric dual-hop RF–FSO communication systems”, IET Communications, 12, 1979-1983, 2018.
-Jagadeesh Vellakudiyan, Vineeth Palliyembil, Imran Shafique Ansari, P Muthuchidambaranathan, Khalid A Qaraqe, “Performance analysis of the decode-andforward relay-based RF-FSO communication system in the presence of pointing errors”, IET Signal Processing, 13, 480-485, 2019.
-VK Jagadeesh, Vineeth Palliyembil, P Muthuchidambaranathan, Francis M Bui, “Free space optical communication using subcarrier intensity modulation through generalized turbulence channel with pointing error”, Microwave and Optical Technology Letters, Wiley, 57, 1958-1961, 2015.
-Jagadeesh Vellakudiyan, Imran Shafique Ansari, Vineeth Palliyembil, Palanivel Muthuchidambaranathan, Khalid A Qaraqe, “Channel capacity analysis of a mixed dual-hop radio-frequency–free space optical transmission system with Málaga distribution”, IET Communications, 10, 2119-2124,2016.
-Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, Francis Minhthang Bui, Vineeth Palliyembil, “Performance of a subcarrier intensity modulated differential phaseshift keying over generalized turbulence channel”, AEU-International Journal of Electronics and Communications, Elsevier, 68, 1569-1573, 2015.
-List of Conference Proceedings:
-J. V K, V. Palliyembil, S. Rao V. and S. P G, "Performance Analysis of MIMO FSO Communication system over $\mathcal{M}$-distributed Fading Channel," 2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON), Phuket, Thailand, 2023, pp. 268-272, doi: 10.1109/ECTIDAMTNCON57770.2023.10139545.
-V. Palliyembil, K. Prabu, V. K. Jagadeesh, P. Muthuchidamdaranathan and S. Ekpo, "Performance analysis of FSOC system over generalized turbulence channel with pointing errors using PolSK signalling technique," 2021 4th Biennial International Conference on Nascent Technologies in Engineering (ICNTE), 2021, pp. 1-5, doi: 10.1109/ICNTE51185.2021.9487708.
-B. Sukanya and V. Palliyembil, "Performance Improvement of Indoor Lifi Mobile Users with Random Orientation Using Hybrid Lifi and Wifi Networks (HLWNets)," 2021 Sixth International Conference on Wireless Communications, Signal Processing and Networking(WiSPNET), 2021, pp. 390-394, doi: 10.1109/WiSPNET51692.2021.9419442.
-J. Anandpushparaj, V. Palliyembil, L. G. Nadiminti, M. Magarini and P.Muthuchidambaranathan, "Performance Analysis of UAV Cellular Communications," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 370-373, doi: 10.1109/IMICPW.2019.8933212.
-V. Palliyembil, V. K. Jagadeesh and P. Muthuchidamdaranathan, "Analysis of Free Space Optical DPSK-SIM Based Communication System over Málaga Distributed Channel with Misalignment Fading," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 283-287, doi:10.1109/IMICPW.2019.8933269.
-Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relay Assisted Mixed Dual-Hop RF-FSO Systems with Pointing Errors. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_2.
-V. K. Jagadeesh, V. Palliyembil, P. Muthuchidambaranathan and F. M. Bui, "Channel capacity and outage probability analysis of sub carrier intensity modulated BPSK system over Mdistribution free space optical channel," 2015 2nd International Conference on Electronics and Communication Systems (ICECS), 2015, pp. 1051-1054, doi:10.1109/ECS.2015.7124740.
-Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relaying FSO System over M-Distributed Turbulent Channel with Variable Gain AF Protocol. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_1.
-Book Chapters:
-V. Palliyembil and E. G. Anagha, "AI in optics and photonics," in Advances in All-optical Communication, IOP Publishing, 2024, pp. 7-1–7-21, doi: 10.1088/978-0-7503-5623-7ch7.
-Professional Activities
-Organized the Five Days FDP cum Hands-on Workshop on Wireless Communication Technologies for Beyond 5G Systems at IIIT Kottayam during 24 - 28 June, 2024.
-Worked on the DST-India funded Indo-Italian collaborative project on
-“Networked air-borne systems for disaster management”
-and visited Politechnico di Milano, Italy to carry out research collaboration during October, 2018.
-Served as a Board of Studies member for the Revision and Development of the Syllabus and curriculum for the Post Graduate program of Communication Systems at Amrita Vishwa Vidyapeetham University.
-Organized a webinar titled “Machine Learning for Communication Systems” at Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham on May 15th 2021.
-Reviewer:
-•	Served as a reviewer for
-Journal of Selected areas in communication, IEEE
-Journal of Optics Communications, Elsevier
-ICT Express, Elsevier
-Optical Review, Springer
-Optical and Quantum Electronics, Springer
-Research Interests :
-Free Space Optics
-Visible Light Communication
-Wireless Communication
-Optical Communication
-Photonics
-Machine Learning for communication systems
-Short Term Courses Attended
-Participated in Three Days FDP on Recent trends in Machine/Deep Learning for Computer Vision and Biomedical Applications organized by Academic Staff College in association with School of Electronics Engineering of VIT Vellore from 21-Aug-2023 to 23-Aug-2023.
-Participated in the one-week Faculty Development Programme on
-"EMERGING TECH-NIQUES IN 6G WIRELESS COMMUNICATIONS"
-organized by Department of Elec-tronics and Communication Engineering, SRM INSTITUTE OF SCIENCE AND TECH-NOLOGY, TIRUCHIRAPPALLI CAMPUS, Tamilnadu, India. from 04/01/2023 to 10/01/2023.
-Participated in the SERB sponsored five-day online faculty development program on
-“Recent Trends in Free Space Optics and its Applications (RFA-2021)”
-organized by the De-partment of Electronics and Communication Engineering, National Institute of Technology Karnataka, Surathkal, from 04th to 08th October 2021.
-Participated and successfully completed the 5-day online FDP on the theme
-“Inculcating Universal Human Values in Technical Education”
-organized by All India Council for Technical Education (AICTE) from 22nd November 2021 to 26th November 2021.
-Participated in the TEQIP-III sponsored five-day online faculty development program on
-“Recent Trends in Nanoelectronics and Optoelectronics (RNO – 2020)”
-organized by the Department of Electronics and Communication Engineering, National Institute of Technolo-gy Karnataka, Surathkal, from 12th to 16th October, 2020.
-Participated & completed successfully AICTE Training And Learning (ATAL) Academy Online FDP on
-"Advanced Communication Engineering"
-from 2020-12-7 to 2020-12-11 at Bharati Vidyapeeth College of Engineering, Navi Mumbai.
-"Electrical & Computer Engineering"
-from 2020-11-4 to 2020-11-8 at In-dian Institute of Information Technology Kottayam.
-"Photonics"
-from 2020-10-19 to 2020-10-23 at Govt. Model Engineering College, Ernakulam.
-Participated in online SPARC Sponsored Short Term Course on
-“Non-orthogonal Multiple Access Technology for 5GB”
-conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collaboration with National Research Tomsk Polytechnic University, Russia from 14/06/2021 to 25/06/2021.
-“A New Cooperative Wire-less Strategy: Soft Information Forwarding”
-conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collabora-tion with National Research Tomsk Polytechnic University, Russia from 28/04/2021 to 14/05/2021.
+Journals
+Nizamudheen V, Noufal Asharaf,  Riyasudheen TK, and Shefeeq T (2026). "Modified Cubic B-Spline Based Differential Quadrature Methods for the Generalized Black-Scholes Equation". In: International Journal of Computational Methods (IJCM), WSP. url:
+https://doi.org/10.1142/S0219876226500465
+Nizamudheen V, Riyasudheen TK, Noufal Asharaf, and Shefeeq T (2026). "Modified Cubic B-Spline Based Differential Quadrature Methods for the Time-Fractional Black-Scholes Equation". In: Computational Methods for Differential Equations (CMDE),  pp. 1–21. url:
+https://doi.org/10.22034/cmde.2026.71605.3598
+Riyasudheen TK,  Jisha CR, Jayaram Prakash K, Sumesh Sahadevan (2026). "Physics-informed neural networks with energy constraints for coupled KdV equations: analytical and computational insights into soliton interactions". In: The European Physical Journal Plus 141:98 (1-20). url:
+https://doi.org/10.1140/epjp/s13360-025-07263-3
+Jisha, CR, TK Riyasudheen, and Ritesh Kumar Dubey (2022). “A novel numerical viscosity for fourth order hybrid entropy stable shock capturing schemes for convection diffusion equation”. In: Journal of Computational Physics 470, p.111586. url:
+https://doi.org/10.1016/j.jcp.2022.111586.
+VS, Aswin, Riyasudheen TK, and Ashish Awasthi (2022). “Differential quadrature parallel algorithms for solving systems of convection-diffusion and reaction models”. In: Numerical Algorithms, pp. 1–26. url:
+https://doi.org/10.1007/s11075-022-01416-6.
+Kumari, Neetu, TK Riyasudheen, and Ashish Awasthi (2021). “A Gaussian type radial basis function method to solve Black-Scholes equation”. AIP Conference Proceedings. Vol. 2336. 1. AIP Publishing LLC, p. 030011. url:
+https://doi.org/10.1063/5.0045889
+Riyasudheen TK and Ashish Awasthi (2020). “An accurate solution for the generalized Black-Scholes equations governing option pricing”. In: AIMS Mathematics 5.3, pp. 2226–2243. url:
+https://doi.org/10.3934/math.2020147
+Professional Experience
+Chief Executive Officer (CEO), MathLab Research Private Limited, Ernakulam, Kerala, India, October 2022 - July 2023.
+Guest Lecturer, Department of Mathematics, Farook College, Calicut, Kerala,India, September 2016 - March 2017.
+Lecturer in Mathematics, ISS Arts and Science College, Perinthalmanna, Kerala, India, July 2016 - September 2016.
+Conferences and Workshops
+Delivered a talk on “Getting Started with LaTeX: An Introduction" at CHORDS 2026, International Conference on Computation and Humanities, Indian Institute of Information Technology Kottayam, July13-15, 2026.
+Delivered a talk on “Linear Regression: A Bayesian Approach” at the  Five day National Online Workshop on Machine Learning, Vimala College (Autonomous, Affiliated to the University of Calicut), Thrissur, Kerala,  June 29- July 03, 2026.
+Delivered a talk on “Differential Equations in Robotics” at the  5-day STTP and FDP on "Contemporary Robotics: Innovations, Trends and Practices, Indian Institute of Information Technology Kottayam (IIITK),  May 18-22, 2026.
+Delivered a talk  on “Singular Value Decomposition (SVD) and Applications” at the Five-Day Workshop cum FDP on "Statistics, Machine Learning, and Optimization for Scientific Research", Indian Institute of Information Technology Kottayam (IIITK), June 26-30, 2025.
+Delivered a talk  on “Probabilistic Robotics”  at  Five-day FDP cum Workshop on "Advances in Robotics: Real-Time Control, Applications, and Innovations", Indian Institute of Information Technology Kottayam (IIITK), May 26-30, 2025.
+Delivered a talk  on “Mathematical Finance”  at  VISTA 2024-AICTE-Sponsored Faculty Development Program, Indian Institute of Information Technology Kottayam (IIITK), December 16-20, 2024.
+Delivered a talk  on “Introduction to Differential Quadrature Methods”  at Two-day FDP cum Workshop on Computational Math and AI, Indian Institute of Information Technology Kottayam (IIITK), June 27-28, 2024.
+Delivered a talk on “Introduction to Latex and Creation of a Document Using Latex” at 5-day Crash Course on Latex, Indian Institute of Information Technology Kottayam (IIITK), June 03-07, 2024.
+Delivered a talk on “Differential Quadrature Methods for Convection-Diffusion-Reaction Systems” at RUSA sponsored Two-Day National Workshop on Hands-on Training in Modelling Fluid Flow Problems (HTMF 2.1), Farook College Calicut, Kerala, India, February 23-24, 2024.
+Delivered a talk on “ANN methods for Option Pricing Models” at One week workshop cum FDP on Mathematical Computing, Department of Computational Sciences and Humanities, Indian Institute of Information technology, Kerala, India, December 11-17, 2023.
+Presented a paper on “A Higher Order Parallel Differential Quadrature Algorithm for European Option pricing under Regime Switching Economy” at The International Conference on Computational Sciences-Modeling, Computing and Soft Computing (CSMCS 2020), Department of Mathematics National Institute of Technology, Calicut, Kerala, India, September 7, 2020.
+Presented a paper on “Backward differentiation formulas for Black-Scholes equations governing option pricing” at International Conference on Current Trends in Theoretical and Computational Differential Equations with Applcations, South Asian University, Delhi, India, 21-23 January 2019.
+Presented a paper on “A Concise note on Ramanujan’s Theory of Theta functions”: in National Seminar on Advanced Number theory and Algebra, PTM Government College, Perinthalmanna, Kerala, India, 14- 15 November 2016
+Presented a paper on “Some Transformations Related to Complete Elliptic Integral and Hypergeometric Function”: in a UGC-Sponsored national seminar on Algebra, Number Theory, Discrete Mathematics and their Applications, Farook College, Calicut, Kerala, India, November 26-28, 2014.
+Participant in the Workshop on ‘PDE, Theory and Computation’ (2018), IISc Bangalore, Karnataka, India, 23 July- 04 August 2018
+Participant in One Day Workshop on ‘Mathematics and its engineering applications’, Department of Mathematics, NIT Calicut, Kerala, India, 26 October 2018.
+Participant in the International Conference on ‘Analysis and Applications’: SHK Fest IIT Madras, Tamil Nadu, India, 18-22 June 2018.
+Participant in Advance Workshop on ‘Hyperbolic Conservation Laws and International Conference on Nonlinear Differential Equations: Theory, Modeling and Computations’, SRM University, Chennai, Tamil Nadu, India, 04-07 December2017
+Participant in the National Seminar on ‘Fourier Analysis and its applications’: Organized by Department of Mathematics, P.S.M.O College, Tirurangadi,Malappuram, Kerala, India, February 12-14, 2015
+Participant in the UGC-sponsored Two day National level instructional Workshop on ‘Applications of MATLAB in basic sciences’: Organized by Department of Mathematics, Farook College, Calicut, Kerala, India, July 08-09, 2015
+Technical Skills
+MATLAB
+Mathematica
+Python
+Maple
+Research Interests
+Computational Mathematics
+Mathematical and Computational Finance
+Artificial Neural Network (ANN) methods for PDEs
+Deep learning in Option Pricing Models
+Quantum Computing
+Quantum PDEs
+Sports Analytics

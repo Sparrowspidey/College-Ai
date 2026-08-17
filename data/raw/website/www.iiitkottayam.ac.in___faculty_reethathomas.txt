@@ -1,66 +1,152 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/reethathomas
 
-Dr. Nayana P G| IIIT Kottayam
+Dr. Reetha Thomas| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Nayana P G
+Dr. Reetha Thomas
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: nayanapg
+Email: reethathomas
 iiitkottayam
 ac.in
-Hello at: 04822202364
+Hello at: 04822202365
+Personal Website :
+https://reetha-thomas.github.io/reethathomas.github.io/
 Honours and Achievements :
-Selected and presented a prototype of a
-Developmental Toy for Neurodivergent Children
-in the grand finale of
-Cognify Shaastra
-, organized by
-IIT Madras
-January 2025.
-Member of
-RMS ( Ramanujan Mathematical Society)
-, Member ID: 1464.
-ADMA (Academy of Discrete Mathematics and Applications)
-Qualified the State Eligibility Test (SET) in 2015.
+Postdoctoral Fellow
+from
+Indian Institute of Management Bangalore, 2025
+Awarded the prestigious
+Ramanujan Fellowship by the Isaac Newton Institute (INI)
+to participate in the programme “
+Representing, Calibrating & Leveraging Prediction Uncertainty: From Statistics to Machine Learning
+”at the
+Isaac Newton Institute for Mathematical Sciences, University of Cambridge
+Awarded the
+CSIR Direct Senior Research Fellowship (SRF)
+in 2024.
+First Rank
+in MSc Mathematics at
+Mahatma Gandhi University
+Qualified the
+State Eligibility Test (SET) for Assistant Professor
+in 2018.
+Best Paper Award
+in the
+Applied Mathematics
+track at the IEEE International Conference on
+Technology, Research, and Innovation for Betterment of Society (TRIBES)
 Education
-Ph.D. in Graph Theory and Algorithms, Amrita Vishwa Vidyapeetham, Kochi,India.. Title:
-“Security in Some Interconnection Networks”
-. September 2023
-M.Sc in Pure Mathematics, C.E.T. College of Management, Science and Technology, M G University, Kerala, India, June 2015.
-B.Ed in Mathematics, MGUCTE Tripunithura, M G University, Kerala, India, June 2013.
-B.Sc in Mathematics, Sree Sankara College Kalady, M G University, Kerala, India
+Ph.D Mathematics, Indian Institute of Information Technology Kottayam
+, Thesis titled: "Invariant Analysis and Exact Solutions of Certain Nonlinear Fractional Partial Differential and Differential-Difference Equations",2024.
+M.Phil. Mathematics
+, Bharathiar University Coimbatore, Tamilnadu,” Glucose insulin regulatory model using Runge Kutta and homotopy perturbation methods in fuzzy domain” 2019.
+MSc Mathematics
+, Mahatma Gandhi University Kottayam, 2016.
+BSc Mathematics
+, Mahatma Gandhi University Kottayam, 2014.
+Invited Talk/Sessions :
+May 22, 2025
+Presented the talk "PIGNN-GPR: A Hybrid Machine Learning Framework for Spatio-Temporal PM2.5 Prediction"
+, University of Bath, United Kingdom.
+May 21, 2025
+Delivered an invited seminar on "PIGNN-GPR: A Hybrid Machine Learning Framework for Spatio-Temporal PM2.5 Prediction"
+, Isaac Newton Institute for Mathematical Sciences (INI), University of Cambridge, United Kingdom.
+May 20, 2025
+Presented the seminar "PIGNN-GPR: A Hybrid Machine Learning Framework for Spatio-Temporal PM2.5 Prediction"
+, University of Reading, United Kingdom.
+Sep 2023
+Delivered an invited talk at the periodic Fractional Calculus seminar
+, Brazilian Symposium on Fractional Calculus (FC Channel).
 Publications
-Journals and Conferences
-Nayana P G, Chithra M R. ”Edge Domination and Secure Edge Domination in Mycielski Graph of Trees”, Ars Combinatoria, Volume 160. 205-209 (2024). DOI: https://doi.org/10.61091/ars-160-16.[scopus indexed].
-Nayana, P.G., and Radha Rajamani Iyer. ”On secure domination number of generalized Mycielskian of some graphs.” Journal of Intelligent and Fuzzy Systems 44.3 (2023): 4831-4841, DOI:10.3233/jifs-223326 [scopus indexed].
-Gangadharan Nayana Palachuvadu, and Radha Rajamani Iyer. ”Secure edge domination in Mycielski graphs.” AIP Conference Proceedings. Vol. 2718. No. 1. AIP Publishing, 2023, DOI: https://doi.org/10.1063/5.0137090 [scopus indexed].
-Nayana, P. G., and Radha Rajamani Iyer. ”An algorithm to find a dominating set that secures any connected graph G.” 2022 IEEE 4th PhD Colloquium on Emerging Domain Innovation and Technology for Society (PhD EDITS). IEEE, 2022,DOI: 10.1109/PhDEDITS56681.2022.9955299 [scopus indexed]
-Paper Presentations
-P. G. Nayana, Divya Sindhu Lekha, “Domination in Brain Network: Using fMRI data and Nilearn” in International Conference on Biological Data Analysis & Computation using Mathematical Modelling and Network Science organized by the School of Computational and Integrative Sciences, Jawaharlal Nehru University (JNU), New Delhi 2025.
-P. G. Nayana, Radha Rajamani Iyer, “Application of secure domination in wrapped butterfly network”, International Conference on Graph Theory and its Applications – ICGTA23 – Amrita Vishwa Vidyapeetham, December 2023.
-P. G. Nayana, Radha Rajamani Iyer, “An algorithm to find a dominating set that secures any connected graph G”, Ph.D edits, IEEE Conference, November 2022.
-P. G. Nayana, Radha Rajamani Iyer, “Secure Edge Domination in Mycielski Graphs”, in AIP Conference Proceedings, May 2023.
-P. G. Nayana, Kumar Abhishek, ”Secure domination in Wrapped Butterfly Network”, International Conference on Recent Trends in Graph Theory (ICRTGT-2020), Department of Mathematics, Karnataka University, Dharwad, July 2020.
-P. G. Nayana, M. R. Chithra, ”Secure Edge Domination in Mycielski Graphs”, National Conference on Emerging Trends in Mathematics and Applications in Engineering and Technology, Department of Mathematics, Hindustan University, Chennai, March 2018.
-Professional Activities:
-Visiting Researcher
-– Topic: Analysis of Brain Network: An fMRI study.
-– 08-07-2024 to current.
-– Network Science Research Lab, Indian Institute of Information Technology, Kottayam.
-– Supported by funding, Mathematical Research Impact Centric Support (MATRICS), Science and Engineering Research Board (SERB), Govt. of India.
-Teaching Assistant
-– Amrita Vishwa Vidyapeetham, Kochi, India (from December 2017 to March 2020).
-– Subjects Handled: Real Analysis, Linear Algebra, and Abstract Algebra.
-–	Cochin Institute of Science and Technology, Muvattupuzha, APJ Abdul
-Kalam Technological University, India (from 20/02/2016 to 23/06/2017).
-– Subjects Handled: Higher Engineering Mathematics and Discrete Computer Structures
+Journal
+Lie symmetry analysis of time fractional nonlinear partial differential equations in Hilfer sense
+R. Thomas and T. Bakkyaraj
+Computational and Applied Mathematics
+, Vol. 43, No. 353, 2024.
+DOI:
+https://doi.org/10.1007/s40314-024-02849-6
+Exact solution of time-fractional differential difference equations: Invariant subspace, Partially invariant subspace, Generalized separation of variables
+, Vol. 43, No. 51, 2024.
+https://doi.org/10.1007/s40314-023-02557-7
+Invariant subspaces and exact solutions: (1+1) and (2+1)-dimensional generalized time-fractional thin-film equations
+P. Prakash, R. Thomas, and T. Bakkyaraj
+, Vol. 42, No. 97, 2023.
+https://doi.org/10.1007/s40314-023-02229-6
+Lie symmetry analysis and exact solution of (2+1)-dimensional nonlinear time-fractional differential-difference equations
+T. Bakkyaraj and R. Thomas
+Pramana – Journal of Physics
+, Vol. 96, No. 4, pp. 1–10, 2022.
+https://doi.org/10.1007/s12043-022-02469-x
+Modeling and analysis of SEIRS epidemic models using homotopy perturbation method: A special outlook to 2019-nCoV in India
+R. Thomas, S.A. Jose, R. Raja, J. Alzabut, J. Cao, V.E. Balas
+International Journal of Biomathematics
+, Vol. 15, No. 08, 2022.
+https://doi.org/10.1142/S1793524522500590
+An Approximate Mathematical Solution for the Glucose Insulin Regulatory System Using Homotopy Perturbation Method
+R. Thomas and S. Narayanamoorthy
+Journal of Dynamics of Continuous, Discrete, and Impulsive Systems
+, Vol. 30, 2023.
+Infinitesimal prolongations for Mixed Ψ-Hilfer operators and applications
+R. Thomas, Junior C.A. Soares, Felix S. Costa, and J. Vanterler da C. Sousa
+Preprint available at:
+https://hal.science/hal-04847008
+Exact solutions of time-space fractional differential equations involving fractional Laplacian using invariant subspace method
+Journal of Applied Nonlinear Dynamics
+(Accepted for publication).
+Study of initial-boundary value fractional partial differential equations using invariant analysis
+(Preprint)
+Fusing nonparametric stochastic model with physics-informed neural networks for prediction of extreme climate events
+Kunal Rai, Archi Roy, David Shulman, Reetha Thomas, Itai Dattner, Soudeep Deb
+Working paper.
+PIGNN-GPR: A Hybrid Machine Learning Framework for Spatio-Temporal PM2.5 Prediction
+Reetha Thomas and Soudeep Deb
+Conferences
+A comparative study of Lie symmetry analysis and invariant subspace methods to fractional Hunter-Saxton equation
+Proceedings of the International Conference on Fractional Differentiation and Its Applications (ICFDA)
+, Ajman, UAE, March 14, 2023.
+https://doi.org/10.1109/ICFDA58234.2023.10153230
+Fractional Vasicek Model in Financial Mathematics
+R. Thomas
+IEEE International Conference on Technology, Research, and Innovation for Betterment of Society (TRIBES)
+, December 17, 2021.
+https://doi.org/10.1109/TRIBES52498.2021.9751629
+Glucose-insulin regulatory model using Runge-Kutta method of order four
+R. Thomas, S. Maheswari, and S. Narayanamoorthy
+AIP Conference Proceedings
+, Vol. 2261, 030069, 2020.
+https://doi.org/10.1063/5.0017202
+Conference Presentations
+September 2025
+Accepted for contributed oral presentation under the
+Statistical Applications
+track at Applied Statistics 2025, University of Primorska, Koper/Capodistria, Slovenia.
+June 2023
+A Comparative Study of Lie Symmetry Analysis and Invariant Subspace Methods to Fractional Hunter-Saxton Equation
+Presented at the International Conference on Fractional Differentiation and Its Applications (ICFDA 2023), Ajman, United Arab Emirates.
+December 2021
+Presented at the IEEE International Conference on Technology, Research, and Innovation for Betterment of Society (TRIBES), Naya Raipur, India.
+January 2020
+Fuzzy Transportation Problem Using Trapezoidal Fuzzy Numbers
+Presented at the 2nd International Conference on Mathematical Modelling and Computational Methods in Science and Engineering (ICMMCMSE 2020), Alagappa University, Karaikudi, Tamil Nadu, India.
+January 2018
+Use of Trapezoidal Fuzzy Numbers to Solve Transportation Problem
+Presented at the International Conference on Computing Sciences (ICCS 2018), Loyola College, Chennai, India.
+December 2017
+Application of Fuzzy Linear Systems Using Homotopy Perturbation Method in the Medical Field
+Presented at the International Conference on Applicable Mathematics (ICAAM 2017), Bharathiar University, Coimbatore, India.
+Professional Activities
+Indian Institute of Information Technology Kottayam, Assistant Professor 07/2025- Present
+Indian Institute of Management Bangalore, Postdoctoral Fellow 11/2024- 07/2025
+◦	 Advisor : Dr. Soudeep Deb
+◦	 Project: Hybrid-AI Quantile Regression: Combining Nonparametric Statistical Methods and Physics- Informed Neural Networks for Analysing Spatio-temporal Climate Data
+St. George College, Aruvithura, Kottayam, Kerala, Assistant Professor 06/2019 - 08/2020, 07/2017 - 11/2017.
 Reviewer:
-Journal of Intelligent & Fuzzy Systems – IOS Press.
-Sohag Journal of Mathematics – Natural Science Publishing
+Asian-European Journal of Mathematics (AEJM), Nature Scientific Reports.
 Research Interests
-Graph Theory
-Domination
-Algorithm
-Interconnection Networks
-Brain Network and Network Analysis
+Physics-Informed and Graph Neural Networks
+Spatio-Temporal Climate Modelling
+Uncertainty Quantification
+Fractional Calculus and Dynamical Systems
+Mathematical modelling
+Nonlinear Partial Differential Equations

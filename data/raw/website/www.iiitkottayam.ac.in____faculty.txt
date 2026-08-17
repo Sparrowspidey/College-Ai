@@ -83,13 +83,15 @@ Room No: AC 314
 kala at iiitkottayam dot ac.in
 Dr. Panchami V
 Associate Dean (Continuing Education, Training and Consultancy), Faculty In-Charge (ACM Student Branch)
+Quantum Cryptanalysis
+Quantum Safe Communication Protocols
 Authentication and Key Agreement (AKA)
 Blockchain Technology
 IoT Security
 Applied Cryptography
 Post-Quantum Cryptography
 Privacy Preserving Techniques for Federated Learning
-PhD from Anna University (NIRF Ranking:8), Course Coordinator and Single Point of Contact (PoC) for the Cyber Commando Training program funded by Indian Cyber Crime Coordination Center (I4C), MHA
+PhD from Anna University (NIRF Ranking:8), Course Coordinator and Single Point of Contact (PoC) for the Cyber Commando Training program funded by Indian Cyber Crime Coordination Center (I4C), MHA. Recipient of the prestigious Marie Skłodowska-Curie Actions (MSCA) fellowship, Seal of Excellence Award 2026 (92.8%), awarded by the European Union.
 +91 (0) 482-2202151
 Room No:  BD 416 /AB 218
 panchamam036 at iiitkottayam dot ac.in
@@ -120,7 +122,7 @@ PhD from Anna University (NIRF Ranking:8), Former Faculty of PG Department of Co
 Room No: AA 113/AB 216
 benifa at iiitkottayam dot ac.in
 Dr. Arun Cyril Jose
-HOD (CSE-Cyber Security), Associate Faculty In-Charge(Technical Club)
+HOD (CSE-Cyber Security)
 Smart Home Security
 Device Fingerprinting
 Logical Sensing from a Security Point of View
@@ -155,7 +157,7 @@ Ph.D from NIT Tiruchirappalli, Received Best paper award in Eleventh Internation
 Room No: AA 105
 kguravaiah at iiitkottayam dot ac.in
 Dr. Dhanyamol M V
-HOD (Computational Science & Humanities),Faculty In-Charge (Engineering & Estate Department),Associate Faculty In-Charge(Cultural Club)
+HOD (Computational Science & Humanities),Faculty In-Charge (Engineering & Estate Department)
 Graph Theory and Complex Networks
 Brain Networks
 Epidemic Spreading and Vaccination Strategies
@@ -211,7 +213,7 @@ PhD from Assam University, Former Faculty of NIT Mizoram
 Room No: BD 407
 amit at iiitkottayam dot ac.in
 Dr.John Paul Martin
-Faculty In-Charge (Trendles Club), Faculty In-Charge (NIRF),Faculty In-Charge(Mess Committee),Faculty In-Charge(HPC Managing & Allocation)
+Faculty In-Charge (NIRF),Faculty In-Charge(Mess Committee),Faculty In-Charge(HPC Managing & Allocation)
 Distributed Computing
 Edge/Fog Computing
 DevOps and MLOps
@@ -240,7 +242,7 @@ Ph.D. from NIT Trichy, M.Tech. from College of Engineering, Guindy (CEG), Former
 Room No: BB 210
 vengadesh at iiitkottayam dot ac.in
 Dr. Manu Madhavan
-Faculty In-Charge (Library and Technology Enabled Learning Resources(TELR), Faculty In-Charge (NIRF)), Associate Faculty In-Charge(Cultural Club)
+Faculty In-Charge (Library and Technology Enabled Learning Resources(TELR), Faculty In-Charge (NIRF)), Faculty In-Charge(Cultural Club)
 Bioinformatics
 Computational Linguistics
 Deep Learning, Graph Neural Networks
@@ -274,6 +276,7 @@ Ph.D. from IIT Kharagpur,Former faculty of IIIT Ranchi
 Room No: BB 209
 goutam at iiitkottayam dot ac.in
 Dr. Sivaiah Bellamkonda
+Associate Faculty In-Charge (Coding Club and Google Developer Students Club)
 Computer Vision
 PhD from NIT Tiruchirappalli
 +91 (0) 482-2202170
@@ -302,6 +305,7 @@ Post Doctoral Fellow-University of Saskatchewan, Saskatoon, Canada
 Room No: AB 208 / AC 313
 ananth at iiitkottayam dot ac.in
 Dr. Santhos Kumar A.
+Associate Faculty In-Charge (Technical Club)
 Pattern Classification and Image Segmentation and Classification
 PhD from IIITD Jabalpur
 +91 (0) 482-2202177
@@ -357,7 +361,7 @@ Management Studies
 Room No: CAB 102
 mathewcd at iiitkottayam dot ac.in
 Dr. Gayathri G.R.
-Faculty In-Charge (Cultural Club,Social Media & Branding)
+Faculty In-Charge Social Media & Branding
 Human- Centered Artificial Intelligence
 Digital Humanities
 Cultural Analytics
@@ -391,6 +395,7 @@ Post Doc and Ph.D from IIT Madras
 Room No: BC 313
 della at iiitkottayam dot ac.in
 Dr. Venkatesh S
+Faculty In-Charge (Trendles Club)
 Nanotechnology
 Materials Science: Polymers, composites, metal oxides etc.,
 Fabrication of Nanomaterials
@@ -399,6 +404,7 @@ Ph.D from Anna University,Chennai
 Room No: BB 212
 svenkatesh at iiitkottayam dot ac.in
 Dr. Rajesh G
+Associate Faculty In-Charge (Mess Committee)
 Tensor data modeling in Internet of Things
 Incremental tensor decomposition algorithms in Industrial IoT data
 Co-operative perception in autonomous vehicles
@@ -440,7 +446,7 @@ Ph.D from Cochin University of Science and Technology
 Room No: BB 213
 athirab at iiitkottayam dot ac.in
 Dr. Debarati Ganguly
-Faculty In-Charge (IEEE Student Branch),Associate Faculty In-Charge(Technical Club)
+Faculty In-Charge (IEEE Student Branch)
 IoT enabled Wireless Implantable Antennas for Biomedical Telemetry
 Catheter-type Microwave Ablators for Hepatic Tumors and Cardiac Arrythmia
 ON-to-OFF Body Ultrawideband Channel Modelling
@@ -460,14 +466,12 @@ Ph.D from National Institute of Technology Tiruchirappalli,2022.
 Room No: AB 223
 lakshmins at iiitkottayam dot ac.in
 Dr. Chakradhar Padamutham
-Associate Faculty In-Charge(Mess Committee), Associate Faculty In-Charge (Trendles Club)
 Theoretical Computer Science
 Ph.D from National Institute of Technology, Warangal,  2021
 +91 (0) 482-2202263
 Room No: BD 411
 chakradhar at iiitkottayam dot ac.in
 Dr. Emy Mariam George
-Associate Faculty In-Charge(Mess Committee)
 Wireless Communication
 Wireless Body Area Networks, Sensor Networks
 Ph.D from National Institute of Technology, Calicut, 2022
@@ -548,7 +552,7 @@ Fuzzy Similarity measure
 Room No: AC 311
 suriyapriya at iiitkottayam dot ac.in
 Dr. Riyasudheen T K
-Associate Faculty In-Charge (UG(Academics)),  Institute CVO
+Institute CVO
 Computational Mathematics
 Mathematical and Computational Finance
 Artificial Neural Network (ANN) methods for PDEs
@@ -560,7 +564,6 @@ Ph.D. from NIT Calicut, Former Chief Executive Officer (CEO), MathLab Research P
 Room No: BD 412
 riyasudheen at iiitkottayam dot ac.in
 Dr. Binu M
-Associate Faculty In-Charge (Mind Quest Club)
 Fuzzy Graph Structures
 Connectivity Analysis in Weighted Networks
 Reliability Parameters
@@ -569,7 +572,7 @@ Ph.D from National Institute of Technology Calicut, 2019.
 +91 (0) 482-2202276
 binum at iiitkottayam dot ac.in
 Dr.Jobin Jose
-Associate Faculty In-Charge (UG(Academics)),Associate Faculty In-Charge(Cultural Club)
+Associate Faculty In-Charge (UG(Academics, Admission), Mess Committee)
 Cache memories and Reconfigurablity
 Machine Learning for Systems
 Ethical Hacking and Penetration Testing
@@ -653,7 +656,6 @@ Room No: CAB 202 G
 sreelakshmy at iiitkottayam dot ac.in
 Dr. Mahima Mary Mathews
 Cryptography - Post-Quantum Cryptography, Quantum Cryptography
-Quantum Cryptanalysis
 Quantum Computing and Communication
 Ethical Hacking
 Digital Forensics
@@ -669,6 +671,7 @@ Ph.D. from National Institute of Technology, Tiruchirappalli
 Room No: AC 301 D
 sairaj at iiitkottayam dot ac.in
 Dr. Anu Maria Sebastian
+Associate Faculty In-Charge(Grievance Cell, Cultural Club)
 Applied AI
 Data imputation
 Healthcare data analytics
@@ -735,6 +738,7 @@ PhD from IIIT Kottayam
 Room No: CAB 202 C
 jishamj at iiitkottayam dot ac.in
 Dr. Syamala S
+Associate Faculty In-Charge (Cultural Club)
 Human Computer Interaction
 E-learning
 Healthcare
@@ -779,6 +783,7 @@ PhD from National Institute of Technology, Trichy.
 +91 (0) 482-2202370
 sridhar at iiitkottayam dot ac.in
 Dr. A V Prajeesh
+Associate Faculty In-Charge (Admission - UG)
 Graph Theory and Combinatorics
 Geometric Deep Learning
 PhD from National Institute of Technology Calicut
@@ -793,6 +798,20 @@ Security of Routing Protocols
 +91 (0) 482-2202372
 Room No: AB 219
 jaisooraj at iiitkottayam dot ac.in
+Dr. Nisha J S
+Signal Processing
+Biomedical Image Processing
+Ph.D from National Institute of Technology Tiruchirappalli
++91 (0) 482-2202373
+Room No: AA 117
+nishajs at iiitkottayam dot ac.in
+Ms. Anitha Ambat
+Smart home security
+Anomaly detection
+Activity recognition
++91 (0) 482-2202374
+Room No: AA 108
+anithaambat at iiitkottayam dot ac.in
 Dr. JALAJA M J
 Wireless Sensor Networks and IoT
 Underwater Communication
@@ -824,6 +843,9 @@ angelthomaspradeep at gmail dot com
 Dr Raghunadhan T
 +919446784704
 raghu.vaidyaratnam at gmail.com
+Dr. Mathew Joseph
+Human Resource Management (HRM)
+Ph.D. in Management Sciences, Mahatma Gandhi University, Kerala
 Dr. Sajimon Abraham
 HR & Finance
 +919446224240
@@ -877,6 +899,36 @@ Former Director of various NITs such as Kozikode, Nagpur, Raipur & Mizoram.
 Ms. Beena Gokhale
 Soft Skills & Personality Development
 M A, M Ed. (University of Illinois, USA)
+Ms. Ansmol George
+Lab Faculty
+Ms. Helena Thomas
+Ms. Anju Augustin
+Ms. Mariya Thomas
+Ms. Sheba Elizabeth Thomas
+Ms. Prashamol Prakashan
+Ms. Renji S
+Ms. Amrita Kumari
+Ms. Annie Sonia
+Ms. Aswathy James
+Ms. Christy K T
+Ms. Gopikrishna P B
+Ms. Kavya Raj
+Ms. Remya R
+Ms. Thomsy William
+Ms. Anu K P
+Ms. Elizabeth Antony
+Ms. Neethu C T
+Ms. Rintu Jose
+Ms. Sharon Justine
+Ms. Amala Mathew
+Ms. Ann Preetha Jose
+Ms. Shelcy Paulose
+Ms. Annette James
+Ms. Ashly Ann Jo
+Ms. Jane George
+Mr. Mahesh Sasikumar
+Ms. Parvathy Gopakumar
+Ms. Sweety Kunjachan
 Dr. Akarsh K Nair
 Former Faculty
 Cyber Physical Systems
@@ -955,7 +1007,6 @@ Dr. Bibin Francis
 Ph.D from IISc Bengaluru, Post Doc from IIIT Hyderabad
 bibin at iiitkottayam dot ac.in
 Dr. Bini A. A.
-Signal Processing
 PhD from NIT-Surathkal, Former Senior Embedded System Developer at Nest Technologies Trivandrum and at KPIT Cummins Pune
 bini at iiitkottayam dot ac.in
 Prof. V. Ramakrishnan

@@ -1,48 +1,134 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/abinphilip
 
-Dr. Minu A Pillai | IIIT Kottayam
+Dr. Abin Oommen Philip | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Minu A Pillai
+Dr. Abin Oommen Philip
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: minupillai
+Email: abinphilip
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202218
-Honours and Achievements :
-Qualified GATE 2008 in Instrumentation with All India rank 197 and percentile score 94.93.
-Received Academic Proficiency prize from National Institute of Technology Tiruchirappalli for securing third rank for M-Tech in Process Control and Instrumentation.
-Article entitled “A Review of Acoustic Energy Harvesting” received International Journal of Precision Engineering and Manufacturing Most Downloaded Article Award, 2014 from Springer.
-University Post-Doctoral Fellowship funded by Cochin University of Science and Technology.
-Education :
-Ph.D, Instrumentation, Thesis titled: "Analysis and design of acoustic energy harvesters using duct resonators and piezoelectric unimorphs", National Institute of Technology Tiruchirappalli, 2018.
-M.Tech., Process Control and Instrumentation, National Institute of Technology Tiruchirappalli, 2010
-B.Tech., Applied Electronics and Instrumentation, Mahatma Gandhi University Kottayam, 2007
+Hello at: 00 91  04822202253
+Education
+Ph.D, School of Computer Science and Engineering, Thesis titled: " Design Of Secure Traffic Incident Reporting And Evidence Management Framework Using Machine Learning And Blockchain ", VIT Vellore (An Institute of Eminence Status by GOI), May 2023.
+M.Tech., Computer Science ,CUSAT University, 2011
+B.Tech., Computer Science and Engineering, CUSAT University, 2009
+Experience
+Assistant Professor in Department of CSE at Toc H Institute of Science and Technology, Ernakulam, Kerala - June 2011 to April 2023
+Funded Projects and Grants
+AICTE RPS funded project titled “Traffic incident detection and evidence management from CCTV surveillance footage using deep learning and blockchain. Fund Sanctioned - Rs. 8,79,666,  (Role: Co PI)
+KSCTE student project titled “Detecting accidents at vehicular edge using machine learning followed by evidence management using blockchain. Fund Sanctioned -  Rs. 10000 (Status: Completed, 2022, Role: PI)
+CERD student project scheme, project titled “Cooperative vehicle platooning”. Fund Sanctioned – Rs. 20000  (Status: Completed, 2019, Role: Co-PI)
+Publication grant of 1350 $ (1,10,000 Rs) in 2022, by VIT Vellore towards publishing in Open Access Journal with High Impact listed in Q1 category.
+Patents
+An IOT Enabled collar device for monitoring activity and illicit usage of captive animals, Indian Patent Application No.202341079754 A (Status Granted)
+Automated Real Time Traffic Surveillance and evidence management system using deep learning, blockchain and edge computing. Indian Patent Application No.202341079753 A (Status Published, Filed for Grant, Called for Hearing)
+An ai-enabled multifunctional device for heart disease prediction, detection, and analysis, Application No.202441085707 A A (Status Published, Filed for Grant)
+Traffic Prediction in Small cities using AI, , Indian Patent,  Application No: 202341010033. (Status Published)
+Design a Secure IoT based Air Quality Monitoring Device using Blockchain, Indian Patent Application No: 2023410053159. (Status Published)
 Publications
 Journals
-Minu A. Pillai and Ezhilarasi Deenadayalan (2014) A Review of Acoustic Energy Harvesting. International Journal of Precision Engineering and Manufacturing, Vol. 15, No. 5, pp.949-965, DOI: 10.1007/s12541-014-0422-x.
-Minu A. Pillai and Ezhilarasi Deenadayalan (2016) Improved acoustic energy harvester using tapered neck Helmholtz resonator and piezoelectric cantilever undergoing concurrent bending and twisting. Procedia Engineering, 144, pp. 674 – 681, DOI:
-https://doi.org/10.1016/j.proeng.2016.05.065.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2017) Analytical model of mechanically excited piezoelectric unimorph beams. The Journal of the Acoustical Society of America, 142 (2), pp.718-727, DOI:
-http://dx.doi.org/10.1121/1.4996852.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2017) Erratum: Analytical model of mechanically excited piezoelectric unimorph beams [J. Acoust. Soc. Am. 142(2), 718–727 (2017)] The Journal of the Acoustical Society of America, 142 (4), pp. 1871-1873, DOI:
-https://doi.org/10.1121/1.5006060.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2018) Design and optimization of piezoelectric unimorph beams with distributed excitation. The Journal of the Acoustical Society of America, 143 (5), pp.2685-2696, DOI:
-https://doi.org/10.1121/1.5034465.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2019) Transfer matrix analysis of a duct with gradually varying arbitrary cross-sectional area. The Journal of the Acoustical Society of America, 146 (6), pp. 4435-4445, DOI:
-https://doi.org/10.1121/1.5139412.
-Conferences
-Minu A. Pillai, Sridevi Veerasingam and Yaswanth Sai D. CAN Based Smart Sensor Network for Indoor Air Quality Monitoring, Proceedings of 3rd IEEE International Conference on Computer Science and Information Technology (ICCSIT) 2010, China, IEEE CS Press, pp. 456-460, ISBN No: 978-1-4244-5540-9, DOI: 10.1109/ICCSIT.2010.5564892.
-Minu A. Pillai, Sridevi Veerasingam and Yaswanth Sai D. Implementation of Sensor Network for Indoor Air Quality Monitoring Using CAN Interface, Proceedings of International Conference on Advances in Computer Engineering (ACE) 2010, Bangalore, IEEE CS Press, pp. 366-370, DOI : 10.1109/ACE.2010.85.
-Yaswanth Sai D., Sridevi Veerasingam and Minu A. Pillai Design of Sensor Node for synchronized TDMA Network, Proceedings of International Conference on Control, Communication and Power Engineering (CCPE) 2010, Chennai, pp. 349-351, ISBN: 978-1-62993-400-6.
-Minu A. Pillai and Ezhilarasi Deenadayalan Acoustic energy harvesting using Helmholtz resonator with tapered neck. Proceedings of COMSOL Conference -2014, Bangalore, pp.1-4.
-Minu A Pillai, Alwyn Ghosh, Jestin Joy, Suraj Kamal, Satheesh Chandran C, Arun A Balakrishnan and Supriya M. H. Acoustic Source Localization using Random Forest Regressor. Proceedings of International Symposium on Ocean Technology SYMPOL 2019, Kochi, pp.191-199, DOI: 10.1109/SYMPOL48207.2019.9005303.
-Professional Activities
-Professional Membership: Life time member of Institute of Smart Structures and Systems (ISSS)
-Reviewer:
-IEEE Internet of Things Journal
-Research Interests :
-Acoustic Energy Harvesting
-Piezoelectric Energy Harvesting
-Acoustic Source Localization
+Abin Oommen Philip
+, Sreeja M U, Rosebell Paul, RA.K. Saravanaguru, Towards intelligent trust-based incident and evidence management models for Internet of Vehicles: A survey, (2024), Computers and Electrical Engineering, Volume 117, 109284, ISSN 0045-7906 (ELSEVIER, SCIE, IF – 5.2)
+M.U. Sreeja,
+, M.H. Supriya, Towards explainability in artificial intelligence frameworks for heartcare: A comprehensive survey, (2024),  Journal of King Saud University - Computer and Information Sciences,Volume 36, Issue 6, 102096, ISSN 1319-1578, (ELSEVIER, SCIE, IF – 4.0)
+Sreedhar, S.,
+Philip, A.O
+. & Sreeja, M.U. Autotrack: a framework for query-based vehicle tracking and retrieval from CCTV footages using machine learning at the edge, (2023). Int. j. inf. tecnol. 15, 3827–3837. (Springer, Scopus)
+AO Philip
+, RAK Saravanaguru, Multisource Traffic Incident Reporting and Evidence Management in Internet of Vehicles using Machine Learning and Blockchain, (2023), Engineering Applications of Artificial Intelligence Volume 117, Part B, 105630, ISSN 0952-1976,. (ELSEVIER, SCIE, IF – 7.8)
+, RAK Saravanaguru, “Smart Contract based Digital Evidence Management Framework over Blockchain for Vehicle Accident Investigation in IoV era.” (20223), Journal of King Saud University - Computer and In-formation Sciences, Volume 34, Issue 7, Pages 4031-4046, ISSN 1319-1578, (ELSEVIER, SCIE, IF – 9.0)
+, RAK Saravanaguru, “Secure Incident & Evidence Management Framework (SIEMF) for Internet of Vehicles using Deep Learning and Blockchain”. (2020), Open Computer Science vol. 10, no. 1.(ESCI, SCOPUS )
+M.K. Manju,
+, Novel method for ranking batsmen in Indian Premier League, (2023) Data Science and Management, May 2023, Volume 6, Issue 3, Pages 158 - 173,ISSN 2666-7649 (ELSEVIER, Scopus)
+, RAK Saravanaguru, “A Vision of Connected and Intelligent Transportation System” In, International Journal of Civil Engineering and Technology (IJCIET) Volume 9, Issue 2, February 2018, (SCOPUS).
+, “Using Mobile Phones as Software Token for Generating Digital Signature Code – Digitally Signing an Online Banking Transaction” IJCA Special Issue on “Computational Science - New Dimensions & Perspectives”, NCCSE, 2011
+MH Vijayan, MR Josey, MS PG, MS NP, S Sreedhar,
+, Cooperative Platooning in Connected Vehicles, (2019), International Journal of Computer Science Trends and Technology (IJCST) – Volume 7 Issue 3.
+Conferences Proceedings and Book Chapters (Scopus Indexed)
+A. Ajith,
+AO. Philip
+, S. Sreedhar and M. U. Sreeja, "Road Accident Detection from CCTV Footages using Deep Learning," 2022 3rd International Conference on Smart Electronics and Communication (ICOSEC), Trichy, India, 2022 (IEEE XPLORE)
+, RAK Saravanaguru, “Blockchain based Framework for Investigating Pedestrian and Cyclist Hit and Run Cases in the Internet of Vehicles Era”. In 5th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud)  I-SMAC 2021. (IEEE XPLORE)
+, RAK Saravanaguru, “Traffic Event Reporting Framework using Mobile Crowdsourcing and Block-chain”, In 4th International Conference on Computer Networks, Big Data and IoT ICCBI 2021, In Lecture Notes on Data Engineering and Communications Technologies (Springer Book Chapter)
+IP Raghesh Kumar, Rithin Varghese, Nandu Nagesh, Vyshnav Sasidharan,
+, "Study on Incident Detection and Management of Vehicular OBD Data on Blockchain," 2022 6th Internation-al Conference on Computing Methodologies and Communication (ICCMC), 2022, pp. 145-152, (IEEE XPLORE)
+SJ Kumar,
+, "Achieving Market Segmentation From B2B Insurance Client Data Using RFM & K-Means Algorithm," 2022 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES), 2022, pp. 463-469 (IEEE XPLORE)
+PA Abhay, NV Jishnu, KT Meenakshi, PS Yaswanth,
+, “Auto Block IoT: A Forensics Framework for Connected Vehicles” Journal of Physics: Conference Series, Volume 1911, International Conference on Inno-vative Technology for Sustainable Development 2021 (ICITSD 2021) 27-29 January 2021, Chennai, India. (IOP Book Chapter)
+A. O. Philip
+, A. Jacob, T. K, A. K. S, A. Ashok and D. KB, "Smart Standalone Edge IoT Device for Traffic Volume Counting in Smart Cities,"
+2023 2nd International Conference on Edge Computing and Applications (ICECAA)
+, Namakkal, India, 2023, pp. 1255-1259, doi: 10.1109/ICECAA58104.2023.10212184. (IEEE XPLORE)
+MK Manju,
+, MU Sreeja, Exploratory data analysis of Indian Premier League (IPL), AIP Conference Proceedings 2773, 020005 (May 2023),
+https://doi.org/10.1063/5.0138651
+(Scopus)
+S. Thomas,
+A. Oommen Philip
+and N. Vishwanath, "ML Based Data Driven Energy Centered Predictive Maintenance,"
+, Namakkal, India, 2023, pp. 994-1001, doi: 10.1109/ICECAA58104.2023.10212246. (IEEE XPLORE)
+Prince Puthussery, Nikhita Mariam Cherian, TK Kiran, MU Sreeja,
+, Green dream: A deep learning based real-time model for automatic waste segregation from video streams, AIP Conference Proceedings
+S. Janet, A. S. Shaji, B. C. D’Cruz, E. Abraham,
+and L. Kamal, "Metaverse Creation And Decentralized Land NFTs Over Blockchain," 2023 9th International Conference on Smart Computing and Communications (ICSCC), Kochi, Kerala, India, 2023, pp. 332-337. (IEEE XPLORE)
+Ann Preetha Jose,
+, Jobin Jose “Smartwatches in Crime Investigation and Digital Forensics: Exploring Possibilities and Applications” 2025, 11th International Conference on Smart Computing and Communications (ICSCC), Kochi, Kerala, India, (IEEE XPLORE)
+Megha raju, Ajees A P,
+, Sreeja M U, Intelligent Content Retrieval for Crime Investigation using MLLM, 4th international Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS), , Ernakulam ,Kerala , India. (IEEE XPLORE)
+Major Certification/Training Programs/Add On Courses/Workshops Conducted and Delivered
+Delivered one week training on Digital Forensics for Cyber commandos as part of Cyber commando training at IIIT Kottayam  an MHA and I4C initiative.
+Delivered sessions on Digital Forensics for 5 batches of Kerala Police Cyber Operations (2024-2025)
+Designed and Delivered a 48 Hour Certification Program in Digital Forensics as part of IIIT Kottayam satellite centre certification program.
+Coordinated and delivered hands on session as part of 30 Hour Add On course in Digital Forensics and Offensive Security
+Coordinated and delivered hands on session as part of 30 Hour Add On course in Ethical Hacking and Vulnerability Analysis
+Delivered 100 hour course on Machine Learning as part of ASAP AI ML Course (NSQF certified course, Conducted by Additional Skill Acquisition Program (ASAP) in association MHRD and IIT Madras during 2019-2020)
+Coordinated and Delivered sessions on Digital Forensics, Memory Forensics and Mobile Apk reverse Engineering as part of 10 days Short Term Training Program in Ethical Hacking and Cyber Forensics at IIIT Kottayam (9th June to 20th  June 2025)
+Coordinated and Delivered sessions as part of one week FDP cum Workshop in Digital Forensics at IIIT Kottayam (June 24th to June 28th 2024)
+Delivered talk and hands on session on Memory Forensics as part of ATAL AICTE FDP program on Digital Forensics by SCMS School of Engineering June 2025.
+Delivered outreach program on “Introduction to Artificial Intelligence and Jobs of the future” for students of Bharatiya Vidya Bhavan, 2019
+Delivered sessions as part of Tinker Lab program for students of Toc H Public School, 2022
+Other Honours and Achievements :
+Awarded Best Teacher Award for the year 2016 and 2018 at CSE, Toc H Institute of Science and Technology, Ernakulam, Kerala.
+Bronze Prize in Kerala State Council for Science Technology and Environment (KSCSTE) TECHFEST 2021, 'State Level Contest for Innovative Engineering Projects', for the project titled " BLOCULUS -Detecting Accidents at Vehicular Edge using Machine Learning followed by Evidence Management using Blockchain.", BTech Student Project (Role: Project Guide/Mentor)
+Certified AI ML course trainer for Additional Skill Acquisition Program (ASAP) course in Artificial Intelligence Machine Learning (NSQF certified course)
+GATE Qualified
+Best Paper Award for Intelligent Content Retrieval for Crime Investigation using MLLM, 4th international Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS), , Ernakulam ,Kerala , India.
+Reviewer(Journals)
+IEEE Transactions on Intelligent Transportation Systems (IEEE, SCI, IF 9.5)
+Engineering Applications of Artificial Intelligence (Elsevier, SCI, IF 7.8)
+Wireless Sensor Networks (IET, SCI, IF 2.5)
+Cybernetics and systems (Taylor and Francis, SCI, IF 1.85)
+Soft Computing (Springer, SCI, IF 3.73)
+Microprocessor and Microsystems (Elsevier, SCI, IF 3.50)
+Cogent Engineering (Taylor and Francis, ESCI)
+IEEE Transactions on Mobile Computing (IEEE, SCI, IF: 6.075)
+Discover Computing (Springer, SCI, IF: 1.7)
+Current Research Interests
+Digital Forensics and Crime investigation
+Memory Forensics
+Mobile Application Forensics and Security
+Intelligent Transportation and Connected Vehicles
+Digital Technologies for Wildlife and Nature Conservation
+Online Certifications
+Magnet AX200 Digital Forensics
+Magnet AX150 Mobile Forensics
+Computer Forensics Best Practices (Codered, EC Council)
+Blockchain Architecture and Use Cases (NPTEL)
+Automotive Cybersecurity (Udemy)
+Machine Learning (Coursera)
+Blockchain Introduction (Coursera)
+Data Analytics (Data Camp)
+SHERLOCK, Digital Forensics and Offensive Security Lab at IIIT Kottayam
+Faculty In Charge for SHERLOCK labs, was responsible for setting up the Digital Forensic Laboratory as part of academic, research and training requirement at IIIT Kottayam
+The lab is equipped with the hardware and software to perform digital forensic investigations in a scientific manner.
+The lab is equipped with FRED Forensic High End Workstation, DI Ultrakit V5 and DI Ultrablock kits for data acquisition, Magnet Axiom Cyber Academic License, Major Open Source Digital forensic Software’s, High End Machines and Mobile devices.
+The lab Hosts Industrial Visits as part of FDPs and Visits as part of Social Outreach Program for school and college students.
+The lab facility is utilised in the conduct of training programs (cybercommands, Kerala Police cyber operations), FDPs, workshops and internships in the domain of Digital Forensics.
+Research Activities at the laboratory involve research in IoT Forensics, Ai for Digital Forensics, Building of datasets for Digital Forensics, Memory Forensics and Mobile Apk Vulnerability Analysis.
+MoU with Alibi Global Private Limited, India's First NABL Accredited Cyber Forensic Private Laboratory for research and training collaboration
+Hobbies and Interests
+Aquascaping and Rainforest Gardening (Instagram Page -
+https://instagram.com/nature_aquaria?r=nametag

@@ -1,61 +1,52 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/goutam
 
-Dr. John Paul Martin | IIIT Kottayam
+Dr.Goutam Mali | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. John Paul Martin
+Dr.Goutam Mali
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: johnpaul
+Email: goutam
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202202
+Hello at: 00 91  04822202214
 Honours and Achievements :
-PhD Research Fellowship from Ministry of Electronics & Information Technology (Meity), Government of India under Visvesvaraya Ph.D. scheme (2016 -2021)
-Cleared Graduate Aptitude Test in Engineering (GATE).
-Recruited as Knowledge associate at CDAC R&D from National Institute of Technology Karnataka (Super Dream Placement Offer).
+Fellowship for Research Project by Department of Information Technology, Government of India
+Fellowship for M.E. study by Ministry of Human Resource Development, Government of India
+Qualified in Graduate Aptitude Test in Engineering (GATE) Examination 2007 and 2008 in Computer Science
 Education :
-Ph.D, Thesis titled: “Orchestration Mechanisms for Enabling Distributed Processing in the Fog Computing Environment ", NITK Surathkal, 2021.
-M.Tech., Computer Science and Engineering with Specialization in Information Systems , Mahathma Gandhi University.
-B.Tech., Computer Science and Engineering, University of Calicut.
+Ph.D., Department of Computer Science and Engineering, Thesis titled: "Cooperation-Aided Distributed Topology Management and Resource Allocation in Wireless Multimedia Sensor Networks", Indian Institute of Technology Kharagpur, 2017.
+M.E., Department of Information Technology, Indian Institute of Engineering Science and Technology Shibpur, 2010
+B.E., Computer Science and Engineering, Jalpaiguri Government Engineering College, University of North Bengal, 2004
+Experience:
+Assistant Professor, School of Computer Science & Engineering, XIM University Bhubaneswar, June 2017 to September 2022.
+Ad Hoc Faculty, Indian Institute of Information Technology Ranchi, July 2016 to May 2017.
+Programme Facilitator, Post Graduate Diploma in Information Technology, School of Information Technology, Indian Institute of Technology Kharagpur, July 2006 to July 2008.
+Visiting Lecturer, Jalpaiguri Government Engineering College, West Bengal, August 2005 to May 2006
 Publications
 Journals
-Joseph, Christina Terese, John Paul Martin and K. Chandrasekaran,  "Fog Assisted Personalized Dynamic Pricing for Smartgrid." IEEE Transactions on Computational Social Systems (2022).
-John Paul Martin, Kandasamy A. Chandrasekaran K., “Mobility aware autonomic approach for the migration of application modules in fog computing environment", Journal of Ambient Intelligence and Humanized Computing 8.1 (2020):1-20. [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran CREW: Cost and Reliability aware Eagle and Whale optimiser for service placement in Fog, Software Practice and Experience (Wiley) [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran Exploring the support for high performance applications in the container runtime environment, Human-centric Computing and Information Sciences, (Springer)[SCI]
-John Paul Martin, A. Kandasamy, K. Chandrasekaran & Christina Terese Joseph Elucidating the challenges for the praxis of fog computing: An aspectbased study, International Journal of Communication Systems (Wiley)[SCI]
-Book Chapters
-Martin, John Paul, A. Kandasamy, and K. Chandrasekaran. "Unraveling the challenges for the application of fog computing in different realms: A multifaceted study." Integrated Intelligent Computing, Communication and Security. Springer, Singapore, 2019. 481-492.
-Joseph, Christina Terese, et al. "Virtual machine migration—a perspective study." Advances in Big Data and Cloud Computing. Springer, Singapore, 2018. 79-89.
-John Paul Martin, Vipin Singh, K Chandrasekaran, A Kandasamy “Explicating Fog Computing Key Research Challenges and Solutions”.  Singapore, 2018. 79-89.
-Conferences:
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran &  Christina Terese Joseph “Machine Learning Powered Auto scaling for Block chain based Fog Environments”, Springer, Spain
-Nishanth, Shashwatha Mitra G.B, John Paul Martin, K. Chandrasekaran “HTmRPL++ : A Trust-Aware RPL Routing Protocol for Fog Enabled Internet of Things”, International Conference on COMmunication Systems & NETworkS (COMSNETS), Scopus
-Christina Terese Joseph, John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Fuzzy Reinforcement Learning based Microservice Allocation in Cloud Computing Environments”,TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus
-Chandan Naik; M Siddhartha; John Paul Martin; K. Chandrasekaran “Location Privacy Using Data Obfuscation in Fog Computing”, TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus.
-Akarsh Murali; Nibir Nirjas Das; Shiv Shankar Sukumaran; K. Chandrasekaran; Christina Joseph; John Paul Martin “Machine Learning Approaches for Resource Allocation in the Cloud: Critical Reflections”, International Conference on Advances in Computing, Communications and Informatics (ICACCI), Scopus.
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Toward efficient autonomic management of clouds: A CDS-based hierarchical approach”, Advanced Computing and Systems for Security, Springer, Scopus
-Christina Terese Joseph, John Paul Martin “Task Dependency Aware Selection in Cloud” International conferences in advances in computing and communications,Scopus, Elsevier
-Thasviya Haroon; S Neena; K K Krishnaprasad; Rejoice Wilson; Sanjo Simon; John Paul Martin “Convivial private cloud implementation system using OpenStack”,  2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT), IEEE Scopus
-John Paul Martin; Krishna S. Chinchu; M. J. Hareesh; Babu S. Anish; Sijo Cherian; Yedhu Sastri “Learning Environment as a Service (LEaaS): Cloud”, Fourth International Conference on Advances in Computing and Communications, Scopus
-S. Anish Babu; M. J. Hareesh; John Paul Martin; Sijo Cherian; Yedhu Sastri “System Performance Evaluation of Para Virtualization, Container Virtualization, and Full Virtualization Using Xen, OpenVZ, and XenServer”, Fourth International Conference on Advances in Computing and Communications, Scopus
-John Paul Martin; M. Sarith Divakar; Hareesh M. Joseph” Registry Based Discovery Model for Android Application”, Third International Conference on Advances in Computing and Communications, IEEE, Scopus
+G. Mali and S. Misra, “Topology Management-Based Distributed Camera Actuation in Wireless Multimedia Sensor Networks,” ACM Transactions on Autonomous and Adaptive Systems, vol. 12, no. 1, article no. 2, 2017.
+G. Mali and S. Misra, “TRAST: Trust-Based Distributed Topology Management for Wireless Multimedia Sensor Networks,” IEEE Transactions on Computers, vol. 65, no. 6, pp. 1978–1991, 2016.
+S. Misra, G. Mali, and A. Mondal, “Distributed Topology Management for Wireless Multimedia Sensor Networks: Exploiting Connectivity and Cooperation,” International Journal of Communication Systems (Wiley), vol. 28, no. 7, pp. 1367–1386, 2015.
+Conferences
+G. Mali, S. Das, H. Rahaman, and C. Giri, “Non-preemptive test scheduling for Network-on-Chip (NoC) based systems by reusing NoC as TAM,” In IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 268-271, 2010.
 Professional Activities
 Reviewer:
-IEEE Transactions on Industrial Informatics
-Journal of the International Measurement Confederation (Elsevier)
-IEEE Access
-International Journal of Systems Assurance Engineering and Management (Springer)
-Journal of Ambient Intelligence and Humanized Computing (Springer)
-Software Practice and Experience (Wiley)
-International Journal of Communication Systems(Wiley)
+IEEE Transactions on Circuits and Systems for Video Technology
+IEEE Sensors Journal
+IEEE Systems Journal
+International Journal of Communication Networks and Distributed Systems (Inderscience)
+KSII Transactions on Internet and Information Systems
+Mobile Information Systems (Hindawi)
+Technical Program Committee (TPC) members:
+In 2022: International Symposium on Artificial Intelligence (ISAI), IEEE International Conference on Communications (ICC): SAC E-Health Track 2022
+In 2021: Advanced Information Networking and Applications (AINA) 2021, IEEE International Conference on Communications (ICC): SAC E-Health Track 2021
+In 2020: AINA 2020
+In 2019: AINA 2019, International Conference on Advanced Computing and Intelligent Engineering (ICACIE) 2019
+In 2018: ACMWorkshop on Future Industrial Communication Networks (FICN) in conjunction with ACM MobiCom 2018, AINA 2018, ICACIE 2018
+In 2017: Intelligent, Secure and Dependable Systems in Distributed and Cloud Environments (ISDDC) 2017, ICACIE 2017, Track co-chair for the track "Internet of Things and Big Data" in Network-Based Information System (NbiS) 2017
 Research Interests :
-Distributed Computing
-Edge/ Fog Computing
-Cloud Computing
-Internet of Things (IoT)
-DevOps and MLOps
-Artificial Intelligence
-Machine Learning
-Optimisation Algorithms
+Internet of Things
+Security and Privacy
+Blockchain in IoT
+Machine Learning for data transportation

@@ -1,42 +1,181 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/silambarasan
 
-Dr. Susheel Kumar Joshi | IIIT Kottayam
+Dr. E. Silambarasan | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Susheel Kumar Joshi
+Dr. E. Silambarasan
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: joshi
+Email: silambarasan
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202185
+Hello at: 00 91  04822202179
+Honours and Achievements :
+Best Outgoing Student
+from P. R. Engineering College, March 2009.
+“EMC Academic Associate Cloud”
+from EMC Education Service, February 2014.
+“A” grade in Train the Trainer (TTT) on Python Programming
+, Conducted by Infosys, May 2015.
+“A+” grade in Train the Trainer (TTT) on FP4.0 Focus Area 1- Object Oriented Programming
+, Conducted by Infosys, October 2015.
+“Inspire Faculty Partnership Level 2016- Bronze”
+from Infosys – Campus Connect, July 2016.
+“Best Paper Award in ICACIE2018”
+, SOA University, Bhubaneswar, December 2018.
+“Budding Researchers Award”
+, National Institute of Technology, Tiruchirappalli, August 2021.
 Education :
-Ph.D., Applied Mathematics, Thesis titled: "Gravitational Search Algorithms for Optimization and Their Applications", South Asian University (An international university established by SAARC countries), New Delhi, 2021.
-M.Tech., Systems Analysis and Computer Applications, NIT Surathkal, 2013
-M.Sc., Mathematics, Kumaun University, Nainital, 2005
+Ph.D, Thesis titled: "Enhanced Convergent Encryption Key and Ownership Management for Secure Deduplication in Cloud", National Institute of Technology, Tiruchirappalli,2022.
+M.Tech., Computer Science and Engineering, Anna University, 2012.
+B.Tech., Information Technology, Anna University, 2009.
+Invited Talk/Sessions :
+Deliver Lecture in One day Webinar on
+Privacy Preserving of Data in Cloud
+, on 8th Febrary 2025, Mohamed Sathak Engineering College Tamil Nadu.
+Deliver Guest Lecture on
+Beyond Traditional Security: AI as a Cyber Guardian
+, on 17th March 2025, Kings College of Engineering, Thanjavur, Tamil Nadu.
+Deliver Lecture in One day workshop on
+Cloud based secure deduplication challenges and solutions
+, on 26th July 2024, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology Chennai, Tamil Nadu.
+Delivered Lecture in One day Workshop on
+Fundamentals of Cyber Security and Digital Forensics
+, on 15th November, 2024, Sudharsan Engineering College, Pudukottai, Tamil Nadu.
+Chief Guest for Inauguration and delivered inauguration address on
+International Conference Future Computing - A Navigation Through The age of Intelligent Systems
+, on 14th March 2025, Patrician College of Arts and Science, Chennai, Tamil Nadu.
+Delivered Lecture in Five Days Short Term Course on "Recent Trendsin Cybersecurity and Energy Management ”(RTCEM) on
+Data Security and Access Management in the cloud
+, 12th  - 16th October, 2022, National Institute of Technology, Puducherry.
+Delivered Lecture in Technical Seminar on
+Data security in Cloud
+, 20th December, 2023, Saranathan College of Engineering, Tiruchirappalli, Tamil Nadu.
+Delivered Lecture in National Webinar on
+Cryptography
+, 4th August 2023 and 14th July 2023, Patrician College of Arts and Science, Chennai, Tamil Nadu.
+Delivered Lecture in Innovation Ambassador Program on
+Secure Deduplication In Cloud
+, 13th November 2023, Mangalam College of Engineering, Ettumanur Kottayam Kerala
+Lecture on Web mining techniques in Seminar , Organized by Department of Computer Science, Bhara-thidasan University, Thanjavur, 2012
+Lecture on Cloud Computing in Seminar , Organized by Department of Computer Science, Bharathidasan University, Thanjavur, 2013
+Workshop/FDP Organized:
+One Week FDP/Workshop (Hybrid mode) on
+Secure Cloud, AI and Distributed Systems (SCADS’2025)
+Organized by Dept. of CSE – Cyber Security  in association with SCADS Lab and ACM student chapter, held from 5th - 9th June, 2025.
+Five Days FDP/Workshop (Hybrid mode) on
+Contemporary Image Processing and Cybersecurity Applications (CIPCSA’2024)
+Organized by Dept. of CSE – Cyber Security held from 6th - 10th May, 2024.
+Five Days Workshop (Hybrid mode) on
+Advanced Cryptography and Digital Forensics (ACDF’2023)
+Organized by Dept. of CSE – Cyber Security held from 5th -9th June 2023.
 Publications
-International Journals
-Susheel Kumar Joshi, Levy flight incorporated hybrid learning model for gravitational search algorithm, Knowledge-Based Systems, volume-265, 110374, 2023, Elsevier, (SCI, Impact factor: 8.139)
-Susheel Kumar Joshi, Chaos embedded opposition based learning for gravitational search algorithm, Applied Intelligence, 1-20, 2022, Springer (SCI, Impact factor: 5.019).
-Susheel Kumar Joshi, Anshul Gopal, Shitu Singh, Atulya k Nagar, Jagdish Chand Bansal, A novel neighborhood archives embedded gravitational constant in GSA, Soft Computing, 2021, Volume 25, page 6539-6555, Springer ( SCI-Expanded, Impact Factor: 3.732).
-Susheel Kumar Joshi, Jagdish Chand Bansal, Parameter tuning for meta-heuristics, Knowledge-Based Systems (2019), Volume 189, page 105094,  Elsevier (SCI, Impact Factor 8.139).
-Jagdish Chand Bansal, Susheel Kumar Joshi, A.K. Nagar, Fitness varying gravitational constant in GSA, Applied Intelligence, Volume 48, page 3446-3461, 2018, ISSN 1573-7497,  Springer (SCI, Impact Factor 5.019).
-Jagdish Chand Bansal, Susheel Kumar Joshi, H.Sharma, Modified global best artificial bee colony for constrained optimization problems, Computers & Electrical Engineering, Volume 67, page 365-82, 2018, Elsevier (SCI-Expanded,  Impact Factor 4.152).
+Journals
+Silambarasan, E., Naresh, E., Asha, V.
+et al
+. Energy efficient heterogeneous clustering scheme using improved golden eagle optimization algorithm for WSN-based IoT.
+Int. j. inf. tecnol
+, 1753–1760 (2025)(SCOPUS). https://doi.org/10.1007/s41870-024-02029-z
+Silambarasan, E., Nirmala, G. & Mishra, I
+. Polycystic ovary syndrome detection using optimized SVM and DenseNet.
+Int. j. inf. tecnol.
+, 1039–1047 (2025)(SCOPUS). https://doi.org/10.1007/s41870-024-02143-y
+Silambarasan, E., Suryawanshi, R. & Reshma,
+S. Enhanced cloud security: a novel intrusion detection system using ARSO algorithm and Bi-LSTM classifier.
+Int. j. inf
+. tecnol.
+, 3837–3845 (2024)(SCOPUS). https://doi.org/10.1007/s41870-024-01887-x
+Silambarasan Elkana Ebinazer
+, "CP-ABCEDedup: Secure Deduplication Using CipherText Policy-Attribute Based Convergent Encryption in Cloud Environment",
+Concurrency and Computation: Practice and Experience, Wiley
+(SCIE), 2024. (
+Accepted
+, "Hybrid Encryption with Greylag Goose Optimizer-based Swin Transformer for Secured Data Deduplication and Anomaly Detection for Cloud-based IoMT Applications",
+Biomedical Signal Processing and Control, Elsevier
+(SCIE), 2025. (
+Under Review
+, "Enhancing SCADA Data Integrity in critical infrastructure using Blockchain Technology”,
+Computer Science Review, Elsevier
+, Nickolas Savarimuthu, and S. Mary Saira Bhanu," A hybrid encryption for secure data deduplication the cloud",
+International Journal of Cloud Computing – Inder science
+(SCOPUS),2023.
+https://doi.org/10.1504/IJCC.2023.130904
+, Nickolas Savarimuthu, and S. Mary Saira Bhanu, “ESKEA: Enhanced Symmetric Key Encryption Algorithm based secure data storage in cloud network with data deduplication”,
+Wireless Personal Communications, Springer
+(SCIE), 2021.
+https://doi.org/10.1007/s11277-020-07989-6
+, Nickolas Savarimuthu, and S. Mary Saira Bhanu, “An efficient secure data deduplication method using Radix trie with Bloom Filter (SDD-RT-BF) in cloud environment”,
+Peer to peer networking and applications, Springer
+https://doi.org/10.1007/s12083-020-00989-0
+, Nickolas Savarimuthu, and S. Mary Saira Bhanu, “CECPABE: A novel approach for secure deduplication in cloud”,
+International Journal of Advance Science and Technology (Scopus)
+, 2020.
+http://sersc.org/journals/index.php/IJAST/article/view/24241
+Parvathi,
+Silambarasan E
+, “Web Mining Using Pagerank Algorithm Using Genetic Relational Algorithm”,
+IJCAE
+, 2012.
 International Conferences
-Susheel Kumar Joshi, Jagdish Chand Bansal, Grey Wolf Gravitational Search Algorithm, International Workshop on Computational Intelligence (IWCI 2016), pages 224-231, IEEE.
-Preprints
-Susheel Kumar Joshi, Jagdish Chand Bansal, A novel neighbourhood archives embedded gravitational constant based binary gravitational search algorithm and its application to windfarm layout optimization problem, preprint at arXiv:2107.11844 [cs.NE].
-Susheel Kumar Joshi, Chaos embedded opposition based learning for GSA, preprint at arXiv:2108.12610 [cs.NE].
-For details of all research articles, please visit
-google scholar
+Thomsy William and Silambarasan Elkana Ebinazer
+, “Early detection of red palm weevil on coconut trees using Deep Learning”, ICMICA2024, Université des Mascareignes, Swami Dayanand Campus Beau Plan, Pamplemousses, Mauritius.(
+Presented
+Silambarasan Elkana Ebinazer, Kumarjit Kumar, Jatin Chigurubattula and Sachin Saini
+, “PhishGuard: Intelligent Phishing URL Detection Using  Machine Learning” ICCNT2025, IIT Indore (
+Accepted for Presentation
+Silambarasan Elkana Ebinazer and Dhanush Hebbar
+, “Kafka-Driven Online Learning for Real-Time Temperature Prediction” ICCNT2025, IIT Indore (
+Gopal Mishra, Harsh Gupta and Silambarasan Elkana Ebinazer
+, “Extending IEC 62443 4-2 for Enhanced Security of Industrial IIoT Edge Devices: Implementation Insights, Challenges, and Future Control” ICCNT2025, IIT Indore (
+, and Shinde Soham Santosh, "Robust Ownership Management for Secure Deduplication in Cloud",
+7th World World Conference on Smart Trends in Systems, Security, and Sustainability (WorldS4), London, Springer
+(SCOPUS), 2023 (Presented)
+M. Vivekanandan, P. K. Premkamal, C. I. Johnpaul and
+S. E. Ebinazer
+, "Blockchainbased Secure Data Storage Verification Algorithm for Smart City Environment,"
+2023 4th International Conference on Innovative Trends in Information Technology (ICITIIT), Kottayam
+, India (SCOPUS), 2023. doi: 10.1109/ICITIIT57246.2023.10068638
+, Nickolas Savarimuthu, and S. Mary Saira Bhanu , “PoI: Proof of Identity And PoDI: Proof of Data Integrity for Secure Deduplication in Cloud”, International Conference on Advances in Computing , Communication, Embedded And Secure System (ACCESS2021), Kerala, IEEE, 2021(SCOPUS). doi: 10.1109/ACCESS51619.2021.9563336
+, Nickolas Savarimuthu, and S. Mary Saira Bhanu , “Attribute Based Convergent Encryption Key Management for Secure Deduplication in Cloud”,
+3rd International Conference on Advanced Computing and Intelligent Engineering, Bhubaneswar, Springer
+(SCOPUS), 2018. https://doi.org/10.1007/978-981-15-1081-6_46.
+, Richard Jones, “Dynamic Data Center Structural Analysis, Energy Consumption, and Security Protocols”
+International Conference on Mathematical Modeling in Computer, Management and Medical Sciences, Kerala
+, 2013.
+A Venkata Subramaniyan, M Premalatha,
+E. Silambarasan
+, “Effective E-Mail Spam Reduction Using Captcha’s and Extend User ID”,
+International Conference on MEMS and Optoelectronics Technologies, Narsapur
+, 2010
+, Sridevi, “Optimizing Free Space Optics for City-Wide Wireless Networks”,
+International Conference on Innovative Research in Engineering and Technology (ICIRET-2010), Coimbatore,
+2010.
+National Conferences
+, Nickolas Savarimuthu, and S. Mary Saira Bhanu, “Secure Data Deduplication with Dynamic Key Management in Cloud”, National Conference on “Research trends in Computer Applications”, NITT, 2019.
+, Nickolas Savarimuthu, “IBE Based DNA Encryption for Cloud Data Security” 17th Workshop on Cryptology, NITT, 2017.
+, “Survey on Web Mining Techniques”, National Conference on Topical Trends in Computing Sciences, Pudukkotai, 2012.
+, “Utilizing an Idle Workstation in Network for Data Processing”, National Conference on Emerging Trends in Engineering, Technology and Applied Sciences, Vijayawada, 2010.
+, “Outsourcing Software Activities” National Conference on Informative and Innovative Technologies at Bangalore, 2010.
+Book Chapter:
+Dr. E. Silambarasan, Harish Vishwa, Harsh Raj, Harsh Gupta and Likhitha
+,”A Survey on SQL Injection Attack Detection Using Machine Learning”, Book title: Harnessing the potential of Artificial Intelligence to Promote Environment Sustainability, Emerald publishers 2025.(
+SCOPUS
+National Workshop
+Presented a paper title “IBE Based DNA Encryption for Cloud Data Security” 17th Workshop on Cryptology, NITT, 2017
 Professional Activities
 Reviewer:
-Expert Systems with Applications (Elsevier)
-Artificial Intelligence Review (Springer)
-Knowledge based systems (Elsevier)
+Reviewer for “International Conference on Sustainable Advanced Computing (ICSAC 2021)”, organized by CHRIST University, Bangalore, Karnataka, 2021.
+Reviewer for “2nd International Symposium on Automation, Information and Computing (ISAIC 2021)” organized by Incheon National University, South Korea, 2021.
+Reviewer for “International Conference on Advanced Network Technologies and Intelligent Computing (ANTIC 2021)” organized by Banaras Hindu University, Varanasi, 2021.
+Reviewer for “AICTE sponsored 4th International Conference on Recent Trends Advanced Computing (ICRTAC’21)” organized by Vellore Institute of Technology(VIT), Chennai, in collaboration with National Cheng-Kung University, Taiwan, 2021.
+Professional Membership:
+IEEE Senior member
+ACM Member
+CRSI Life member
+ISTE Life member
 Research Interests :
-Swarm Intelligence
-Nature-inspired Optimization Techniques
-Evolutionary Computation
-Optimization Algorithms
-Soft Computing
+Cloud Data Security
+Security Protocols
+Web Mining
+AI based Malware analysis
+Privacy preserving healthcare data using federated learning

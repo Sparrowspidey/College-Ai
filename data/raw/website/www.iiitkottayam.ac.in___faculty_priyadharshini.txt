@@ -1,48 +1,137 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/priyadharshini
 
-Dr. Minu A Pillai | IIIT Kottayam
+Dr. Priyadharshini S| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Minu A Pillai
+Dr. Priyadharshini S
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: minupillai
+Email:priyadharshini
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202218
+Hello at: 00 91  04822202267
 Honours and Achievements :
-Qualified GATE 2008 in Instrumentation with All India rank 197 and percentile score 94.93.
-Received Academic Proficiency prize from National Institute of Technology Tiruchirappalli for securing third rank for M-Tech in Process Control and Instrumentation.
-Article entitled “A Review of Acoustic Energy Harvesting” received International Journal of Precision Engineering and Manufacturing Most Downloaded Article Award, 2014 from Springer.
-University Post-Doctoral Fellowship funded by Cochin University of Science and Technology.
-Education :
-Ph.D, Instrumentation, Thesis titled: "Analysis and design of acoustic energy harvesters using duct resonators and piezoelectric unimorphs", National Institute of Technology Tiruchirappalli, 2018.
-M.Tech., Process Control and Instrumentation, National Institute of Technology Tiruchirappalli, 2010
-B.Tech., Applied Electronics and Instrumentation, Mahatma Gandhi University Kottayam, 2007
+Gold Medalist.
+Best Outgoing Student for the year 2015-2017.
+Received the Post Graduate Scholarship for the year 2015-2017.
+Education
+Ph.D., Computer Science and Engineering, Thesis titled:
+"Generation and Visualization of Video Synopsis from Spherical Surveillance Video"
+from National Institute of Technology Puducherry, 2023.
+M.E., Computer Science and Engineering, Government College of Engineering, Tirunelveli, Tamil Nadu, 2017.
+B.E., Computer Science and Engineering, Government College of Engineering, Tirunelveli, Tamil Nadu, 2015.
+Teaching Experience:
+Assistant Professor Gr. II – IIIT Kottayam (Present)
+Adhoc Lecturer – IIIT Kottayam (2023)
+Temporary Faculty – NIT Trichy (2018), NIT Karnataka (2023)
+Adhoc Lecturer – GCE Tirunelveli (2017)
+Certifications:
+Participated in the SERB sponsored one week high-end workshop on Data Learning for anomaly detection in social networks (DLADSN 2022) held on 25 - 31 july 2022 at Department of CSE, National Institute of Technology Puducherry, Karaikal.
+Certificate of competence in “Fundamentals of Deep Learning” by NVIDIA Deep Learning Institute in 2021.
+Attended Five days ATAL FDP on Artificial Intelligence in Revolutionizing Health care organized by the Department of Electronics and Communication Engineering, National Institute of Technology Puducherry, Karaikal, Sponsored by ATAL Academy on 19 - 23 July 2021.
+Attended the Five days National Workshop on “Blockchain Application Development using Hyperledger and Ethereum” during 6 - 10 March 2019, organized by Department of Computer Science and Engineering, national Institute of Technology Puducherry, Karaikal.
+Attended one day workshop on “Awareness programme on Intellectual property Rights (IPR)” conducted by IPR cell, NIT Puducherry on July 20, 2019.
+Certificate of Appreciation for Best outgoing student for the year 2015-2017 in GCE, Tirunelveli on 2017.
+Attended Training on “Fundamentals of Telecom” at the office of General Manager, BSNL, Nagercoil on 2016.
+Attended One day Workshop Entitled “Practical approaches of cloud computing using open stack” organized by GCE, Tirunelveli on 2015.
+Technical Exhibition TECHEXPO’15 for exhibiting the project entitled Hop by Hop Message Authentication and source privacy in wireless sensor Networks organized by GCE, Tirunelveli on 2015.
+Aptitude shortcuts conducted by the Department of Computer Science and Engineering in GCE, Tirunelveli on 2014.
+Attended Oneday Workshop on Placement Oriented Data Structures conducted by PSG College of Technology, Coimbatore on 2013.
+Paper Presentation in technical symposium INTRAQUEST’12 organised by the Department of Mechanical Engineering in GCE, Tirunelveli on 2012.
+Certified Programming in JAVA by BITS Information Technology, Nagercoil, 2011.
+Certified in HTML and DHTML by BITS Information Technology, Nagercoil, 2011.
 Publications
 Journals
-Minu A. Pillai and Ezhilarasi Deenadayalan (2014) A Review of Acoustic Energy Harvesting. International Journal of Precision Engineering and Manufacturing, Vol. 15, No. 5, pp.949-965, DOI: 10.1007/s12541-014-0422-x.
-Minu A. Pillai and Ezhilarasi Deenadayalan (2016) Improved acoustic energy harvester using tapered neck Helmholtz resonator and piezoelectric cantilever undergoing concurrent bending and twisting. Procedia Engineering, 144, pp. 674 – 681, DOI:
-https://doi.org/10.1016/j.proeng.2016.05.065.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2017) Analytical model of mechanically excited piezoelectric unimorph beams. The Journal of the Acoustical Society of America, 142 (2), pp.718-727, DOI:
-http://dx.doi.org/10.1121/1.4996852.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2017) Erratum: Analytical model of mechanically excited piezoelectric unimorph beams [J. Acoust. Soc. Am. 142(2), 718–727 (2017)] The Journal of the Acoustical Society of America, 142 (4), pp. 1871-1873, DOI:
-https://doi.org/10.1121/1.5006060.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2018) Design and optimization of piezoelectric unimorph beams with distributed excitation. The Journal of the Acoustical Society of America, 143 (5), pp.2685-2696, DOI:
-https://doi.org/10.1121/1.5034465.
-Minu A. Pillai, D. D. Ebenezer and Ezhilarasi Deenadayalan (2019) Transfer matrix analysis of a duct with gradually varying arbitrary cross-sectional area. The Journal of the Acoustical Society of America, 146 (6), pp. 4435-4445, DOI:
-https://doi.org/10.1121/1.5139412.
-Conferences
-Minu A. Pillai, Sridevi Veerasingam and Yaswanth Sai D. CAN Based Smart Sensor Network for Indoor Air Quality Monitoring, Proceedings of 3rd IEEE International Conference on Computer Science and Information Technology (ICCSIT) 2010, China, IEEE CS Press, pp. 456-460, ISBN No: 978-1-4244-5540-9, DOI: 10.1109/ICCSIT.2010.5564892.
-Minu A. Pillai, Sridevi Veerasingam and Yaswanth Sai D. Implementation of Sensor Network for Indoor Air Quality Monitoring Using CAN Interface, Proceedings of International Conference on Advances in Computer Engineering (ACE) 2010, Bangalore, IEEE CS Press, pp. 366-370, DOI : 10.1109/ACE.2010.85.
-Yaswanth Sai D., Sridevi Veerasingam and Minu A. Pillai Design of Sensor Node for synchronized TDMA Network, Proceedings of International Conference on Control, Communication and Power Engineering (CCPE) 2010, Chennai, pp. 349-351, ISBN: 978-1-62993-400-6.
-Minu A. Pillai and Ezhilarasi Deenadayalan Acoustic energy harvesting using Helmholtz resonator with tapered neck. Proceedings of COMSOL Conference -2014, Bangalore, pp.1-4.
-Minu A Pillai, Alwyn Ghosh, Jestin Joy, Suraj Kamal, Satheesh Chandran C, Arun A Balakrishnan and Supriya M. H. Acoustic Source Localization using Random Forest Regressor. Proceedings of International Symposium on Ocean Technology SYMPOL 2019, Kochi, pp.191-199, DOI: 10.1109/SYMPOL48207.2019.9005303.
-Professional Activities
-Professional Membership: Life time member of Institute of Smart Structures and Systems (ISSS)
+Priyadharshini, S
+. and Mahapatra, A. (2023). “MOHASA: A Dynamic Video Synopsis Approach for Consumer-based Spherical Surveillance Video”,
+IEEE Transactionson Consumer Electronics
+, pp: 1-9, October 2023. (SCIE- Impact factor: 4.3)
+https://doi.org/10.1109/TCE.2023.3324712
+[Early Access].
+Priyadharshini, S.
+and Mahapatra, A. (2022). “PanoSyn: Immersive Video Synopsis for Spherical Surveillance Video”.
+Sadhana
+, Springer, vol. 47, pp: 1-20, August 2022.
+and Mahapatra, A. (2023). “A Personalized Video Synopsis Framework for Spherical Surveillance Video”.
+Computer Systems Science and Engineering
+, vol. 45, no.3, pp. 2603–2616, Tech Science Press, 2023.
+and Mahapatra, A. (2023), “Spherical Video Synopsis Generation and Visualization Framework”.
+Journal of Intelligent & Fuzzy Systems
+. preprint, pp: 1-16, June 2023
+and Latha, P. (2017).
+“A Secure Model For Detecting Provenance Forgery and Packet Drop Attacks in Wireless Sensor Networks”
+, International Journal of Engineering Science And Computing (IJESC), Volume 7, Issue No 3, Mar 2017.
+Book Chapters
+Priyadharshini, S. and Mahapatra, A. (2020).
+“360° User-Generated Videos: Current Research and Future Trends”
+. High Performance Vision Intelligence, 913, 117–135, 2020.
+International Conference
+Finney Daniel Shadrach,
+Priyadharshini S
+, Shanmugaraja T, Surendar K S, Karthick J, Koushiikram G B ., “Enhanced Pothole Detection and Prediction Using Deep Learning with ResNet and YOLOv8” in
+2025 Second International Conference on Cognitive Robotics and Intelligent Systems
+sponsored by IEEE Madras Section at Coimbatore, India
+Lochana Balivada and
+Priyadharshini S.
+, “Performance Analysis of YOLO Models for Real-Time Surveillance Object Detection” in
+Fifth Annual International Conference on Data Science, Machine Learning & Blockchain Technology (AICDMB - 2025)
+, technically sponsored by IEEE Bangalore Section and IEEE Mysore Subsection, Vidyavardhaka College of Engineering, Mysore.
+Samar Kumar and
+, “Surveillance Video Upscaling Using Improved ESRGAN” in
+12th International Conference on Signal Processing & Integrated Networks (SPIN 2025)
+on Feb 2025.
+Drisya, S. S., Ansuman Mahapatra, and
+S. Priyadharshini
+. “360-Degree Image Classification and Viewport Prediction Using Deep Neural Networks”, In: Sahoo, J.P., Tripathy, A.K., Mohanty, M., Li, KC., Nayak, A.K. (eds) Advances in Distributed Computing and Machine Learning. Lecture Notes in Networks and Systems, vol 302, pp. 483-492. Springer, Singapore, 2022.
+Patent
+Priyadharshini, S. and Mahapatra, A. National Institute of Technology Puducherry,
+“System and method for the generation and visualization of non-spherical synopsis video from spherical video”
+, Indian Patent, Application No. 202241046721, Patent number: 555589,
+Status: Granted.
+Workshops/FDPs Organized:
+Organized a Five-day offline AICTE-sponsored FDP on
+"Practical Data Science and Advanced ML Exploration with Hands-on using Python: From Basics to Insights”
+from 09/12/2024 to 13/12/2024.
+Conducted a 5 days
+“FDP on deep learning in text and image data”
+from 03/06/2024 to 07/06/2024.
+Invited Talk/Sessions:
+FDP and Workshop on
+Advanced Computer Vision for Image & Video Analysis and Applications
+(from June 17-21, 2024)
+Training Program on
+Data Science Using Python
+(from 10th - 14th, June 2024)
+FDP cum WORKSHOP on
+Contemporary Image Processing and Cybersecurity Applications
+(from May 06-10, 2024)
+4-day offline
+“Training School on Machine Learning Using Python”
+organized by the Department of Computer Science and Engineering, IIIT Kottayam (from 30 oct – 2 nov 2023).
 Reviewer:
-IEEE Internet of Things Journal
-Research Interests :
-Acoustic Energy Harvesting
-Piezoelectric Energy Harvesting
-Acoustic Source Localization
+Journals:
+Control and Cybernetics
+Conferences:
+International Conference on intelligent COMPUting TEchnologies and Research (ICOMPUTER - 2023)
+1st International Conference on Trends in Engineering Systems and Technologies
+International Conference on Innovative Trends in Information Technology 2024
+International Conference On Signal Processing, Computation, Electronics, Power And Telecommunication (ICONSCEPT 2024)
+ISENSE 2024
+1st International Conference on Trends in Engineering Systems and Technologies (2024).
+IEEE ICASSP 2025
+IEEE International Conference on Recent Advances in Computing and Systems (ReACS ’25)
+2025 International Joint Conference on Neural Networks (IJCNN 2025)
+12th International Conference on Signal Processing and Integrated Networks 2025
+Guideship:
+No of Ph.D. Scholar - 1
+No of External Interns - 5
+No of internal INterns - 1
+No of Mtech for Working Professionals - 2
+No of BTech Project - 2
+Total No of candidates guided - 11
+Research Interests
+Computer Vision
+Deep Learning
+Image Processing
+Spatio-Temporal Video Summarization
+Spherical Video Summarization

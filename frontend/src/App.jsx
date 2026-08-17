@@ -7,6 +7,7 @@ import Message from "./components/Message";
 import TypingIndicator from "./components/TypingIndicator";
 import ChatInput from "./components/ChatInput";
 import FloatingBackground from "./components/FloatingBackground";
+import CampusRandomizer from "./components/CampusRandomizer";
 
 const API_URL = "http://127.0.0.1:8000";
 
@@ -113,9 +114,12 @@ export default function App() {
         />
 
         <main className="chat-area">
-          {isEmpty ? (
-            <WelcomeScreen onSuggestion={sendMessage} />
-          ) : (
+  {isEmpty ? (
+    <>
+      <WelcomeScreen onSuggestion={sendMessage} />
+      <CampusRandomizer />
+    </>
+  ) : (
             <div className="messages">
               {messages.map((message, index) => (
                 <Message key={`${message.role}-${index}`} msg={message} />

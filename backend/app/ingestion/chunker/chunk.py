@@ -10,6 +10,9 @@ as a pickle file ready for embedding.
 Usage:
     cd backend/app/ingestion/chunker
     python chunk.py
+
+    cd backend
+    python -m app.ingestion.chunker.chunk
 """
 
 import os

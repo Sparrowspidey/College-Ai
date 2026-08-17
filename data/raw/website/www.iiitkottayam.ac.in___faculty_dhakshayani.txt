@@ -1,135 +1,78 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/dhakshayani
 
-Dr. Balasubramanian P | IIIT Kottayam
+Dr. Dhakshayani J| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Balasubramanian P
+Dr. Dhakshayani J
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: pbala
+Email: dhakshayani
 iiitkottayam
 ac.in
-Hello at: 04822202258
+Hello at: 00 91  04822202275
 Honours and Achievements :
-Received Doctoral fellowship for doing PhD from MHRD, Govt. of India.
-Qualified in Graduate Aptitude Test in Engineering (GATE).
-Qualified in UGC-NET Examination for Assistant Professor.
-Education
-Ph.D., Computer Science and Engineering, Thesis titled: "Design and Analysis of Content-based Fake News Detection using Deep Learning Techniques”, Ph D from the National Institute of Technology (NIT) , Tiruchirappalli, Tamil Nadu, 2023.
-M.E., Computer Science and Engineering, University College of Engineering (BIT Campus), Anna University, Tiruchirappalli, Tamil Nadu, 2013.
-B.E., Computer Science and Engineering, Bharathidasan Institute of Technology, Bharathidasan University, Tiruchirappalli, Tamil Nadu, 2010.
-B.Sc., Mathematics, A.P.A. College of Arts and Culture, Palani, Madurai Kamaraj University, Tamil Nadu, 2007.
-Experience:
-Teaching: 8 years of experience in various Institutions including Indian Institute of Information Technology (IIIT), Tiruchirappalli.
-Invited Talk/Sessions:
-Resource Person at “12-days Online Refresher Course on Data Science” organized by the Malaviya Mission Teacher Training Center at the
-Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kancheepuram, Chennai
-. Delivered a detailed session on “Role of Data Science for Misinformation Detection in Social Media” during March, 2025.
-Chief Guest & Resource Person at “AICTE Sponsored, ATAL Six Day National Level Faculty Development Programme (FDP) on Integrating Indian Knowledge Systems with Modern Information Technologies: Bridging Tradition and Innovation”, organized by Department of Computer Applications,
-Nehru Arts and Science College, Coimbatore
-. Delivered a detailed session on “Ethical and legal aspects of IKS” during Feb, 2025.
-Chief Guest & Resource Person at “DST-SERB & ANRF Sponsored One-week FDP on “Research Avenues in Artificial Intelligence, Data Analytics, Generative AI and LLM”, organized by Department of Artificial Intelligence and Data Science,
-Mepco Schlenk Engineering College, Sivakasi
-. Delivered a detailed session on “Importance of Transformers based Contextual Word Embeddings in Textual Fake News detection” during Feb, 2025.
-Resource Person for “Five-day offline AICTE- Sponsored FDP Practical Data Science and Advanced ML Exploration with Hands-on using Python: From Basics to Insights”, organized by Department of CSE hosted by
-Indian Institute of Information Technology, Kottayam
-, Kerala. Delivered a detailed session on “Supervised Learning: Linear Regression” with hands-on practice using Python. During Dec, 2024.
-Session Chair for “Third International Conference on Speech and Language Technologies For Low Resource Languages, 2024 (SPELLL-2024)”, hosted by
-Vellore Institute of Technology, Chennai
-, Tamil Nadu. Served as a Session chair on 05-12-2024 for the Track-MMLoW.
-Invited Talk for “B.Tech.-First Year Students”, hosted by
-Vellore Institute of Technology, Vellore
-. Delivered a detailed session on “Transforming Education through AI: Bridging the Gap between Knowledge and Practice” during October, 2024
-Resource Person for “One day Training Program on AI and Cyber-security in Media”, hosted by
-Indian Institute of Mass Communication (IIMC), Kottayam
-, Kerala. Delivered a detailed session on “Content Fact-checking with AI in Media” during October, 2024.
-Invited talk on the topic “Fake News Detection using Deep Learning” at the Online STC on  “Mathematics with Computational Learning for Engineering and Technological Applications (MCET 2023)” organized by the Department of Mathematics,
-Dr B R Ambedkar National Institute of Technology Jalandhar, Punjab
-, India during November 20-24, 2023.
-Invited speaker on the topic “Regression Analysis” in the workshop titled “Training School on Machine Learning Using Python” organized by Dept. of CSE,
-IIIT Kottayam
-, during Oct 30 – Nov 02, 2023.
-Delivered an expert lecture in Five Days FDP on "Artificial Intelligence in Solving Real World Problems (Part - II)" organized by the Teaching Learning Centre of Excellence in association with the School of Electronics Engineering at
-, Vellore from 11th September 2023 to 15th September 2023.
-A talk on “Image classification on Agriculture using Convolutional Neural Network” is delivered at
-Government College of Engineering, Thanjavur
-, Tamil Nadu, sponsored by ATAL-AICTE during Feb-2023.
-A talk on “Transformers on NLP with a hands-on session” is delivered for DRDO-NPOL Scientists, Kochi organized by
-NIT-Tiruchirappalli
-, Tamil Nadu, Dec-2022.
-A session on “Significance of Deep Learning in Artificial Intelligence” is delivered at
-A.V.C. College of Engineering, Mayiladuthurai
-, Tamil Nadu, Apr-2023.
-Hands-on session on “Supervised Learning Algorithms” is delivered at
-, Tamil Nadu, Feb-2021.
+Recipient of the Doctoral fellowship during PhD (July 2020-December 2023) from National Institute of Technology Puducherry.
+Recipient of the Post Graduate merit scholarship, acknowledged for attaining the top three academic position in the years 2017-2019, Pondicherry University.
+Education :
+Ph.D, Computer Science and Engineering, Thesis titled: " Transforming Agriculture through Computer Vision: A Precision Farming Approach for Disease Detection and High Throughput Phenotyping", National Institute of Technology Puducherry, 2023.
+M.Tech., Computer Science and Engineering, Pondicherry University, 2019.
+B.Tech., Computer Science and Engineering, Pondicherry University, 2017
+Experience
+Guest Faculty at Pondicherry University, August 2019-May 2020.
 Publications
 Journals
-Balasubramanian Palani
-, Sivasankar Elango and Vignesh Viswanathan K (2022), “CB-Fake: A multimodal deep learning framework for automatic fake news detection using capsule neural network and BERT”, Multimedia Tools and Applications, Springer, 81, 5587-5620.
-and Sivasankar Elango (2023), “CTrL-FND: content-based transfer learning approach for fake news detection on social media”, International Journal of System Assurance Engineering and Management, Springer, 1-16.
-, and Sivasankar Elango (2023), "BBC-FND: An ensemble of deep learning framework for textual fake news detection", Computers and Electrical Engineering 110 (2023): 108866.
-Sivasankar, E., Krishnakumari, K.,
-& Balasubramanian, P
-. (2021). An enhanced sentiment dictionary for domain adaptation with multi-domain dataset in Tamil language (ESD-DA). Soft Computing, 25, 3697-3711
-Sivasankar, E., Kumar, A. S., Sanjivi, J.,
-. (2021). Analysis and prediction of breast cancer through feature selection and classification techniques. International Journal of Medical Engineering and Informatics, 13(5), 359-375
-International Conferences
-, Subodh Uniyal, Siranjeevi Rajamanickam, Jobin Jose (
-2024, November
-). Textual Sarcasm Detection from Low-Resource Dravidian Languages using Deep Learning Techniques”, In International Conference on Speech and Language Technologies for Low-resource Languages.
-Cham: Springer International Publishing
-Rajendran, S., Anand Kumar, M., Rajalakshmi, R., Dhanalakshmi, V.,
-Balasubramanian, P.
-, & Soman, K. P. (
-2022, November
-). “Tamil NLP Technologies: Challenges, State of the Art, Trends and Future Scope”, In International Conference on Speech and Language Technologies for Low-resource Languages (pp. 73-98).
-DravidianLangTech@EACL 2024 - Shared Task Papers
-Subramanian, M., Chakravarthi, B. R., Shanmugavadivel, K., Pandiyan, S., Kumaresan, P. K.,
-Palani, B.
-, ... & Vigneshwar, E. (
-2024, March
-), “Overview of the Second Shared Task on Fake News Detection in Dravidian Languages: DravidianLangTech@ EACL 2024”, In Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (pp. 71-78).
-Association for Computational Linguistics (ACL)
-Malliga, S., Chakravarthi, B. R., Kogilavani, S. V., Pandiyan, S., Kumaresan, P. K.,
-, & Singh, M. (
-2023, September
-), “Overview of the shared task on fake news detection from social media text”, In Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages (pp. 59-63).
-DravidianLangTech@NAACL 2025 - Shared Task Papers
-Premjith B, Nandhini Kumaresh, Bharathi Raja Chakravarthi, Thenmozhi Durairaj,
-, Sajeetha Thavareesan, and Prasanna Kumar Kumaresan. (
-2025
-), “Overview of the Shared Task on Detecting AI Generated Product Reviews in Dravidian Languages: DravidianLangTech@NAACL 2025”, In Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages, pages 123–132, Acoma, The Albuquerque Convention Center, New Mexico.
-Malliga Subramanian, Premjith B, Kogilavani Shanmugavadivel, Santhiya Pandiyan,
-, and Bharathi Raja Chakravarthi. (
-), “Overview of the Shared Task on Fake News Detection in Dravidian Languages-DravidianLangTech@NAACL 2025”, In Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages, pages 759–767, Acoma, The Albuquerque Convention Center, New Mexico.
-Varun Balaji S, Bojja Revanth Reddy, Vyshnavi Reddy Battula, Suraj Nagunuri, and
-Balasubramanian Palani, (2025)
-, “CoreFour IIITK@DravidianLangTech 2025: Abusive Content Detection Against Women Using Machine Learning and Deep Learning Models”, In Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages, pages 655–660, Acoma, The Albuquerque Convention Center, New Mexico.
-Emmanuel George P, Ashiq Firoz, Madhav Murali, Siranjeevi Rajamanickam, and
-, “Hermes@DravidianLangTech 2025: Sentiment Analysis of Dravidian Languages using XLM-RoBERTa”, In Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages, pages 330–334, Acoma, The Albuquerque Convention Center, New Mexico.
-Sai Sathvik, Muralidhar Palli, Keerthana NNL,
-, Jobin Jose, and Siranjeevi Rajamanickam, (
-), “Team-Risers@DravidianLangTech 2025: AI-Generated Product Review Detection in Dravidian Languages Using Transformer-Based Embeddings”, In Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages, pages 33–37, Acoma, The Albuquerque Convention Center, New Mexico.
+Kim, T. H., Srinivasulu, A., Chinthaginjala, R.,
+Dhakshayani, J.
+, Zhao, X., & Obaidur Rab, S. (2025). Enhancing cybersecurity through script development using machine and deep learning for advanced threat mitigation.
+Scientific Reports
+, 15(1), 8297.
+, Surendiran, B., Jyothsna, J., Hameed, A. S. S., & Rajagopalan, N. (2024). A deep learning based automated phenotyping for identification of overuse of synthetic fertilisers in Amaranthus crop.
+International Journal of Computational Science and Engineering
+, 27(4), 472-483.
+, Jyothsna J., & Surendiran, B. (2024). Fertilizer Optimization through Machine Learning-driven Models: An Empirical Investigation on Smart Farming of Amaranth. International Journal of Environment and Climate Change, 14(5), 254–267.
+https://doi.org/10.9734/ijecc/2024/v14i54186
+, & Surendiran, B. (2023). GF-CNN: An Enhanced Deep Learning Model with Gabor Filters for Maize Disease Classification. SN Computer Science (Springer Nature) 4 (5), 538.
+, & Surendiran, B. (2023). M2F-Net: A Deep Learning-Based Multimodal Classification with High-Throughput Phenotyping for Identification of Overabundance of Fertilizers. Agriculture (MDPI), 13, 1238. https://doi.org/10.3390/agriculture13061238
+, Surendiran, B. Jyothsna J, Syed Shahul Hameed A.S, & Narendran Rajagopalan. (2023). A Deep Learning Based Automated Phenotyping for Identification of Overuse of Synthetic Fertilizers in Amaranthus Crop. International Journal of Computational Science and Engineering (Inderscience publisher).
+Jyothsna J,
+, Reena Nair, & Surendiran B. (2022) Crop Simulation Models for Precision Farming of Vegetable Crops: A Review. Adv. Biores. 13 [6], 44-49.
+, Dr. S. Sivasathya, S. Sharmiladevi & S. LourduMarie Sophie. (2018) A Survey Incremental Pattern Mining, Journal of Emerging Technologies and Innovative Research (JETIR), 5 (10), 284-290.
+Sophie, S. L., Sivasathya, S., Sharmiladevi, S., &
+(2018) A Survey on Spatial Colocation Pattern Mining using Point Dataset, International Journal of Research and Analytical Reviews (IJRAR), 5 (4), 764–769.
+Book Chapters
+Sophie, S. L., Sathya, S. S., Sharmiladevi, S., &
+(2024). Computational Intelligence Approach for Exploration of Spatial Co‐Location Patterns.
+Computational Intelligence: Theory and Applications
+, 117-144.
+Dhakshayani J., Surendiran B. & Jyothsna J. (2023). Artificial Intelligence, IoT, Machine Learning & Cloud Computing in Precision Agriculture: A Systematic Review”, Predictive Analytics in Smart Agriculture (book), CRC press.
+Conferences
+Somesh, K., Sai, C. S. S., Mude, N., Surendiran, B., &
+(2025, June). Enhancing Tea Leaf Disease Classification: Leveraging Data Augmentation, Diverse Feature Extraction Techniques, and Ensemble Stacking with Machine Learning Models. In
+6th International Conference on Deep Learning, Artificial Intelligence and Robotics (ICDLAIR 2024)
+(pp. 149-168). Atlantis Press.
+Dhakshayani J.
+, Sanket S Kulkarni, Ansuman Mahapatra, Surendiran B. & Malaya Kumar Nath, (2022). Weed Classification from Paddy Crops using Convolutional Neural Network, International Conference on Paradigms of Communication, Computing and Data Sciences (PCCDS-2021), National Institute of Technology, Kurukshetra & Soft Computing Research Society, In: Springer Book Series “Algorithms for Intelligent Systems”. DOI:10.1007/978-981-16-5747-4_42.
+, Sivasathya, S., Sharmiladevi, S., Sophie, S.L. (2023). Mining Frequent Patterns from Temporal Dataset Using Backtracking Search Tree of GenMax Algorithm. In: Bhattacharyya, S., Banerjee, J.S., Köppen, M. (eds) Human-Centric Smart Computing. Smart Innovation, Systems and Technologies, 316. Springer, Singapore.
+https://doi.org/10.1007/978-981-19-5403-0_9.
 Professional Activities
-International Conference - General Chair
-SPELLL 2025 - Fourth International Conference on Speech and Language Technologies for Low-resource Languages, December 18-20, 2025, IIIT Kottayam, Kerala, India.
-Workshop Organizer
-Workshop Proposal Titled on
-“The International Workshop on Novel Algorithms, Models, Libraries and Tools for Achieving Sustainability and Energy Efficiency in Computing Paradigms”
-accepted in 13th International Conference on Big Data and Artificial Intelligence (BDA 2025), IIIT Bangalore.
+Organized a 5 days National Level FDP-cum-Workshop on Advanced Computer Vision for Image, Video and Applications during June 23-27, 2025.
+Acting as a book editor for the book “NextGen Strategies and Tools: Pioneering Innovations in Agriculture,” indexed in SCOPUS and published by CRC Press, Taylor & Francis Group, USA.
+Delivered invited talks in over five Faculty Development Programs (FDPs) and workshops across diverse domains, including Precision Agriculture, Multimodal AI, Data Visualization, and more
+Organized a 5 days National Level FDP-cum-Workshop on Advanced Computer Vision for Image, Video and Applications during June 21-25, 2024.
+International Program Committee member for the 22nd International Conference on Intelligent Systems Design and Applications 2022, Seattle, WA, United States.
+Technical Program Committee member for the 5th International Conference on Soft Computing and its Engineering Applications 2023, Charotar University of Science and Technology (CHARUSAT), Changa, India.
+Organizing Committee member for AICTE Training and Learning (ATAL) Faculty Development Programme on “Artificial Intelligence in Revolutionizing Healthcare” scheduled from 19.07.2021 to 23.07.2021.” organized by Department of ECE, National Institute of Technology Puducherry.
 Reviewer:
-Neural Processing Letters.
-Applied Intelligence.
-Social Network Analysis and Mining.
-Knowledge and Information Systems.
-Journal of Information and Intelligent Systems.
-Multimedia Tools and Applications
-SPELLL 2023 - Second edition of the International conference on Speech & Language Technology for Low-resource Languages (SPELLL), Kongu Engineering College, Tamil Nadu, India during December 06-08, 2023.
-LT-EDI 2023 - RANLP 2023 - Third Workshop on Language Technology for Equality, Diversity and Inclusion, Varna, the largest city on the Bulgarian Black Sea Coast.
-ICCSC 2023: 2nd IEEE International Conference on Computational Systems and Communication,  March 03-04, 2023, Organized by LBS Institute of Technology for Women, Poojappura, Kerala, India.
-11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2023), April 11-12, 2023, Organized by Cardiff School of Technologies, Cardiff Metropolitan University, Cardiff, United Kingdom.
-Research Interests
+BioMed Research International- Hindawi.
+International Conference on Soft Computing and its Engineering Applications (icSoftComp 2023) - Charotar University of Science and Technology (CHARUSAT), Changa, India.
+17th IEEE International Conference on Application of Information and Communication Technologies, Baku, Azerbaijan.
+1st International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication (IConSCEPT 2023), NIT Puducherry.
+22nd International Conference on Intelligent Systems Design and Applications Seattle, WA, United States.
+Research Interests :
+Computer Vision
 Machine Learning
 Deep Learning
-Natural Language Processing
-Social Network Analysis
+Image Processing
+Precision Agriculture
+High Throughput Phenotyping
+Multimodal AI

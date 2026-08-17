@@ -1,92 +1,51 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/sara
 
-Dr. Renu Mary Daniel| IIIT Kottayam
+Dr. Sara Renjit| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr.Renu Mary Daniel
+Dr. Sara Renjit
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: renudaniel
+Email: sararenjit
 iiitkottayam
 ac.in
-Hello at: 04822202280
-Honours and Achievements :
-Received Doctoral Fellowship under Visvesvaraya Ph. D. Scheme for Electronics and Information Technology (Full-time), MeitY, Govt. of India, 2015-2019.
-Internship at Center for Artificial Intelligence and Robotics (CAIR), DRDO, Bangalore, 2013.
-Received Best Paper award in the track-security in International Conference in Big Data and Cloud Computing, 2017 (ICBDCC’17), proceedings in Springer.
-M.Tech. First Rank
-B.Tech. Ninth Rank
+Hello at: 04822202299
+Honours and Achievements
+Third Rank in M.Tech Software Engineering
+KSCSTE Research Fellowship (2015 -2017)
+UGC-NET qualified
+GATE qualified in 2012
 Education
-Ph.D, Computer Science and Engineering, Thesis titled: "Design and Cryptanalysis of Public Key Cryptosystems based on Elliptic and Conic Curves", with Fellowship under Visvesvaraya Ph. D. Scheme for Electronics and Information Technology (Full-time), MeitY, Govt. of India, Karunya University, 2020
-M.Tech., Computer Science and Engineering, Karunya University, 2013
-B.E., Computer Science and Engineering, Anna University, 2011
+Ph.D, Department of Computer Science, Thesis titled: "Development of a Framework for Textual Entailment Recognition in Malayalam Language", Cochin University of Science and Technology,2024.
+M.Tech., Software Engineering ,Cochin University of Science and Technology, 2015
+B.Tech., Computer Science and Engineering, Cochin University of Science and Technology,2011
 Publications
 Journals
-Daniel, R.M., K. A., F. & M., B. Assessing Financial Systemic Risk Through Shareholder Networks. Computational Economics (2026), Springer.
-Daniel, R. M., Thomas, A., Rajsingh, E. B., & Silas, S. (2023). A strengthened eCK secure identity based authenticated key agreement protocol based on the standard CDH assumption. Information and Computation, 294, 105067. Elsevier.
-Daniel, R. M., Rajsingh, E. B., & Silas, S. (2021). A forward secure signcryption scheme with ciphertext authentication for e-payment systems using conic curve cryptography. Journal of King Saud University-Computer and Information Sciences, 33(1), 86-98. production and hosting by Elsevier.
-Daniel, R. M., Rajsingh, E. B., & Silas, S. (2020). An efficient eCK secure identity based Two Party Authenticated Key Agreement scheme with security against active adversaries. Information and Computation, 104630, Elsevier.
-Daniel, R. M., Rajsingh, E. B., & Silas, S. (2019). An Efficient eCK Secure Certificateless Authenticated Key Agreement Scheme with Security Against Public Key Replacement Attacks. Journal of information security and applications, 47, 156-172, Elsevier.
-Daniel, R. M., Rajsingh, E. B., & Silas, S. (2017). Analysis of hierarchical identity based encryption schemes and its applicability to computing environments. Journal of information security and applications, 36, 20-31, Elsevier.
-Daniel, R. M. & Thomas A. (2022). A Provably Secure Identity Based Authenticated Key Agreement Protocol with Multiple PKG Compatibility for Inter-Vehicular Ad hoc Networks. Journal of Integrated Design and Process Science, IOS Press.
-ESCI
-Book Chapters
-Daniel, R. M., Rajsingh, E. B., Silas, S., & Francis, S. A. J. (2020). An Efficient Provably Secure Identity-Based Authenticated Key Agreement Scheme for Intervehicular Ad Hoc Networks. In The Cognitive Approach in Cloud Computing and Internet of Things Technologies for Surveillance Tracking Systems (pp. 17-36). Academic Press, Elsevier.
-Scopus
-Conferences
-Daniel, R. M., Rajsingh, E. B., & Silas, S. (2018). An Efficient Forward Secure Authenticated Encryption Scheme with Ciphertext Authentication Based on Two Hard Problems. In Advances in Big Data and Cloud Computing (pp. 123-133). Springer.
-Daniel, R. M., Rajsingh, E. B., & Silas, S. (2016). Deriving Practical Applicability of Hierarchical Identity Based Encryption in Massively Multiplayer Online Role Playing Games. Procedia Computer Science, 93, 839-846, Elsevier.
-Rajesh, N., Poulose, V. T., Umesh, P. L., & Daniel, R. M. (2021, October). Comorbidity Based Risk Prediction System for ARDS in COVID-19 Patients. In 2021 International Conference on Advances in Computing and Communications (ICACC) (pp. 1-5). IEEE.
-Consultancy Work
-Facilitated the development of the Official Website with payment gateway for Taluk Headquarters Hospital Kothamangalam by Indian Institute of Information Technology, Kottayam, with a revenue of Rs. 1,00,000.
-Resource Person for twelve-days Training Programme on Cyber Security and Digital Forensics in collaboration with the
-State Special Branch, Kerala Police
-from 21st August to 1st November, 2025. Handled sessions on
-Symmetric Encryption using AES, VeraCrypt tool, Asymmetric Encryption using RSA, GPG tool and Kleopatra
-Resource Person for
-Indian Cyber-Crime Coordination Center (I4C) cyber-commando training programme
-at the Indian Institute of Information Technology, Kottayam. Organized by the Ministry of Home Affairs (MHA) in the month of September-October, 2024. Topics:
-Python Programming, Cryptography
-Resource Person, AICTE QIP PG Certification Programme in Cyber Security and Digital Forensics offered by IIIT Kottayam, 2025-26. Topics:
-Number Theory and Cryptography, Networking with Packet Tracer Tool
-Resource Person for Five Days Online FDP & Workshop on Next-Gen Intelligence: AI, Security, and Geospatial Insights offered by IIIT Kottayam from July 14th to 18th, 2025. Session Topic:
-Tracking Malware Activity with Wireshark: From Payload Delivery to Command and Control (C2) Communication using Metasploit
-Resource Person, for Two weeks Short Term Training programme – “Digital Defenders: Ethical Hacking & Cyber Forensics” from 9th to 20th June, 2025 at IIIT Kottayam. Session topics:
-Network Forensics using Wireshark, IDS/IPS with Suricata
-Resource Person for Add-On course in “Cryptography, Blockchain and IoT” organized by the Department of Cyber Security, Indian Institute of Information Technology, Kottayam for the students of VISAT Engineering College, Elanji during August 2024. Sessions on
-Cryptography
-Invited Talk/Sessions:
-Invited Speaker for the
-LEA Track at c0c0n 2025 – International Cyber Security & Policing Conference
-, held from 10th-11th October 2025. Delivered a session titled “Unmasking Criminal Networks: A Graph-Based Forensic Approach Using Call Detail Records and Mobile Tower Data”.
-Resource Person for One week FDP on Secure Cloud AI Distributed Systems (SCADS), IIIT Kottayam from 5th May to 9th May 2025. Session Topic:
-Demystifying Cryptography: A TLS Handshake Deep Dive
-Invited talk on the topic: “
-From Clicks to Code: Crafting your Digital Safety Blueprint
-” organized by the Department of Computer Science and Engineering, Sree Narayana Gurukulum College of Engineering and Technology, Kadayiruppu on 6th February, 2024.
-Programmes Organised:
-Coordinator, AICTE QIP PG Certification Programme in Cyber Security and Digital Forensics offered by IIIT Kottayam, 2026
-Co-Coordinator, AICTE QIP PG Certification Programme in Cyber Security and Digital Forensics offered by IIIT Kottayam, 2025.
-Coordinator, Two weeks Short Term Training programme – “Digital Defenders: Ethical Hacking & Cyber Forensics” offered by IIIT Kottayam, from 9th to 20th June, 2025.
-Certification
-EC-Council Certified Computer Hacking and Forensic Investigator.
+Renjit, Sara, and Sumam Mary Idicula. "A Study of the State of the Art Approaches and Datasets for Multilingual Natural Language Inference." Neural Processing Letters 56.6 (2024): 1-23. (SCI-E IF-2.6)
+Renjit, Sara, and Sumam Idicula. "Natural language inference for Malayalam language using language agnostic sentence representation. " PeerJ Computer Science 7 (2021): e508. (SCI-E IF-3.8)
+Renjit, Sara, and Mary Idicula Sumam. "Feature based Entailment Recognition for Malayalam Language Texts." International Journal of Advanced Computer Science and Applications 13.2 (2022).(Scopus)
+International Conferences
+Renjit, Sara, and Sumam Mary Idicula. "Siamese networks for inference in Malayalam language texts." Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021). 2021.(Scopus)
+Renjit, Sara, and Sumam Mary Idicula. "Textual Inference Identification in the Malayalam Language Using Convolutional Neural Network." Advanced Computing and Intelligent Technologies: Proceedings of ICACIT 2022. Singapore: Springer Nature Singapore, 2022. 237-250.
+Renjit, Sara, and Sumam Mary Idicula. "Malayalam Language Textual Inference Identification Through Attention over Embeddings." Computer, Communication, and Signal Processing: 6th IFIP TC 5 International Conference, ICCCSP 2022, Chennai, India, February 24–25, 2022, Revised Selected Papers. Cham: Springer International Publishing, 2022.
+Renjit, Sara, and Sumam Mary Idicula. "CUSATNLP@DravidianLangTech-EACL2021: Language Agnostic Classification of Offensive Content in Tweets. " Proceedings of the First Workshop on Speech and Language Technologies for Dravidian Languages . 2021.
+Renjit, Sara, and Sumam Mary Idicula. "CUSATNLP@ HASOC-Dravidian-CodeMix-FIRE2020: Identifying Offensive Language from ManglishTweets ." FIRE (Working Notes). 2020.
+Renjit, Sara, and Sumam Mary Idicula. "CUSAT NLP@ AILA-FIRE2019: Similarity in Legal Texts using Document Level Embeddings." FIRE (Working Notes). 2019.
 Professional Activities
-Reviewer:
-Journal of Information Security and Applications, Elsevier
-Computational Economics, Springer
-IEEE Access
-Scientific Reports, Nature
-Electronic Commerce Research, Springer
-Frontiers of Computer Science, Springer
-Transactions on Emerging Telecommunications Technologies, Wiley
-Journal of Integrated Design and Process Science, IOS Press
+Reviewer
+PeerJ Computer Science
+7th International Conference on Computational Intelligence in Data Science (ICCIDS – 2024)
+Experience
+Assistant Professor at MBITS from 26/7/2023 to 9/8/2024
+Assistant Professor (on contract) at SOE, CUSAT from 30/03/2022 to 21/07/2023
+Data Engineer at MizTech AI Minds from 1/6/2021 to 1/10/2021
+Assistant Professor at AISAT from 4/06/2015 to 30/06/2016
+Software Engineer at BOSCH from 04/07/2011 to 12/07/2013
 Research Interests
-Social Network Analysis
-Financial Crime Detection
-Network Forensics
-Design of Cryptographic Algorithms
-Information Security
-Teaching Experience:
-Assistant Professor, Department of Computer Science and Engineering, Rajagiri School of Engineering and Technology, from January 2020 to July 2024.
-Assistant Professor, Department of Computer Science and Engineering, Karunya Institute of Technology and Sciences, from July 2019 to November 2019
-Assistant Professor, Department of Computer Science and Engineering, Sree Narayana Guru College of Engineering, from June 2013 to June 2014
+Natural Language Processing
+Software Engineering
+Machine Learning
+Database Management Systems
+Deep Learning
+Explainable AI
+DevOps & Agile

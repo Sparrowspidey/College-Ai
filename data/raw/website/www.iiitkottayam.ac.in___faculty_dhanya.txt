@@ -1,64 +1,183 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/dhanya
 
-Dr. Bibal Benifa | IIIT Kottayam
+Dr. Dhanyamol M V | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. J. V. Bibal Benifa
+Dr. Dhanyamol M V
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: benifa
+Email: dhanya
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202163
-Honours and Achievements :
-Established a private cloud infrastructure at Noorul Islam Centre for Higher Education
-Developed a ‘Prediction System for identifying Rheumatology based on Siddha Medical Concepts’
+Hello at: 00 91  04822202162
+Academician with more than twelve years of research experience and with more than seven years of
+teaching experience in professional education.  Qualified Postgraduate with graduation in Mathematics,
+and PhD in Graph Theory.  Handling administrative responsibilities like HOD- Computational Science
+and Humanities,  Faculty-in charge PhD Academics, FIC-Engineering & Estate Department, and a
+member of institute timetable committee.
+As a mathematician,  have a strong passion for problem-solving and a deep love for numbers and
+expertise lies in analysing complex data sets, developing mathematical models, and applying statistical
+methods to solve real-world problems. Possessing a solid foundation in calculus, algebra, and geometry
+has provided the ability to think critically and logically, leading to effective solutions. A collaborative
+team player who is always excited to bring the skills and knowledge to any challenge. And constantly
+exploring new ideas and teaching approaches to create an inclusive learning environment that fosters
+students' intellectual growth.
+Experience
+JANUARY 2024 – PRESENT
+Assistant Professor and Head, Department of Computational Science and Humanities, Indian
+Institute of Information Technology Kottayam, India
+AUGUST 2020 – PRESENT
+Assistant Professor, Department of Computational Science and Humanities, Indian Institute of
+Information Technology Kottayam, India
+DECEMBER 2018 – AUGUST 2020
+Adhoc Faculty, Department of Mathematics, NIT Calicut.
 Education :
-Ph.D, Faculty of Information and Communication Engineering, Thesis titled: "Automated Frameworks for Performance Improvement of MapReduce and Resource Auto-Scaling Services in Cloud Environment", Anna University, 2018.
-M.E., Software Engineering , Anna University, 2011
-B.E., Computer Science and Engineering, Anna University, 2009
-Invited Talk/Sessions :
-Hands on Training on OpenNebula, at Noorul Islam Centre for Higher Education, 2018
-Publications
-Journals
-J. V. Bibal Benifa and Dejey, 2018, ‘A Hybrid Auto-Scaler for resource scaling in cloud environment’, Journal of Parallel and Distributed Computing, Elsevier, Doi.org.10.1016/j.jpdc.2018.04.016.
-J. V. Bibal Benifa and Dejey, 2018, ‘Reinforcement learning-based proactive auto-scaler for resource provisioning in cloud environment’, Mobile Networks and Applications, Springer, Doi.org/10.1007/s11036-018-0996-0.
-J. V. Bibal Benifa and Dejey, 2017, ‘An Auto-Scaling Framework for Heterogeneous Hadoop Systems’, International Journal of Cooperative Information Systems, World Scientific, Doi.org/10.1142/ S0218843017500046.
-J. V. Bibal Benifa and Dejey, 2017, ‘Performance Improvement of MapReduce for Heterogeneous Clusters based on Efficient Locality and Replica Aware Scheduling (ELRAS) Strategy’, Wireless Personal Communications, Springer, Vol.95 , No. 3, pp. 2709-2733.
-Bruce Ralphin Rose J, Saranya P and Bibal Benifa JV, 2018, ‘Investigation of computational flow fields and aero acoustic characteristics over a re-entry command module’, IMechE: Part G, Journal of Aerospace Engineering, SAGE Publications, UK, vol. 232, no. 3, pp.532-544.
-Bruce Ralphin Rose, Baby Usha S, Bibal Benifa J V, 2017, ‘Computational investigation on the effects of two way wing morphing strategy in the critical Mach number’, Journal of Aerospace Technology and Management, Brazil, doi: 10.5028/jatm.v10.825.
-J.V. Bibal Benifa and G. Venifa Mini , “Privacy Based Data Publishing Model for Cloud Computing Environment”. Wireless Personal Communications (2020), Springer, Doi:10.1007/s11277-020-07320-3.
-J. Jeya Praise, R. Joshua Samuel Raj, J.V. Bibal Benifa, “Development of Reinforcement Learning and Pattern Matching (RLPM) based firewall for secured cloud infrastructure”, Wireless Personal Communications (2020), Springer, doi:10.1007/s11277-020-07608-4.
-J.V. Bibal Benifa, G. Venifa Mini, “Modified Chebyshev polynomial-based access control mechanism for secured data access in cloud computing environment”. SOCA, Springer, (2020). https://doi.org/10.1007/s11761-020-00307-9.
-Bhargavi M.S., Bibal Benifa J.V., Jaiswal R. (2021) Abnormal Event Detection in Public Places by Deep Learning Methods. In: Sharma H., Saraswat M., Yadav A., Kim J.H., Bansal J.C. (eds). CIS 2020. Advances in Intelligent Systems and Computing, vol. 1335. Springer, Singapore. https://doi.org/10.1007/978-981-33-6984-9_55.
-Channabasava Chola, Md Belal Bin Heyat, Faijan Akhtar, Omar AlShorman, J. V. Bibal Benifa, Abdulla Y Muaad, "IoT Based Intelligent Computer-Aided Diagnosis and Decision Making System for Health Care",  The 10th International Conference on Information Technology (ICIT), Amman, Jordan, 2021 (Accepted).
-Book Chapters
-J.V. Bibal Benifa and Venifa Mini, “Segmentation and classification of tumour regions from brain magnetic resonance images using neural network-based technique”, Apple Academic Press International Publisher book series, (Accepted)
-J.V. Bibal Benifa and G. Venifa Mini , “Trust-Based Chaos Access Control Framework by Neural Network for Cloud Computing Environment”. In: Al-Turjman F. (eds) Trends in Cloud-based IoT, Springer Innovations in Communication and Computing. Springer, Cham, pp.51-72, 2020. DOI: 10.1007/978-3-030-40037-8.
-J.V. Bibal Benifa and G. Venifa Mini, “Segmentation and Classification of Tumor Regions from Brain Magnetic Resonance Images by Neural Network-Based Technique”, In book: Handbook of Artificial Intelligence in Biomedical Engineering, Edition: 1, Chapter: 20,  Apple Academic press, Taylor & Francis Group, 2020. ISBN: 9781771889209.
-J.V. Bibal Benifa and Delsey M J, “Recognizing tropical cyclone formation from satellite image data”, Springer book series on ‘Artificial Intelligence and IoT: Smart Convergence for Eco-Friendly Topography’, Springer-Verlag, Germany, Series - 'Studies in Big Data, 2020.
-J.V. Bibal Benifa, Jipsa Philip, Channa Basava Chola, “Detection and classification of brain tumour from MRI images by different classifiers”, Chapter: 7, High-Performance Medical Image Processing", Apple Academic Press, ISBN: 9781774637227, 2021.
-J. Bruce Ralphin Rose and J.V. Bibal Benifa, “Energy Management in Smart Cities by Novel Wind Turbine Configurations”, Handbook of Green Engineering Technologies for Sustainable Smart Cities, Edition: 1, Chapter: 7, CRC Press, Taylor & Francis group, 2021, ISBN: 9780367554989.
-J. V. Bibal Benifa, G Venifa Mini, K Saravanan, "Blockchain Based Health Care Monitoring for Privacy Preservation of COVID-19 Medical Records", Blockchain for smart cities, Edition: 1, Chapter: 14, Elsevier, https://doi.org/10.1016/B978-0-12-824446-3.00005-3, 2021.
-Professional Activities
-Cloud computing based consultancy activities
-Professional Training to students on Cloud Computing based Software packages at Noorul Islam Centre for Higher Education (2018-2019)
-Life member of ISTE and IAENG
-Faculty In-charge Cloud Computing Centre at Noorul Islam Centre for Higher Education (2018-2019)
-Reviewer
-Reviewer, Journal of ACM computing surveys, United States
-Reviewer of Journal of Network and Computer Applications, Elsevier.
-Reviewer of Journal of Machine Vision and Applications, Springer.
-Reviewer of Journal of Big Data, Springer.
-Reviewer of Journal of Super Computing, Springer.
-Reviewer of Internet of Things, Elsevier.
-Reviewer of CRC Press, Taylor and Francis Group.
-Reviewer, International Journal of Machine Learning and Cybernetics, Springer.
-Reviewer of Journal of Theoretical Biology, Elsevier
-Reviewer of Journal of Grid Computing, Springer
+2013- 2019
+Ph. D., Graph Theory, Department of Mathematics, NIT Calicut
+Title:
+Transit functions in weighted graphs
+2010-12
+MSc Mathematics, Mahatma Gandhi University Kottayam, 82% Marks.
+2007-2010
+BSc Mathematics, Mahatma Gandhi University Kottayam, 93.4% Marks.
+Achievements
+Has been awarded the second prize in 2007 Under Graduate Training programme held at Centre for
+Mathematical Sciences (CMS), Pala, Kerala. This programme was sponsored by the Department of
+Science and Technology, Government of India, New Delhi
+Qualified JAM-2010.
+Qualified for GATE 2013 with a Gate Score of 411 (All India Rank -142).
+Qualified JRF (NET) – CSIR held on 17-12-2017 (All India Rank 121).
+Received certificate of excellence in reviewing in the international conference CSMCS-2020
+(International Conference on Computational Sciences: Modelling, Computing and Soft Computing)
+organized by the Department of Mathematics, September 10-12, 2020
 Research Interests :
-Machine Learning
-Computer Vision and Deep Learning
-Data Science
-Data Mining
-Big Data Analytics
+Graph Theory and Complex Networks
+Brain Networks
+Epidemic Spreading and Vaccination Strategies
+Graph Embedding
+Publication
+Peer-Reviewed Journal and Conference Articles:
+Dhanyamol M V, Sunil Mathew,
+“Distances in weighted graphs”
+, Annals of Pure and Applied Mathematics, 8 (1) (2014), 1-9.
+“On transit functions in weighted graphs”
+, Discrete Mathematics, Algorithms and Applications, 9 (3) (2017), 1750036 (23 Pages).
+“On intervals in fuzzy graphs”
+, Fuzzy Information and Engineering, 9 (2017) 271-280.
+“On certain transit functions in fuzzy graphs”
+, International Journal of Uncertainty, Fuzziness and Knowledge- Based Systems, 25 (6) (2017).
+Mohan, Anandhu, Vidya Sagar Thalapala, Koppala Guravaiah, and M. V. Dhanyamol.
+“FMGNR: fuzzy median graph for network routing applications”
+, Wireless Networks 29, no. 2 (2023): 821-832.
+Mohan, Anandhu, M. V. Dhanyamol, and Vidya Sagar Thalapala.
+"Fuzzy median graph algorithm for facility location problem."
+AIP Conference Proceedings. Vol. 2875. No. 1. AIP Publishing, 2023.
+Kowsik, VV Sai, et al.
+"Sentiment analysis of twitter data to detect and predict political leniency using natural language processing."
+Journal of Intelligent Information Systems (2024): 1-21.
+Anandhu Mohan, Dhanyamol M V and Sunil Mathew.
+"The structural properties of fuzzy median graphs."
+Journal of Applied Mathematics and Computing (2024): 1-21.
+Mohan, Anandhu, and M. V. Dhanyamol.
+"Fuzzy Median Graph and its Application in the Deployment of Wireless Sensor Networks."
+International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems 33, no. 03 (2025): 279-298.
+Mohan, Anandhu, Vidya Sagar Thalapala, Koppala Guravaiah, and Dhanyamol MV.
+"Fuzzy Median Graph Based Energy Efficient Clustering Protocol in WSN."
+Information Sciences (2025): 122573.
+Paper Presentations:
+Presented a paper entitled “On distance matrix in weighted graphs” in the SERB/ISRO/DRDO/TEQIP-II sponsored International Conference on Discrete Mathematics -2016 and Graph Theory Day-XI, organized by Siddaganga Institute of Technology, Tumakuru during June 9-11, 2016.
+Presented a paper entitled “Geodetic intervals and related concepts”, in the International Conference on  Emerging Trends in Graph Theory (ICETGT-2019), organized by CHRIST (deemed to be university), Bangalore-560029, Karnataka, India during 27-28, February 2019.
+Presented a paper entitled “Weighted intervals and related concepts in weighted graphs”, in the International Conference on Computational Sciences- Modelling, Computing and Soft Computing” held online during September 10-12, 2020, organized by the Department of Mathematics of National Institute of Technology Calicut, Kerala.
+International or National Conferences/ Lecture/ Training/ Workshops organized, Attended
+Organized as HoD-CS&H, an
+International Conference
+on Computation and Humanities: Overlapping Research in Digital Spaces (CHORDS 2025) at IIIT Kottayam, during 28-29 July 2025.
+Organized a
+Certificate Course
+in Introductory Artificial Intelligence during 19-23 May 2025.
+Organized a Five-day
+workshop cum FDP
+on "Data Science with Complex Networks” (DataNetWork2024) during 08-12 July 2024.
+Organized an AICTE sponsored five-day FDP on “Visionary instructive startegies and teaching approaches (VISTA) across Business, Computing and Mathematical Sciences” during 16-20 December 2024.
+Organized 5-day workshop cum FDP on “Amplifying AI: Advanced Optimization Strategies for Enhanced Performance (hybrid mode)” during 27-31 May 2024.
+Organized 5-days FDP cum Workshop (Hybrid) on “ FUZZYMAT 2024: Unleash the power of Fuzzy Logic and Hands-on Explorations with MATLAB Fuzzy Toolbox” during 10-14 June 2024.
+Organized “FUZZYMAT 2024: Fuzzy Logic for Beginners: A comprehensive webinar series” during 02-05 June 2024.
+Organized an FDP cum Workshop on “Bridging the Gap: Computational Math and AI” during 27-28 June 2024.
+Organized a Five-day workshop and FDP on "Optimization Techniques for AI/ML/DS Models" during 22-26 May 2023.
+Organized a webinar on "Recent Trends and Applications of Mathematics" on 28th September 2022.  (Recourse Person:  Dr.  Sunil Mathew, Associate Professor, Department of Mathematics, NIT Calicut)
+Organized a webinar on "Swarm intelligence-based optimization algorithms" on September 2, 2022.
+Served as a resource person for the one day seminar conducted by Department of Mathematics, Deva Matha College, Kuravilangad, on 28th January 2023.  (Topic: Mathematics for Data Science)
+Participated in the International Conference on Graphs, Networks and Combinatorics (ICGNC 2023) organized by the Department of Mathematics, Ramanujan College, University of Delhi, during 10-12 January 2023.
+Attended a mentoring program organized by United States-India Educational Foundation (USIEF - www.usief.org.in) in association with the Mahatma Gandhi University, Kottayam, on the application process for the 2024-2025 Fulbright-Nehru, Fulbright-Kalam and other Fulbright Fellowships on Monday, April 3, 2023.
+Organized a Five-day workshop cum FDP on "Data Science with Complex Networks” (DataNetWork-2023) during 24-28 July 2023.
+Organizing One week workshop cum FDP on Mathematical Computing during 11-17 December 2023.
+Participated in the International Conference on Current Trends in Graph Theory and Computation held during September 17-19, 2016 at South Asian University, New Delhi.
+Participated in a TEQIP sponsored Workshop on Real Analysis and Applications, 29-31 October 2015, held at NIT Calicut, Kerala.
+Participated in the International Workshop on Graph Labelling, 3-6 December 2014, held at Kalasalingam University, Krishnankoil, Madurai, Tamilnadu.
+Participated in a TEQIP sponsored Workshop on Functional Analysis and Applications, 6 – 8 November 2014, NIT Calicut, Kerala, India.
+Participated in an ATM Workshop on Graph Theory 2014, 17-22 March 2014, held at Kerala School of Mathematics, Kunnamangalam P O, Kozhikode, Kerala, India (conducted and sponsored by IIT Bombay and TIFR).
+Participated in the National Workshop – cum – Colloquium on “Applicable Mathematics in Basic Science Education & Research” organized by Srinivasa Ramanujan Institute for Basic Sciences under KSCSTE during 5-7 April 2013 at Thiruvananthapuram.
+Participated in a workshop on “National Workshop on Graph coloring” held on 25-27 January 2013 at ISI Chennai.
+Participated in “School on Algebra, Analysis & Topology” held on 01-07 September 2011 at Kerala School of Mathematics (KSOM), Kozhikode.
+Participated in the national seminar on “Topology, Fractals, their Fuzzy generalizations and applications” held during 13-14 October 2011 at  St. Dominic’s College, Kanjirapally, Kerala.
+Participated in an Under Graduate Training Programme on the topic “Vectors, matrices, Determinants” at Centre for Mathematical Sciences (CMS), Pala, Kerala. This Programme is sponsored by Department of Science and Technology (DST), Government of India.
+Participated in an Under Graduate Training Programme on “Limits, Continuity, Convergence and Differential Calculus” at Centre for Mathematical Sciences (CMS), Pala, Kerala in 2007. This Programme is sponsored by Department of Science and Technology (DST), Government of India.
+Expert Sessions or Invited Talks
+Delivered a  talk on “Certain distances in Weighted Graphs” at St Dominic’s college Kanjirappally, on February 15, 2020.
+Chaired a technical session in the virtual web “International Conference on Computational Sciences - Modelling, Computing and Soft Computing” conducted online by the Department of Mathematics of National Institute of Technology Calicut, Kerala during September 10-12, 2020.
+Delivered a talk on “Math Foundations for AI” in the joint certification course on AI with specialization in reinforcement learning organized by the Department of Computer Science and Engineering, IIIT Kottayam during July 03-14, 2023.
+Delivered a talk on “Mathematics background for Optimization” in a Five-day workshop and FDP on "Optimization Techniques for AI/ML/DS Models" during 22-26 May 2023.
+Served as the chief guest and Keynote Speaker for the inauguration of the Mathematical Association and delivered a talk on “Mathematics and AI”, held on 7th September 2023 at Alphonsa College Pala.
+Delivered a talk on “Numerical Methods” in a Five-day workshop cum FDP on "Data Science with Complex Networks” (DataNetWork-2023) during 24-28 July 2023.
+Delivered a talk on “Facility location problem” in a Five-day workshop cum FDP on "Data Science with Complex Networks” (DataNetWork-2024) during 08-12 July 2024.
+Acted as the Quiz Master for the 5th Annual Prabha Joseph Memorial Intercollegiate Mathematics Quiz Competition held on 27th January 2024 (Preliminary round) and 3rd February 2024 (Final round),conducted by St. Dominic’s College Kanjirappally.
+Served as a s a resource person in the 3-day webinar series on "Exploring Research Career Paths inComputer Science and Electronics & Communication Engineering (ERCP in CS&EC)." on 29th May 2024.
+Conducted a 5-day Online Crash Course on Latex during 3-7 June 2024.
+Served as a s a resource person in the
+ACM India
+Event
+ROCS
+(Research Opportunities in Computer Science) at IIIT Kottayam on 24th August 2024.
+Delvered a talk on “Graphs and Networks” at the Faculty Development Programme on Applications of Mathematics in Science and Technology (AMST 2025) organised by the Department of Applied Sciences & Humanities and Centre for Studies in Discrete Mathematics, Vidya Academy of Science and Technology, Thrissur, Kerala, in association with IQAC (VAST), Kerala Mathematical Association (KMA) & ISTE .
+Resource person-at the 5-day online Bootcamp on Responsible Computing, scheduled from March 17-21, 2025.
+Delivered Sessions on “Mathematical Foundation for AI” in the
+Certificate Course in Introductory Artificial Intelligence
+scheduled during 19-23 May 2025.
+Institute Visits
+Academic Visits
+Served as a JRF at Centre for Mathematical Sciences (CMS) (a DST Centre for Mathematical Sciences) with
+Professor Dr. A.M. Mathai of McGill University, Canada.  (November 2012- June 2013)
+Service
+Institute:
+Head of the Department – Computational Science and Humanities, IIIT Kottayam, 2024 January- Present.
+Faculty-in-charge, PhD Programme, IIIT Kottayam, 2022-Present
+FIC-Engineering & Estate Department (From 19th May 2023 onwards), IIIT Kottayam
+Member- Academics & Admissions Committee, IIIT Kottayam
+Member - Cultural Club, IIIT Kottayam
+Member- Time Table Committee, IIIT Kottayam
+Member- Examination Cell, IIIT Kottayam
+Member- Institute level Purchase Committee, IIIT Kottayam
+Chair- Rehearsal and Anchoring Committee –Convocation 2022, IIIT Kottayam, etc.
+Reviewer:
+Reviewer- Proceedings of the National Academy of Sciences, India Section A: Physical Sciences.
+Reviewer- Materials Today: Proceedings
+Reviewer- Fuzzy Sets and Systems, etc.
+Research Groups:
+A member of Network Science Research Group, IIIT Kottayam.
+A member of Smart Wireless Inter-Networking Research Group, IIIT Kottayam.
+A member of FinAIQu Research group, IIIT Kottayam.
+Research and Consultancy:
+SERB Overseas Visiting Doctoral Fellowship program (OVDF), Title: Fingerprints of functional brain networks in Alzheimer’s disease progression, Jointly with Prof. Joaquín Goñi Cortés, Associate Professor, Purdue University and Dr. Divya Sindhu Lekha.
+Consultancy - For Education and Training Project- With Mathlab Research private limited.
+Consultancy - For Education and Training Project- With Various Colleges.
+Advising
+Ph D Students:
+PhD Scholars- 4 scholars
+Anandhu Mohan (CSIR- JRF)- (2020- 2025) (PhD Awarded.)
+Thesis Title:
+STUDIES ON FUZZY MEDIAN GRAPHS AND ITS APPLICATIONS IN NETWORK CLUSTERING.
+Julie Sara Benny (DST-Inspire)- Working on “Brain Networks” (
+Graph Theoretic Analysis of Functional Brain Networks in Neurodegenerative Diseases, 2022-Present)
+Co-Guide: Dr. Divya Sindhu Lekha
+Sherin K P - Working on “Epidemic Spreading” (2025 Jan- Present)
+Dilsha - Working on “Graph Embedding and IoT Networks” (2025 August- Present)

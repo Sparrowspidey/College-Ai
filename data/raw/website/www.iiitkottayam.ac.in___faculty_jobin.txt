@@ -1,98 +1,78 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/jobin
 
-Dr.Vineeth Palliyembil| IIIT Kottayam
+Dr.JOBIN JOSE | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr.Vineeth Palliyembil
+Dr.JOBIN JOSE
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email:vineeth
+Email: jobin
 iiitkottayam
 ac.in
-Hello at: +91 (0) 482-2202274
-Honours and Achievements
-Received the Ministry of Electronics and IT (MEITY) Visvesvaraya PhD Fellowship at NIT Trichy.
-Secured rank of 1331 in GATE 2013.
-Secured all India rank of 1559 in AIEEE 2008.
-Work Experience
-Worked as Assistant Professor at Dept. Of Communication Engineering, School of Electronics, VIT Vellore from June 2023 to December 2023.
-Worked as Assistant Professor at Dept. Of ECE, Amrita School of Engineering Coimbatore, Amrita Vishwa Vidyapeetham from July 2019 to June 2023.
-Education :
-Ph. D, Electronics and Communication Engineering, Thesis titled: " Performance Analysis and Improvement of Free Space Optical Communication Systems over the generalized turbulence channel with pointing errors ", National Institute of Technology Tiruchirappalli, 2020.
-M.Tech., Communication Systems, ECE Dept., National Institute of Technology Tiruchirappalli, 2015.
-B.Tech., Electronics and Communication Engineering, National Institute of Technology Calicut, 2012.
-Invited Talk/Sessions
-Delivered online talk on free space optical communication systems during the MMTTC Sponsored 12-day Refresher Course on Wireless Communication conducted by Department of ECE, IIITDM Kancheepuram.
-Served as Course Instructor for the Certificate Course on Photonics & Optical Communica-tion: Emerging Trends and Future Prospects conducted by the Research Cell, Department of Electronics and Communication Engineering at Adi Shankara Institute of Engineering and Technology.
-Delivered invited talk for the AICTE-sponsored Faculty Development Program (FDP) titled "Advancing Green Communication: Research Perspectives in Sustainable Optical Wireless Technology", conducted by Department of ECE, SSM Institute of Engineering and Tech-nology, Dindigul.
-Delivered a guest lecture on the topic of “Optical Wireless Communication” for the online FDP on “Next Generation Wireless Communication System Design and Simulation”¬ orga-nized by the Faculty Development Training Centre, Government College of Technology, Co-imbatore in association with Department of Electronics and Communication Engineering, Government Polytechnic College, Srirangam, Trichy.
-Served as an invited speaker during Faculty Development Programme on “Research Trends in VLSI, Communications & Signal Processing”, organized by Department of Electronics and Communication Engineering, Bapatla Women’s Engineering College, Bapatla, Andhra Pradesh.
+Hello at: 04822202259
+Honours and Achievements :
+SIH2022 Evaluator certificate...by MHRD”.
+Toycathon 2021 Evaluator appreciation by by AICTE-MHRD.
+Expert for AICTE PARAKH Project in cybersecurity.
+Education
+Ph.D, Computer Science and Engineering, Thesis titled:, Thesis titled: "Studies on Performance Evaluation of Cache Memory”  National Institute of Technology (NIT), Tiruchirappalli,2023.
+M.E., Computer Science and Engineering, , Karunya Institute of Technology and Sciences,2008.
+B.E., Computer Science and Engineering, Bharathiar University Coimbatore,2004.
+Invited Talk/Sessions :
+Resource Person for AICTE sponsored ATAL FDP on Digital Forensics:Navigating the fu-ture of Cyber Investigation during 23rd-27th June 2025 by SCMS School of Engineering Ka-rukutty
+Resouces Person for 1 week STTP on Data Science Essentials:Python Powered Learning during 23rd-27th June 2025 at IIIT Kottayam
+Expert speaker for GCA + UPES Digital Security Faculty Training Program on 26th march 2025
+Resource Persons for 1 week FDP on Data science using python during july 1st-5th 2024
+Resource Person for Hands-on workshop on ethical hacking and malware analysis during 7th-8th October 2024 at Mahalingam College of Engineering Pollachi
+Resource persons forTwo day workshop on Exploring Cyber Security Essentials during 19th-20th November 2024 at MITS College, Puthencruz
+Session Chair of ISENSE 2024 held at IIIT Kottayam on December 2024
+Travel and Accommodation Co Chair- SPACE 2024
+Resource person for  AICTE Sponsored FDP on Visionary Instructional Strategies and Teaching Approaches(VISTA ) at IIIT Kottayam during 16th-20th December 2024
+Session chair of  IEEE International conference  RASSEE’23 Conducted by SAINTGITS College of Engineering Kottayam during 8-11th Nov 2023
+Resource person for the training program on machine learning using python conducted by IIIT Kottayam during 30th oct-2nd Nov 2023
+Delivered a talk on Recent trends in memory research” at Mangalam college of Engineering on 25rd Oct, 2023
+Session co-chair of IQ-CHESS’23 Conducted by department of Cyber security IIIT Kottayam during 16-18th sept 2023
+Guest speaker and session co-chair for National Conference on Advances in smart computing and data science by Department of Computer Science and Engineering, Mar Baselios Christian College of Engineering and technology, Peermade,24-25 May 2023.
+Resource person for ISTE sponsored FDP on Frontiers of Computer Science held Viswa Jyothi College OF Engineering and Technology, June 4th-9th 2019.
+Events Organized:
+1 week FDP on Digital forensics during 24th-28th June 2024
+1 week FDP cum workshop on “Harnessing NLP and ML Techniques for social media anal-ysis for Indian languages during 24th-28th June 2024
+1 week FDP on Secure Cloud AI Distributed Systems(SCADS) during  5th-9th May 2025
+10 Days STTP on Digital Defenders:Ethical Hacking and Cyber Forensics during 9th-20th June 2025
 Publications
-Journals  :
-Palliyembil, V., Jagadeesh, V.K., Sudheesh, P.G. et al. “Selection combining hybrid FSO/RF system for the performance improvement of HAP to ground communication systems”, Journal of Optics, Springer Nature, 2025.
-https://doi.org/10.1007/s12596-025-02783-8
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Performance Analysis of RF-FSO Communication Systems Over the Malaga distribution channel with Pointing error”, Optik-International Journal for Light and Electron Optics, Elsevier, Volume 247, 2021, 167891, ISSN 0030-4026.
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Asymptotic bit error rate analysis of free space optical systems using spatial diversity”, Optics Communications, Elsevier, 427, 617-621, 2018.
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidamdaranathan, Theodoros A Tsiftsis, “Capacity and outage probability analysis of asymmetric dual-hop RF–FSO communication systems”, IET Communications, 12, 1979-1983, 2018.
-Jagadeesh Vellakudiyan, Vineeth Palliyembil, Imran Shafique Ansari, P Muthuchidambaranathan, Khalid A Qaraqe, “Performance analysis of the decode-andforward relay-based RF-FSO communication system in the presence of pointing errors”, IET Signal Processing, 13, 480-485, 2019.
-VK Jagadeesh, Vineeth Palliyembil, P Muthuchidambaranathan, Francis M Bui, “Free space optical communication using subcarrier intensity modulation through generalized turbulence channel with pointing error”, Microwave and Optical Technology Letters, Wiley, 57, 1958-1961, 2015.
-Jagadeesh Vellakudiyan, Imran Shafique Ansari, Vineeth Palliyembil, Palanivel Muthuchidambaranathan, Khalid A Qaraqe, “Channel capacity analysis of a mixed dual-hop radio-frequency–free space optical transmission system with Málaga distribution”, IET Communications, 10, 2119-2124,2016.
-Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, Francis Minhthang Bui, Vineeth Palliyembil, “Performance of a subcarrier intensity modulated differential phaseshift keying over generalized turbulence channel”, AEU-International Journal of Electronics and Communications, Elsevier, 68, 1569-1573, 2015.
-List of Conference Proceedings:
-J. V K, V. Palliyembil, S. Rao V. and S. P G, "Performance Analysis of MIMO FSO Communication system over $\mathcal{M}$-distributed Fading Channel," 2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON), Phuket, Thailand, 2023, pp. 268-272, doi: 10.1109/ECTIDAMTNCON57770.2023.10139545.
-V. Palliyembil, K. Prabu, V. K. Jagadeesh, P. Muthuchidamdaranathan and S. Ekpo, "Performance analysis of FSOC system over generalized turbulence channel with pointing errors using PolSK signalling technique," 2021 4th Biennial International Conference on Nascent Technologies in Engineering (ICNTE), 2021, pp. 1-5, doi: 10.1109/ICNTE51185.2021.9487708.
-B. Sukanya and V. Palliyembil, "Performance Improvement of Indoor Lifi Mobile Users with Random Orientation Using Hybrid Lifi and Wifi Networks (HLWNets)," 2021 Sixth International Conference on Wireless Communications, Signal Processing and Networking(WiSPNET), 2021, pp. 390-394, doi: 10.1109/WiSPNET51692.2021.9419442.
-J. Anandpushparaj, V. Palliyembil, L. G. Nadiminti, M. Magarini and P.Muthuchidambaranathan, "Performance Analysis of UAV Cellular Communications," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 370-373, doi: 10.1109/IMICPW.2019.8933212.
-V. Palliyembil, V. K. Jagadeesh and P. Muthuchidamdaranathan, "Analysis of Free Space Optical DPSK-SIM Based Communication System over Málaga Distributed Channel with Misalignment Fading," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 283-287, doi:10.1109/IMICPW.2019.8933269.
-Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relay Assisted Mixed Dual-Hop RF-FSO Systems with Pointing Errors. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_2.
-V. K. Jagadeesh, V. Palliyembil, P. Muthuchidambaranathan and F. M. Bui, "Channel capacity and outage probability analysis of sub carrier intensity modulated BPSK system over Mdistribution free space optical channel," 2015 2nd International Conference on Electronics and Communication Systems (ICECS), 2015, pp. 1051-1054, doi:10.1109/ECS.2015.7124740.
-Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relaying FSO System over M-Distributed Turbulent Channel with Variable Gain AF Protocol. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_1.
-Book Chapters:
-V. Palliyembil and E. G. Anagha, "AI in optics and photonics," in Advances in All-optical Communication, IOP Publishing, 2024, pp. 7-1–7-21, doi: 10.1088/978-0-7503-5623-7ch7.
+Journals
+AI-Generated Product Review Detection in Dravidian Languages Using Transformer-Based Embeddings, ACL Anthology(Scopus Indexed),May2025
+Jobin Jose, N. Ramasubramanian, Applying machine learning to enhance the cache performance using reuse distance. Evolutionary Intelligence
+https://doi.org/10.1007/s12065-022-00730-1.
+, 2022.
+Jobin Jose, Shameedha Begum, Ramasubrmanian N., Effectiveness Evaluation of
+Replacement Policies for On-Chip Caches in  Multiprocessors, International Journal of Embedded and Real-Time Communication Systems,  Volume 13 • Issue 1, 2022.
+Jobin Jose, Ramasubrmanian N.,A Survey on Last level Cache partitioning Techniques in Chip
+Multiprocessors” in the International Journal on Control theory and applications, International Science Press, Vol9, Issue10. 2016.
+Jobin Jose, Satyanarayana Vollala, Indergeet, Amth D joshi, and Tamilarazan P S, Implementation of Algorithms for L(2,1) coloring problems, 8th ICCCNT, Julu 3-5, 2017(IEEEXplore)
+Jobin Jose, Elizabeth M, J, Dona Jose,” A Fog based Security model for electronic medical records in cloud data base, IJITEE,Vol.8, Issue7, 2019
+Conferences
+Presented a Textual Sarcasm Detection from Low-Resource Dravidian Languages using Deep Learning Techniques during SPELL 2024 at VIT vellore
+Presented a paper on EEG-based Identification of Schizophrenia  using Deep Learning Techniques at International Conference on Computational Intelligence and Networks(CINS2023) at BITs Du-bai, UAE, Oct 18-20, 2023
 Professional Activities
-Organized the Five Days FDP cum Hands-on Workshop on Wireless Communication Technologies for Beyond 5G Systems at IIIT Kottayam during 24 - 28 June, 2024.
-Worked on the DST-India funded Indo-Italian collaborative project on
-“Networked air-borne systems for disaster management”
-and visited Politechnico di Milano, Italy to carry out research collaboration during October, 2018.
-Served as a Board of Studies member for the Revision and Development of the Syllabus and curriculum for the Post Graduate program of Communication Systems at Amrita Vishwa Vidyapeetham University.
-Organized a webinar titled “Machine Learning for Communication Systems” at Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham on May 15th 2021.
 Reviewer:
-•	Served as a reviewer for
-Journal of Selected areas in communication, IEEE
-Journal of Optics Communications, Elsevier
-ICT Express, Elsevier
-Optical Review, Springer
-Optical and Quantum Electronics, Springer
-Research Interests :
-Free Space Optics
-Visible Light Communication
-Wireless Communication
-Optical Communication
-Photonics
-Machine Learning for communication systems
-Short Term Courses Attended
-Participated in Three Days FDP on Recent trends in Machine/Deep Learning for Computer Vision and Biomedical Applications organized by Academic Staff College in association with School of Electronics Engineering of VIT Vellore from 21-Aug-2023 to 23-Aug-2023.
-Participated in the one-week Faculty Development Programme on
-"EMERGING TECH-NIQUES IN 6G WIRELESS COMMUNICATIONS"
-organized by Department of Elec-tronics and Communication Engineering, SRM INSTITUTE OF SCIENCE AND TECH-NOLOGY, TIRUCHIRAPPALLI CAMPUS, Tamilnadu, India. from 04/01/2023 to 10/01/2023.
-Participated in the SERB sponsored five-day online faculty development program on
-“Recent Trends in Free Space Optics and its Applications (RFA-2021)”
-organized by the De-partment of Electronics and Communication Engineering, National Institute of Technology Karnataka, Surathkal, from 04th to 08th October 2021.
-Participated and successfully completed the 5-day online FDP on the theme
-“Inculcating Universal Human Values in Technical Education”
-organized by All India Council for Technical Education (AICTE) from 22nd November 2021 to 26th November 2021.
-Participated in the TEQIP-III sponsored five-day online faculty development program on
-“Recent Trends in Nanoelectronics and Optoelectronics (RNO – 2020)”
-organized by the Department of Electronics and Communication Engineering, National Institute of Technolo-gy Karnataka, Surathkal, from 12th to 16th October, 2020.
-Participated & completed successfully AICTE Training And Learning (ATAL) Academy Online FDP on
-"Advanced Communication Engineering"
-from 2020-12-7 to 2020-12-11 at Bharati Vidyapeeth College of Engineering, Navi Mumbai.
-"Electrical & Computer Engineering"
-from 2020-11-4 to 2020-11-8 at In-dian Institute of Information Technology Kottayam.
-"Photonics"
-from 2020-10-19 to 2020-10-23 at Govt. Model Engineering College, Ernakulam.
-Participated in online SPARC Sponsored Short Term Course on
-“Non-orthogonal Multiple Access Technology for 5GB”
-conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collaboration with National Research Tomsk Polytechnic University, Russia from 14/06/2021 to 25/06/2021.
-“A New Cooperative Wire-less Strategy: Soft Information Forwarding”
-conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collabora-tion with National Research Tomsk Polytechnic University, Russia from 28/04/2021 to 14/05/2021.
+Applications of Data Science and Cybersecurity Innovations in Industry 4.0  Technologies., IGI Global.
+International conference on 2024 Second International Conference on Emerging Trends in Infor-mation Technology and Engineering(ICETITE),2024
+International Conference on Smart Electronics and Communication Systems 2024
+6th International Conference on Innovative Trends in Information Technology 2025
+2025 3rd International Conference on Communication, Security, and Artificial Intelligence
+IEEE 4th International Conference on Advances in Computing, Communication, Embedded and Secure Systems
+2025 11th International Conference on Smart Computing and Communications
+The 5th International Conference on Electrical, Computer and Energy Technologies
+Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (DravidianLangTech-2025) at NAACL 2025
+Journal
+Revista de Informática Teórica e Aplicada, published by Institute of Informatics at the Fed-eral University of Rio Grande do Sul,Brazil(Scopus)
+International Journal of Embedded and Real-Time Communication Systems (IJERTCS)(E-SCI)
+Journal of Computer Science(Scopus Indexed)
+Research Interests
+Cache Memories and Reconfigurablity
+Machine Learning for Systems
+Ethical Hacking and Penetration Testing
+Cyber  Security
+Hardware Security
+Complex Networks

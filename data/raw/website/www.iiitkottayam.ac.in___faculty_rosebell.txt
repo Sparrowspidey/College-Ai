@@ -1,74 +1,93 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/rosebell
 
-Dr. R. Tharaniya Sairaj| IIIT Kottayam
+Dr. Rosebell Paul| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. R Tharaniya Sairaj
+Dr. Rosebell Paul
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email:sairaj
+Email: rosebell
 iiitkottayam
 ac.in
-Hello at: 04822202227
+Hello at: 04822202363
 Honours and Achievements :
-2024
-- NPTEL Superstar & Discipline Scholar in
-"Computer Science"
-2023
-- Qualified UGC-NET for Assistant Professor,
-conducted by National Testing Agency for the University Grants Commission.
-2023 - Best Paper Award
-, 1st International Conference on Recent Advances in Artificial Intelli-gence & Smart Applications.
-2022
-- Professional Excellence in Data Science Foundations and Deep Learning.
-Awarded by IBM.
-2019
-- Ranked third in Academic Standing in MCA Degree. SASTRA University.
-2017
-- Best Outgoing Student of the Batch in B.Sc. Computer Science.
-St. Joseph’s College of Arts and Science (Autonomous), Cuddalore.
+First Rank: Cochin University, M Tech 2011.
+16th Rank and District Topper: Kerala State SSLC 2003.
+Distinction with Honours from Cochin University for B Tech,College topper 2009.
+Judge for “Smart India Hackathon 2022” organized by Govt of India.
 Education
-Doctor of Philosophy (Thesis submitted), National Institute of Technology, Tiruchirappalli, 2025
-Master of Computer Applications, SASTRA University, Thanjavur, 2019.
-B.Sc. Computer Science, St. Joseph’s College of Arts and Science (Autonomous), Cuddalore, 2017.
+Ph.D, Computer Science and Engineering, Thesis titled: "A framework for community driven charging of Electric Vehicles", Sathyabama University, 2025.
+M.Tech., Computer Science and Engineering, CUSAT University, 2011
+B.Tech., Computer Science and Engineering, CUSAT University, 2009
+Experience:
+Assistant Professor in Department of CSE at SCMS School of Engineering and Technology, Ernakulam, Kerala - June 2012 to June 2025
+Assistant Professor in Department of CSE at Toc H Institute of Science and Technology, Ernakulam, Kerala - June 2011 to June 2012
+Funded Project :
+Principal Investigator for the Centre for Engineering Research and Development CERD stu-dent  project titled
+“A Swarm-Based AI Aided Wheel Bot System to Detect Cracks in Railway Tracks”
+funded by APJ Abdul Kalam University.(Status:Completed)
 Publications
-Journals
-R. Tharaniya Sairaj
-S. R. Balasundaram
-, “Fine-tuned t5 transformer with lstm and spider monkey optimizer for redundancy reduction in automatic question generation,”
-SN Computer Science
-, vol. 5, pp. 475–489, 2024.  DOI:
-https://doi.org/10.1007/s42979-024-02826-0.
-, “Ontology with topsis model to improve textual entity mapping in automatic higher-order exam question generation,”
-Knowledge Management and E-Learning
-, 2024.
-, “Reducing tail entity hallucinations with dependency edge prediction in text to text transfer transformer based auto-generated ques-tions,”
-International Journal of Information Technology
-, vol. 16, pp. 5407–5419, 2024. DOI:10.1007/s41870-024-02205-1.
-Conferences
-, “De-noising tail entity selection in automat-ic question generation with fine-tuned t5 model,” in
-International Conference on Data Sci-ence and Applications
-, NIT, Jaipur, 2023, pp. 431–443.
-, “Improving uniqueness of named entities with knowledge-based textual enrichment in automatic question generation,” in
-International Conference on Recent Advances in Artificial Intelligence & Smart Applications
-, Springer, 2023, pp. 57–68.
-, “Improving the cognitive levels of automat-ic generated questions using neuro-fuzzy approach in e-assessment,” in
-2020 IEEE 5th Inter-national Conference on Computing Communication and Automation (ICCCA), IEEE, 2020
-, pp. 454–458.
-Workshops and Technical Symposia
-An entailment analysis based entity map-ping to improve automatic question generation
-. In Proceedings of the 3rd ACM India Joint International Conference on Data Science Management of Data (8th ACM IKDD CODS 26th COMAD) (CODS-COMAD ’21). Association for Computing Machinery, New York, NY, USA, 424.
-https://doi.org/10.1145/3430984.3431049, p. 424
-Exploring sparql query types to improve on-tology mapping and retrieval augmented modelling for auto-generated questions
-. University of Twente, Netherlands, Joint Workshop on the Convergence of Large Language Models and Ontologies - Formal Ontology in Information Systems Conference, 2024, p. 424.
-Book Chapters
-Data Science and Applications: Lecture Notes in Networks and Systems
-, Springer, Springer Nature, 2023, pp. 431–443.
-RECENT ADVANCES IN ARTIFICIAL INTELLIGENCE & SMART APPLICATIONS
-, J. K. Mandal, M. Hinchey, and S. Chakrabarti, Eds., Springer Nature, 2023, pp. 57–68.
+Journal
+Paul, R.
+, & Selvan, M. P. (2024). Predicting and Forecasting of Vehicle Charging Station Using ECNN with DHFO Algorithm. Energies, 17(17), 4308. (
+SCI ,Impact Factor – 3.00
+, & Selvan, M. P. (2024). A hybrid deep learning-based intrusion detection system for EV and UAV charging stations, Automatika, 65:4, 1558-1578, DOI: 10.1080/00051144.2024.2405787 (
+SCI, Impact Factor –1.7
+Abin Oommen Philip, Sreeja M U,
+Rosebell Paul
+, RA.K. Saravanaguru,Towards intelligent trust-based incident and evidence management models for Internet of Vehicles: A sur-vey,Computers and Electrical Engineering,Volume 117,2024,109284,ISSN 0045-7906, (
+SCI, Impact Factor-4
+Conferences:
+R. Paul
+and M. P. Selvan, "A Study On Naming and Caching in Named Data Network-ing," 2021
+Fifth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)
+, Palladam, India, 2021, pp. 1387-1395, doi: 10.1109/I-SMAC52330.2021.9640947 (
+Scopus
+, R. Sajeer, V. M.V, S. V. Abraham and S. Sahajan, "A Real Time Prediction Model for Round Winners of Counter Strike:Global Offensive," 2024
+3rd International Conference on Sentiment Analysis and Deep Learning (ICSADL)
+, Bhimdatta, Nepal, 2024, pp. 177-182, doi: 10.1109/ICSADL61749.2024.00035. (
+A. Venugopal and
+, "Machine Learning Based Early Fire Detection System," 2022
+International Conference on Computing, Communication, Security and Intelligent Systems (IC3SIS)
+, Kochi, India, 2022, pp. 1-6, doi: 10.1109/IC3SIS54991.2022.9885405. (
+, Neeraj, M., Yadukrishnan, P.S. (2023). Li-Fi: A Novel Stand-In for Connectivity and Data Transmission in Toll System. In: Rajakumar, G., Du, KL., Vuppalapati, C., Beligiannis, G.N. (eds) Intelligent Communication Technologies and Virtual Mobile Net-works. Lecture Notes on Data Engineering and Communications Technologies, vol 131. Springer, Singapore. https://doi.org/10.1007/978-981-19-1844-5_20 (
+, N. M, N. Sagar, V. Nair and Y. Ps, "A Swarm-based AI Aided Wheel Bot System to Detect Cracks in Railway Tracks," 2022
+Sixth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)
+, Dharan, Nepal, 2022, pp. 678-685, doi: 10.1109/I-SMAC55078.2022.9987326. (
+, Sebastian, N., Yadukrishnan, P.S., Vinod, P. (2021). Study on Data Transmission Using Li-Fi in Vehicle to Vehicle Anti-Collision System. In: Pandian, A., Fernando, X., Is-lam, S.M.S. (eds) Computer Networks, Big Data and IoT. Lecture Notes on Data Engineer-ing and Communications Technologies, vol 66. Springer, Singapore. https://doi.org/10.1007/978-981-16-0965-7_41 (
+V. Bino Sebastian, N. M. Unnikrishnan, N. Sebastian and
+, "Morphological Opera-tors on Hypergraphs for Colour Image Processing,"
+2020 Advanced Computing and Com-munication Technologies for High Performance Applications (ACCTHPA)
+, Cochin, India, 2020, pp. 217-220, doi: 10.1109/ACCTHPA49271.2020.9213191. (
+Anagha, S., Sebastian, N.,
+, K. (2019). A Comparative Study of Performance and Security Issues of Public Key Cryptography and Symmetric Key Cryptography in Re-versible Data Hiding. In: Abraham, A., Gandhi, N., Pant, M. (eds) Innovations in Bio-Inspired Computing and Applications. IBICA 2018. Advances in Intelligent Systems and Computing, vol 939. Springer, Cham. https://doi.org/10.1007/978-3-030-16681-6_40  (
+Sco-pus
+A. S., N. Sebastian and
+R. P. K.
+, "Reversible Data Hiding In Encrypted Images Using His-togram Shifting,"
+2018 International Conference on Circuits and Systems in Digital Enter-prise Technology (ICCSDET)
+, Kottayam, India, 2018, pp. 1-4, doi: 10.1109/ICCSDET.2018.8821210. (
+Books/ Book Chapters
+Has authored a book titled “
+A companion for Python Programming
+” as per KTU scheme 2015.
+, Neeraj, M., Yadukrishnan, P.S. (2023). Li-Fi: A Novel Stand-In for Connectivity and Data Transmission in Toll System. Part of the book series: Lecture Notes on Data Engi-neering and Communications Technologies ((LNDECT,vol 131))
+IPRs
+Automated Real-Time Traffic Surveillance and Evidence Management System Using Deep Learning, Blockchain, and Edge Computing, Indian Patent Published (Application No. 202341079753 A) (Status Published, Filed for Grant, Called for Hearing)]
+Professional Activities
+Reviewer:
+Journal of Advances in Information Technology
+International Conference on Computing, Communication, Security & Intelligent Systems IC3SIS' 2022.
+Reviewer for iQ-CCHESS’23 organised by IIITK, Kottayam
+International Conference on Computing, Communication, Security & Intelligent Systems IC3SIS' 2023.
+International Conference on Trends in Engineering Systems and Technologies ICTEST 2025.
 Research Interests
-Artificial Intelligence in Education
-Data Science
-Machine Learning and Deep Learning
-Natural Language Processing
-Knowledge Models
+Named Data Networking
+Electric Vehicle charging Infrastructure
+Machine Learning
+Online Certification:
+Computer Networks and Internet Protocols(NPTEL-
+ELITE WITH GOLD
+Introduction to Internet of things(NPTEL-
+Big Data Computing(NPTEL-
+ELITE WITH SILVER

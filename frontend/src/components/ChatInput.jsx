@@ -51,7 +51,7 @@ export default function ChatInput({
         </form>
 
         <div className="input-meta">
-          <span>College-AI can make mistakes. Check important information.</span>
+          <span>Built by students, for students.</span>
           <span className="keyboard-hint">
             <kbd>Enter</kbd> send <kbd>Shift</kbd> + <kbd>Enter</kbd> new line
           </span>

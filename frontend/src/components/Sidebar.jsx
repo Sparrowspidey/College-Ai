@@ -62,7 +62,7 @@ export default function Sidebar({ open, onClose, onNewChat, hasMessages }) {
           <div className="sidebar-footer-card">
             <span className="footer-glow" />
             <strong>Built by Sparrowspidey & Team</strong>
-            <span>Colleg-AI · IIIT Kottayam </span>
+            <span>College-AI · IIIT Kottayam </span>
           </div>
         </div>
       </aside>

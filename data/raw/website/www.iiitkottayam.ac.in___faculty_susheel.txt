@@ -1,41 +1,42 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/susheel
 
-Dr. Lavanya Settipalli | IIIT Kottayam
+Dr. Susheel Kumar Joshi | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Lavanya Settipalli
+Dr. Susheel Kumar Joshi
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: lavanya
+Email: joshi
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202189
+Hello at: 00 91  04822202185
 Education :
-Ph.D, Computer Applications, Thesis titled: "A Study on the significance of Unsupervised Learning and Blockchain in Healthcare Fraud Detection and Prevention", National Institute of Technology, Tiruchirappalli, 2022.
-M.Tech., Computer Science, Jawaharlal Nehru Technological University, Kakinada, 2013.
-M.C.A., Jawaharlal Nehru Technological University, Kakinada, 2011.
-B. Sc., Electronics, Acharya Nagarjuna University, Guntur, 2006.
-Invited Talk/Sessions: :
-GIAN course on Artificial Intelligence for Social Media Content Extraction, Analysis and Recommendation Systems, National Institute of Technology, Tiruchirappalli.
+Ph.D., Applied Mathematics, Thesis titled: "Gravitational Search Algorithms for Optimization and Their Applications", South Asian University (An international university established by SAARC countries), New Delhi, 2021.
+M.Tech., Systems Analysis and Computer Applications, NIT Surathkal, 2013
+M.Sc., Mathematics, Kumaun University, Nainital, 2005
 Publications
-Patents
-“Computer Vision IoT-Facial Expression/Human Action Recognition” from the Australian government in October 2020, Patent Number: 2020103067. (Published)
-Journals
-Settipalli, L., Gangadharan, G.R., Ugo Fiore, “Predictive Drift Analysis on Decomposed Healthcare Claims using ART based Topological Clustering”, Information processing & Management, Elsevier. Vol. 59, Issue 3, 102887, 2022.
-Settipalli, L., Gangadharan, G.R., “Provider profiling and labeling of fraudulent health insurance claims using Weighted MultiTree”, Journal of Ambient Intelligence and Humanized Computing, Springer. 1-22. DOI: https://doi.org/ 10.1007/s12652-021-03481-6, 2021.
-Settipalli, L, Gangadharan, GR, “Healthcare fraud detection using primitive sub peer group analysis” Concurrency and Computation: Practice and Experience, Wiley. Vol. 33, Issue 23, e6275. 2021.
-Sivaiah Bellamkonda, Lavanya Settipalli, Ramachandran Vedantham, Manojkumar Vemula.“An enhanced earthquake prediction model using long short-term memory”, Turkish Journal of Computer and Mathematics Education, Vol.12. Issue 14, pp. 2397 – 2403, 2021.
-Lavanya Settipalli, Sivaiah Bellamkonda, Vedantham, R., “Morphology based tense aspect disambiguation for sentences in Telugu to English translation”, International Journal of Innovative Technology and Exploring Engineering, Vol. 8, Issue-2S, pp. 51-58, 2018.
-B. Sivaiah, S. Lavanya, N. Murali Krishna, Prasad Challa, “Detecting Warm AffectedInternal Systems Through Back-door Messages” International Journal of Scientific & Engineering Research, Vol. 6, Issue 12, pp. 800-804, 2015.
-Book Chapters
-Vedantham R., Settipalli L., Reddy E.S. (2019) Modified Back Propagation Neural Network for Facial Expression Classification Using Principal Component Analysis and Ridgelet Transform. In: Verma N., Ghosh A. (eds) Computational Intelligence: Theories, Applications and Future Directions - Volume II. Advances in Intelligent Systems and Computing, vol 799. Springer, Singapore.
-Reviewer :
-SADHANA, Springer Nature.
-COMPSAC 2020 IT in Practice (ITiP) Symposium, Milan, Italy.
-TENCON19, Kochi, Kerala. Oct 17 - Oct 20, 2019.
-COMPSAC 2022 IT in Practice (ITiP) Symposium, Torino, Italy.
+International Journals
+Susheel Kumar Joshi, Levy flight incorporated hybrid learning model for gravitational search algorithm, Knowledge-Based Systems, volume-265, 110374, 2023, Elsevier, (SCI, Impact factor: 8.139)
+Susheel Kumar Joshi, Chaos embedded opposition based learning for gravitational search algorithm, Applied Intelligence, 1-20, 2022, Springer (SCI, Impact factor: 5.019).
+Susheel Kumar Joshi, Anshul Gopal, Shitu Singh, Atulya k Nagar, Jagdish Chand Bansal, A novel neighborhood archives embedded gravitational constant in GSA, Soft Computing, 2021, Volume 25, page 6539-6555, Springer ( SCI-Expanded, Impact Factor: 3.732).
+Susheel Kumar Joshi, Jagdish Chand Bansal, Parameter tuning for meta-heuristics, Knowledge-Based Systems (2019), Volume 189, page 105094,  Elsevier (SCI, Impact Factor 8.139).
+Jagdish Chand Bansal, Susheel Kumar Joshi, A.K. Nagar, Fitness varying gravitational constant in GSA, Applied Intelligence, Volume 48, page 3446-3461, 2018, ISSN 1573-7497,  Springer (SCI, Impact Factor 5.019).
+Jagdish Chand Bansal, Susheel Kumar Joshi, H.Sharma, Modified global best artificial bee colony for constrained optimization problems, Computers & Electrical Engineering, Volume 67, page 365-82, 2018, Elsevier (SCI-Expanded,  Impact Factor 4.152).
+International Conferences
+Susheel Kumar Joshi, Jagdish Chand Bansal, Grey Wolf Gravitational Search Algorithm, International Workshop on Computational Intelligence (IWCI 2016), pages 224-231, IEEE.
+Preprints
+Susheel Kumar Joshi, Jagdish Chand Bansal, A novel neighbourhood archives embedded gravitational constant based binary gravitational search algorithm and its application to windfarm layout optimization problem, preprint at arXiv:2107.11844 [cs.NE].
+Susheel Kumar Joshi, Chaos embedded opposition based learning for GSA, preprint at arXiv:2108.12610 [cs.NE].
+For details of all research articles, please visit
+google scholar
+Professional Activities
+Reviewer:
+Expert Systems with Applications (Elsevier)
+Artificial Intelligence Review (Springer)
+Knowledge based systems (Elsevier)
 Research Interests :
-Big Data Analytics
-Natural Language Processing
-Image processing
-Block Chain Technologies
+Swarm Intelligence
+Nature-inspired Optimization Techniques
+Evolutionary Computation
+Optimization Algorithms
+Soft Computing
