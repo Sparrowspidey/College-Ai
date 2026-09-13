@@ -234,7 +234,7 @@ http://127.0.0.1:8000/docs
 2. Vivek Ediga @ Sparrowpsidey
 3. Reshmitha G
 4. Himasai Vihar
-5. Vinay V
+5. Vinay V @DevonKaratt
 6. Sai Akilesh 
 7. Adithya M
 
