@@ -19,6 +19,7 @@ Session Chair at 9th International Conference on Frontiers of Intelligent Comput
 AICTE Training And Learning (ATAL) Academy Program on Workshop on Cyber Security (3rd March- 7th March 2020) at NIT Mizoram.
 Publications
 Journals
+Antony, E., & Roy, A. K. (2026). Efficient and interpretable IoT botnet detection via feature selection and hyperparameter-optimized XGB. Computer Networks, Elsevier, 112399. (SCIE)
 Chhakchhuak, V., Khan, A. K., & Roy, A. K. (2025). Common key multi-hop packet authentication protocol for wireless mesh networks.
 International Journal of Information and Computer Security
 , 26(3), 236-254. (ESCI)
@@ -33,6 +34,17 @@ Roy, A. K., & Khan, A. K. (2020). Authentication Protocol with Privacy Preservat
 Roy, A. K., & Khan, A. K. (2021). Prevention Against Internal Attack via Trust- Based De-tection for Wireless Mesh Networks. In Advances in Communication and Computational Technology (pp. 109-117). Springer, Singapore.
 Roy, A. K., Khan, A. K., & Mahanta, H. J. (2020, July). Trust-Based Detection of Malicious Nodes for Wireless Mesh Networks. In International Conference on Machine Learning, Im-age Processing, Network Security and Data Sciences (pp. 475-485). Springer, Singapore.
 Roy, A. K., & Khan, A. K. (2021). Handoff Authentication Through Diffie-Hellman Ap-proach for Wireless Mesh Networks. In Proceedings of the International Conference on Computing and Communication Systems (pp. 615-622). Springer, Singapore.
+Patent
+Status:
+Published
+Agency:
+Indian Patent
+Patent Title:
+Handover Authentication Protocol with SDN-based scheme for Edge Computing Nodes in Cyber-Physical Systems
+Applicants:
+Amit Kumar Roy, Elizabeth Antony
+Application Number:
+202641076484
 Professional Activities
 Member of IEEE
 Reviewer:

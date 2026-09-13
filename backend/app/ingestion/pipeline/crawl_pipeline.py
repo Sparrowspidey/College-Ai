@@ -91,7 +91,7 @@ SEED_URLS = [
 def run_crawler(
     website_dir: str   = "../data/raw/website",
     pdf_dir:     str   = "../data/raw/pdf",
-    max_pages:   int   = 300,
+    max_pages:   int   = 500,
     delay:       float = 1.5,
 ) -> None:
     crawler = CrawlerEngine(

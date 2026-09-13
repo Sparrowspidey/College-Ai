@@ -2,72 +2,46 @@ URL: https://www.iiitkottayam.ac.in/#!emtechStudents
 
 Welcome to IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Admissions Open -  e-M.Tech August 2026
-Admissions Open -  PhD August 2026.
-Campus Virtual Tour
+UG Admission 2026 Updates
+The Institute will remain functional on 16/08/2026 (Sunday) to facilitate UG Admissions 2026.
+The Orientation Programme (UG 2026) is scheduled to be held on 20/08/2026.
+CHORDS 2026, International Conference on Computation and Humanities
+International Yoga Day Celebrations
+AICTE-QIP VALEDICTORY Function
 SEVENTH International Conference on Innovative Trends in Information Technology, ICITIIT 2026
 Youth for Democracy Summit 2026
 TEDx IIIT Kottayam 2026
 Annual Sports Meet Pradhva 4.0
 Republic Day 2026
 AXCIA – Annual Cyber Exercise
+Hands-On Workshop on Prototyping using FPGA
+Applied Computer Vision & NLP: A practical Python Workshop
+4-day Cyber Security Incident Response Training Program"
+5-day STTP and FDP entitled "Contemporary Robotics: Innovations, Trends & Practices"
+FIVE DAYS FDP CUM WORKSHOP FUZZYMAT 2026 MASTERING AMBIGUITY:FUZZY LOGIC APPLICATIONS IN AI, ML, AND DATA SCIENCE
+Workshop on Graph Neural Network
+Data to Intelligence: A Practical Training in AI & Machine Learning
+From Sensors to Intelligence:A 5 Day Hands-on Workshop on IoT and Predictive Analytics
 Code Kalari
 7th Convocation
 VIGILANCE AWARENESS WEEK 2025
 Blood Donation Camp November 2025
 150 Years of Vande Mataram Commemoration
-SWACHHOTSAV 2025
 International Workshop on Climate Resilience 2026
 TTTC Workshop 2026
-DRONE Workshop 2025
-5-Day Workshop on Complex Network Analysis with Applications in Brain Network Science & Complex Systems (CNA–Brain 2025)
-AICTE QIP PG Season 2 - Valedictory
 UG Orientation 2025
 INDEPENDENCE DAY 2025
 Anti-Ragging day Observation 2025
 MoU Signing Ceremony PM-VIKAS Scheme
 4th International Conference on Speech and Language Technologies for Low-resource Languages (SPELLL 2025)
-Two-Day International Conference on Computation and Humanities: Overlapping Research in Digital Spaces (CHORDS 2025)
 CONGRATULATIONS
-ONE NATION ONE ELECTION
-Yoga DAY 2025
-WORLD ENVIRONMENT DAY 2025
 MoU  with Well Tech : An initiative to share resources on academia led  industrial labs
 MOU with CyStar IIT Madras
-Republic Day 2025
-Blood Donation Camp 2025
-NATIONAL CONSTITUTION DAY 2024
-State special branch police training
-Five-Day workshop on "Data Science Essentials: Python Powered learning"
-One Week FDP cum Workshop Advanced Computer Vision for Image Video and Applications
-Short Term Training Program (STTP) on Rapid Prototyping using FPGA
-One Week Workshop on Internet of Things for real-time applications with Implementations
-3 Day UAV Workshop
-ESF-IITM Workshop on Distributed Ledgers with a focus on the Hedera Hashgraph Network
-SIKER 2025
-One Week FDP cum Workshop on Secure Cloud, AI and Distributed Systems (SCADS'2025)
-AI FORA 3rd General Partner Meeting
-NATIONAL UNITY DAY 2024
-Cyber Commando Training Program
-Mozilla RCC Global Conclave 2024
-14th International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE 2024)
-International Conference on Smart ElectroNics and Communication SystEms 2024 ( ISENSE24 )
-4th IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (IEEE SPICES 2024)
-Inauguration - "MiGlOo" The Open Cafeteria
-Inauguration - " Varenyam " The Senate Hall
-Mozilla Responsible Computing Grant
-Agnisparsha Project
 MOU with Amala Institute of Medical Sciences
 MoU with National Ayurveda Research Institute for Panchakarma,Cheruthuruthi
 MoU with IIST Thiruvananthapuram
-MoU with Kerala Agricultural Univeristy
 MoU with Human Resocia/Global IT Talent, Japan for Student Placements and International Internships
 MoU with Rashtriya Raksha University, Gandhinagar Gujarat
-ACM India Eminent Speaker Programme
-Won the best paper award
-Awarded prestigious Overseas Visiting Doctoral Fellowship at Purdue University
-DAAD Scholarship 2024
-New Open Gym -Svasthya
 IIIT Kottayam @ Media
 One of the highlight's of cOcOn 2023 is its innovative project of a crime scene within the metaverse, developed by Gyaan Lab(IIIT Kottayam).
 Diwali @ IIIT Kottayam
@@ -83,16 +57,21 @@ Placement Details
 Innovative Initiatives of IIITK
 Latest News
 More
-Advertisement for the Post of Project Research Scientist-I (Non-Medical) in Sponsored Project
-List of provisionally selected candidates for admission test - e-M.Tech August 2026 batch (Phase I)
-Shortlisted candidates of Ph.D. August 2026 for Interview
-Notice inviting offers for hiring of buildings for IIIT K
-Advertisement for the Post of a Junior Research Fellow in Sponsored Project(BEL-Bangalore)
-Upcoming FDP/Workshop
+Advertisement for the Post of a Junior Research Fellow in Sponsored Project
+List of Applicants Eligible after the e-M.Tech August 2026 Spot Admission Test
+Notice regarding registration for PhD Semester July- December 2026 is enclosed
+Result - Faculty on Contract Basis - Computer Science & Engineering and Interdisciplinary Areas
+List of applicants eligible for the test - e-M.Tech - Spot Admission
+Notice regarding registration for iMTech Semester 2, 4 & 6
+Notice regarding registration for MWP July - December 2026 Semester
+Notice regarding registration for eMTech Semester 2 & 3
+EMPANELMENT OF FACULTY ON CONTRACT BASIS COMPUTER SCIENCE & ENGINEERING AND INTERDISCIPLINARY AREAS
+Spot Admission Registration for e-M.Tech August 2026 Batch
+List of Candidates Selected for the post of Project Research Scientist-I (Non-Medical)
 Events
 ICITIIT 2025
 International Conference on Innovative Trends in Information Technology (ICITIIT25)
-Yoga Day 2024
+Yoga Day 2026
 IIIT Kottayam Observes International Yoga Day
 Faculty Development Programme 2024(ECE)
 Faculty Development Programme 2024(CSY)
@@ -124,15 +103,16 @@ Applied Cryptography
 IoT Security
 Blockchain Technology
 Research Publication
-QoS-based Cloud Application Management: Approach and Architecture
-V Podolskiy
-HM Gerndt
-S Benedict
-A survey on cloud-based solutions for cloud manufacturing
-NC Brintha
+Image Restoration via Discrete Orthogonal Stockwell Transform and Total Variation Regularization
+Dr.Bini.A.A
+Hybridization and Torsion Defects influenced Electron Transport in Trans-Polyacetylene
+KumarGaurav, BoddepalliSanthiBhushan, German Mino-Galaz, Gonzalo Gutierrez, AnuragSrivastava
+Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs
+TF Philipp Gschwandtner
+Alexander Hirsch
 Shajulin Benedict
-SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications
 IIIT Kottayam - Virtual Tour-I
 IIIT Kottayam - Virtual Tour-II
 IIIT Kottayam - Virtual Tour-III
 IIIT Kottayam - Virtual Tour-IV
+IIIT Kottayam - Virtual Tour-V

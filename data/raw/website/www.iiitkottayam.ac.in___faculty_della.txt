@@ -1,115 +1,151 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/della
 
-Dr. Gayathri G.R. | IIIT Kottayam
+Dr. Della Thomas | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Gayathri G.R.
+Dr. Della Thomas
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: gayathri
+Room No: BC-313, Academic Block-2
+Email:  della
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202184
+Hello at: 00 91  04822202183
+ORCID iD: 0000-0002-7543-2225
+Google Scholar:
+https://scholar.google.com/citations?user=aAsIsRgAAAAJ&hl=en
+LinkedIn:
+https://in.linkedin.com/in/della-thomas-2a9a9566
+Lead Faculty in Applied Optics and Optical Communication, Microwave and Optical Research Group (MORAL), IIIT Kottayam
+https://moral.iiitkottayam.ac.in/
+Research Interests :
+Ocean Optics
+Lasers
+Spectroscopy
+Embedded Systems
+Optoelectronics
+Internship/Summer projects
+Students interested in working with me can drop an email with the statement of purpose and research interests. You can also check
 Honours and Achievements :
-Recipient of research grant from Department of Space, Government of India.
-Nominated by the US Embassy for the prestigious US State sponsored Online Professional English Network (OPEN) programme
+Received the Institute Research Award 2021, IIT Madras.
+Recipient of Women Leading IITM Award 2022
 Education :
-Ph.D, Indian Institute of Space Science and Technology, Thesis titled: "Mind and Space”: A Study on Post-traumatic Psychosocial Disabilities in Select Malayalam Films", IIST, 2020.
-M.A English Language and Literature, University of Hyderabad (A Central University), 2013.
-B.A English Language and Literature, Sree Narayana College for Women, University of Kerala, 2011.
-Invited Talk/Sessions:
-Invited talk titled “ From Code to Culture: Rethinking AI through a Human Centered Lens”, 5-Day Boot Camp on Responsible Computing jointly organised by FACTS-H Lab IIIT Kottayam and Mozilla Responsible Computing Challenge, March 2025.
-Invited talk on “CUET 2025: Your Gateway to Top Universities Across India”, as part of PM Shri. Scheme- Interaction of girl students of higher Institutions with Lady Experts of Prestigious Institutions, March 2025.
-Invited talk on “Empowering Educators: Enhancing Public Speaking and Leadership Qualities for Effective Teaching”, as part of AICTE sponsored 5 day FDP on Visionary Instructional Strategies and Teaching Approaches (VISTA) organised by Department of Computational Science and Humanities, IIIT Kottayam, December 2024.
-Invited talk on “Humanities in Technical Institutions: Relevance and Opportunities”, as part of DISHA (Higher Education Expo) organised by Department of General Education, Higher Secondary Wing, Government of Kerala, March 2024.
-Invited session on “AI and Humanities: Possibilities and Challenges” , Manorama Horizon, February 2024.
-Invited talk on “Sustainable Development through the lens of Humanities and Social Sciences”, in the National Level Workshop on Pursuing Sustainable Development Using Literary Tools at St. Aloysius College, Thrissur, October 2022.
-Invited talk on “Language Aspects of a Scientific Research Paper”, as part of SERB sponsored workshop on Methods for Creating a Quality Research Article: Software and Writing Perspective”, July 2022.
-Invited talk on “Why Study English Language and Literature: The Course and its Relevance”, organised by Government Arts and Science College, Kinanoor, Kasargod.
+Ph.D, Thesis titled: "Influence of biofouling on ship resistance and laser spectroscopic analysis", IIT Madras, 2022.
+M.Tech., Optoelectronics and Communication Systems, CUSAT ,2014
+B.Tech., Electronics and Communication Engineering, CUSAT ,2011
+Professional Society Memberships
+Optical Society of America (OSA)
+SPIE
+IEEE
+IEEE Photonics Society
+Indian Laser Association (ILA)
+Optical Society of India (OSI)
+The Oceanography Society (TOS)
+Electron Microscope Society of India (EMSI)
 Publications
 Journals
-"Faith Healing for Mental Illness: A Qualitative Study on Religious Centres and Ritual-istic Healing in Kerala (India)"
-•	Elementary Education Online, 2023, Vol 20, Issue 5, pp. 8624–8633
-"Thulasilerunna Penudalukal: Laigikathayum Manasika VibhranthiyumMalayala Cinemayil"
-• Sangaditha (Book Chapter), December 2022
-"Mad Women in the Attics of Malayalam Cinema: A Study on the Representation of Feminine Psychic Space."
-• Littcrit, December 2018, Vol 44, Issue 86, No. 2, pp. 144-149
-(Scopus Indexed)
-"Framing the Marginalized: A Critique on the Portrayal of Physically Challenged Fe-male Characters in Selected Malayalam Movies."
-• Indian Scholar, September 2018, Vol 5, Issue 1, pp. 21-28
-"Exploring Fat Lives: A Critical Analysis and Comparative Reading of Two South In-dian Movies; Da Thadiya (2012) and Inji Iduppazhagi (2015)."
-Research Guru: Online Journal of Multidisciplinary Subjects, 2018, Vol 12, Issue 3, pp. 344-354
-Papers published
-Raj, S. J.,
-Gayathri, G. R.
-, & Suresh, A. K. (2025). Fragile fat masculinities: the narrative construction and masculine negotiation of fatphobia in Malayalam cinema. Journal of Gender Studies, 1–23.
-https://doi.org/10.1080/09589236.2025.2521690
-(SSCI Q1 Journal/Scopus Indexed)
-Paper presentations and Conferences/Workshops/FDPs Attended
-, & Ahrweiler, P. (2025, July). AI Explain: AI-generated graphic storytelling for explaining AI across cultures [Conference presentation]. IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications (IARIA Congress 2025), Venice, Italy.
-, Ebin Deni Raj, and Josit Mariya. Gaze in the Digital Age: Mapping Cultural Spectatorship in Indian Cinema through Eye Tracking. Panel presentation. Code, Culture and Critique: New Junctures in Digital Humanities, 11–13 June 2025, Indian Institute of Space Science and Technology, Thiruvananthapuram.
-, & Roy, S. (2025, April 12). Bridging fun and awareness: Rohn Chakravarthy's middle ground approach in environmental graphic novels [Conference presentation]. One-Day International Virtual Conference Republic Revisited: Exploring the Nation in 21st Century Indian English Literature, St. Aloysius College, Elthuruth, Thrissur, Kerala.
-Presented a paper titled “Exploring the Possibilities of ChatGPT and Copilot in English Language Teaching”, at the international conference on Fostering Multimedia Literacy through English Language Education, organised by the department of English and Cultural Studies, CHRIST University, in collaboration with Mozilla Responsible Computing Chal-lenge, January 2025.
-Participated in the 3 day national seminar SIKER 2024 (School of Interdisciplinary Knowledge and Engineering Research) organised by Department of CSE, IIIT Kottayam, May 2024.
-Presented a paper on “ Emojis: the Evolution of a Connective Memory in Digital Space” at the international memory studies conference Memory, Ecology, Sustainability, organised by Centre of Memory Studies IIT Madras.
-Participated in Two Day International Seminar on Margins and Masculinities and presented a paper on "Psychosocial Disabilities and Masculinity Crisis in Malayalam Cinema" at  St. Berchman's College Changanassery, 11- 12 August 2022.
-Participated in 15 days Virtual Faculty Development Programme on Academic Writing and Publishing in Social Sciences, organized by Department of Social Work, Sree Sankaracharya University of Sanskrit, Kalady, from 10 February to 12 March, 2022.
-Participated in national webinar on Indian Cinema: Perspectives and Politics organized by Vinayaka Ganesh Vaze College of Arts, Science and Commerce, Mumbai on 1 September 2021.
-Participated in national webinar on “The Human Subject: Disability and Post- Apocalyptic Narratives” organized by Department of English, Government College Daman on 21 July 2020.
-Participated in national webinar on “Disabled Bodies and Capitalism: A Brief Analysis” organized by the Department of English, St Berchmans College Changanassery on 8 July 2020.
-Participated in the 8 days GIAN short course on “Clinically Applied Anthropology: Critical Perspectives on Mental Health Theory and Practice in India”, at IIT Hyderabad, November 2018.
-Participated in the conference on “Theorising Space: Three Days National Conference on the Intersections of Space and Culture” at Indian Institute of Space Science and Technology and presented a paper titled “Madwomen in the Attics of Malayalam Cinema: A Study on the Representation of Feminine Psychic Space.”, Dec 2017.
-Participated in the conference on “Pleasure Politics and Pagalpan: National Conference on Sexuality, Rights and Psychosocial Disability”, jointly organized by Anjali and ARROW at Kolkata, May 2017.
-Participated in the workshop on Film Studies at Indian Institute of Space Science and Technology, Trivandrum, June 2016.
-Participated in the four days seminar on “Kerala’s Cultural History” organized by the UGC- SAP programme  at the Institute of English, University of Kerala and presented a paper titled “ A Journey Through the Discourse of Madness in Kerala: A Critique of the Malayalam Movie Aham”, March 2016.
-Participated in the two day workshop on “Clinical Application of Physchoanalysis in Asian Context” at Christ College, Bengaluru, January 2016
-Participated in the International Conference on Gender Equality (ICGE) hosted by the Gender Park, an institution under the Kerala Government at Kovalam, December 2015.
-Participated in the UGC Sponsored National Seminar on “Mapping Borders: Discourses on Marginalization” and presented a paper titled “Framing the Marginalised: A Critique on the Portrayal of Female Characters in Selected Malayalam Movies” at Mar Dionysius College, Pazhanji, 30 September- 1 October 2015.
-Participated in the four day workshop on Research Methodology in Cultural Studies at Indian Institute of Space Science and Technology Trivandrum June 2015.
-Participated in the UGC Sponsored National Seminar on “On the Margins of Many Cultures: Narrating Diaspora Consciousness” and presented a paper titled “Being a Nepali without Nepal: Exploring the Nepali Diaspora in Manjusree Tapa’s Seasons of Flight” at Mar Thoma College, Thiruvalla, January 2015.
-Participated in the UGC sponsored National Seminar on “Alienation and Self Assertion in the Politics of Dalit Literature” and presented a paper titled “Annihilation of Caste with a Reply to Mahatma: A Reading on the Ever-Debated Caste Identity” at Sree Narayana College for Women, Kollam, 2014.
-Participated in the UGC sponsored National Seminar on “Migrancy and the Politics of Location: Perspectives in Immigrant Writing from the First World at Sree Narayana College for Women, Kollam, 2009.
-Short term courses attended
-64 hours course on Teaching Grammar Communicatively Global Online Course (GOC), as part of OPEN programme, funded by the U.S. Department of State, Bureau of Educational and Cultural Affairs.
-Conferences/Workshops/FDPs organised at IIIT Kottayam
-Part of the organizing team of the final summit of AIFORA from 10- 12 December, 2024.
-Part of the organizing team of Mozilla RCC Conclave at IIIT Kottayam, 24 October 2024.
-Part of the organizing team of One- day workshop on HARMONY- AI, organized by FACTS-H Lab IIIT Kottayam in association with Mozilla Foundation, August 2024.
-Coordinated a one- day national workshop on “AI and Cyber Security for Media”, at IIMC Kottayam, October 2024.
-Coordinated a one-day national workshop on “Digital Tools in Communication for Lan-guage Teachers” at IIIT Kotttayam, January 2024.
-Coordinated a One day workshop on “Fake News: Challenges in Fact Checking”, jointly or-ganised by IIIT Kottayam and IIMC Southern Regional Campus Kottayam, November 2022.
-Organised a webinar on “Digital Story Telling and Extended Reality”, September 2022.
-Membership in Professional Bodies
-Member- FACTS-H Lab IIIT Kottayam
-Member- Indian Network of Memory Studies (INMS)
-Member- Disability Studies India
-Member- Malayalam Cinema Studies Research Group
-Projects guided (in Digital Humanities)
-A projected on “The Possibility of Using Concordance Analysis as a Tool in Author Identi-fication” with M A student, Department of Linguistics, University of Kerala.(completed)
-A projected on “Developing an AI based framework for Automated Corpus Generation” with  M A student, Department of Linguistics, University of Kerala. (completed)
-A project on Graphic narratives in India (ongoing)
-Teaching Experience
-Worked as Guest faculty in English at Indian Institute of Information Technology, Kottayam. (12 January, 2022- 31 May, 2022)
-Worked as government guest lecturer in the department of English at Sree Narayana College for Women, Kollam (26 July, 2021- 10 January, 2022)
-Worked as government guest lecturer in the department of English at TKM College of Arts and Science Kollam  (21 August 2019- 13 February- 2020)
-Worked as Assistant Professor (on contract ) at Kerala Agricultural University, Vellayani  Thiruvananathapuram (16 January 2019- 30 March 2019)
-Worked as government guest lecturer in the department of English at Sree Narayana College for Women, Kollam (7 July 2014- 28 November 2014)
-Worked as government guest lecturer in the department of English at Sree Narayana College Kollam (14 July 2013- 2 January 2014)
-Professional Activities
-Faculty in charge Cultural Club (Wildbeats), IIIT Kottayam.
-Faculty in- charge Institute Social Media and Branding
-Nodal Officer PM’s LiFE Mission
-Assistant Warden for Girls Hostel
-Member, Annual Report Publication Committee, IIIT Kottayam.
-Represented IIIT Kottayam for the first national mental well-being conclave at IIT H organised by the Ministry of Education
-Member- Doctoral Advisory Committee- Department of English, VIT Vellore
-Co-ordinated multi- media feedback sessions (a training for B. Tech students on LSRW skills, stage presence and interview skills) at IIST Thiruvananthapuram.
-Member, Timetable Committee, IIIT Kottayam.
-Research Interests :
-Human- Centered Artificial Intelligence
-Digital Humanities
-Cultural Analytics
-Film Studies
-Critical Disability Studies
-Gender Studies & Cultural Studies
-English Language Teaching
+V.G. Chaithralakshmi, P. Anamika, K.M. Vishnu, V. Dinesh Kumar, Della Thomas, “Sun-tracker PV and TEG hybrid power generation”, Optics Communications, vol. 583, 2025, 131780, 2025, doi: 10.1016/j.optcom.2025.131780
+Della Thomas, Gangineni Kireeti, Dadi Nikhil, “Novel automotive embedded systems for smart mobility”, Brazilian Journal of Development vol. 11, no. 3, e78601, p. 1-10, 2025.
+D. Thomas, S. Surendran, and N. J. Vasa, “Nanosecond laser induced breakdown spectroscopy for biofouling analysis and classification of fouling constituents,” Spectrochim. Acta – Part B At. Spectrosc., vol. 168, no. 4, p. 105847, 2020, doi:10.1016/j.sab.2020.105847
+D. Thomas, S. Surendran, and N. J. Vasa, “A simplified approach for voyage analysis of fouled hull in a tropical marine environment,” Ships Offshore Struct., pp. 1–11, 2020, doi: 10.1080/17445302.2020.1781745
+Book Published
+Effect of Biofouling on Ship Resistance and Laser Induced Breakdown Spectroscopic Analysis, Della Thomas, S. Surendran and Nilesh J. Vasa, Book Rivers, 2023. ISBN 978-93-5515-753-9  (789355157539)
+Book Chapters
+Thomas D., Surendran S., Vasa N. J. (2025), LIBS: An emerging field portable sensor technology for real-time, in-situ environmental analysis, In: V. K. Singh (eds), Laser Induced Breakdown Spectroscopy (LIBS), Springer Nature Switzerland (In Press)
+Thomas D. (2023), Marine Biofouling Analysis by Laser-Induced Breakdown Spectroscopy, In: Dr. Vivek K. Singh, Prof. Y. Deguchi, Dr. Zhenzhen Wang, and Dr. Durgesh K. Tripathi (eds).  Laser Induced Breakdown Spectroscopy (LIBS) : Concepts, Instrumentation, Data Analysis and Applications, John Wiley & Sons Ltd. (In Press)
+Thomas D., Surendran S., Vasa N.J. (2021) Biomolecule Characterization Using Laser Induced Breakdown Spectroscopy. In: Singh K., Gupta A.K., Khare S., Dixit N., Pant K. (eds) ICOL-2019. Springer Proceedings in Physics, vol 258. pp 441-443, Springer, Singapore. Print ISBN978-981-15-9258-4, Online ISBN978-981-15-9259-1, First Online 02 March 2021,
+https://doi.org/10.1007/978-981-15-9259-1_101
+Workshops Organized
+Co-coordinator for ATAL online FDP on ‘AI and emerging technologies for sustainable energy and climate adaptation from November 25-30, 2024 at IIIT Kottayam.
+Co-coordinator for IEEE Membership Awareness Program and seminar on ‘Microwave to Terahertz a Paradigm Shift’ by Dr Gautam Chattopadhyay, Senior Scientist, JPL, NASA, USA on February 26, 2024 at IIIT Kottayam.
+Conducted ‘Ansys HFSS Simulation Training program on 3D electromagnetic field simulator for RF and wireless design’ training webinar on October 20, 2023 at IIIT Kottayam in association with Entuple Technologies.
+Conducted a talk on "Embedded Systems and IoT in Software industry" by Mr. Liju John, Manager, Embedded Firmware at Innophase IOT on March 1, 2023 at IIIT Kottayam in association with ELIX technical club.
+Conducted 5-day FDP on ‘Nanodevices for Wearable Electronics’ from July 17-21, 2023 at IIIT Kottayam
+Invited Talk
+Delivered session on ‘Advanced Optoelectronics Sensors – Applications, Modelling, and Industry 5.0 Perspective’ at ATAL-FDP on ‘Industry 5.0 – A Human Centric solution’ for faculty of Engineering colleges of Kerala at College of Engineering Adoor on January 18, 2024
+Served as resource person on ‘Literature Review – An art’ for 3-day online workshop on ‘Navigating Research Article Publications Landscape from writing to publishing: Mastering the academic journey of Research’ on 15th March, 2023 at Pimpri Chinchwad College of Engineering, Pune.
+‘Oceanic Applications of Laser Induced Breakdown Spectroscopy’ – an invited talk presented at Photonics and Lasers - Industry Meet (PLAIM) conference for promoting Lasers and Photonics in India organized by the IEEE Photonics Student Chapter IIT Bombay jointly with IEEE Photonics Society-Bombay Chapter between 7-9 December 2022, co-located with ‘LASER World of PHOTONICS INDIA’ expo, at Bombay Exhibition Centre., Mumbai, Maharashtra.
+Industrial Experience Interaction
+Co-ordinator for ARM University Program at IIIT Kottayam for 2023-2024
+Appointed as Evaluator for 3rd edition ARM Inventor’s challenge 2024 jointly hosted by AICTE, Arm Education and STMicroelectronics.
+Administrative Work Experience
+Placement Cell committee member, IIIT Kottayam
+Invited External Committee Memberships
+Reviewer for Journal of Pathology, Microbiology and Immunology - the APMIS journal published by Wiley.
+Appointed as External member of DC committee for PhD student at Dept. of Atomic and Molecular Physics, MIT Campus, Manipal from April 1, 2024.
+Appointed as External Examiner at Pimpri Chinchwad College of Engineering, Pune for End Term examination AY – 2023-2024 B.Tech., Mechanical Engg, Semester 6 for the course HME 6983, Model Based Systems Engineering in March 2024.
+Served as Reviewer for the Cyber Physical Systems and IoT track in the IEEE International Conference on Recent Advances in Computing and Systems (ReACS '25) organized by Atal Bihari Vajpayee-Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior during 19-20 December 2025.
+Served as Reviewer in the 6th International Conference on Innovative Trends in Information Technology (ICIIT’25) organized by the Department of Computer Science and Engg, IIIT Kottayam during 21-22 February, 2025.
+Served as Reviewer and Track Chair for Optical Instrumentation and Measurement Technologies in the Fourth International Conference on Power, Control, and Computing Technologies (ICPC2T) 2025 organized by NIT Raipur during 20-22 January 2025.
+Served as Reviewer in the International Conference on Smart Electronics and Communication Systems (ISENSE 2024) organized by the Electronics and Communication Engineering Department, IIIT Kottayam during 6-7 December 2024.
+Served as Reviewer in the Artificial Intelligence, Computing technologies, Internet of Things (IoT) and Data Analytics (AICTA’24) conference organized by NIT Raipur during 15-17 November 2024.
+Served as Reviewer in the 5th International Conference on Innovative Trends in Information Technology (ICIIT’24) organized by the Department of Computer Science and Engg, IIIT Kottayam during 15-16th March, 2024.
+Courses Taught at IIIT Kottayam
+Course Name
+Semester/Academic Year
+IEC 213 Microprocessors and Microcontrollers
+Odd 2022, Even 2023, Odd 2024
+ECE 322 Embedded Systems
+Even 2023, Even 2024, Even 2025
+ECE 312 Microwave Engineering
+Even 2023
+ICS 122 Computer Organization
+Even 2024
+IEC 311 Digital Signal Processing
+Odd 2024
+CSE 321 Microprocessors
+Even 2025
+Publications In International Conference Proceedings
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Laser Induced Breakdown Spectroscopy for Marine Biofouling Dynamics Monitoring’, International Conference on Recent Developments in Biofilms and Biofouling Control (BBC-2024), 12-14 December 2024, IGCAR Kalpakkam.
+Della Thomas, Adithyadev Mattada, ‘Real-Time Adaptive Noise filter for mobile Electrocardiography Systems’, Women in Optics and Photonics in India- Asia 2024, 6-8 December 2024, IIT Bombay.
+Aswath Vinod M, Eldho Sam Varghese, Della Thomas, ‘Simulating Multilayer Thickness Measurement Systems based on Spectroscopic Reflectance’, XLVII OSI Symposium, International conference on Advances in Optics and Photonics Instrumentation, 23-25th October 2024, organized by CSIR-CSIO, Chandigarh.
+Aswathy Pavithran, Santhos Kumar A, Kala S and Della Thomas, ‘Image Segmentation Using Particle Swarm Optimization and Simulated Annealing’, 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), 18-20th January, 2024, NIT Raipur.
+Chaithralakshmi V. G., Anamika P., Della Thomas, ‘Design and implementation of sun tracking solar power system’, Women in Optics and Photonics in India 2023, 2-3 January 2024, IIT Madras.
+Della Thomas, S. Surendran and Nilesh J Vasa, ‘Determination of bioaccumulation in marine ecosystem by Laser Induced Breakdown Spectroscopy’, International Indian Ocean Science Conference IIOSC, 14-18 March 2022, NIO Goa (Virtual).
+Della Thomas, S. Surendran and Nilesh J. Vasa, ‘Estimation of voyage parameters of a fouled hull in rough weather’, International Conference on Advances in Naval and Ocean Engineering (iCANOE’21), Kochi, India, 19 – 20 November, 2021.
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Alternate method for determining resistance of ship with fouled hull’, MARINE 2021, 2-4 June, 2021,
+(Virtual).
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Optical Spectroscopy for Marine Biofouling Analysis’, International OSA Network of Students conference- IONS 2020, February 29 – March 02, 2020, IIT Delhi,
+India
+D. Thomas, S. Surendran, N.J. Vasa, ‘Laser Spectroscopy for Marine Biofouling Analysis’, Global Oceans 2020, October 5-14, 2020,
+Singapore
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Application of LIBS for analysis of biofouling of marine structures’, 11th International Conference on Laser-Induced Breakdown Spectroscopy, September 20-25, 2020,
+Japan
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Biofouling Characterization and its effect on resistance of surface of ship’, OMAE 2019, June 9–14, 2019, 38th International Conference on Ocean, Offshore & Arctic Engineering in Scotland,
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Nanosecond LIBS for Biofouling Analysis and Classification of Fouling Constituents’, 10th Euro-Mediterranean Symposium on LIBS (EMSLIBS) 2019, September 8-13, 2019, Czech Republic.
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Biomolecule characterization using LIBS’, International conference on Optics and Electro-Optics (ICOL-2019), 19th to 22nd October 2019, XLIII Symposium of Optical Society of
+Della Thomas, S. Surendran and P. Sivabalan, and Nilesh J Vasa ‘Study of fuel consumption in the presence of biofouling growth on ship hull’, RINA International conference on computational and experimental Marine Hydrodynamics MARHY 2018, 26-27 Nov 2018., IIT Madras,
+Della Thomas, R Rajesh, Sreehari C V, Vivek K and Sham Kumar, ‘Optimization of Fiber Mach-Zehnder Interferometer with different light sources for High Sensitive Sensor Applications’, International Symposium on Under Water Technology 2015, NIOT Chennai, February 23-25, 2015,
+Presentations In National Conferences
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Laboratory laser spectroscopy-based screening for analysis of biofouling accretion on immersed Marine structures’, National Conference on Ultrafast and Nonlinear Optics (NCUNO-2025), Raman Research Institute, Bengaluru, 20-21 June, 2025.
+Women in Optics and Photonics in India -2022, Raman Research Institute, Bengaluru, 6-7 December, 2022
+Selected for Oral Thesis Presentation at 30th DAE-BRNS National Laser Symposium 2022, Jan 19-22, 2022
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Determination of bioaccumulation in marine ecosystem by Laser Induced Breakdown Spectroscopy’, 7th National conference of the Ocean Society of India, OSICON-21, NCPOR, Goa,
+from August 12-14, 2021.
+Della Thomas, S. Surendran, Nilesh J Vasa, Laser Induced Breakdown Spectroscopy for Marine Biofouling Analysis, National Symposium on Light - Matter Interactions NSLIMI 2019, Dec. 26, 2019, IIT Madras,
+Della Thomas, S. Surendran, Nilesh J Vasa, ‘Analysis of Chlorella vulgaris algae using Laser Induced Breakdown Spectroscopy’, DAE-BRNS National Laser Symposium NLS-27, December 3-6, 2018, RRCAT, Indore,
+Workshops Attended
+National Conclave on ‘Implementation of NEP 2020: Moving towards Academic excellence’ organized by NIT Calicut on 25-26th April 2025.
+Indo-Israeli Workshop on the Design and Implementation of Smart Water Systems, jointly organized by the Dept. of Civil Engg. at the Indian Institute of Technology (IIT) Kanpur, the Dept. of Civil Engg. at Harcourt Butler Technical University (HBTU) Kanpur, and the Faculty of Civil and Environmental Engg. at Technion-Israel Institute of Technology, Haifa, during August 30-31, 2024 at IIT Kanpur.
+Faculty Development Programme (FDP) on High Performance Computing (HPC) under C-HUK Project held at C-DAC Electronics City Bangalore, 22-26th July 2024.
+Participated in National Workshop on ‘Embedded Systems and IOT’ organized by the Department of Instrumentation, CUSAT during 13-15th January, 2024.
+Participated in Artificial Intelligence and Information Security in IOT and Smart Vehicles (AIISIV) workshop held at IIT Hyderabad from 9th January to 12th January, 2024.
+Participated in NPTEL+ workshop on ‘Optical Measurement Techniques in Fluid Mechanics’ by Prof.Dr.-Ing. Cameron Tropea, IIT Madras (Henry Ford Chair), IISc Bangalore (VAJRA Faculty) on 10th and 17th November, 2023
+Participated in RUSA 2.0 sponsored National workshop on “Lasers And Z-scan Experiments, (LAZE 2022)”, held at Nanophotonics laboratory, Department of Physics, Bharathidasan University, Trichy on 26 August, 2022.
+Summer School on Optics and Photonics by Optics and Photonics Centre, IIT Delhi from June 6-24, 2022
+Attended the Microscale Ocean Biophysics 6.0 meeting from May 22-27th 2022, Majorca, Spain (Virtual)
+AICTE sponsored short term course on “Laser Applications in Machining and Material Processing LAMMP”, conducted by Centre for Continuing Education (CCE), IIT Madras from 7-12th March, 2022.
+"NMR Spectroscopy and its Applications" conducted by SAIF IITM, in association with JEOL JAPAN during December 2019
+“Theory and applications of ICP-OES” conducted by SAIF, IIT Madras & Perkin Elmer India Ltd. during November 2019
+Selected for SERB school on ‘Ultrahigh Intensity Laser Produced Plasmas: Physics and Applications’ during 7-25 January, 2019 RRCAT Indore sponsored by Science and Engineering Research Board (SERB)
+Participant of the short course on “Laser-matter interaction at the nanoscale” conducted by “Indian Laser Association” during December 1-2, 2018 at RRCAT, Indore
+Participant of Workshop on ICP-AES, ICP-MS and CHNSO and its applications conducted by SAIF, IIT Bombay in association with Thermo, Spectro & Anton Paar during October 3-5, 2018
+Participant of ‘Augmenting Writing Skills for Articulating Research’ (AWSAR) workshop conducted by Dept. of Science and Technology and Vigyan Prasar on 18 September 2018
+Participant of National Workshop Optical Spectroscopy conducted by SAIF, IIT Madras during 2-3 July 2018
+Participant of National Library and Information Services Infrastructure for Scholarly Content (NLIST) Orientation Programme jointly organized by the University Library, CUSAT, UGC-INFLIBNET and Kerala Library Assiciation (KLA) in September 2014
+Participant of CNNP (Centre for NEMS and Nanophotonics) Short term course on NEMS and Nanophotonics, at the Dept. of Electrical Engineering of IIT Madras from February 24-28, 2014
+Co-ordinator of Swarm Robotics Workshop organized by Roboversity at Kochi at Model Engineering College, 2013.
+Participant of one-day Workshop on Scilab on November 2012 at Govt. Model Engineering College
+Placed at top 11% in the NIIT National IT Aptitude Test (NITAT) held on 21st February 2010
+Attended a short-term training on “Embedded Systems and PIC microcontrollers” conducted by Reference Point at Toc-H Institute of Science and Technology from 20th November 2009 to 7th December 2009
+Completed LINUX training at Toc-H Institute of Science and Technology from 25/8/2008 to 29/8/2008

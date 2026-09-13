@@ -1,84 +1,213 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/kumaresan
 
-Dr. SYAMALA S| IIIT Kottayam
+Dr. Kumaresan G| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. SYAMALA S
+Dr. Kumaresan G
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: syamala
+Email: kumaresang
 iiitkottayam
 ac.in
-Hello at: 04822202231
-"The purpose of education is to make good human beings with skill and expertise... Enlightened human beings can be created by teachers.” Dr. APJ Abdul Kalam
-“Hope rises like a phoenix from the ashes of shattered.”
-Education
-Ph.D, Indian Institute of Technology Guwahati, Thesis titled: "Enhancing User Experience of Digital Design Learning Platforms through User Interface Improvements", 2025 .
-M.Tech., Computer Science & Engineering, M G University,2014
-B.Tech., Computer Science and Engineering, M G University,2008
+Hello at: 04822202368
+Personal Website:
+https://sites.google.com/view/kumaresanphd
+LinkedIn:
+https://www.linkedin.com/in/kumaresang527
+ORCID Researcher Profile:
+https://orcid.org/0000-0001-5672-9966
+Google Scholar Profile:
+https://scholar.google.com/citations?user=UI7SefAAAAAJ&hl=en
+Scopus Profile:
+https://www.scopus.com/authid/detail.uri?authorId=56372110100
+Web of Science Profile:
+https://www.webofscience.com/wos/author/record/ABI-3729-2020
+ResearchGate Profile:
+https://www.researchgate.net/profile/Kumaresan-G-2
+Biography :
+Dr. G. Kumaresan is an academician with 3 years and 5 months of post-PhD teaching experience and 5 years and 6 months of pre-PhD research experience. He holds a Ph.D. in Computer Applications from the National Institute of Technology, Tiruchirappalli, and is a qualified postgraduate with M.Tech, MCA, and M.Phil. He is a member of IAENG, IET, and ISOC. His broad research interests include Cellular Automata in the Context of Cryptography, Artificial Intelligence, and Quantum Computing. He is a recipient of the UGC National Doctoral Fellowship (2015–2020) and the UGC National Post Graduate Scholarship (2011–2013)./
+Experience :
+March 2026 – Present
+: Assistant Professor, Department of Computer Science and Engineering-Cyber Security, Indian Institute of Information Technology Kottayam, Kerala, India
+December 2024 – March 2026
+: Assistant Professor, Department of Artificial Intelligence and Data Science, KLEF Deemed to be University, Vaddeswaram, Guntur, Andhra Pradesh, India
+October 2022 – May 2024
+: Guest Faculty, Department of Computer Science, Central University of Tamil Nadu, Thiruvarur, Tamil Nadu, India
+March 2021 – July 2021
+: Assistant Professor, School of Computer Science and Applications, REVA University, Bangalore, Karnataka, India
+Education :
+Ph.D, Department of Computer Applications, Thesis titled: "Reversible Data Hiding and One Time Pad Random Key Generation using Cellular Automata", National Institute of Technology, Tiruchirappalli, Tamil Nadu, 2020.
+M.Phil., Computer Science, St. Joseph’s College (Autonomous), Tiruchirappalli, 2015 (First class with distinction, 83.04%)
+M.Tech., Information Technology, Bharathidasan University, Tiruchirappalli, 2013 (First class with distinction, 7.53 CGPA)
+M.C.A., Computer Applications, Thiagarajar College of Engineering, Madurai, 2009 (First class with distinction, 8.41 CGPA)
+B.Sc., Computer Science, H. H. The Rajahs College (Autonomous), Pudukkottai, 2006. (First class with distinction, 77.90%)
 Invited Talk/Sessions
-Delivered a Guest Lecture Session on the topic " Demystifying Machine Learning: A Practical Approach Using Excel" at University of Stirling - Ras Al Khaimah Campus, UAE on 1st April 2026.
-Session Chair in the 7th International Conference on Innovative Trends in Information Technology (ICITIIT'26) organized by the Department of CSE,IIIT Kottayam during 27-28 March 2026.
-Delivered a Keynote Address  on the topic " Technological Innovation and Digital Transformation" at the  International Conference on Innovation, Entrepreneurship and Digital Knowledge Economy at V. K. Krishna Menon College of Commerce and Economics, Mumbai, India on 13th February 2026.
-Experience
-7 years of teaching experience
+Acted as a resource person in the online international workshop on “Document
+Preparation with LaTeX Tool”, Research and Publication Division, Scholars Gate -
+Research Training Institute, Tiruchirappalli, India, 3rd December 2025 to 7th December
+2025.
+Preparation with LaTeX—Online Tool”, Research and Publication Division, Scholars
+Gate - Research Training Institute, Tiruchirappalli, India, 24th March 2025 to 26th
+March 2025.
+Invited talk on “Fundamentals of Cryptography”, K. Ramakrishnan College of Technology,
+Tiruchirappalli, India, July 16, 2019
 Publications
-Journals
-S. Syamala, A. Shrivastava, and S. Karmakar, “Enhancing user experience in digital design learning environments through user interface improvements: A comprehensive approach,”
-IEEE Access (Q1)
-, 2025.
-S. Syamala, A. Shrivastava, and S. Karmakar, “Identifying interface design factors impacting user experience in digital learning platforms—A pilot study,”
-Social Sciences & Humanities Open (Q1)
-, vol. 2025, Elsevier, 2025.
-S. Syamala, “An architectural approach for distributed network management using mobile agents,”
-International Journal of Scientific and Engineering Research
-, vol. 4, no. 8, Aug. 2013.
-S. Syamala, “Face detection: A comparison of HSV with LAB color space model,”
-International Journal of Engineering Research and Technology
-, vol. 2, no. 9, Sept. 2013.
+Refereed Journals
+Kumaresan, G., C. N. Umadevi and N. P. Gopalan, Design of New One-Time Pad Encryption Using Non-Uniform Cellular Automata with Parity Bit, Journal of Applied Security Research, 2022, 17, 369-384.
+https://doi.org/10.1080/19361610.2021.1875798
+Kumaresan, G. and N. P. Gopalan, Programmable Cellular Automata Based Random Key Generation for One-Time Pad Encryption Using Unity Attractors, Journal of Applied Security Research, 2021, 16, 19-36.
+https://doi.org/10.1080/19361610.2019.1652475
+Umadevi, C. N., G. Kumaresan and N. P. Gopalan, Fully Homomorphic Symmetric Key Encryption Based Access Control Over Outsourced Cloud Data Using Smith Normal Form, Journal of Applied Security Research, 2021, 16, 247-257.
+Gopalan, N. P. and G. Kumaresan, An Effective Reversible Data-Hiding in Encrypted Images Using Memory Cellular Automata, Journal of Applied Security Research, 2020,15, 96-115.
+https://doi.org/10.1080/19361610.2019.1672456
+Kumaresan, G. and N. P. Gopalan, An Additive Cellular Automata Based Random Key Generation for One-Time Pad Encryption Using Luhn Method, Journal of Applied Security Research, 2020, 15, 255-269.
+https://doi.org/10.1080/19361610.2019.1646553
+Kumaresan, G. and N. P. Gopalan, Reversible Data Hiding in Encrypted Images Using Public Cloud and Cellular Automata, Journal of Applied Security Research,2019, 14, 427-444.
+https://doi.org/10.1080/19361610.2019.1656472
+Kumaresan, G., N. P. Gopalan and T. Vetriselvi, An Efficient Image Block Encryption for Key Generation Using Non-Uniform Cellular Automata, International Journal of Computer Network and Information Security, 2019, 11, 28-35.
+10.5815/ijcnis.2019.02.04
+Vetriselvi, T., N. P. Gopalan and G. Kumaresan, Key Term Extraction using a Sentence based Weighted TF-IDF Algorithm, International Journal of Education and Management Engineering, 2019, 4, 11-19.
+10.5815/ijeme.2019.04.02
+Kumaresan, G. and N. P. Gopalan, Educloud: A Dynamic Three Stage Authentication Framework to Enhance Security in Public Cloud, International Journal of Engineering and Manufacturing, 2017, 7, 12-26.
+10.5815/ijem.2017.06.02
+Kumaresan, G. and N. P. Gopalan, An Analytical Study of Cellular Automata and its Applications in Cryptography, International Journal of Computer Network and Information Security, 2017, 9, 45-54.
+10.5815/ijcnis.2017.12.06
+Refereed Conferences
+Kumaresan, G., An Information-Theoretically Secure Method to Encrypt
+One-Time Pads Utilizing Cellular Automata, IEEE International Conference
+on Advanced Computing, Chennai, India, August 18-19, 2023.
+https://doi.org/10.1109/ICoAC59537.2023.10249431
+Kumaresan, G. and N. P. Gopalan, Totalistic Cellular Automata based Multi-Factor
+Authentication System for accessing Web Services, International Conference on Data
+Analytics and Computing, Wenzhou, China, May 28-29, 2022.
+Kumaresan, G. and N. P. Gopalan, An Improved One-Time Pad Encryption using
+Cellular Automata with Two-Dimensional Parity Check. International Conference on
+Innovative and Advanced Multidisciplinary Research, Port Blair, India, June 8-9, 2019.
+Kumaresan, G. and N. P. Gopalan, Building Secure and Fast Selection Based Random
+Key Generation Using Programmable Cellular Automata With Check Bit. IEEE
+International Conference on Smart Systems and Inventive Technology, Tirunelveli,
+India, December 13-14, 2018.
+https://doi.org/10.1109/ICSSIT.2018.8748575
+Kumaresan, G., N. P. Gopalan and N. Suguna, Secure Two-Level Selection Based
+Random Key Generation for One-Time Pad Encryption Using Cellular Automata With
+Parity Bit. IEEE International Conference on Intelligent Computing and Sustainable
+System, Coimbatore, India, September 20-21, 2018.
+Kumaresan, G. and N. P. Gopalan, Construction of Fast Two Level Selection Based
+User Authentication Method Using Reversible Cellular Automata. IEEE International
+Conference on New Trends in Engineering and Technology, Tiruttani, India, September
+7-8, 2018.
+Kumaresan, G. and N. P. Gopalan, A Dynamic Four Level Authentication Framework
+to Enhance Security in Public Cloud Using Hybrid Cellular Automata. IEEE
+International Conference on Intelligent Computing and Control Systems, Madurai,
+India, June 14-15, 2018.
+https://doi.org/10.1109/ICCONS.2018.8663078
+Kumaresan, G., N. Veeraragavan and L. Arockiam, A Dynamic Two Stage Authentication
+Framework to Enhance Security in Public EduCloud. International Conference
+on Advanced Computing, Tiruchirappalli, India, December 3-4, 2015.
+Kumaresan, G., N. Veeraragavan and L. Arockiam, Bar Code Product Authentication
+Using Cloud Computing. National Conference on Recent Advancements in Software
+Developments, Karaikudi, India, March 23, 2015.
+Book
+Title:
+Artificial Intelligence Techniques and Optimization
+Author:
+Dr. G. Kumaresan
+Publisher:
+MJP Publishers
+ISBN No:
+9789355287922
+Book Length:
+340 Pages
+Year:
+2024
+Published Link:
+https://www.amazon.com/dp/9355287925
 Book Chapters
-S. Syamala, A. Shrivastava, and S. Karmakar, “Evaluating an e-learning framework for enhancing design learning in India,” in
-Research and Industrial Conclave—Integration 2024: Current Progress in Interdisciplinary Research
-, Springer Proceedings, 2025.
-Conferences
-Evaluating an E-Learning Framework for Enhancing Design Learning in India, Research and Industrial Conclave-Integration 2024 Conference, IIT Guwahati
-A Survey on Internet of things: Technology, Protocols and its applications, International Conference on Computational Intelligence and Digital Technologies 11th and 12th April 2019, organized by Mangalam College of Engineering, Kottayam, Kerala.
-Next LOC-An Approach for Mobile Users Future Location Prediction, International Conference on Computational Intelligence and Digital Technologies 11th and 12th April 2019, organized by Mangalam College of Engineering, Kottayam, Kerala.
-An architectural approach for distributed network management using mobile agents, International Conference on Global Innovation in Technology and Science 4th to 6th April 2013, organized by Saintgits College of Engineering, Kottayam, Kerala.
-Faculty Development Programs Attended
-Navigating the Pathways of Quality Publishing workshop by Elseiver on 28th August 2024 at IIT Guwahati.
-Unmute Toolkit Launch Workshop by Swansea University UK delegates, held at centre for Linguistic Science and Technology, Indian Institute of Technology Guwahati on 5th of January 2024.
-Basic Statistics: Analysis and Interpretation workshop 7th and 8th October 2023, IIT Guwahati.
-Thesis and Research Paper Writing in MS Word Workshop organised by Research and Industrial Conclave integration 2023, IIT Guwahati on April 01 and 02,2023.
-Latex Workshop held on January 28 and 29, 2023 organised by IEEE Students Branch, IIT Guwahati.
-Workshop on Mental Healthcare and Artificial Intelligence organised on 29th and 30th of April 2022 under the project Centre for Depression Diagnosis and Medical Adherence at IIT Guwahati.
-IP Awareness / Training program under National Intellectual Property Awareness Mission on October 25, 2025 at Carmel College of Engineering and Technology Alappuzha.
-ISTE Sponsored FDP on “Systemizing Research- Problem Finding to Patenting” organized by Department Computer Science & Engineering from March 29th to 31st 2021, Rajagiri School of Engineering and Technology, Kochi.
-FDP on Management of Software Systems organised by College of Engineering, Trivandrum and sponsored by APJ Abdul Kalam Technological University from 22nd to 27th November 2021.
-Faculty Development programme on Teaching – Learning Methodologies in Engineering (An OBE Approach) conducted by IIT Madras and ISTE Kerala section organised by Carmel College of Engineering and Technology Alappuzha during 11th to 13th July 2019.
-Short Term Course on NBA Accreditation by ISTE organized by Carmel College of Engineering and Technology, Alappuzha, held on 28th to 30th June 2018.
-Workshop on Data Analytics and Information Security during Feb 14 to 16, 2018 held in RIT Govt Engg College, Kottayam and sponsored by Directorate of Technical Education, Govt of India.
-FDP on Smart Technologies for Digital India from 21 to 24 March 2017, conducted by Engineering Staff College of India held in Shimla.
-FDP on Cyber Crime Investigation and Digital Forensics from 30th November- 06th December 2016 conducted at NIT Goa under GIAN, MHRD India.
-FDP -TEQIP Workshop titled Design and Engineering from 28th Dec 2015 to 1st Jan 2016 at College of Engineering Cherthala.
-Two Week ISTE workshop on Introduction to Research Methodologies conducted by Indian Institute of Technology Bombay from 25th June to 04th July 2012.
-Linux Workshop on 18th Nov 2011 by Spoken Tutorial Project, under IIT Bombay organized at Amal Jyothi College of Engineering, Kerala.
-Workshop/Conference/FDP organised
-Part of the organizing team for Unmute Toolkit Launch Workshop by Swansea University UK delegates, held at centre for Linguistic Science and Technology, Indian Institute of Technology Guwahati on 5th of January 2024.
-Part of the organizing team for International Conference on Computational Intelligence and Digital Technologies 11th and 12th April 2019, organized by Mangalam College of Engineering, Kottayam, Kerala.
+Kumaresan, G., C. N. Umadevi and N. P. Gopalan, Choice Based One-Time Pad
+Approach Using Hybrid Cellular Automata. Chapter 2 in Proceedings of Academia-
+Industry Consortium for Data Science, Advances in Intelligent Systems and Computing,
+Springer, Singapore, 2022, 1411, 13-24, ISBN: 978-981-16-6887-6.
+http://dx.doi.org/10.1007/978-981-16-6887-6_2
 Professional Activities
-Reviewer:
-India HCI Conference
-Memberships
-ISTE Lifetime Member
-ACM SIGCHI Member
-IEEE Member
+Reviewer for Journals :
+The Journal of Supercomputing (Springer)
+Journal of Ambient Intelligence and Humanized Computing (Springer)
+Electronics and Telecommunications Research Institute (ETRI)
+Electronics Letters (IET)
+International Journal of Heat and Mass Transfer (Elsevier)
+Current Journal of Applied Science and Technology (CJAST)
+Journal of Applied Security Research (Taylor & Francis)
+Reviewer for Conferences :
+3rd International Conference on Disruptive Technologies (ICDT-2025), Greater Noida, March 2025.
+IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (IEEE SPICES-2024), Kottayam, September 2024
 Research Interests
-Human Computer Interaction
-E-learning
-Healthcare
-AI for Social Good
-UX/UI Interface Design
-User Centred Design
-Usability Evaluation Research
-Educational technology
+Cellular Automata in the Context of Cryptography
+Cellular Automata in the Context of Artificial Intelligence
+Evolutionary Computation
+Reinforcement Learning
+Adversarial AI
+Quantum Computing
+Teaching Subjects :
+Machine Learning at KLEF Deemed to be University, Guntur (2025/26, Even Sem.)
+Machine Learning Lab at KLEF Deemed to be University, Guntur (2025/26, Even Sem.)
+Quantum Computing at KLEF Deemed to be University, Guntur (2025/26, Even Sem.)
+Artificial Intelligence and Machine Learning at KLEF Deemed to be University, Guntur (2025/26, Odd Sem.)
+Artificial Intelligence and Machine Learning Lab at KLEF Deemed to be University, Guntur (2025/26, Odd Sem.)
+Quantum Computing at KLEF Deemed to be University, Guntur (2025/26, Odd Sem.)
+Artificial Intelligence for Data Analysis at Central University of Tamil Nadu (2023/24, 2nd Sem., Value Added Course)
+Internet of Things for Health Care at Central University of Tamil Nadu (2023/24, 2nd Sem., Elective)
+Fundamentals of Machine Learning at Central University of Tamil Nadu (2023/24, All Sem., Open Elective)
+Fundamentals of Cyber Security at Central University of Tamil Nadu (2023/24, 4th Sem., Open Elective)
+Social Media Analytics at Central University of Tamil Nadu (2023/24, 3rd Sem., Elective)
+Discrete Mathematics at Central University of Tamil Nadu (2023/24, 1st Sem.)
+Data Structures and Algorithms Lab at Central University of Tamil Nadu (2023/24, 1st Sem.)
+Introduction to Artificial Intelligence at Central University of Tamil Nadu (2023/24, All Sem., Open Elective)
+Python Basics at Central University of Tamil Nadu (2023/24, All Sem., Open Elective)
+Artificial Intelligence at Central University of Tamil Nadu (2022/23, 2nd Sem.)
+Artificial Intelligence Lab at Central University of Tamil Nadu (2022/23, 2nd Sem.)
+Basics of Cyber Security at Central University of Tamil Nadu (2022/23, 2nd Sem., Open Elective)
+Computer Organization and Architecture at Central University of Tamil Nadu (2022/23, 1st Sem.)
+C Programming at Central University of Tamil Nadu (2022/23, 1st Sem., Open Elective)
+Network and System Security at Central University of Tamil Nadu (2022/23, 3rd Sem.)
+Network and System Security Lab at Central University of Tamil Nadu (2022/23, 3rd Sem.)
+Data Mining and Data Warehousing at REVA University (2020/21, 4th Sem.)
+Cloud Computing at REVA University (2020/21, 4th Sem.)
+Soft Skills at REVA University (2020/21, 4th Sem.)
+Object Oriented Programming Using Java at REVA University (2020/21, 2nd Sem.)
+Java Lab at REVA University (2020/21, 2nd Sem.)
+Fellowships and Awards :
+Selected for the University Grants Commission Award of National Doctoral Fellowship for the year 2015–2020.
+Selected for the University Grants Commission Award of National Post Graduate Scholarship for Professional Courses for the year 2011–2013.
+Selected for the Prize Money Merit Award from Tamil Nadu Government through St. Joseph’s College for the year 2014–2015.
+Best Paper Award at the IEEE International Conference on Smart Systems and Inventive Technology, Tirunelveli, India, December 2018.
+Courses, Symposium and Workshop Attended :
+Completed NPTEL-AICTE Faculty Development Program on Artificial Intelligence: Concepts and Techniques at Indian Institute of Science, Bengaluru from July 21, 2025 to Oct 13, 2025.
+Completed 40-hours Faculty Development Program on QT-06 Quantum Communication organized by various academics from Aug 18 to Sep 11, 2025.
+Completed 21-Days challenge of learning quantum computing (Qohort-2) conducted by QuCode-bits to qubits from June 1 to June 21, 2025.
+Participated and completed the one-month course on Quantum Computing organized by Centre for Development of Advanced Computing, Hyderabad & Indian Institute of Technology, Roorkee with the support of Ministry of Electronics and Information Technology, Government of India during May 03 to May 25, 2025.
+Participated and completed the NEP 2020 Orientation and Sensitization Programme under Malaviya Mission Teacher Training Programme (MM-TTP) of UGC organized by Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram, Chennai during May 05 to May 16, 2025.
+Participated in a five-day Faculty Development Program (FDP) on Universal Human Values, Gender Equality & Professional Ethics for newly joined faculty members of Vaddeswaram Campus, KLEF from May 12 to May 16, 2025, organized by The Academic Staff College KLEF, Vaddeswaram.
+Participated in a five-day Faculty Induction Program for newly joined faculty members of KLEF Vaddeswaram Campus from April 28, 2025 to May 02, 2025, organized by The Academic Staff College KLEF, Vaddeswaram.
+Participated in a five-day Faculty Development Program on Design Thinking & Innovation for newly joined faculty members of KLEF, Vaddeswaram Campus, organized by The Academic Staff College in association with Department of Multi-Disciplinary Innovation & Entrepreneurship (MDI&E), KLEF from April 28, 2025 to May 02, 2025.
+Completed AICTE ATAL Academy Faculty Development Program on Artificial Intelligence for Science and Engineering at National Institute of Technology, Nagaland from February 17 to February 22, 2025.
+Participated in the AICTE evaluated 2-week Patent Course conducted by Turnip Innovations from October 9 to October 22, 2024.
+Participated in the one-day workshop on Computational Intelligence Using Machine Learning conducted by Department of Computer Science, Central University of Tamil Nadu, Thiruvarur on March 27, 2024.
+Participated in the five-day live workshop on Google Cloud Platform conducted by Turnip Innovations, Mumbai from June 22 to June 26, 2021.
+Participated in the five-day short-term course on Software Engineering from November 27, 2017 to December 1, 2017 organized by Department of Computer Science and Engineering, NIT Tiruchirappalli.
+Participated in the ten-day GIAN workshop on ABCD: Algorithm Toolkit for Big Data and E-commerce organized by Department of Computer Science and Engineering, IIT Madras from October 17 to October 28, 2016.
+Member of the local organizing committee of the International Conference on Research in Engineering, Computers and Technology held at Department of Computer Applications, NIT Tiruchirappalli from September 8 to September 10, 2016.
+Participated in the three-day workshop on Cyber Security and Forensics organized by Department of Computer Science and Engineering, NIT Tiruchirappalli from August 5 to August 7, 2016.
+Participated in the one-day workshop on Internet Protocol Standards conducted by IIREF, C-DAC Bangalore and Department of Computer Applications, NIT Tiruchirappalli on July 29, 2016.
+Participated in the five-day TEQIP-II sponsored workshop on Introduction to Cryptology from May 30 to June 4, 2016 organized by Department of Computer Science and Engineering, NIT Tiruchirappalli.
+Participated in the one-day workshop on Open POWER and trends in Hyperscale Datacenter conducted by Department of Computer Applications, NIT Tiruchirappalli and IBM India on March 11, 2016.
+Participated in the three-day workshop on XML and Related Technologies conducted by IBM at Thiagarajar College of Engineering, Madurai.
+Participated in the two-day workshop on IBM Tivoli Storage Management conducted by IBM at Thiagarajar College of Engineering, Madurai.
+Project Guidance :
+Guided - 7 B. Tech projects, contributing to the development of student’s research and tech-
+nical skills at KLEF Deemed to be University, Guntur, Andhra Pradesh.
+Online Certification :
+Artificial Intelligence: Concepts and Techniques (NPTEL- ELITE WITH SILVER)
+Internship/Summer projects:
+Interested students may send their resumes with their research interests and objectives to me
+kumaresang@iiitkottayam.ac.in
+via email.

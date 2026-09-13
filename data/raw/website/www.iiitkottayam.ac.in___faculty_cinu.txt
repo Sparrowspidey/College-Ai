@@ -1,61 +1,142 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/cinu
 
-Dr. John Paul Martin | IIIT Kottayam
+Dr. Cinu C Kiliroor | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. John Paul Martin
+Dr. Cinu C Kiliroor
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: johnpaul
+Email: cinu
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202202
+Hello at: 00 91  04822202204
 Honours and Achievements :
-PhD Research Fellowship from Ministry of Electronics & Information Technology (Meity), Government of India under Visvesvaraya Ph.D. scheme (2016 -2021)
-Cleared Graduate Aptitude Test in Engineering (GATE).
-Recruited as Knowledge associate at CDAC R&D from National Institute of Technology Karnataka (Super Dream Placement Offer).
+IEEE Conference General Chair of 7th International Conference on Innovative Trends In Information Technology (ICITIIT'26), on March, 27-28, 2026, with a paper acceptance rate of 14 %.
+Done Ph.D under Visvesvaraya Ph.D. scheme for Electronics and IT, Ministry of Electronics and Information Technology, Government of India
+Got Best Paper Award for the paper titled ‘‘Deep Learning based Rumor detection in Social Media’’ in the Springer 2nd International Conference on Electronic Systems and Intelligent Computing (ESIC-2021),  held at KIIT Deemed to be University, Bhubaneswar, Odisha India , from 5th- 6th November , 2021
 Education :
-Ph.D, Thesis titled: “Orchestration Mechanisms for Enabling Distributed Processing in the Fog Computing Environment ", NITK Surathkal, 2021.
-M.Tech., Computer Science and Engineering with Specialization in Information Systems , Mahathma Gandhi University.
-B.Tech., Computer Science and Engineering, University of Calicut.
+Ph.D, Information and Communication Engineering, Thesis titled: " Social Context Based Effective Filtering of Spam Messages from E-Mails and Online Social Net-works ", Anna University, Madras Institute of Technology Campus Chennai, 2019.
+M.Tech., Computer Science & Information Technology, Manonmanium Sundaranar Univer-sity, 2012
+B.Tech., Computer Science and Engineering, Kerala University,2009
+Projects / Grants
+IndiaAI research Fellowship for the PhD Scholar for 5 years (2026-2030). Financial Support, Contingency and overhead for a total
+Rs.46.5 Lakhs
+DST-WISE
+Fellowship Grant for the PhD Scholar for 4 years. (2023-2026).  Financial Support, Contingency and overhead for a total
+Rs.25 Lakhs
+Consultancy with
+aiRender Technology Pvt Ltd, Bangalore
+for the project “Research and implementation of super resolution for live 2D video conferencing.”
+IIIT Kottayam in association with Vedhik Academy
+Certification-
+Course Faculty
+for the subject Practical Data Science & Advanced ML for external candidates
+FDP Coordinator
+AICTE
+sponsored FDP at IIIT Kottayam from 09 -12-2024 to 13 -12-2024. Fund Sanctioned-
+Rs. 2.5 Lakhs
 Publications
-Journals
-Joseph, Christina Terese, John Paul Martin and K. Chandrasekaran,  "Fog Assisted Personalized Dynamic Pricing for Smartgrid." IEEE Transactions on Computational Social Systems (2022).
-John Paul Martin, Kandasamy A. Chandrasekaran K., “Mobility aware autonomic approach for the migration of application modules in fog computing environment", Journal of Ambient Intelligence and Humanized Computing 8.1 (2020):1-20. [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran CREW: Cost and Reliability aware Eagle and Whale optimiser for service placement in Fog, Software Practice and Experience (Wiley) [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran Exploring the support for high performance applications in the container runtime environment, Human-centric Computing and Information Sciences, (Springer)[SCI]
-John Paul Martin, A. Kandasamy, K. Chandrasekaran & Christina Terese Joseph Elucidating the challenges for the praxis of fog computing: An aspectbased study, International Journal of Communication Systems (Wiley)[SCI]
-Book Chapters
-Martin, John Paul, A. Kandasamy, and K. Chandrasekaran. "Unraveling the challenges for the application of fog computing in different realms: A multifaceted study." Integrated Intelligent Computing, Communication and Security. Springer, Singapore, 2019. 481-492.
-Joseph, Christina Terese, et al. "Virtual machine migration—a perspective study." Advances in Big Data and Cloud Computing. Springer, Singapore, 2018. 79-89.
-John Paul Martin, Vipin Singh, K Chandrasekaran, A Kandasamy “Explicating Fog Computing Key Research Challenges and Solutions”.  Singapore, 2018. 79-89.
-Conferences:
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran &  Christina Terese Joseph “Machine Learning Powered Auto scaling for Block chain based Fog Environments”, Springer, Spain
-Nishanth, Shashwatha Mitra G.B, John Paul Martin, K. Chandrasekaran “HTmRPL++ : A Trust-Aware RPL Routing Protocol for Fog Enabled Internet of Things”, International Conference on COMmunication Systems & NETworkS (COMSNETS), Scopus
-Christina Terese Joseph, John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Fuzzy Reinforcement Learning based Microservice Allocation in Cloud Computing Environments”,TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus
-Chandan Naik; M Siddhartha; John Paul Martin; K. Chandrasekaran “Location Privacy Using Data Obfuscation in Fog Computing”, TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus.
-Akarsh Murali; Nibir Nirjas Das; Shiv Shankar Sukumaran; K. Chandrasekaran; Christina Joseph; John Paul Martin “Machine Learning Approaches for Resource Allocation in the Cloud: Critical Reflections”, International Conference on Advances in Computing, Communications and Informatics (ICACCI), Scopus.
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Toward efficient autonomic management of clouds: A CDS-based hierarchical approach”, Advanced Computing and Systems for Security, Springer, Scopus
-Christina Terese Joseph, John Paul Martin “Task Dependency Aware Selection in Cloud” International conferences in advances in computing and communications,Scopus, Elsevier
-Thasviya Haroon; S Neena; K K Krishnaprasad; Rejoice Wilson; Sanjo Simon; John Paul Martin “Convivial private cloud implementation system using OpenStack”,  2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT), IEEE Scopus
-John Paul Martin; Krishna S. Chinchu; M. J. Hareesh; Babu S. Anish; Sijo Cherian; Yedhu Sastri “Learning Environment as a Service (LEaaS): Cloud”, Fourth International Conference on Advances in Computing and Communications, Scopus
-S. Anish Babu; M. J. Hareesh; John Paul Martin; Sijo Cherian; Yedhu Sastri “System Performance Evaluation of Para Virtualization, Container Virtualization, and Full Virtualization Using Xen, OpenVZ, and XenServer”, Fourth International Conference on Advances in Computing and Communications, Scopus
-John Paul Martin; M. Sarith Divakar; Hareesh M. Joseph” Registry Based Discovery Model for Android Application”, Third International Conference on Advances in Computing and Communications, IEEE, Scopus
+Journals (SCI or ESCI indexed)
+Augustin A,  Cinu C Kiliroor, 2025 Advanced Hyperspectral Signature Processing for Chemical Stress Detection in Vegetable Leaves Using Hierarchical Feature Extraction and Enhanced Ensemble Model. Applied Spectroscopy. 2025;0(0). doi:10.1177/00037028251411953
+Anju Augustin, Cinu C Kiliroor, 2024 Airborne Chemical Detection Using IoT and Machine Learning in the Agricultural Area. Aut. Control Comp. Sci. Springer,58, 569–579 (2024).
+https://doi.org/10.3103/S0146411624700676
+(ESCI & Scopus indexed, UGC listed) 1558-108X
+Valliyammai C & Cinu C Kiliroor, 2022,’Heterogeneous Feature Analysis on Twitter Data Set for Identification of Spam Messages’. The International Arab Journal of In-formation Technology, Vol. 19, No. 1,(SCI & Scopus indexed, UGC listed)
+https://doi.org/10.34028/iajit/19/1/5
+, 1683-3198
+AV Shreyas Madhav , Raghav Rajaraman, S Harini & Cinu C Kiliroor, 2021, ‘Applica-tion of artificial intelligence to enhance collection of E-waste:A potential solution for household WEEE collection and segregation in India’,Waste Management & Research: The Journal for a Sustainable Circular Economy, SAGE journals, DOI-
+https://doi.org/10.1177/0734242X211052846
+, IF:3.549.(SCI & Scopus indexed, UGC listed)
+Valliyammai C & Cinu C Kiliroor, 2020, ‘Effective Filtering of Unsolicited Messages from Online Social Networks Using Spam Templates and Social Contexts’, Wireless Personal Communications, Springer, vol. 113, pp. 519–536, Annexure 1, IF: 0.929.(SCI & Scopus indexed, UGC listed)
+Cinu C Kiliroor & Valliyammai C. 2019, ‘Social network based filtering of unsolicited messages from e-mails’, Journal of Intelligent & Fuzzy Systems, IOS Press, ISSN NO: 1064-1246, vol. 36, no. 5, pp. 4037-4048, Annexure 1 IF: 1.426.(SCI & Scopus indexed, UGC listed)
+Books and Book chapters published (Scopus Indexed)
+Choudhury, N., Kiliroor, C.C. (2026). Toward Transparent and Trustworthy AI for Breast Cancer Diagnosis: Deep Learning, XAI, and Ethical Perspectives. In: Patel, K.K., Santosh, K., Gomes de Oliveira, G., Patel, A., Ghosh, A. (eds) Soft Computing and Its Engineering Applications. icSoftComp 2025. Communications in Computer and Information Science, vol 2873. Springer, Cham.
+https://doi.org/10.1007/978-3-032-22059-2_30
+Mallojjala, S., Kiliroor, C.C. (2026). FactFrame-X: A Self-Attention-Enhanced NLP Model with XAI for Classifying Hyperpartisan News in Online Media. In: Patel, K.K., Santosh, K., Gomes de Oliveira, G., Patel, A., Ghosh, A. (eds) Soft Computing and Its Engineering Applications. icSoftComp 2025. Communications in Computer and Information Science, vol 2874. Springer, Cham.
+https://doi.org/10.1007/978-3-032-22062-2_4
+Asok, A., Kiliroor, C.C. (2024). Ensemble Model of VGG16, ResNet50, and DenseNet121 for Human Identification Through Gait Features. In: K, H., Rodriguez, R.V., Rege, M., Piuri, V., Xu, G., Ong, KL. (eds) Artificial Intelligence and Knowledge Processing. AIKP 2023. Communications in Computer and Information Science, vol 2127. Springer, Cham.
+https://doi.org/10.1007/978-3-031-68617-7_20
+Dommati, M., Kiliroor, C.C. (2024). Real-Time 3D Texture and Motion Analysis for Face Anti-spoofing Using Deep Learning and Computer Vision. In: Mahapatra, R.P., Peddoju, S.K., Roy, S., Parwekar, P. (eds) Proceedings of International Conference on Recent Trends in Computing. ICRTC 2023. Lecture Notes in Networks and Systems, vol 954. Springer, Singapore.
+https://doi.org/10.1007/978-981-97-1724-8_23
+Augustin, A., Kiliroor, C.C. (2024). “IoT-Based Pesticide Detection in Fruits and Vegetables Using Hyperspectral Imaging and Deep Learning”. In: Pareek, P., Gupta, N., Reis, M.J.C.S. (eds) Cognitive Computing and Cyber Physical Systems. IC4S 2023. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 536. Springer, Cham.
+https://doi.org/10.1007/978-3-031-48888-7_6
+Cinu C. Kiliroor, M. H. Venkatkumar and R. Rakesh, (2023) "Fire Detection and Analysis in Video Surveillance Application using CNN," 2023 5th International Conference on Smart Systems and Inventive Technology (ICSSIT), Tirunelveli, India, 2023, pp. 1219-1224, doi: 10.1109/ICSSIT55814.2023.10061004.
+Cinu C. Kiliroor, Sagar, S., Didde, S.S. (2023). Sentiment-Based Simplification of Legal Text. In: Sarkar, D.K., Sadhu, P.K., Bhunia, S., Samanta, J., Paul, S. (eds) Proceedings of the 4th International Conference on Communication, Devices and Computing. ICCDC 2023. Lecture Notes in Electrical Engineering, vol 1046. Springer, Singapore.
+https://doi.org/10.1007/978-981-99-2710-4_38
+Sampath, A., Kumaran, B., Prabhakaran, V., Kiliroor, C.C. (2022). Pandemic Simulation and Contact Tracing: Identifying Super Spreaders. In: Saraswat, M., Sharma, H., Balachandran, K., Kim, J.H., Bansal, J.C. (eds) Congress on Intelligent Systems. Lecture Notes on Data Engineering and Communications Technologies, vol 111. Springer, Singapore.
+https://doi.org/10.1007/978-981-16-9113-3_8
+Bevin Biju Thomas & Cinu C Kiliroor, 2022, ‘Deep Learning based Rumor detection in Social Media’, In: Mallick, P.K., Bhoi, A.K., González-Briones, A., Pattnaik, P.K. (eds) Electronic Systems and Intelligent Computing. Lecture Notes in Electrical Engineering, vol 860. Springer, Singapore. https://doi.org/10.1007/978-981-16-9488-2_13
+Aritra Basu, Cinu C Kiliroor, Ritam Basu & Ritabrata Nag, 2022, ’Fake News Predictor: A Random Forest based Web Application for the Prediction of Fake News on Social Media’. In: Mallick, P.K., Bhoi, A.K., González-Briones, A., Pattnaik, P.K. (eds) Electronic Systems and Intelligent Computing. Lecture Notes in Electrical Engineering, vol 860. Springer, Singapore. https://doi.org/10.1007/978-981-16-9488-2_14.
+Cinu C. Kiliroor, K. Roshini Munawwara & S. Narendhar, 2022, ‘Shadow Detection and Removal Using Dynamic Thresholding Approach for Driverless Car’. Lecture Notes in Networks and Systems, vol 288. Springer, Singapore. https://doi.org/10.1007/978-981-16-5120-5_29, ISBN978-981-16-5120-5.
+Cinu C. Kiliroor, Neelam T., & Bhagat K. (2022) ‘Coalescing Image Steganography and Cryptography for Information Security’. Lecture Notes in Networks and Systems, vol 288. Springer, Singapore. https://doi.org/10.1007/978-981-16-5120-5_28.
+Cinu C. Kiliroor & Valliyammai C. 2019, ‘Binary and Continuous Feature Engineering Analysis on Twitter Data Stream for Classification of Spam Messages’, Proceedings of the 2nd International Conference on Communication, Devices and Computing. Lecture Notes in Electrical Engineering Book Series,
+Springer
+, vol. 602, pp. 581-594
+Cinu C Kiliroor & Valliyammai C. 2018,’Social Context based Naive - Bayes Filtering of Spam Messages from Online Social Networks’, Soft Computing in Data Analytics. Advances in Intelligent Systems and Computing Book Series,
+, vol 758, pp. 699-706.
+International Conferences (Scopus Indexed):
+Remya Paul and Cinu C. Kiliroor, “A Cross Spatio-Temporal Transformer Network for Weather Forecasting,” Proc. 7th Int. Conf. Innovative Trends in Information Technology (ICITIIT), Kottayam, India, Mar. 27–28, 2026. (Accepted & Presented)
+M. Jaswanth K, Dhanush B, Rohan T, Dill J, Cinu C Kiliroor, ‘Utilizing AI-powered drones for efficient flood rescue operations’, 2024, Accepted in IEEE International Conference on International Conference on Automation, Computing and Renewable Systems (ICACRS, Scopus indexed)
+Anju Augustin, Cinu C Kiliroor : "Hyperspectral image pro cessing with machine learning and mathematical models“ 2024 (Accepted in Scopus indexed Springer book series "Lecture Notes in Networks and Systems“)
+Augustin, A and
+Cinu C Kiliroor
+, 'Machine learning methods for time series data processing in air quality monitoring' has been accepted for publication in the Springer LNNS series
+(Accepted for Springer Book Chapter- Scopus indexed),2023
+Irish K S, Lidiya L T and Cinu C Kiliroor, ” Analysis of Deep Learning Classification Models for Predicting Plant Species from Single Leaf Images”, IEEE International Conference on Computer, Electronics &  Electrical Engineering and their applications (IC2E3 2023)
+(Scopus indexed)
+Cinu C Kiliroor & Valliyammai C. 2017, ‘Trust Analysis on Social Networks for  Identifying Authenticated Users’,
+IEEE
+International Conference on Advanced Computing, pp 37-41.
+Teaching Experience (After PhD):
+Teaching Fellow at Anna University, MIT Campus, December 2019-April 2020
+Assistant Professor (Senior Grade), VIT Chennai, June 2020- April 2022
+Assistant Professor(Grade II), IIIT Kottayam, June 2022 - Present
+Lecture/Training/Organized:
+Organized one day
+Webinar
+titled “Bio-MEMS  Significance and Applications” at
+IIIT Kottayam
+, 20 September 2022
+Organize one day offline research showcase program titled
+Summit’23
+to showcase the research talents of the UG/PG/students and PhD Scholars at IIIT Kottayam, 10 June 2023. 57 Teams (77 participants) participated from all over India.
+Organize Five days online
+FDP & Workshop titled “Deep Learning Techniques for Text and Image Data”
+at IIIT Kottayam, 03 June 2024 to 07 June 2024. 65 participants attended from all over India.
+Organize Five days hybrid
+Training Program on “Data Science using Python”
+at IIIT Kottayam, 01 July 2024 to 05 July 2024. 78 participants attended from all over India.
+Delivered Talks
+A session talk delivered in the
+7th Feb 2024
+organized by IIITK, Satellite Centre.
+Workshop
+titled
+“Amplifying AI: Advanced Optimization Strategies for Enhanced Performance"
+27 May 2024
+, organized by IIITK
+organized by
+VIT on 10 Oct 2022
+A session talk delivered in online
+Indo-Taiwan
+Workshop organized by IIITK on
+27th  October 2022
+A session talk delivered in the AICTE sponsored FDP at IIIT Kottayam from 09 -12-2024 to 13 -12-2024.
 Professional Activities
 Reviewer:
-IEEE Transactions on Industrial Informatics
-Journal of the International Measurement Confederation (Elsevier)
-IEEE Access
-International Journal of Systems Assurance Engineering and Management (Springer)
-Journal of Ambient Intelligence and Humanized Computing (Springer)
-Software Practice and Experience (Wiley)
-International Journal of Communication Systems(Wiley)
+Reviewer for the Journal Wireless Personal Communications Springer
+Reviewer for the Journal of Supercomputing Springer
+Reviewer for 7th International Conference on Data Management, Analytics and Innovation ICDMAI 2023.
+Reviewer for the journal Signal, Image and Video Processing
 Research Interests :
-Distributed Computing
-Edge/ Fog Computing
-Cloud Computing
-Internet of Things (IoT)
-DevOps and MLOps
-Artificial Intelligence
 Machine Learning
-Optimisation Algorithms
+Data Science
+AI for Social Good- Agriculture
+Image Processing
+Research scholars
+Sr.Anju Augustin (DST WISE Phd Fellowship holder)
+Ms. Remya Paul (IndiaAI PhD Fellowship holder)
+Arya K A (NET qualified- for PhD)
+Jeena K Subhash (Part Time)
+Google scholar link:
+https://scholar.google.co.in/citations?user=bv6pa-gAAAAJ&hl=en

@@ -37,7 +37,24 @@ Conferences
 Daniel, R. M., Rajsingh, E. B., & Silas, S. (2018). An Efficient Forward Secure Authenticated Encryption Scheme with Ciphertext Authentication Based on Two Hard Problems. In Advances in Big Data and Cloud Computing (pp. 123-133). Springer.
 Daniel, R. M., Rajsingh, E. B., & Silas, S. (2016). Deriving Practical Applicability of Hierarchical Identity Based Encryption in Massively Multiplayer Online Role Playing Games. Procedia Computer Science, 93, 839-846, Elsevier.
 Rajesh, N., Poulose, V. T., Umesh, P. L., & Daniel, R. M. (2021, October). Comorbidity Based Risk Prediction System for ARDS in COVID-19 Patients. In 2021 International Conference on Advances in Computing and Communications (ICACC) (pp. 1-5). IEEE.
+Elijah, G. J., Saras, A., Daniel, R. M., & Jothish, D. (2026, March). Reptile Meta Learning Based Beaconing and C2 Behaviour Detection in Network. In 2026
+International Conference on Innovative Trends in Information Technology (ICITIIT)
+(pp. 1-6). IEEE.
+Chacko, C. V., Daniel, R. M., Rony, A., Jaxon, A., & Jomon, A. (2026, March). AI Based Medical Care Assistance and Case Sheet Generation Using Basic Disease Prediction with BERT-LSTM Model. In 2026
+(pp. 1-8). IEEE.
+Shameer, A., Amitha, M. M., Alida, P. S., & Daniel, R. M. (2026, March). Social Engineering Threat Detection on Reddit Using OSINT and Transformer-Based NLP Model. In 2026
 Consultancy Work
+Resource Person, Annual Cyber Exercise for Investigating Agencies (AXCIA-2026), organized by the Cyber Operations Division, Kerala Police, hosted by IIIT Kottayam; delivered expert sessions on Open-Source Intelligence (OSINT) and Financial Crime Analytics (February 2026).
+Topics:
+Financial Crime Analytics using
+Python
+Google Sheets dashboards
+for transaction monitoring; OSINT investigations using
+Blackbird, Maigret, SpiderFoot, Maltego, Hunter.io, Numverify, PhoneInfoga;
+Web Scraping using
+Selenium and BeautifulSoup
+; Dark Web intelligence using
+Tor.
 Facilitated the development of the Official Website with payment gateway for Taluk Headquarters Hospital Kothamangalam by Indian Institute of Information Technology, Kottayam, with a revenue of Rs. 1,00,000.
 Resource Person for twelve-days Training Programme on Cyber Security and Digital Forensics in collaboration with the
 State Special Branch, Kerala Police
@@ -51,11 +68,21 @@ Resource Person, AICTE QIP PG Certification Programme in Cyber Security and Digi
 Number Theory and Cryptography, Networking with Packet Tracer Tool
 Resource Person for Five Days Online FDP & Workshop on Next-Gen Intelligence: AI, Security, and Geospatial Insights offered by IIIT Kottayam from July 14th to 18th, 2025. Session Topic:
 Tracking Malware Activity with Wireshark: From Payload Delivery to Command and Control (C2) Communication using Metasploit
+Resource Person for Five Days Online FDP & Workshop on Emerging Trends in Artificial Intelligence, Generative Technologies and Cybersecurity offered by IIIT Kottayam from June 29th to July 3rd, 2026. Session Topic:
+Tracking Malware Activity with Wireshark: From Payload Delivery to Command and Control (C2) Communication using Metasploit.
+Resource Person, for Five-Days FDP – “OSINT, Financial Crime & Digital Forensics” from 18th to 22nd May, 2026 at IIIT Kottayam. Session topics:
+Money Laundering typologies and AML Rules. Dynamic Dashboards for Transaction Monitoring. AML rule-based flagging of suspicious transaction records using Python scripts. User-name, Email and Domain-based OSINT Tools.
+Resource Person, AICTE QIP PG Certification Programme in Cyber Security and Digital Forensics offered by IIIT Kottayam, 2026 (February-June). Topics:
+Number Theory and Cryptography, Networking with Packet Tracer Tool.
 Resource Person, for Two weeks Short Term Training programme – “Digital Defenders: Ethical Hacking & Cyber Forensics” from 9th to 20th June, 2025 at IIIT Kottayam. Session topics:
 Network Forensics using Wireshark, IDS/IPS with Suricata
 Resource Person for Add-On course in “Cryptography, Blockchain and IoT” organized by the Department of Cyber Security, Indian Institute of Information Technology, Kottayam for the students of VISAT Engineering College, Elanji during August 2024. Sessions on
 Cryptography
 Invited Talk/Sessions:
+Invited talk on the topic:
+“Emerging Financial Cyber Frauds: How Organizations and Individuals Become Victims”
+organized and hosted by IIIT Kottayam in coordination with Kerala Police Cyber Division & CIO Association Kerala Chapter on 15th May, 2026.
+Invited Talk on the topic “Digital, Network and Social Media Forensics using OSINT”, in the FDP on “Internet Crime, Human Safety and Advanced Cyber Security Practice” as part of ISTE-BNY one-week knowledge enhancement Programme 2026, from 6th – 11th July, 2026, organised by TocH institute of Science and Technology.
 Invited Speaker for the
 LEA Track at c0c0n 2025 – International Cyber Security & Policing Conference
 , held from 10th-11th October 2025. Delivered a session titled “Unmasking Criminal Networks: A Graph-Based Forensic Approach Using Call Detail Records and Mobile Tower Data”.
@@ -66,6 +93,8 @@ From Clicks to Code: Crafting your Digital Safety Blueprint
 ” organized by the Department of Computer Science and Engineering, Sree Narayana Gurukulum College of Engineering and Technology, Kadayiruppu on 6th February, 2024.
 Programmes Organised:
 Coordinator, AICTE QIP PG Certification Programme in Cyber Security and Digital Forensics offered by IIIT Kottayam, 2026
+Coordinator, Five-Day FDP and Hands-on Workshop – “OSINT, Financial Crime & Digital Forensics”, offered by IIIT Kottayam, from 18th to 22nd May, 2026.
+Coordinator, Five-Day FDP and Hands-on Workshop – “AI in Penetration Testing & Ethical Hacking”, offered by IIIT Kottayam, from 1st to 5th June, 2026.
 Co-Coordinator, AICTE QIP PG Certification Programme in Cyber Security and Digital Forensics offered by IIIT Kottayam, 2025.
 Coordinator, Two weeks Short Term Training programme – “Digital Defenders: Ethical Hacking & Cyber Forensics” offered by IIIT Kottayam, from 9th to 20th June, 2025.
 Certification

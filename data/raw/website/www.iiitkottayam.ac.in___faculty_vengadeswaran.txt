@@ -1,61 +1,115 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/vengadeswaran
 
-Dr. John Paul Martin | IIIT Kottayam
+Dr. Vengadeswaran S | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. John Paul Martin
+Dr.Vengadeswaran S
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: johnpaul
+Email: vengadesh
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202202
+Hello at: 00 91  04822202206
 Honours and Achievements :
-PhD Research Fellowship from Ministry of Electronics & Information Technology (Meity), Government of India under Visvesvaraya Ph.D. scheme (2016 -2021)
+PhD Research Fellowship from Ministry of Electronics & Information Technology (Meity), Government of India under Visvesvaraya Ph.D. scheme (2014 -2019)
 Cleared Graduate Aptitude Test in Engineering (GATE).
-Recruited as Knowledge associate at CDAC R&D from National Institute of Technology Karnataka (Super Dream Placement Offer).
+Cleared National Eligibility Test (UGC-NET).
+Awarded “Travel Grant” from Elsevier Journal on AI for presenting research paper at CoDS-COMAD 2020.
+Certified “AWS Cloud Practitioner” by Amazon Web Service
+Certified “Software Tester” by International Software Testing Qualification Board (ISTQB)
 Education :
-Ph.D, Thesis titled: “Orchestration Mechanisms for Enabling Distributed Processing in the Fog Computing Environment ", NITK Surathkal, 2021.
-M.Tech., Computer Science and Engineering with Specialization in Information Systems , Mahathma Gandhi University.
-B.Tech., Computer Science and Engineering, University of Calicut.
+Ph.D, Department of Computer Applications, Thesis titled: "Optimal Data Placement Strategies for Improving Map Reduce Performance in Hadoop Clusters", National Institute of Technology, Tiruchirappalli, Tamil Nadu.
+M.E., Software Engineering , College of Engineering Guindy, Anna University, Tamil Nadu.
+B.E., Computer Science and Engineering, Annamalai University, Tamil Nadu.
+Experience :
+Assistant Professor (Senior Grade), VIT Vellore, June 2020 - June 2022
+Faculty on Contract at NIT Puducherry, Jan 2020- May 2020
 Publications
 Journals
-Joseph, Christina Terese, John Paul Martin and K. Chandrasekaran,  "Fog Assisted Personalized Dynamic Pricing for Smartgrid." IEEE Transactions on Computational Social Systems (2022).
-John Paul Martin, Kandasamy A. Chandrasekaran K., “Mobility aware autonomic approach for the migration of application modules in fog computing environment", Journal of Ambient Intelligence and Humanized Computing 8.1 (2020):1-20. [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran CREW: Cost and Reliability aware Eagle and Whale optimiser for service placement in Fog, Software Practice and Experience (Wiley) [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran Exploring the support for high performance applications in the container runtime environment, Human-centric Computing and Information Sciences, (Springer)[SCI]
-John Paul Martin, A. Kandasamy, K. Chandrasekaran & Christina Terese Joseph Elucidating the challenges for the praxis of fog computing: An aspectbased study, International Journal of Communication Systems (Wiley)[SCI]
+Vengadeswaran, S.
+, & Balasundaram, S. R (2025). GADAPS - Grouping-Aware Data Placement Strategy to Exploit Maximum Resource Utilisation in Big-Data Processing Frameworks. Computing and Informatics Journal.
+P. Dhavakumar,
+S. Vengadeswaran
+, Software defect prediction using graph sample and aggregate-attention network optimized with nomadic people optimizer for enhancing the software reliability, Computer Standards & Interfaces, Elsevier, Volume 95, 2025, 104033, ISSN 0920-5489,
+https://doi.org/10.1016/j.csi.2025.104033
+Vengadeswaran S
+, Balasundaram SR, Dhavakumar C, “Data-Locality Aware Data Placement Strategy for Improving MapReduce Performance on Hadoop”, Journal of King Saud University - Computer and Information Sciences, Elsevier (2024)
+https://doi.org/10.1016/j.jksuci.2024.101973]
+Ahmad, Z.,
+, Biju et al. Improving LSTM forecasting through ensemble learning: a comparative analysis of various models. International Journal of Information Technology, Springer (2024),
+https://doi.org/10.1007/s41870-024-02157-6]
+S.Vengadeswaran
+and S.R.Balasundaram, “CORE - An Optimal Data Placement Strategy in Hadoop for Data Intensive Applications based on COhesion RElation”, International Journal of Computer Systems Science and Engineering, vol.34, no.1, CRL Publishers, 2019.
+and S.R.Balasundaram, “Significance of Hierarchical and Markov Clustering in Grouping Aware Data Placement for Data Intensive Applications Having Interest Locality”, Scalable Computing: Practice and Experience Journal, vol.19, no.3, pp.245-257, 2018.
+and S.R.Balasundaram, “An Optimal Data Placement Strategy for Improving System Performance of Massive Data Applications Using Graph Clustering”, International Journal of Ambient Computing and Intelligence, vol.9, no.3, pp.15-30, IGI, 2018.
 Book Chapters
-Martin, John Paul, A. Kandasamy, and K. Chandrasekaran. "Unraveling the challenges for the application of fog computing in different realms: A multifaceted study." Integrated Intelligent Computing, Communication and Security. Springer, Singapore, 2019. 481-492.
-Joseph, Christina Terese, et al. "Virtual machine migration—a perspective study." Advances in Big Data and Cloud Computing. Springer, Singapore, 2018. 79-89.
-John Paul Martin, Vipin Singh, K Chandrasekaran, A Kandasamy “Explicating Fog Computing Key Research Challenges and Solutions”.  Singapore, 2018. 79-89.
-Conferences:
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran &  Christina Terese Joseph “Machine Learning Powered Auto scaling for Block chain based Fog Environments”, Springer, Spain
-Nishanth, Shashwatha Mitra G.B, John Paul Martin, K. Chandrasekaran “HTmRPL++ : A Trust-Aware RPL Routing Protocol for Fog Enabled Internet of Things”, International Conference on COMmunication Systems & NETworkS (COMSNETS), Scopus
-Christina Terese Joseph, John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Fuzzy Reinforcement Learning based Microservice Allocation in Cloud Computing Environments”,TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus
-Chandan Naik; M Siddhartha; John Paul Martin; K. Chandrasekaran “Location Privacy Using Data Obfuscation in Fog Computing”, TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus.
-Akarsh Murali; Nibir Nirjas Das; Shiv Shankar Sukumaran; K. Chandrasekaran; Christina Joseph; John Paul Martin “Machine Learning Approaches for Resource Allocation in the Cloud: Critical Reflections”, International Conference on Advances in Computing, Communications and Informatics (ICACCI), Scopus.
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Toward efficient autonomic management of clouds: A CDS-based hierarchical approach”, Advanced Computing and Systems for Security, Springer, Scopus
-Christina Terese Joseph, John Paul Martin “Task Dependency Aware Selection in Cloud” International conferences in advances in computing and communications,Scopus, Elsevier
-Thasviya Haroon; S Neena; K K Krishnaprasad; Rejoice Wilson; Sanjo Simon; John Paul Martin “Convivial private cloud implementation system using OpenStack”,  2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT), IEEE Scopus
-John Paul Martin; Krishna S. Chinchu; M. J. Hareesh; Babu S. Anish; Sijo Cherian; Yedhu Sastri “Learning Environment as a Service (LEaaS): Cloud”, Fourth International Conference on Advances in Computing and Communications, Scopus
-S. Anish Babu; M. J. Hareesh; John Paul Martin; Sijo Cherian; Yedhu Sastri “System Performance Evaluation of Para Virtualization, Container Virtualization, and Full Virtualization Using Xen, OpenVZ, and XenServer”, Fourth International Conference on Advances in Computing and Communications, Scopus
-John Paul Martin; M. Sarith Divakar; Hareesh M. Joseph” Registry Based Discovery Model for Android Application”, Third International Conference on Advances in Computing and Communications, IEEE, Scopus
+S.Vengadeswaran and S.R.Balasundaram, “Grouping-Aware Data Placement in HDFS for Data- Intensive Applications Based on Graph Clustering”, AISC book series, pp. 21-31, Springer, 2018
+Conferences
+Saju S , Anju Varghese, Sujith S, Roy Thankachan,
+“Bigdata Analytical Framework for Launch Vehicle Avionics System Automated Clearance using Advanced ML Algorithms”, in the Global Space Exploration Conference 2025 [GLEX 2025], organized by International Astronautical Federation, hosted by Indian Space Research Organisation and Astronautical Society of India during 07-09 May 2025, New Delhi
+Zishan Ahmad,
+, “MEMORY LANE - An Intelligent Assistant for Alzheimer’s Patients and their Carers” In 9th International Conference on Soft Computing: Theories and Applications, Springer. [Scopus Indexed]
+Nagaraj Shekhar Mandalparty and
+. “An Effective CO2 Emission Prediction through Ensemble Learning: A Comparative Analysis of Various Models” In the 5th International Conference on Frontiers in Computing and Systems: COMSYS 2024 [Springer LNNS - Scopus Indexed]
+Navardesh and
+Vengadeswaran
+. “An Efficient Predictive Big Data Analytics for Supply Chain Demand Forecasting through Ensemble Learning”. In 12th International Conference on Big Data and Artificial Intelligence (BDA2024) – [Springer’s LNCS series -Scopus Indexed]
+Viji Viswanathan and
+Vengadeswaran Shanmugasundaram
+. “A Systematic Review on the Load Balancing Techniques in Cloud Computing Paradigm”. In 3rd International Conference on Advances in Data-driven Computing and Intelligent Systems (ADCIS 2024), Organized by BITS Pilani and National Forensic Sciences University during September 20-21, 2024. [Springer’s LNNS - Scopus Indexed]
+, Binu, D., & Rai, L. (2023, June). An Efficient Framework for Crime Prediction Using Feature Engineering and Machine Learning. In International Conference on Data & Information Sciences (pp. 49-59). Singapore: Springer Nature Singapore. [Scopus, UG Student Paper, Research Supervisor,
+https://link.springer.com/chapter/10.1007/978-981-99-6906-7_5]
+S.Vengadeswaran and S.R.Balasundaram, “CLUST - Grouping Aware Data Placement for Improving the Performance of Large-Scale Data Management System”, International Conference on Data Science & Management of Data (CoDS-COMAD), organized by IIITH and ISB, ACM, Jan 2020.
+S.Vengadeswaran and S.R.Balasundaram, “Significance of Hierarchical and Partitioning based Clustering in Grouping Aware Data Placement for Data Intensive Applications”, In National Conference on Parallel Computing Technologies (PARCOMPTECH), organized by CDAC & DeitY at IISC, IEEE, Feb 2017.
+S.Vengadeswaran and K.Geetha, “Symbolic execution- An efficient approach for test case generation”, In International Conference on Recent Trends in Information Technology (ICRTIT), pp. 575-581, organized by MIT campus AU, IEEE, 2013
+Projects / Grants:
+Funding Agency
+Project Title
+Funding in Rs
+Faculty Involved
+Status
+Funded Projects:
+Kerala State Council for Science, Tech., Environment [Kerala Govt.]
+AI-Based Light-Weight Mobile App to Monitor, Assist and Alert Alzheimer Patients, Caretakers
+9,17,200
+Role: PI
+Ongoing
+AICTE sponsored 5-day offline FDPs for BBA/BCA institutes
+FDP Titled: “Practical Data Science and Advanced Machine Learning Exploration with Hands-On Using Python: From Basics to Insights” [09 - 13 Dec 2024]
+3,50,000
+Role: Co-Ordinator
+Completed
+Consultancy Projects:
+Sankara Nethralaya, Chennai
+Consultancy Project: Automatic Analysis of Ophthalmic Images for Diagnosis & Treatment for Ocular Surface Disorders
+2,95,000
+Role: Co-PI
+Lanoviz Security Solutions
+Developing a Full stack Cloud-based Inventory Management Software for LANOVIZ.
+2,00,600
+Approved (On Going)
+Patents (Indian, Foreign):
+Status:
+Published
+Agency:
+Indian Patent
+Patent Title:
+Alzheimer's Classification: Lightweight Models and Hyperparameter Optimization Using Genetic Algorithm
+Role:
+Contributing Author [Supervisor]
+Other Contributors:
+Mr Zishan Ahmad, IIIT Kottayam.
+VIRTUAL INPUT CONTROL SYSTEM USING HAND GESTURES
+Mr Suyash Singh Chauhan, Mr Bhavya Goyal, Mr Abhijit Mishra, Mr Kotte Saandeep IIIT Kottayam.
 Professional Activities
 Reviewer:
-IEEE Transactions on Industrial Informatics
-Journal of the International Measurement Confederation (Elsevier)
-IEEE Access
-International Journal of Systems Assurance Engineering and Management (Springer)
-Journal of Ambient Intelligence and Humanized Computing (Springer)
-Software Practice and Experience (Wiley)
-International Journal of Communication Systems(Wiley)
+Journals:
+IEEE Access, IEEE Sensors, IEEE Networking Letters, Computing [Springer] , Alexandria, SoftwareX [Elsevier], Arabian Journal for Science and Engineering [Springer] SCPE, International Journal of Distributed Systems and Technologies (IGI), International Journal of Big Data Management (Inderscience)
+Conferences:
+ICDMAI2023, PreMI2023, ISENSE, ICASSP 2025, ICRTAC2024, SPIN2025, ICCConf2025, ICITIIT2025, FSDM
 Research Interests :
-Distributed Computing
-Edge/ Fog Computing
-Cloud Computing
-Internet of Things (IoT)
-DevOps and MLOps
-Artificial Intelligence
+Big Data
+Distributed Databases
+Large Scale Data Processing Frameworks
 Machine Learning
-Optimisation Algorithms
+Software Engineering

@@ -1,37 +1,50 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/mahima
 
-Dr. Sushitha Susan Joseph| IIIT Kottayam
+Dr. Mahima Mary Mathews| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Sushitha Susan Joseph
+Ms. Mahima Mary Mathews
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: sushithasj
+Email: mahimamm
 iiitkottayam
 ac.in
-Hello at: 04822202257
+Hello at: 04822202226
+Honours and Achievements :
+Access time to IonQ Quantum Computer worth $10,000 for the proposal "Post-Quantum Public Key Infrastructure" as part of IonQ research Credits Programme.
+Access time to IonQ, Rigetti and IBM Quantum Computer worth $14,850 for the proposal "Study on impact of Quantum Algorithms on Classical Lightweight Cryptosystems for Internet of Things" from Ministry of Electronics & Information Technology (MeitY) Quantum Computing Applications Lab (QCAL).
+CUSAT University First Rank in MTech 2014-’16 CSE specialisation in Data Security.
+Poster presentation in Qcrypt 2023, M. M. Mathews, P. V and V. Ajith, "Quantum Cryptanalysis of Affine Cipher,"
 Education
-Ph.D, School of Computer Science and Engineering, Thesis titled: "Three-Dimensional Reconstruction and Visualization of Brain Tumor for Surgical Peocedures” , Vellore Institute of Technology, Vellore  (An Institute of Eminence Status by GOI), Nov 2023.
-M.Tech., Computer Science and Engineering, Anna University, Chennai, 2012.
-B.Tech., Computer Science and Engineering, Mahatma Gandhi University, 2009.
-Experience
-Assistant Professor in the Department of Computer Engineering at College of Engineering Chengannur, Chengannur, Kerala – Aug 2023 to Aug 2024.
-Assistant Professor in the Department of CSE at Mar Baselios Christian College of Engineering and Technology, Peermade, Kerala - Dec 2011 to July 2017.
+Thesis submitted. Title: Breaking Codes and Advancing Security: Cryptanalysis, Cyberwarfare and Quantum-Safe Cryptographic Solutions for Mutual Authentication and Authenticated Broadcasting
+M.Tech., CS Data Security, CUSAT, 2016
+B.Tech., CSE, CUSAT 2011
+Invited Talk/Sessions:
+Mahima Mary Mathews - Invited Talks Consolidated List.docx
 Publications
 Journals
-Joseph, S.S. and Aju, D. “A comparative objective assessment on mesh-based and SVM-based 3D reconstruction of MRI brain”, International Journal of Natural Computing Research, Volume 8 Issue 3, pp. 41–54
-Joseph SS, Dennisan A. “Three-Dimensional reconstruction models for medical modalities: a comprehensive investigation and analysis.” Current Medical Imaging, Bentham Science, 2020, Volume 16(6):pp.653-68. [SCIE, Scopus Indexed]
-Joseph, S.S. and Dennisan, A. “An affinity propagated clustering aided computerized Inherent Seeded Region Growing and Deep learned Marching Cubes Algorithm (ISRG-DMCA) based three-dimensional image reconstruction approach”, International Journal of Imaging Systems and Technology, Wiley, 2022, pp. 1-15, DOI: 10.1002/ima.22736 [Scopus Indexed]
-Joseph, S.S. and Dennisan, A. “Optimised CNN based Brain Tumour Detection and 3D Reconstruction”, Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, Taylor and Francis,2022, 1–16, DOI: 10.1080/21681163.2022.2113436. [Scopus Indexed]
-Joseph, S.S. and Aju, D., “3D Reconstruction Methods Purporting 3D Visualization and Volume Estimation of Brain Tumors”, International Journal of e-Collaboration, 2022, Volume 18, Issue 1, pp.1–18. [Scopus Indexed]
-Joseph SS, Aju D. “Three-Dimensional Reconstruction of Brain Tumours from 2D MRI Scans: Optimised Curve Fitting Process.” International Journal of Biomedical Engineering and Technology. 2023, Volume 42, Issue 4, pp. 377-97 [Scopus Indexed]
-Conference and Book Chapter
-Joseph SS, Aju D. “A comparative survey on three-dimensional reconstruction of medical modalities based on various approaches. In Information Systems Design and Intelligent Applications” In Proceedings of Fifth International Conference INDIA 2018, Volume 1, 2019, pp. 223-233, Springer Singapore.
-Joseph SS, Aju D. “Three-Dimensional Reconstruction and Digital Printing of Medical Objects in Purview of Clinical Applications.” In Machine Learning and Deep Learning in Medical Data Analytics and Healthcare Applications, Taylor and Francis, 2022, pp. 39-64.
+A substitution box for lightweight ciphers to secure internet of things V Panchami, MM Mathews Journal of King Saud University-Computer and Information Sciences, 35 (4), 75-89, 2023
+A Provably Secure, Privacy-Preserving Lightweight Authentication Scheme for Peer-to-Peer Communication in Healthcare Systems based on Internet of Medical Things V Panchami, RML G, MM Mathews, S Justine Computer Communications, 212, 284-297, 2023
+Quantum Cryptanalysis of Affine Cipher MM Mathews, V Panchami, V Ajith IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2024
+QS-Auth: A Quantum-secure mutual authentication protocol based on PUF and Post-Quantum Signature for Heterogeneous Delay-Tolerant Networks MM Mathews, V Panchami Journal of Information Security and Applications, 83, 103787, 2024
+Strengthening security of Mobile, IOT and Edge applications in Post-Quantum era using Quantum Random Number Generators MM Mathews, V Panchami Applied Computing eJournal, 4 (73), 2021
+Wi-Fi Assisted Communication Network (WACN) - A novel and independent solution for communication over challenged networks MM Mathews, V Panchami International Journal of Innovation and Scientific Research, 25 (1), pp, year not specified (assumed journal)
+Conferences
+Frequency Analysis Attack on Ceaser Cipher using Quantum Support Vector Machine V Ajith, MM Mathews 2022 IEEE Conference on Interdisciplinary Approaches in Technology and Management, 2022
+Benchmarking speed of post-quantum lattice based pke/kem schemes using liboqs MA Garrach, C Waghela, MM Mathews, LS Sreekuttan 2022 International Conference on Trends in Quantum Computing and Emerging Technologies, 2022
+Date time keyed-HMAC MM Mathews, V Panchami 2016 Online International Conference on Green Engineering and Technologies, 2016
+Book Chapters
+A Lightweight Image Cryptosystem for Multimedia Internet of Things V Panchami, A Rajasekharan, MM Mathews International Conference on Intelligent Cyber Physical Systems and Internet of Things, 2022
 Professional Activities
 Reviewer
-Multimedia Tools and Applications
+Reviewer for journals like Quantum Information Processing, The Journal of King Saud University.
+https://orcid.org/0000-0002-4001-7953
 Research Interests
-Machine Learning
-Deep Learning
-Medical Image Processing
+Cryptography - Post-Quantum Cryptography, Quantum Cryptography
+Quantum Cryptanalysis
+Quantum Computing and Communication
+Network Security
+Ethical Hacking
+Digital Forensics
+Delay Tolerant Network
+Distributed ledger technology

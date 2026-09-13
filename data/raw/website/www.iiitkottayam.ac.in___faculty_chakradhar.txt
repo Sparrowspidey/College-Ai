@@ -1,52 +1,60 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/chakradhar
 
-Dr. Athira B| IIIT Kottayam
+Dr. Chakradhar Padamutham| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Athira B
+Dr. Chakradhar Padamutham
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email:athirab
+Email:chakradhar
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202268
-Honours and Achievements :
-First Rank in MTech
-Research Intern - School of Informatics and Computing, Indiana University, Indiana State,USA
-Education
-Ph.D, Cochin University of Science and Technology Thesis titled: "Deep Learning based Health Recommender system in online health community forum” CUSAT 2022.
-M.Tech., Software Engineering  ,CUSAT,2011
-Invited Talk/Sessions
-Expert Lecture on “Leveraging AI and ML for Cloud security” in 5- day FDP/workshop on Secure Cloud, AI and Distributed Systems(SCADS) 2025
-Expert lecture on “Know your Data” in 5-day workshop on Data Science Essentials: Python Powered Learning 2025 at IIIT Kottayam.
-Conference chair at 5th International Conference on “Innovative Trends in Information Technology” (ICITIIT 2024)
-Conference co-chair at 2024 IEEE International Conference on “Signal Processing, Informatics, Communication and Energy System (SPICES).
-Resource person in 2-day National Seminar on “Digital Transformation: Innovations in Electronics, Commerce and Communication” at Baselious Poulose II Catholicose College, Piravom
-Speaker at Syposium.”Exploring frontiers of Data Science, Health Informatics& HCI”, organised by IUPUI at New Delhi
-Conference Chair at
-International Conference on Smart Computing and Communications (ICSSC 2023)
+Hello at: +91 (0) 482-2202263,+91 9866297033
+Scopus ID: 57216615282
+ORCID:
+https://orcid.org/0000-0001-6589-8358
+Google Scholar Page :
+https://scholar.google.com/citations?user=O0lO0MYAAAAJ&hl=en
+Research Interests :
+Graph Theory
+Algorithms
+Theoretical Computer Science
+Education :
+Ph.D,  Computer Science and Engineering, Thesis titled: " Algorithmic aspects of variants of Roman domination in graphs ", National Institute of Technology, Warangal,  2021.
+M.Tech., Computer Science and Engineering, Balaji Institute of Engineering and Sciences, JNTU Hyderabad, Telangana, 2013.
+B.Tech., Computer Science and Engineering, Nalanda Institute of Engineering and Technology, JNTU Hyderabad, Andhrapradesh, 2006.
 Publications
-Journals
-Athira, B., Josette Jones, Sumam Mary Idicula, Anand Kulanthaivel, and Enming Zhang. "Annotating and detecting topics in social media forum and modelling the annotation to derive directions-a case study."
-Journal of Big Data
-; Springer 2021 Jan 8(1): 1-23. SCI-10.8
-Balakrishnan, Athira, Sumam Mary Idicula, and Josette Jones. "Deep learning based analysis of sen-timent dynamics in online cancer community forums: An experience."
-Health Informatics Journal
-27.2 (2021, April): 14604582211007537. –
-SCI(IF-2.932)
-Athira, B., et al. "An answer recommendation framework for an online cancer community fo-rum." Multimedia Tools and Applications (2023): 1-27.
-(SCI-2.5)
-Book Chapters
-Josu, Anto, Jasu Brinner, and B. Athira. "Improving job recruitment with an interview bot: A study on NLP techniques and AI technologies." Advances in Networks, Intelligence and Computing. CRC Press, 2024. 579-586.
-Sreekumar, Aswathy, R. Reshma, and B. Athira. "Comparative Study of Deep Learning Models for Document Classification." 2023 9th International Conference on Smart Computing and Communications (ICSCC). IEEE, 2023.
-Athira, B., and Sumam Mary Idicula. "Siamese Network with Transfer Learning for Similar Query Re-trieval in Online Health Community Forums." Advances in Micro-Electronics, Embedded Systems and IoT. Springer, Singapore, 2022. 337-346.
-Athira, B., and Sumam Mary Idicula. "An Improved Query Similarity Model for Online Health Community Forum Using Cross-Attention Mechanism on Siamese Network." International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore, 2022.
-Professional Activities
-Reviewer:
-Multimedia Tools and application
-Journal of King Saud University - Computer and Information Sciences
-Research Interests
-Data Mining
-Natural Language Processing
-Health Informatics
-Machine Learning
+Journals (SCI/SCIE):
+Chakradhar Padamutham
+, Venkata Subba Reddy Palagiri, “Complexity of Roman {2}- domination and the double Roman domination in graphs”, AKCE Internationals Journal of Graphs and Combinatorics, 17:3, 1081-1086, 2020.DOI:
+https://doi.org/10.1016/j.akcej.2020.01.005
+, Venkata Subba Reddy Palagiri, “Algorithmic aspects of Roman domination in graphs”, Journal of Applied Mathematics and Computing, 64:1, 89-102, 2020. DOI:
+https://doi.org/10.1007/s12190-020-01345-4
+, Venkata Subba Reddy Palagiri, “Complexity aspects of variants of independent Roman domination in graphs”, Bulletin of the Iranian Mathe-matical Society, 47.6, 1715-1735, 2020.DOI:
+https://doi.org/10.1007/s41980-020-00468-5
+Padamutham Chakradhar
+, Palagiri Venkata Subba Reddy, “Complexity Issues of Per-fect Secure Domination in Graphs”, RAIRO – Theoretical Informatics and Applications, 55, p.11, 2021.DOI:
+https://doi.org/10.1051/ita/2021012
+P. Chakradhar
+, P. Venkata Subba Reddy, “Algorithmic Aspects of Roman {3}-domination in Graphs”,RAIRO – Operations Research, 56:4, 2277—2291, 2022.DOI:
+https://doi.org/10.1051/ro/2022106
+Journals (Scopus):
+, Palagiri Venkata Subba Reddy, “Algorithmic Aspects of Total Roman {3}-Domination in Graphs”, Discrete Mathematics, Algorithms and Appli-cations, 13.5, p.2150063, 2021. DOI:
+https://doi.org/10.1142/S1793830921500634
+, Palagiri Venkata Subba Reddy, “Complexity issues of per-fect Roman Domination in graphs”, Kyungpook Mathematical Journal, 61.3, 661-669, 2021. DOI:
+https://doi.org/10.5666/KMJ.2021.61.3.661
+, Venkata Subba Reddy Palagiri, Khandelwal Himanshu, “Algorithmic Complexity of weakly connected Roman domination in Graphs”, Discrete Mathematics, Algorithms and Applications, 14.3, p.2150125, 2021.DOI:
+https://doi.org/10.1142/S1793830921501251
+, P. Venkata Subba Reddy, “Algorithmic Aspects of Total Roman {2}- Domination in Graphs”, Communications in Combinatorics and Optimization, 13.5, 1-10, 2021.DOI:
+https://doi.org/10.22049/CCO.2021.27063.1189
+, P. Venkata Subba Reddy, “Independent Roman {3}-Domination”, Transactions on Combinatorics, 11.2, 99-110, 2021.DOI:
+https://doi.org/10.22108/TOC.2021.127953.1840
+, “Complexity Aspects of Restrained Roman Domination in Graphs”, Discrete Mathematics, Algorithms and Applications, p. 2250096, 2022. DOI:
+https://doi.org/10.1142/S1793830922500963
+International Conferences (SCOPUS)
+, Venkata Subba Reddy Palagiri, “Algorithmic Aspects of Total Roman and Total Double Roman Domination in Graphs”, Annual International Conference on Algorithms and Discrete Applied Mathematics, February 11-13, 2021, IIT Ropar, India. Proceedings in Lecture Notes in Computer Science. (Springer). DOI:
+https://doi.org/10.1007/978-3-030-67899-9_3
+International Conferences (Others)
+, Venkata Subba Reddy Palagiri, “Perfect Double Roman Domination in Graphs”, International Conference of Forum for Interdisciplinary Math-ematics : Synergies in Computational, Mathematical, Statistical and Physical Sciences, November 23-27, 2020, Chennai, India. Proceedings in Journal of Combinatorics, In-formation and System Sciences (JCISS)
+Teaching Experience
+Assistant Professor, SR University, Warangal, Telangana, February 2021- November 2023

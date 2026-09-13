@@ -1,14 +1,101 @@
-# Python
+# ============================================================
+#  College-AI — .gitignore
+#  Python · FastAPI · LangChain · FAISS · Ollama · React
+# ============================================================
+
+
+# ── Python ───────────────────────────────────────────────────
 .venv/
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.whl
 
-# Data & AI
-backend/vectorstore/
-backend/data/processed/
 
-# Environment
+# ── Environment & Secrets ────────────────────────────────────
 .env
+.env.*
+!.env.example          # keep the template committed
 
-# OS
+
+# ── Data & AI (generated — never commit raw/processed data) ──
+data/raw/
+data/processed/
+backend/data/
+backend/vectorstore/
+vectorstore_data/
+*.pkl
+*.pickle
+*.faiss
+*.index
+
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+crawler.log
+
+
+# ── Jupyter Notebooks (checkpoints) ──────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+
+# ── Testing & Coverage ───────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+test-results/
+
+
+# ── IDE & Editors ────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# ── OS Generated ─────────────────────────────────────────────
 .DS_Store
+Thumbs.db
+desktop.ini
+
+
+# ── Node / Frontend ──────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/build/
+frontend/dist/
+.npm
+.yarn
+
+
+# ── uv / Package Managers ────────────────────────────────────
+.uv/
+uv.lock.bak
+
+
+# ── Ollama / Model Files ─────────────────────────────────────
+*.gguf
+*.bin
+*.safetensors
+models/
+
+
+# ── Misc ─────────────────────────────────────────────────────
+*.tmp
+*.bak
+*.swp
+.cache/

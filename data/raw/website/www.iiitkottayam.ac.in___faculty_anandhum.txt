@@ -1,74 +1,51 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/anandhum
 
-Dr. R. Tharaniya Sairaj| IIIT Kottayam
+Dr. Anandhu Mohan| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. R Tharaniya Sairaj
+Dr. Anandhu Mohan
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email:sairaj
+Email: anandhum
 iiitkottayam
 ac.in
-Hello at: 04822202227
+Hello at: 04822202362
 Honours and Achievements :
-2024
-- NPTEL Superstar & Discipline Scholar in
-"Computer Science"
-2023
-- Qualified UGC-NET for Assistant Professor,
-conducted by National Testing Agency for the University Grants Commission.
-2023 - Best Paper Award
-, 1st International Conference on Recent Advances in Artificial Intelli-gence & Smart Applications.
-2022
-- Professional Excellence in Data Science Foundations and Deep Learning.
-Awarded by IBM.
-2019
-- Ranked third in Academic Standing in MCA Degree. SASTRA University.
-2017
-- Best Outgoing Student of the Batch in B.Sc. Computer Science.
-St. Joseph’s College of Arts and Science (Autonomous), Cuddalore.
+Qualified CSIR-UGC JRF 2019.
+Passed GATE 2022.
+Qualified JAM 2015.
+Recipient of Suvarna Jubilee Merit Scholarship by Kerala state government from 2013 to 2017.
 Education
-Doctor of Philosophy (Thesis submitted), National Institute of Technology, Tiruchirappalli, 2025
-Master of Computer Applications, SASTRA University, Thanjavur, 2019.
-B.Sc. Computer Science, St. Joseph’s College of Arts and Science (Autonomous), Cuddalore, 2017.
+Ph.D., Mathematics – Graph Theory, IIIT Kottayam, 2025
+Title:
+Studies on Fuzzy Median Graphs and its Applications in Network Clustering
+M.Sc. Mathematics, Mahatma Gandhi University, Kottayam, 2017
+B.Sc. Mathematics, Mahatma Gandhi University, Kottayam, 2015
+Invited Talk/Sessions :
+Organizer and Resource Person for the ANRF, SERB–MATRICS, and CSS–funded 5-day Workshop on Complex Network Analysis in Brain Network Science and Complex Systems, organized at IIIT Kottayam.
+Resource person for certificate course in Introductory Artificial Intelligence, organized by IIIT Kottayam and St. Stephen’s College, Uzhavoor.
+Resource person for FUZZYMAT 2024, a workshop organized by the Department of Computational Science and Humanities, IIIT Kottayam.
 Publications
-Journals
-R. Tharaniya Sairaj
-S. R. Balasundaram
-, “Fine-tuned t5 transformer with lstm and spider monkey optimizer for redundancy reduction in automatic question generation,”
-SN Computer Science
-, vol. 5, pp. 475–489, 2024.  DOI:
-https://doi.org/10.1007/s42979-024-02826-0.
-, “Ontology with topsis model to improve textual entity mapping in automatic higher-order exam question generation,”
-Knowledge Management and E-Learning
-, 2024.
-, “Reducing tail entity hallucinations with dependency edge prediction in text to text transfer transformer based auto-generated ques-tions,”
-International Journal of Information Technology
-, vol. 16, pp. 5407–5419, 2024. DOI:10.1007/s41870-024-02205-1.
-Conferences
-, “De-noising tail entity selection in automat-ic question generation with fine-tuned t5 model,” in
-International Conference on Data Sci-ence and Applications
-, NIT, Jaipur, 2023, pp. 431–443.
-, “Improving uniqueness of named entities with knowledge-based textual enrichment in automatic question generation,” in
-International Conference on Recent Advances in Artificial Intelligence & Smart Applications
-, Springer, 2023, pp. 57–68.
-, “Improving the cognitive levels of automat-ic generated questions using neuro-fuzzy approach in e-assessment,” in
-2020 IEEE 5th Inter-national Conference on Computing Communication and Automation (ICCCA), IEEE, 2020
-, pp. 454–458.
-Workshops and Technical Symposia
-An entailment analysis based entity map-ping to improve automatic question generation
-. In Proceedings of the 3rd ACM India Joint International Conference on Data Science Management of Data (8th ACM IKDD CODS 26th COMAD) (CODS-COMAD ’21). Association for Computing Machinery, New York, NY, USA, 424.
-https://doi.org/10.1145/3430984.3431049, p. 424
-Exploring sparql query types to improve on-tology mapping and retrieval augmented modelling for auto-generated questions
-. University of Twente, Netherlands, Joint Workshop on the Convergence of Large Language Models and Ontologies - Formal Ontology in Information Systems Conference, 2024, p. 424.
-Book Chapters
-Data Science and Applications: Lecture Notes in Networks and Systems
-, Springer, Springer Nature, 2023, pp. 431–443.
-RECENT ADVANCES IN ARTIFICIAL INTELLIGENCE & SMART APPLICATIONS
-, J. K. Mandal, M. Hinchey, and S. Chakrabarti, Eds., Springer Nature, 2023, pp. 57–68.
+Journal
+A. Mohan, V. S. Thalapala, K. Guravaiah, and M.V Dhanyamol, “Fuzzy median graph based energy efficient clustering protocol in WSN,” Information Sciences, vol. 721, p. 122573, 2025.
+A. Mohan and M. Dhanyamol, “Fuzzy median graph and its application in the deployment of wireless sensor networks,” International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, vol. 33, no. 03, pp. 279–298, 2025.
+V. S. Thalapala, A. Mohan, and K. Guravaiah, “Relate: Latency-based reliable controller placement using wisdom of artificial crowds in sdn-wan,” Wireless Networks, pp. 1–18, 2025.
+A. Mohan, M. Dhanyamol, and S. Mathew, “The structural properties of fuzzy median graphs,” Journal of Applied Mathematics and Computing, pp. 1–21, 2024.
+A. Mohan, V. S. Thalapala, K. Guravaiah, and M. Dhanyamol, “Fmgnr: Fuzzy median graph for network routing applications,” Wireless Networks, vol. 29, no. 2, pp. 821–832, 2023.
+Conference Proceedings
+A. Mohan, M. Dhanyamol, and V. S. Thalapala, “Fuzzy median graph algorithm for facility location problem,” in AIP Conference Proceedings, AIP Publishing, vol. 2875, 2023.
+Participation in Summer Schools and Conferences
+Annual Foundation School – I, a program conducted by the National Center for Mathematics, November 2021 – January 2022.
+8th International Conference on Data Analytics and Cyber Security (DACS 2025), December 21–23, SRM University, Andhra Pradesh, India.
+International Conference on Graph Theory and its Applications (ICGTA 2024), October 3–5, Irinjalakuda, India.
+International Conference on Graphs, Networks and Combinatorics (ICGNC 2023), January 10–12, New Delhi, India.
+2nd International Conference on Computational Sciences – Modelling, Computing and Soft Computing (CSMCS 2022), March 28–30, Manipal, India.
 Research Interests
-Artificial Intelligence in Education
-Data Science
-Machine Learning and Deep Learning
-Natural Language Processing
-Knowledge Models
+Graph Theory
+Fuzzy Graph Theory
+Network Science
+Social Network Analysis
+Teaching and Research Experience
+Senior Research Fellow (2022–2025), Department of Computational Science and Humanities, IIIT Kottayam, India.
+Junior Research Fellow (2020–2022), Department of Computational Science and Humanities, IIIT Kottayam, India.
+Guest Lecturer (2018-2020), Department of Mathematics, CMS College, Kottayam.
