@@ -1,61 +1,92 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/selvi
 
-Dr. John Paul Martin | IIIT Kottayam
+Dr Selvi C | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. John Paul Martin
+Dr Selvi C
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: johnpaul
+Email: selvic
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202202
+Hello at: 00 91  04822202212
 Honours and Achievements :
-PhD Research Fellowship from Ministry of Electronics & Information Technology (Meity), Government of India under Visvesvaraya Ph.D. scheme (2016 -2021)
-Cleared Graduate Aptitude Test in Engineering (GATE).
-Recruited as Knowledge associate at CDAC R&D from National Institute of Technology Karnataka (Super Dream Placement Offer).
+Received Amrita Innovation and Research Award - AIRA 2021 from Amrita Vishwa Vidyapeetham on April 9, 2021 for the paper titled “Rough Set-based Feature Selection for Credit Risk Prediction using Weight Adjusted Boosting Ensemble Method”.
+Secured Rank 17 in Student Hunt conducted by Analytics Vidhya and won 25% discount on the tickets of DataHack Summit 2017 - Conference on Artificial Intelligence & Machine Learning, organized by Analytics Vidhya on October 14 & 15, 2017.
+Participated in The Ultimate Student Hunt conducted by Analytics Vidhya on September 24, 2016 to October 02, 2016 and secured rank 27.
+Attended a two weeks (40 hours) online certificate course on “Machine Learning for Computer Vision” jointly organized by the Electronics and ICT Academies of IIT Roorkee, MNIT Jaipur, NIT Patna, NIT Warangal and PDPM IIITDM Jabalpur during Feb 21- Mar 4, 2022 under the “Scheme of financial assistance for setting up of Electronics and ICT Academies” of the Ministry of Electronics and Information Technology (MeitY), Government of India. I have  successfully completed all the requirements of the programme with a very good grade. The programme is recognized by AICTE/UGC.
 Education :
-Ph.D, Thesis titled: “Orchestration Mechanisms for Enabling Distributed Processing in the Fog Computing Environment ", NITK Surathkal, 2021.
-M.Tech., Computer Science and Engineering with Specialization in Information Systems , Mahathma Gandhi University.
-B.Tech., Computer Science and Engineering, University of Calicut.
+Ph.D., Computer Science and Engineering, Thesis titled: " Design and Implemen-tation of Efficient Collaborative Filtering Techniques for Recommender Systems”, National Institute of Technology, Tiruchirappalli, Tamil Nadu,2018.
+M.E., Computer Science and Engineering, Gnanamani College of Technology, Anna University, Chennai, Tamil Nadu,2012.
+B.E., Information Technology, Faculty of Engineering, Avinashilingam University for Women, Coimbatore, Tamil Nadu, 2010
+Invited Talk/Sessions :
+A talk on “Artificial Neural Networks”, in joint certification course on AI with spe-cialization in Reinforcement Learning organized by Department of CSE, IIIT Kottayam during July 03 to 14, 2023.
+A talk on “Introduction to LaTex and its Demo”, organized by TN government sponsored five day FDP in GCT, Coimbatore 2023.
+A talk on “Data preprocessing and visualization”,  organized by the department of Computer Application at Madanapalle Institute of Technology and Science 2023.
+A talk on “Project report writing in LaTeX”, organized by the department of CSE at LBS Institute of Technology for Women Poojappura, Trivandrum on 2021.
+A talk on “LaTeX Document Writing”, organized by the department of CSE at Selvam College of Technology, Namakkal on 2021.
+A talk on Data preprocessing, Classification and Regression Techniques in One Week Short Term Course on Introduction to Soft Computing Techniques, organ-ised by the Dept. of CSE at National Institute of Technology, Tiruchirappalli, Tam-il Nadu, on Oct. 26 and 27, 2017.
+A talk on Recommender Systems in One Week Short Term Course on Advanced Concepts in Databases and Data Analytics organized by Dept. of CSE at National Institute of Technology, Tiruchirappalli, Tamil Nadu, on Nov. 8th, 2017.
+A talk on Data Warehousing and Data Mining Organized by Dept. of CSE, at K.Ramakrishnan College of Engineering, Samayapuram, Trichy, Tamil Nadu on Dec. 9th, 2017.
+A talk on Recommender Systems and Sentiment Analysis in a AICTE sponsored FDP on Data Science Research and Big data Analytics Organized by Dept. of In-formation Technology, at National Engineering College, Kovilpatti, Tamil Nadu, on Dec. 19th, 2017.
 Publications
 Journals
-Joseph, Christina Terese, John Paul Martin and K. Chandrasekaran,  "Fog Assisted Personalized Dynamic Pricing for Smartgrid." IEEE Transactions on Computational Social Systems (2022).
-John Paul Martin, Kandasamy A. Chandrasekaran K., “Mobility aware autonomic approach for the migration of application modules in fog computing environment", Journal of Ambient Intelligence and Humanized Computing 8.1 (2020):1-20. [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran CREW: Cost and Reliability aware Eagle and Whale optimiser for service placement in Fog, Software Practice and Experience (Wiley) [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran Exploring the support for high performance applications in the container runtime environment, Human-centric Computing and Information Sciences, (Springer)[SCI]
-John Paul Martin, A. Kandasamy, K. Chandrasekaran & Christina Terese Joseph Elucidating the challenges for the praxis of fog computing: An aspectbased study, International Journal of Communication Systems (Wiley)[SCI]
+Sivasankar, E., C. Selvi, and S. Mahalakshmi. "Rough set-based feature selection for credit risk prediction using weight-adjusted boosting ensemble method." Soft Computing 24.6 (2020): 3975-3988. Citation: 4.7 and Percentile: 97%, SCI and Scopus indexed Journal
+Selvi, C., and E. Sivasankar. "A novel Adaptive Genetic Neural Network (AGNN) model for recommender systems using modified k-means clustering ap-proach." Multimedia Tools and Applications 78.11 (2019): 14303-14330. Citation: 3.7 and Percentile: 80%, SCI and Scopus indexed Journal
+Selvi, C., and E. Sivasankar. "A novel optimization algorithm for recommender system using modified fuzzy c-means clustering approach." Soft Computing 23.6 (2019): 1901-1916. Citation: 4.7 and Percentile: 97%, SCI and Scopus indexed Journal
+Selvi, C., and E. Sivasankar. "A novel similarity measure towards effective rec-ommendation using Matusita coefficient for Collaborative Filtering in a sparse dataset." Sādhanā 43.12 (2018): 1-13. Citation: 1.5 and Percentile: 73%, SCI and Scopus indexed Journal
 Book Chapters
-Martin, John Paul, A. Kandasamy, and K. Chandrasekaran. "Unraveling the challenges for the application of fog computing in different realms: A multifaceted study." Integrated Intelligent Computing, Communication and Security. Springer, Singapore, 2019. 481-492.
-Joseph, Christina Terese, et al. "Virtual machine migration—a perspective study." Advances in Big Data and Cloud Computing. Springer, Singapore, 2018. 79-89.
-John Paul Martin, Vipin Singh, K Chandrasekaran, A Kandasamy “Explicating Fog Computing Key Research Challenges and Solutions”.  Singapore, 2018. 79-89.
-Conferences:
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran &  Christina Terese Joseph “Machine Learning Powered Auto scaling for Block chain based Fog Environments”, Springer, Spain
-Nishanth, Shashwatha Mitra G.B, John Paul Martin, K. Chandrasekaran “HTmRPL++ : A Trust-Aware RPL Routing Protocol for Fog Enabled Internet of Things”, International Conference on COMmunication Systems & NETworkS (COMSNETS), Scopus
-Christina Terese Joseph, John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Fuzzy Reinforcement Learning based Microservice Allocation in Cloud Computing Environments”,TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus
-Chandan Naik; M Siddhartha; John Paul Martin; K. Chandrasekaran “Location Privacy Using Data Obfuscation in Fog Computing”, TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus.
-Akarsh Murali; Nibir Nirjas Das; Shiv Shankar Sukumaran; K. Chandrasekaran; Christina Joseph; John Paul Martin “Machine Learning Approaches for Resource Allocation in the Cloud: Critical Reflections”, International Conference on Advances in Computing, Communications and Informatics (ICACCI), Scopus.
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Toward efficient autonomic management of clouds: A CDS-based hierarchical approach”, Advanced Computing and Systems for Security, Springer, Scopus
-Christina Terese Joseph, John Paul Martin “Task Dependency Aware Selection in Cloud” International conferences in advances in computing and communications,Scopus, Elsevier
-Thasviya Haroon; S Neena; K K Krishnaprasad; Rejoice Wilson; Sanjo Simon; John Paul Martin “Convivial private cloud implementation system using OpenStack”,  2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT), IEEE Scopus
-John Paul Martin; Krishna S. Chinchu; M. J. Hareesh; Babu S. Anish; Sijo Cherian; Yedhu Sastri “Learning Environment as a Service (LEaaS): Cloud”, Fourth International Conference on Advances in Computing and Communications, Scopus
-S. Anish Babu; M. J. Hareesh; John Paul Martin; Sijo Cherian; Yedhu Sastri “System Performance Evaluation of Para Virtualization, Container Virtualization, and Full Virtualization Using Xen, OpenVZ, and XenServer”, Fourth International Conference on Advances in Computing and Communications, Scopus
-John Paul Martin; M. Sarith Divakar; Hareesh M. Joseph” Registry Based Discovery Model for Android Application”, Third International Conference on Advances in Computing and Communications, IEEE, Scopus
+Pancholi, Deep, and C. Selvi. Study of Cold-Start Product Recommendations and Its Solutions. No. 9601. EasyChair, 2023.
+Ambati, N. S. R., Singara, S. H., Konjeti, S. S., & Selvi, C. (2022, November). Per-formance Enhancement of Machine Learning Algorithms on Heart Stroke Predic-tion Application using Sampling and Feature Selection Techniques. In 2022 Inter-national Conference on Augmented Intelligence and Sustainable Systems (ICAISS) (pp. 488-495). IEEE.
+Swathi, M., & Selvi, C.  An Improved Similarity Measure Based on Collaborative Filtering for Sparsity Problem in Recommender Systems. In Data Engineering and Intelligent Computing (pp. 33-45). Springer, Singapore, 2022.
+Selvi, C., Anvitha, Y., Asritha, C. H., & Sayannah, P. B. “Kathakali face expression detection using deep learning techniques”. In Journal of Physics: Conference Se-ries. IOP Publishing. Vol. 2062, No. 1, 2021, p. 012018.
+Selvi, C., and E. Sivasankar. "An efficient context-aware music recommendation based on emotion and time context." Data Science and Big Data Analytics. Spring-er, Singapore, 2019. 215-228.
+Selvi, C., and E. Sivasankar. "A novel singularity based improved tanimoto simi-larity measure for effective recommendation using collaborative filtering." 2018 8th International Conference on Cloud Computing, Data Science & Engineering (Confluence). IEEE, 2018.
+Sivasankar, E., C. Selvi, and C. Mala. "A study of dimensionality reduction tech-niques with machine learning methods for credit risk prediction." Computational Intelligence in Data Mining. Springer, Singapore, 2017. 65-76.
+Selvi, C., Chakshu Ahuja, and E. Sivasankar. "A comparative study of feature selec-tion and machine learning methods for sentiment classification on movie data set." Intelligent computing and applications. Springer, New Delhi, 2015. 367-379.
 Professional Activities
 Reviewer:
-IEEE Transactions on Industrial Informatics
-Journal of the International Measurement Confederation (Elsevier)
-IEEE Access
-International Journal of Systems Assurance Engineering and Management (Springer)
-Journal of Ambient Intelligence and Humanized Computing (Springer)
-Software Practice and Experience (Wiley)
-International Journal of Communication Systems(Wiley)
+Member of the Editorial Manager online submission and peer review tracking sys-tem for Cybernetics and Systems.
+Dr. C. Selvi Amrita Vishwa Vidyapeetham, Coimbatore, India Technical Program Committee Member of International Conference on Advanced Network Technolo-gies and Intelligent Computing (ANTIC-2021) 17-18 December 2021 Organized By Department of Computer Science, Institute of Science, Banaras Hindu University, Varanasi, India
+Reviewer for 4th International Conference on Fuzzy Systems and Data Mining (FSDM 2018) during November 16-19, 2018, Bangkok, Thailand.
+Reviewer for 7th International Conference On Data Management, Analytics and In-novation- ICDMAI 2023.
+Reviewer for 10th International Conference on Pattern Recognition and Machine Intelligence (PReMI'23)
+Reviewer for HeteroComp24-The International Workshop on Ideas, Algorithms, Models, Libraries and Tools for Leveraging Heterogeneity in Computing Para-digms in conjunction with the 25th ACM International Conference on Distributed Computing & Networking (ICDCN 2024) Venue: IIT Madras, 4-7th January 2024
+Reviewer for 8th International Conference on Data Management, Analytics and In-novation- ICDMAI 2024.
+Conference and workshop organized:
+Conducted a Indian Council for Social Science Research
+(ICSSR)
+, New Delhi
+Sponsored
+workshop for 1.6Lakhs from July 17 to 21, 2023
+“SIKER 2023: School on Indian Knowledge System and Engineering Research”
+at Indi-an Institute of Information Technology Kottayam, Kerala, India. https://sites.google.com/view/siker2023
+Special session organizer in
+11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2023)
+on the topic   “Graph Based Application In Intelligent Computing”.
+Workshops & Short Term Courses Attended
+National Seminar on Emerging trends in Nanotechnology, organised at Avinashil-ingam University for Women, Coimbatore on Feb 23, 2007.
+National Conference on Advanced Communications and Networking, organised by Information Technology in association with CISCO Networking Academy on Jan 8th, 2009.
+One Day Workshop on Theory of Computation, organised by CSE, at Sengunthar Engineering College, Feb 17th, 2012.
+TEQIP-II Sponsored workshop on Research Methods and LaTeX, Organized by Electronics and Communication Engineering, NIT, Tiruchirappalli, September 20-21, 2013.
+National level workshop on Soft Computing Techniques using MATLABA Practical Approach, IT, Kongu Engineering College, Perundurai, Tamil Nadu, August 26-27 2013.
+TEQIP-II sponsored One Week Faculty Development Programme on Data Mining Techniques and Tools-Research Perspective, Organized by CSE at Coimbatore In-stitute of Technology, Coimbatore, Nov 11-17, 2013.
+Workshop on Introduction to CUDA C/C++, organised by Massively Parallel Pro-gramming Laboratory, Computer Applications, NIT, Tiruchirappalli, March 21st 2014.
+Workshop on Big Data Analytics using Hadoop Eco System Tools, Organized by CDAC Chennai,August 12-14, 2014.
+CIT-IBM one week research programme on Statistical and Mathematical Modelling for Computer Science Research, Organized by Computer Technology and Applica-tions at Coimbatore Institute of Technology, Coimbatore, Feb 10-16, 2014.
+TEQIP-II sponsored Five Days Technology Workshop on Architecture, Algorithms, Analytics for Big Data using Cloud and Distributed Computing, Organized by CSE, NIT Warangal and CDAC Pune, March 07-11, 2014.
+Tutorial session on Systematic Approach towards Research on Machine Learning and Distributed Computing in the National Conference on Distributed Machine Learning(NCDML’15), organised by CSE at SSN College of Engineering, Chennai during Feb 20-21, 2015.
+Two Days Workshop on R Programming Languages, Conducted by Computer Ap-plications, NIT Tiruchirappalli, Oct 16-17, 2015.
+TEQIP-II sponsored Workshop on Data Analytics Concepts and Techniques for Business Intelligence, organised by CSE, NIT Tiruchirappalli, Aug 08-13, 2016.
+Four Days Short Term Course on Analytics, conducted by Department of Computer Applications & CSE, NIT Tiruchirappalli, Jan 19-22, 2017.
+One Week Short Term Course on Introduction to Soft Computing Techniques, or-ganised by the CSE, NIT Tiruchirappalli, Oct 26-30, 2017.
+One Week Short Term Course on Advanced Concepts in Databases and Data Ana-lytics, organised by the CSE, NIT Tiruchirappalli, Nov 6-10, 2017.
+Five-days online FDP on the theme “Inculcating Universal Human Values in Tech-nical Education” organized by All India Council for Technical Education (AICTE), 1 February, 2021 to 5 February, 2021.
+Attended two weeks (40 hours) online certificate course on “Machine Learning for Computer Vision” jointly organized by the Electronics and ICT Academies of IIT Roorkee, MNIT Jaipur, NIT Patna, NIT Warangal and PDPM IIITDM Jabalpur dur-ing Feb 21- Mar 4, 2022 under the “Scheme of financial assistance for setting up of Electronics and ICT Academies” of the Ministry of Electronics and Information Technology (MeitY), Government of India. I have successfully completed all the re-quirements of the programme with a very good grade. The programme is recog-nized by AICTE/UGC.
 Research Interests :
-Distributed Computing
-Edge/ Fog Computing
-Cloud Computing
-Internet of Things (IoT)
-DevOps and MLOps
-Artificial Intelligence
-Machine Learning
-Optimisation Algorithms
+Recommender Systems and Transfer learning
+Data Science and Machine Learning
+Computer Vision and Image Processing
+Natural Language Processing
+Predictive Analytics
+Deep Learning

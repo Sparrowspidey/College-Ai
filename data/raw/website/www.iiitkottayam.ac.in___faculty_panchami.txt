@@ -12,158 +12,407 @@ iiitkottayam
 ac.in
 Hello at: 00 91  0482-2202151
 ORCID id: 0000-0002-9297-6929
-Honours and Achievements
-Best Paper award for the paper titled ““Frequency Analysis on Ceaser Cypher using Quantum State Vector Machine” in IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI-2022), organized by IEEE MP Section and ABV-IIITM Gwalior, India on 21-23 December 2022
-Received Young Woman Researcher award in Cryptography for the contribution and achievement in the discipline of Engineering by Center for Advanced Research and Design, 2022.
-Got NASSCOM award for the ‘Ladies Safety App’ 2017.
-Best Teacher Award for the year (2015- 2016) –CSE, Toc H Institute of Science and Technology
-Secured first prize for mobile application “Production Tracking System” in the App Idea Contest conducted as part of TechFoss, 2015.
-Secured 2nd position for the paper presentation (CS/IT) in the Techno Cultural Fest Brahma held on 2013.
-Qualified GATE-2007, with Score 381 and Percentile 91.63
-Education
-Ph.D, Information and Communication Engineering, Thesis titled: “An Efficent symmetric cipher for Mobile Devices to Ensure End to End Communication”, Anna University, Chennai, 2018
-M.Tech., Computer Science and Engineering, Govt. College of Engineering, Salem, Anna University,2009
-B.Tech.,  Information Technology, Kerala University, 2007
-Patents
-Indian Patent, Application No.  202341053159 A
-Title of the invention : A Secure IoT-Based Air Quality Monitoring Device Using  Blockchain
-Date of filing of Application : 08/08/2023
+Google Scholar: ‪
+Dr. Panchami V‬ - ‪Google Scholar‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+URL for web site:
+Dr. Panchami V | IIIT Kottayam , CyberLabs
+EDUCATIONAL QUALIFICATION
+07/01/2019 PhD Information and Communication Engineering, Anna University Chennai, India
+02/06/2009 Master of Engineering, Department of CSE, Government College of Engineering Salem, India
+30/05/2007 Bachelor of Technology, Information Technology, University of Kerala, India
+PRIZES, AWARDS AND RECOGNITIONS:
+Recipient of the prestigious
+Marie Skłodowska-Curie Actions (MSCA) fellowship, Seal of Excellence Award 2026 (92.8%)
+, awarded by the European Union.
+appreciation letter
+from Indian Cybercrime Coordination Centre (I4C)- Ministry of Home Affairs for outstanding contributions to Cyber Commando training 2024 in Cyber Security and Digital Forensics.
+Received an
+from the Superintendent of Police, Cyber Operations Division, Kerala, for contributions in analyzing the
+ransomware attack
+at the Regional Cancer Centre (RCC) Hospital, Thiruvananthapuram, Kerala.
+Received
+Best Paper Award (1st position)
+for the research paper, “Frequency Analysis on Ceaser Cypher using Quantum State Vector Machine”, Track 4 Green Electronics, VLSI, Communication and Sensor Based Technologies, presented in IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation
+(IATMSI-2022)
+, organized by IEEE MP Section and ABV-IIITM Gwalior, India on 21-23 December 2022.
+Young Woman Researcher award in Cryptography
+for the contribution and achievement in the discipline of Engineering by Center for Advanced Research and Design, Venus International Foundation, 2022.
+NASSCOM AppFame Award
+for the development of an ANDROID application “iFollow: An Android Application For Ladies Safety” (2011-2012).
+Best Teacher Award
+for the year (2015- 2016) –CSE, Toc H Institute of Science and Technology
+Secured
+first prize
+for mobile application “Production Tracking System” in the App Idea Contest conducted as part of Tech foss, 2015.
+2nd position for the paper presentation (CS/IT)
+in the Techno Cultural Fest Brahma, 2013.
+Qualified GATE-2007, with Score 381 and Percentile 91.63.
+PATENT(S):
+Application No.202341079754 , Patent No: 549026, Indian Patent Title of the invention : An IoT-Enabled Collar Device for    Monitoring Activity and Illicit Usage of Captive Animals, Date of filing of Application :23/11/2023, Publication Date : 22/12/2023, Status: Granted,
+Date of Grant : 29/08/2024
+Application No.202541068288 A, Indian Patent Title of the invention: An Intelligent, IoT-Enabled System for Real-Time Wild Animal Intrusion Detection, Monitoring, and Repulsion, Date of filing of Application:17/07/2025, Status: Published,
+Publication Date: 25/07/2025
+Application No.  202341053159 A, Indian Patent Title of the invention: A Secure IoT-Based Air Quality Monitoring Device using  Blockchain, Date of filing of Application : 08/08/2023,
 Publication Date : 01/09/2023
-Indian Patent, Application No.202341079754 A
-Title of the invention : Aniot-Enabled Collar Device for    Monitoring Activity and Illicit Usage of Captive Animals
-Date of filing of Application :23/11/2023
-Publication Date : 22/12/2023
-FUNDED PROJECTS BY INDUSTRY (Completed)
-Got funding from Cymbient Technologies Pvt Ltd, Gurgaon, India. Duration: March 2022 to March 2025, Title:
-A Quantum-safe Multi-Party Threshold Signature Scheme for Blockchains in Digital Wallets
-Research Grants
-Obtained grant credits for research work under MeitY Quantum Computing Applications Lab (QCAL) worth 14625 USD for the proposal “Study on impact of Quantum Algorithms on Classical Lightweight Cryptosystems for Internet of Things” duration 2023-2025.
-Obtained a research grant to access time to IonQ Trapped Ion Quantum Computer worth $7984 for the proposal "Post-Quantum Public Key Infrastructure" as part of IonQ research Credits Programme, USA duration 2020-2024.
-PUBLICATIONS IN REFEREED JOURNALS
-Blaize Tom, Panchami V, Shelcy Paulose, Sharon Justine, "Provably Secure, Lightweight, Privacy-Preserving PUF-Based Authentication and Key Agreement Scheme using Blockchain Technology for Internet of Drones in Smart Cities" Cluster Computing, Springer June 2025 (accepted)
-(SCIE, Scopus Indexed)
-Payattukalanirappel, S.J., Vamattathil, P.V. & Cheeramthodika, M.Z.C. A Blockchain-assisted lightweight privacy preserving authentication protocol for peer-to-peer communication in vehicular ad-hoc network. Peer-to-Peer Netw. Appl. 17, 4013–4032 (2024).
+GRANTS/FUNDING RECEIVED:
+Obtained grant credits for the research project proposal titled “Quantum Threats to Lightweight Cryptography in Constrained Devices”, which has been shortlisted under the
+Challenge to be Quantum Ready
+initiative. As part of this research grant, 30 hours of system access to NVIDIA GPUs—supporting simulations of up to 36 qubits—has been awarded by the
+I-HUB Quantum Technology Foundation
+, in collaboration with
+NVIDIA
+, 2025.
+Obtained grant credits worth
+USD 14,625
+under the
+MeitY Quantum Computing Applications Lab (QCAL)
+for the research proposal “Study on the Impact of Quantum Algorithms on Classical Lightweight Cryptosystems for Internet of Things” (Duration: 2022–2024).
+Secured a research grant worth
+USD 7,984
+to access the
+IonQ Trapped Ion Quantum Computer
+for the proposal “Post-Quantum Public Key Infrastructure”, as part of the
+IonQ Research Credits Programme, USA
+(Duration: 2020–2024).
+Got funding of over
+₹1.72 crore
+from
+Indian Cybercrime Coordination Centre (I4C)- Ministry of Home Affairs
+for in-house training programme of 30 Indian Cyber Commandos in Cyber Security and Digital Forensics, Duration 25th September 2021 to 25th March 2022.
+Got funding INR from
+Cymbient Technologies Pvt Ltd
+, Gurgaon, Haryana, India. Title: “A Development of a Blockchain-Assisted Privacy-Preserving Authentication Platform for Next-Generation Connected Vehicles”. Duration: March 2023 – March 2024.
+AICTE ATAL sponsored Five-days Faculty Development Programme on “Internet of Things: Hardware, Software and Applications”, December 2020, Sanctioned amount Rs.
+93,000
+/- (Role:
+FDP Coordinator
+AICTE ATAL sponsored Five-days Faculty Development Programme on “Big Data Security”, November 2021, Sanctioned amount Rs.
+ONGOING FUNDED PROJECTS:
+Title of the Project: An Integrated Cyber Defense Platform for Proactive OT/ICS Cybersecurity in Industry 4.0 Funding Agency: SDEC Strategic Collaboration Research Grant (SCRG) 2024,
+Sarawak Digital Economy Corporation (SDEC)
+, Sarawak, Malaysia in collaboration with Curtin University Malaysia Duration: 2 years (2025- 2027),
+Amount: RM 227,190
+., PI: Dr Sivaraman Eswaran, Co-PIs: Dr, Wei Kitt,
+Dr Panchami V
+Title of the Project: Blockchain-Secured Federated Learning for Early Cancer Detection in Distributed Healthcare Networks.
+Funding Agency: SDEC Strategic Collaboration Research Grant (SCRG) 2024, Sarawak Digital Economy Corporation (SDEC), Sarawak, Malaysia in collaboration with Curtin University Malaysia Duration: 2 years (2025- 2027),
+Amount: RM 147,900
+, PI: Dr Sivaraman Eswaran, Co-PIs: Dr, Wei Kitt,
+PEER REVIEWED PUBLICATIONS- JOURNALS:
+M. M. Mathews and
+V. Panchami
+(2026), "QS-BTrust: A Quantum-Secure Privacy-Preserving protocol with Revocation for Trusted Broadcasting in Integrated Vehicular Networks," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2026.3699264.
+Impact Factor: 8.5, Ranking: Q1.
+Mariya Thomas, Mahima Mary Mathews,
+Panchami V
+., Asha Sebastian, Sivaraman Eswaran, (2026), “Securing the future: A comprehensive review of post-quantum digital signatures”, Computer Science Review, Volume 61, 2026, 100935, ISSN 1574-0137,
+https://doi.org/10.1016/j.cosrev.2026.100935
+Impact Factor: 12.7, Ranking: Q1.
+Tom Parambil, B.,
+Vamattathil, P
+., Paulose, S. et al., (2025) “Provably secure, lightweight, privacy-preserving PUF-based authentication and key agreement scheme using blockchain technology for internet of drones in smart cities.” Cluster Comput 28, 1016.
+https://doi.org/10.1007/s10586-025-05572-x
+Impact Factor: 4.1, Ranking: Q1.
+Merchant, A.,
+Panchami, V
+., Justine, S.
+et al.
+(2025), “An efficient lightweight authentication scheme for smart healthcare in IoMT applications”.
+Discov Computing
+28, 261.
+https://doi.org/10.1007/s10791-025-09779-9
+Impact Factor: 3.2, Ranking: Q2, Citations: 01
+Payattukalanirappel, S.J.,
+Vamattathil, P.V.
+& Cheeramthodika, M.Z.C. A Blockchain-assisted lightweight privacy preserving authentication protocol for peer-to-peer communication in vehicular ad-hoc network. Peer-to-Peer Netw. Appl. 17, 4013–4032 (2024).
 https://doi.org/10.1007/s12083-024-01784-x
-M. M. Mathews, P. V and V. Ajith, "Quantum Cryptanalysis of Affine Cipher," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 14, no. 3, pp. 507-519, Sept. 2024, doi: 10.1109/JETCAS.2024.3428436. (
-Q1, SCIE Indexed
-Mahima Mary Mathews, Panchami V., “QS-Auth: A Quantum-secure mutual authentication protocol based on PUF and Post-Quantum Signature for Heterogeneous Delay-Tolerant Networks”, Journal of Information Security and Applications, Elsevier, Volume 83, 2024,103787, ISSN 2214-2126,
+Impact Factor: 2.6, Ranking: Q1, Citations: 05.
+M. M. Mathews,
+P. V
+and V. Ajith, "Quantum Cryptanalysis of Affine Cipher," in
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+, vol. 14, no. 3, pp. 507-519, Sept. 2024,
+doi: 10.1109/JETCAS.2024.3428436
+Impact Factor: 3.8, Ranking: Q1, Citations: 03
+Mahima Mary Mathews,
+., “QS-Auth: A Quantum-secure mutual authentication protocol based on PUF and Post-Quantum Signature for Heterogeneous Delay-Tolerant Networks”,
+Journal of Information Security and Applications
+, Elsevier, Volume 83, 2024,103787, ISSN 2214-2126,
 https://doi.org/10.1016/j.jisa.2024.103787
-Q1, SCIE, Scopus Indexed
-Panchami V., Rubell Marion Lincy G., Mahima Mary Mathews, Sharon Justine, “A Provably Secure, Privacy-Preserving Lightweight Authentication Scheme for Peer-to-Peer Communication in Healthcare Systems based on Internet of Medical Things, Computer Communications, , Elsevier, Volume 212, 2023, Pages 284-297, ISSN 0140-3664,
+Impact Factor: 3.7, Ranking: Q1, Citations: 06
+Panchami V., Rubell Marion Lincy G., Mahima Mary Mathews, Sharon Justine, “A Provably Secure, Privacy-Preserving Lightweight Authentication Scheme for Peer-to-Peer Communication in Healthcare Systems based on Internet of Medical Things, Computer Communications, Elsevier, Volume 212, 2023, Pages 284-297, ISSN 0140-3664,
 https://doi.org/10.1016/j.comcom.2023.07.042
-SCIE, Scopus Indexed
-V. Panchami, Mahima Mary Mathews, “A Substitution Box for Lightweight Ciphers to Secure Internet of Things”, Journal of King Saud University - Computer and Information Sciences, Elsevier, Volume 35, Issue 4, 2023, Pages 75-89, ISSN 1319-1578,
+. Impact Factor: 4.3, Ranking: Q1, Citations: 17.
+V. Panchami, Mahima Mary Mathews, “A Substitution Box for Lightweight Ciphers to Secure Internet of Things”, Journal of King Saud University - Computer and Information Sciences, Elsevier, Volume 35, Issue 4, 2023, Pages 75-89, ISSN 1319-1578, ,
 https://doi.org/10.1016/j.jksuci.2023.03.004
-SCI, Scopus Indexed
-Panchami.V, Varghese Paul, Amitabh Wahi (2017), “Dynamic colour table: A novel S‐box for Cryptographic Applications” International Journal for communication System. Wiley ISSN No:1099-1131; e33184, DOI:
+.  Impact Factor: 6.1, Ranking: Q1, Citations: 33
+Panchami V, Varghese Paul, Amitabh Wahi (2017), “Dynamic colour table: A novel S‐box for Cryptographic Applications” International Journal for communication System. Wiley ISSN No:1099-1131; e33184, DOI:
 https://doi.org/10.1002/dac.3318
-SCIE, Scopus  Indexed
-Panchami.V, Varghese Paul, Amitabh Wahi  (2018), “A Fast Color based Nonlinear 8 bit Pseudo-Random Number Generator Enabling Diffusion for Lightweight Cryptographic Applications” International Journal of Control Theory and Applications (
-Scopus
-Indexed),  vol. 8, p. 1817-1832.
-https://doi.org/10.1109/IJCTA.2015.02.116
-PUBLICATIONS IN  BOOK CHAPTERS
-Joshi, H., Justine, S., Panchami, V., Hrithik, B. (2025). A Decentralised Application for Medical Insurance Claim System Using Blockchain Technology. In: Chaubey, N., Jhanjhi, N.Z., Thampi, S.M., Parikh, S., Amin, K. (eds) Computing Science, Communication and Security. COMS2 2024. Communications in Computer and Information Science, vol 2174. Springer, Cham.
+Impact Factor: 1.8, Ranking: Q2, Citations: 16
+Panchami V, Varghese Paul, Amitabh Wahi  (2018), “A Fast Color based Nonlinear 8 bit Pseudo-Random Number Generator Enabling Diffusion for Lightweight Cryptographic Applications” International Journal of Control Theory and Applications (Scopus Indexed),  vol. 8, p. 1817-1832. Impact Factor: 2.3, Ranking: Q2.
+PEER REVIEWED PUBLICATIONS- CONFERENCES:
+Shelcy Paulose, Panchami V, Blaize Tom, Aditya Kumar Raushan, Yogesh Jhanwar and Fasila K A, “DAKA-PM: A Provably Secure Decentralized Authentication and Key Agreement Scheme for Internet of Drones.” Publisher: ACM, New York, United States, ISBN:  979-8-4007-1969-1, Pages16 – 17, 27th International Conference on Distributed Computing and Networking (ICDCN 2026) Nara, Japan, January 6–9, 2026
+https://dl.acm.org/doi/epdf/10.1145/3737611.3776958
+A. Mathew and P. V, "A Review on Federated Learning with a Focus on Security and Privacy," 2024 IEEE Recent Advances in Intelligent Computational Systems (RAICS), Kothamangalam, Kerala, India, 2024, pp. 1-6,
+doi: 0.1109/RAICS61201.2024.10689882
+. Citations: 01
+J. M. Jose and P. V, "A Survey on Consensus Algorithms in Blockchain Based on Post Quantum Cryptosystems," 2022 IEEE 5th International Conference on Computational Intelligence and Networks (CINE), Bhubaneswar, India, 2022, pp. 1-6,
+doi: 10.1109/CINE56307.2022.10037353
+.. Citations: 13
+V. Ajith, M. M. Mathews and P. V, "Frequency Analysis Attack on Ceaser Cipher using Quantum Support Vector Machine," 2022 IEEE Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), Gwalior, India, 2022, pp. 1-5,
+doi: 10.1109/IATMSI56455.2022.10119286
+Sandeep Kumar Yedla, V. M. Manikandan, Panchami V. “Real – time Scene Change Detection with Object Detection for Automated Stock Verification”,  5th IEEE International Conference on Devices, Circuits and Systems (ICDCS'2020) , IEEE, 2020,
+doi: 10.1109/ICDCS48716.2020.243571
+. Citations: 20
+Vemulapalli Rajesh, Panchami V “A Novel Multiplicative Substitution Cryptosystem”, IEEE International Conference Electrical, Computer and Communication Technologies (ICECCT), IEEE 2019,
+DOI: 10.1109/ICECCT.2019.8869508
+Citations: 02
+Mahima Mary Mathews, Panchami.V, “Date Time Keyed – HMAC”, IEEE Sponsored 3rd International Conference on Innovations in Information, Embedded and Communication System (ICIIECS ’16)
+DOI: 10.1109/GET.2016.7916689
+. Citations: 07
+Ranjith R Bhat, Panchami. V, “A Novel and Robust Symmetric Block Cipher for Hand-Held Mobile devices”, IEEE Xplore Digital Library- 3rd International Conference on Innovations in Information, Embedded and Communication System (ICIIECS ’16), IEEE, 2016,
+DOI: 10.1109/GET.2016.7916681
+Citations: 01
+Shipa Shaju, Panchami.V, “BISC Authentication Algorithm: An Efficient New Authentication Algorithm using Three Factor Authentication for Mobile Banking”, IEEE Xplore Digital Library- IEEE Sponsored 3rd International Conference on Innovations in Information, Embedded and Communication System (ICIIECS ’16)
+DOI: 10.1109/GET.2016.7916852
+Citations: 21
+Minta Thomas, Panchami.V, “An encryption protocol for end-to-end secure transmission of SMS” IEEE Xplore- Circuit, Power and Computing Technologies (ICCPCT), 2015 International Conference on 19-20 March 2015,
+DOI: 10.1109/ICCPCT.2015.7159471
+Citation: 31. Citations: 32
+PEER REVIEWED PUBLICATIONS- BOOK CHAPTERS:
+Sharon Justine, V. Panchami, Sivaraman Eswaran, Chapter 8 - A review on blockchain-based authentication and key agreement schemes in VANET, Editor(s): Amit Kumar Tyagi, Shrikant Tiwari, Human- Centric Integration of Next-Generation Data Science and Blockchain  Technology, Academic Press, 2025, Pages 99-108, ISBN 9780443334986,
+https://doi.org/10.1016/B978-0-443-33498-6.00004-2
+Joshi, H., Justine, S.,
+., Hrithik, B. (2025). “A Decentralised Application for Medical Insurance Claim System Using Blockchain Technology”. In: Chaubey, N., Jhanjhi, N.Z., Thampi, S.M., Parikh, S., Amin, K. (eds) Computing Science, Communication and Security. COMS2 2024.
+Communications in Computer and Information Science
+, vol 2174.
+Springer
+, Cham.
 https://doi.org/10.1007/978-3-031-75170-7_28
-Paulose, S., Panchami, V. (2025). A Survey on Privacy-Preserving Authentication Schemes using PUFs for Industrial Internet of Things. In: Mathew, L., Subramanian, K.G., Nagar, A.K. (eds) Proceedings of International Conference on Theoretical and Applied Computing. ICTAC 2024. Algorithms for Intelligent Systems. Springer, Singapore.
+Paulose, S.,
+. (2025). “A Survey on Privacy-Preserving Authentication Schemes using PUFs for Industrial Internet of Things”. In: Mathew, L., Subramanian, K.G., Nagar, A.K. (eds)
+Proceedings of International Conference on Theoretical and Applied Computing
+. ICTAC 2024. Algorithms for Intelligent Systems.
+Springer,
+Singapore.
 https://doi.org/10.1007/978-981-97-6957-5_18
-Panchami, V., Rajasekharan, A., Mathews, M.M. (2023). A Lightweight Image Cryptosystem for Multimedia Internet of Things. In: Hemanth, J., Pelusi, D., Chen, J.IZ. (eds) Intelligent Cyber Physical Systems and Internet of Things. ICoICI 2022. Engineering Cyber-Physical Systems and Critical Infrastructures, vol 3. Springer.
+., Rajasekharan, A., Mathews, M.M. (2023). “A Lightweight Image Cryptosystem for Multimedia Internet of Things”. In: Hemanth, J., Pelusi, D., Chen, J.IZ. (eds)
+Intelligent Cyber Physical Systems and Internet of Thing
+s. ICoICI 2022. Engineering Cyber-Physical Systems and Critical Infrastructures, vol 3.
 https://doi.org/10.1007/978-3-031-18497-0_29
-Joseph, Ashly and V, Panchami, An Analysis on Low Cost and Performance of Hardware and Software Oriented Lightweight Block Ciphers for IoT Applications (July 9, 2021). (published in ELSEVIER-SSRN Digital Library) http://dx.doi.org/10.2139/ssrn.3883327.
-Mathews, Mahima Mary and V, Panchami, Strengthening security of Mobile, IOT and Edge applications in Post-Quantum era using Quantum Random Number Generators (July 8, 2021). (published in ELSEVIER-SSRN Digital Library).  http://dx.doi.org/10.2139/ssrn.3883327
-Sai Surya Kiran Pokala, Panchami. V, Sandeep Kumar Yedla (2020), “A Low Cost IoT Enabled Device for Real Time Air Quality Monitoring System”,  Advances in Intelligent Systems and Computing, vol 1056. pp 329-338, Springer, Singapore. https://doi.org/10.1007/978-981-15-8289-9_8
-Panchami V., Paul V., Wahi A. (2019-20) PVW: An Efficient Dynamic Symmetric Cipher to Enable End-to-End Secure Communication. In: Artificial Intelligence and Evolutionary Computations in Engineering Systems (eds). Advances in Intelligent Systems and Computing, vol 1056. pp 329-338, Springer, Singapore. Print ISBN: 978-981-15-0198-2, Online ISBN: 978-981-15-0199-9, DOI: https://doi.org/10.1007/978-981-15-0199-9_28
-PUBLICATIONS IN INTERNATIONAL CONFERENCES
-A. Mathew and P. V, "A Review on Federated Learning with a Focus on Security and Privacy," 2024 IEEE Recent Advances in Intelligent Computational Systems (RAICS), Kothamangalam, Kerala, India, 2024, pp. 1-6, doi: 0.1109/RAICS61201.2024.10689882.
-J. M. Jose and P. V, "A Survey on Consensus Algorithms in Blockchain Based on Post Quantum Cryptosystems," 2022 5th International Conference on Computational Intelligence and Networks (CINE), Bhubaneswar, India, 2022, pp. 1-6, doi: 10.1109/CINE56307.2022.10037353.
-V. Ajith, M. M. Mathews and P. V, "Frequency Analysis Attack on Ceaser Cipher using Quantum Support Vector Machine," 2022 IEEE Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), Gwalior, India, 2022, pp. 1-5, doi: 10.1109/IATMSI56455.2022.10119286.
-Mahima Mary Mathews and Panchami.V, “Strengthening security of Mobile, IOT and Edge applications in the Post-Quantum era using QRNGs” is accepted for oral presentation at the ICICNIS 2021: 2nd International Conference on IoT Based Control Networks and Intelligent Systems to be held in Kerala, India during 28-29, June 2021. http://dx.doi.org/10.2139/ssrn.3883327
-Ashly Joseph and Panchami. V, “An Analysis on Low Cost and Performance of Hardware and Software Oriented Lightweight Block Ciphers for IoT Applications” is accepted for oral presentation at the ICICNIS 2021: 2nd International Conference on IoT Based Control Networks and Intelligent Systems to be held in Kerala, India during 28-29, June 2021http://dx.doi.org/10.2139/ssrn.3883327
-Keerthi Sreenivas konjety, V. Panchami, Vangapandu Sandeep, Sai Manoj konidana, “IoT based Smart Medicine Reminder Kit” presented the research article on ACM/CSI/IEEECS Research & Industry Symposium which was held in honor of Shri. F.C. Kohli, the Father of Software Industry, at AIC-IIIT Kottayam Foundation, IIIT Kottayam Kerala, India on 3.5.2021. doi: 10.1109/IOTCLOUD.2021.16
-Sandeep Kumar Yedla, V. M. Manikandan, Panchami V. “Real – time Scene Change Detection with Object Detection for Automated Stock Verification”,  5th IEEE International Conference on Devices, Circuits and Systems (ICDCS'2020) , IEEE, 2020, doi: 10.1109/ICDCS48716.2020.243571
-Panchami, V., Rajasekharan, A., Mathews, M.M. “A Lightweight Rubik’s Cube and Chaotic-based Image Encryption and Key Generation Algorithm for Multimedia Internet of Things”, on 10th International Conference on Contemporary Engineering and Technology, held on 21st -22nd  May 2022 organised by OSIET, India. https://doi.org/10.1007/978-3-031-18497-0_29
-Vemulapalli Rajesh, Panchami V “A Novel Multiplicative Substitution Cryptosystem”, IEEE International Conference “Electrical, Computer and Communication Technologies (ICECCT), IEEE 2019, DOI: 10.1109/ICECCT.2019.8869508
-Mahima Mary Mathews, Panchami.V, “Date Time Keyed – HMAC” , IEEE Xplore Digital Library- IEEE Sponsored 3rd International Conference on Innovations in Information, Embedded and Communication System (ICIIECS ’16) DOI: 10.1109/GET.2016.7916689.
-Ranjith R Bhat, Panchami.V, “A Novel and Robust Symmetric Block Cipher for Hand-Held Mobile devices”, IEEE Xplore Digital Library- 3rd International Conference on Innovations in Information, Embedded and Communication System (ICIIECS ’16), IEEE, 2016, DOI: 10.1109/GET.2016.7916681
-Shipa Shaju, Panchami.V, “BISC Authentication Algorithm: An Efficient New Authentication Algorithm using Three Factor Authentication for Mobile Banking”, IEEE Xplore Digital Library- IEEE Sponsored 3rd International Conference on Innovations in Information, Embedded and Communication System (ICIIECS ’16) DOI: 10.1109/GET.2016.7916852
-Minta Thomas, Panchami.V, “An encryption protocol for end-to-end secure transmission of SMS” IEEE Xplore- Circuit, Power and Computing Technologies (ICCPCT), 2015 International Conference on 19-20 March 2015, DOI: 10.1109/ICCPCT.2015.7159471
-Panchami.V, Varghese Paul, Amitabh Wahi “A Fast Color Authentication Algorithm for Secure Mobile Computing”, 2nd International Conference on Innovations in Information, Embedded and Communication Systems on March IEEE, 2014.
-Panchami.V, Job. V. Kuruvilla, “Applied Psychology and human resource management in various organizations” and participated in 47th National & 16th International Conference of Indian Academy of Applied Psychology (IAAP) held in June 2012.
-Invited Talks
-Sl.No
-Title of the Talk
-Date
-Programme & Institution/Place of the Talk
+Joseph, Ashly and
+V, Panchami
+, “An Analysis on Low Cost and Performance of Hardware and Software Oriented Lightweight Block Ciphers for IoT Applications” (July 9, 2021). (published in
+ELSEVIER
+-SSRN Digital Library)
+http://dx.doi.org/10.2139/ssrn.3883327
+Mathews, Mahima Mary and
+, “Strengthening security of Mobile, IOT and Edge applications in Post-Quantum era using Quantum Random Number Generators” (July 8, 2021). (published in
+-SSRN Digital Library).
+Sai Surya Kiran Pokala,
+Panchami. V
+, Sandeep Kumar Yedla (2020), “A Low Cost IoT Enabled Device for Real Time Air Quality Monitoring System”,
+Advances in Intelligent Systems and Computing,
+vol 1056. pp 329-338, Springer, Singapore.
+https://doi.org/10.1007/978-981-15-8289-9_8
+., Paul V., Wahi A. (
+2019-20
+) “PVW: An Efficient Dynamic Symmetric Cipher to Enable End-to-End Secure Communication”. In: Artificial Intelligence and Evolutionary Computations in Engineering Systems (eds).
+Advances in Intelligent Systems and Computing
+, vol 1056. pp 329-338,
+, Singapore. Print ISBN: 978-981-15-0198-2, Online ISBN: 978-981-15-0199-9, DOI:
+https://doi.org/10.1007/978-981-15-0199-9_28
+PRESENTATIONS (BOTH AS SELECTED AND/OR INVITED PARTICIPANT) TO INTERNATIONALLY ESTABLISHED CONFERENCES AND/OR ADVANCED SCHOOLS:
+Participated and presented the research paper, “ DAKA-PM: A Provably Secure Decentralized Authentication and Key Agreement Scheme for Internet of Drones.” in the 27th International Conference on Distributed Computing and Networking (ICDCN 2026) Nara, Japan, January 6–9, 2026
+Participated and presented research paper in the 13th Annual Meeting of
+QCRYPT 2023
+, which is held on August 14th - 18th, 2023, at the Brendan Iribe Center for Computer Science and Engineering at the University of Maryland in College Park, Maryland, USA. Paper titled "
+Quantum Cryptanalysis of Affine Cipher
+'' (#117) has been accepted for poster presentation in QCrypt 2023.The full list of  accepted papers and posters is available on the conference website:
+https://2023.qcrypt.net/accepted-papers/
+ORGANIZATION AND COORDINATION OF INTERNATIONAL CONFERENCES, FACULTY DEVELOPMENT PROGRAMMES, WORKSHOPS, AND TRAINING PROGRAMMES:
+KID GLOVE, Cyber Awarness Campain for Kids Training of Trainers (ToT) Programmes 2026, 7th May to 8th May 2026. (Batch1) and 23rd to 24th June 2026 (Batch2).
+Suceesfully organised the 4-Day Cyber Security Incident Response Training Programme for Law Enforcement Agencies (LEAs), sponsored by the Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs, from 15–18 June 2026 (Batch1), 26- 29 June 2026 (Batch2)
+Successful conducted AXCIA 2026 (Annual Cyber Exercise for Investigating Agencies), a five-week specialized training program held from 20 January to 21 February 2026. The program was organized by the Cyber Division, Kerala Police, and hosted in association with CyberLabs, IIIT Kottayam, at the Indian Institute of Information Technology (IIIT) Kottayam.
+Coordinated a two-week workshop on Cyber Security and Digital Forensics for State Special Branch, Kerala Police, conducted from 21 October – 1 November 2025.
+One Week ESF–IITM Workshop on Distributed Ledgers with Hedera, sponsored by the
+Exponential Science Foundation
+, held from 10th to 15th May 2025.
+Cyber Commando Training Program on Cyber Security and Digital Forensics, conducted by the
+Indian Cybercrime Coordination Centre (I4C), MHA
+, from 25th September 2024 to 25th March 2025.
+Fourteenth International Conference on Security, Privacy, and Applied Cryptographic Engineering (SPACE 2024) December 14-17, 2024
+Role: Organising Chair
+: Conference proceedings: Security, Privacy, and Applied Cryptography Engineering: 14th International Conference, SPACE 2024, Kottayam, India, December 14–17, 2024, Proceedings | SpringerLink- sponsored by
+IBM India, SAG Labs DRDO, Trust Lab IIT Bombay, CyStar IIT Madras, and Vehere Technologies
+IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (IEEE SPICES 2024), A flagship conference of IEEE Kerala section during 20-22 September 2024;
+; Conference proceedings: 2024 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES) - Conference Table of Contents | IEEE Xplore
+IEEE International Conference on Quantum Technologies, Communications, Computing, Hardware and Embedded Systems Security (iQ- CCHESS’23) 15, 16 September 2023:
+Role: Technical Program Committee Chair
+; Conference proceedings: QUANTUM TECHNOLOGIES, COMMUNICATIONS, COMPUTING, HARDWARE AND EMBEDDED SYSTEMS SECURITY. INTERNATIONAL CONFERENCE. 2023. (iQ-CCHESS 2023) - proceedings.com
+Short Term Training Programme on Cyber Security and Digital Forensics for the
+Kerala Police Cyber Operations Division
+across multiple batches:
+Batch 1: 16th January 2024 to 3rd February 2024
+Batch 2: 5th February 2024 to 15th February 2024
+Batch 3: 13th March 2024 to 23rd March 2024
+Batch 4: 29th April 2024 to 10th May 2024
+Batch 5: 10th June 2024 to 22nd June 2024
+Workshop on Advanced Cryptography and Digital Forensics, technically sponsored by
+CyberLabs
+, from 5th to 9th June 2023.
+Workshop on Advanced Cryptography: Possibilities and Challenges, conducted in association with
+IIT Madras
+, on 26th–27th November 2022.
+AICTE ATAL FDP on Cyber Security and Digital Forensics from 1st to 5th December 2020.
+Cyber Security Series of Webinar I, hosted by
+, IIIT Kottayam
+, from 12th to 14th November 2021.
+Cyber Security Series of Webinar II, hosted by
+, on 20th November 2021.
+AICTE ATAL FDP on Big Data Security and Analytics from 6th to 10th December 2021.
+Webinar on Cryptography and its Applications, hosted by
+, on 24th July 2020.
+Webinar on How to Formulate a High-Impact Publication, conducted by the
+ACM/IEEE Student Chapter, IIIT Kottayam
+, on 16th July 2020.
+Webinar on Industry 4.0 for Discrete Manufacturing, conducted by the
+, on 6th July 2020.
+INVITED TALKS:
+Delivered a session on “
+Breakin
+g RSA with Shor’s Algorithm: A Quantum Computing Perspective
+”, in Department of Computer Science, CUTN in association with IITM C DOT Samgnya Technologies Foundation (An initiative under the National Quantum Mission of DST, Govt of India) is organizing a five-day national workshop on “Quantum Computing & Security” from March 09
+to 13
+2026.
+Delivered a session on
+“Unmasking Criminal Networks: A Graph-Based Forensic Approach Using Call Detail Records and Mobile Tower Data”
+at the CFP c0c0n 2025 Security and Hacking Conference, held at Grand Hyatt Cochin, Kerala, on 16 October 2025.
+Ethereum and its Applications
+” in ESF–IITM Workshop on Distributed Ledgers with Hedera, sponsored by the
+, held from 10th to 15th May 2025
+Delivered a
+hands-on session on
+MetaMask
+and Remix IDE for Smart Contracts in Blockchain
+during the
+4-day DTE sponsored FDP on Miracle of Blockchain Technology
+, Rajiv Gandhi Institute of Technology, Kottayam, on 24
+January 2024 (2 sessions).
+Delivered a talk on
 Blockchain in Manufacturing
-December 6th  2023 (session 1)
-AICTE training and learning (ATAL) Sponsored 6 Days FDP on Precision Manufacturing, Mar Athanasius College of Engineering, Kothamangalam, Kerala
-Smart Contract and its applications in manufacturing sector
-December 6th  2023(session 2)
+AICTE ATAL Sponsored 6-Day FDP on Precision Manufacturing
+, Mar Athanasius College of Engineering, Kothamangalam, on 6
+December 2023 (Session 1).
+Smart Contract and its Applications in Manufacturing Sector
+December 2023 (Session 2).
 Cryptocurrency and Crypto Wallet
-December 1st 2023
-FDP entitled “Unhashing the cryptos of Blockchain”, VIT, Vellore for the faculty development programme
-Blockchain as an Exponentially Disruptive Technology - Applications and Implications
-November 10th 2023
-IEEE RASSE 2023 3rd IEEE International Conference on Recent Advances in Systems Science and Engineering, Saintgits College of Engineering, Kottayam, Kerala
-Hands on session on MetaMask and Remix platform
-October 30th 2023
-DST-SERB Sponsored High-End Workshop on "Research Challenges in Cyber Security and Digital Forensics": VIT Vellore
-A Secure Privacy-Preserving Lightweight Authentication Scheme for Internet of Medical Things
-4th October to 7th October 2023
-Invited as a speaker in Security and Hacking Conference, In Association with Kerala Police and Cyberdome, Venue: Grand Hyatt, Kochi, c0c0n@16
-Internet of Things (IoT) and Security for Cyber Security Applications
-May 26th to 31st, 2023.
-Delivered a session in the STTP on "Machine Learning for Cyber Security" organised by Information Technology department, Toc H Institute of Science and Technology.
+in the FDP
+Unhashing
+the Cryptos of Blockchain”
+, VIT Vellore, on 1
+December 2023.
+Delivered an invited talk on
+Blockchain as an Exponentially Disruptive Technology – Applications and Implications
+at the
+3rd IEEE International Conference on Recent Advances in Systems Science and Engineering (RASSE 2023)
+, Saintgits College of Engineering, Kottayam, on 10
+November 2023.
+and Remix platform
+DST-SERB Sponsored High-End Workshop on Research Challenges in Cyber Security and Digital Forensics
+, VIT Vellore, on 30
+October 2023.
+Invited speaker at
+c0c0n@16 Security and Hacking Conference
+(in association with Kerala Police & Cyberdome) on
+“A Secure Privacy-Preserving Lightweight Authentication Scheme for Internet of Medical Things”
+, Grand Hyatt, Kochi, 4
+IoT and Security for Cyber Security Applications
+STTP on Machine Learning for Cyber Security
+, Toc H Institute of Science and Technology, on 26
+May 2023.
+Delivered a lecture on
 Blockchain Technology
-28th April 2023
-Delivered a lecture in a National Seminar organised by the Department of Information Technology, Viswajyothi College of Engineering and Technology, Vazhakulam.
+National Seminar organised by the Department of IT,
+Viswajyothi
+College of Engineering and Technology,
+Vazhakulam
+, on 28
+April 2023.
+Delivered an expert lecture on
 Blockchain Trends and Applications
-10 April 2023 to 12 April 2023
-Delivered an expert lecture in Three days FDP, organised by Academic Staff College in association with School of Electronic Engineering of VIT Vellore.
-26-28 April 2023
-Chief Guest for the inaugural function and also delivered a session in National Conference on Research in Emerging Areas (NACORE 23) organised by Department of Computer Science & Engineering, Amal Jyothi College of Engineering, Kerala.
+during a
+3-Day FDP organised by Academic Staff College and School of Electronic Engineering, VIT Vellore
+, on 10
+Chief Guest and keynote speaker at the
+National Conference on Research in Emerging Areas (NACORE 2023)
+, Amal Jyothi College of Engineering, Kerala, delivering a session on
+, on 26
 Blockchain and Cryptocurrency
-February 1st -3rd , 2023
-Three days Seminar organised by CSE department, Sri Eshwar College of Engineering from February 1st -3rd , 2023.
+3-Day Seminar organised by the CSE Department, Sri Eshwar College of Engineering
+, on 1
+February 2023.
 IoT Security
-on 11 12th January 2023
-National Workshop on Advanced Network Security  organised by the Department of Electronics, M.E.S. College Marampally
+National Workshop on Advanced Network Security
+, MES College Marampally, on 11
+January 2023.
 Blockchain Technology and Cryptocurrency
-16th Jan 2023
-Five days FDP organised by St. Joseph's College of Engineering and Technology, Palai. Kerala, sponsored by APJ Abdul Kalam Technological University, Thiruvananthapuram.
-28th Nov 2022
-FDP organised by IT department, Toc H Institute of Science and Technology as part of the Information Technology Association (ignIT) Activities
-Blockchain Technology and cryptocurrency
-24th  October 2022
-Chief guest at the inaugural ceremony of Computer Department Association organised by Mar Augusthinose College, Ramapuram.
-September 05 - 09, 2022.
-Five-Day Webinar On Artificial Intelligence And Its Multi-Disciplinary Stances (W-Aims 2022) organized by Department of Computer Science and Applications, The Gandhigram Rural Institute.
-Panel discussion on Opportunities in Academia
-2nd October 2022
-Panel discussion speaker during IEEE Asia Pacific Region (R10) Young Professionals
-(Career and Leadership Aid Program (CLAP)
-20-24 December, 2021
-Deliveres an  Expert Lecturer in Five-days Online Faculty Development Program on “Cyber Security and Blockchain Technology (CSBT-2021) organized by Department of Computer Science and Engineering, IIIT Bhagalpur
-September 01-03, 2021
-Delivered a talk organized by Amal Jyothi College of Engineering as part of KTU sponsored 3-day FDP.
+5-Day FDP organised by St. Joseph’s College of Engineering and Technology,
+Palai
+(sponsored by APJAKTU)
+, on 16
+during an
+FDP organised by the IT Department, Toc H Institute of Science and Technology
+November 2022.
+Chief Guest at the
+Inaugural Ceremony of the Computer Department Association
+, Mar Augusthinose College, Ramapuram, delivering a talk on
+, on 24
+October 2022.
+5-Day Webinar on Artificial Intelligence and its Multi-Disciplinary Stances (W-AIMS 2022)
+, Gandhigram Rural Institute, on 5
+September 2022.
+Panelist in the
+Panel Discussion on Opportunities in Academia
+IEEE Asia Pacific Region (R10) Young Professionals CLAP Programme
+, on 2
+Delivered an
+expert lecture on Blockchain Technology
+5-Day Online FDP on Cyber Security and Blockchain Technology (CSBT-2021)
+, organised by CSE Department, IIIT Bhagalpur, on 20
+December 2021.
+KTU Sponsored 3-Day FDP organised by Amal Jyothi College of Engineering
+September 2021.
 Lightweight Cryptography
-March 22-26, 2021. (Date: 25/03/2021 )
-Delivered a talk organized by College of Engineering karunagappally as part of AICTE sponsored 5-day STTP on Big Data and Security.
+AICTE Sponsored 5-Day STTP on Big Data and Security
+, College of Engineering Karunagappally, on 25
+March 2021.
 Introduction to Blockchain Technology and its Applications
-March 22-26, 2021 (Date: 23/03/2021)
-Introduction to IoT and Design of IoT systems
-February 01-06, 2021 (Date: 05/02/2021)
-Delivered a talk  in TEQIP-II sponsored 6- days FDP on “ Applications of Artificial Intelligence and IoT in Engineering organised by  department of Computer Science and Engineering at College of Engineering, Perumon.
-Block chain Technology
-TERM 1- 14-12-2020 to 19-12-2020 (Date: 16/12/2020)
-Block chain and its Applications
-TERM 2- 21-12-2020 to 28-12-2020 (Date: 23/12/2020)
-Delivered a talk in AICTE sponsored Six days STTP on Emerging Trends in Cryptography and its Applications in Cyber Security organised by the department of Computer Science and Engineering at Vidya Academy of Science and Technology.
-Block chain and Bitcoin
-TERM 3- 1-2-2021 to 06-02-2021 (Date: 3/02/2021)
-Delivered a talk in AICTE sponsored Six days STTP on Emerging Trends in Cryptography and its Applications in Cyber Security organised by the department of Computer Science and Engineering at Vidya Academy of Science and Technology
-Research Interests
-Authentication and Key Agreement (AKA)
-Applied Cryptography
-Post-Quantum Cryptography
-Privacy Preserving Techniques for Federated Learning
+, College of Engineering Karunagappally, on 23
+Introduction to IoT and Design of IoT Systems
+TEQIP-II Sponsored 6-Day FDP on Applications of AI and IoT in Engineering
+, College of Engineering Perumon, on 5
+February 2021.
+AICTE Sponsored 6-Day STTP on Emerging Trends in Cryptography and its Applications in Cyber Security (TERM 1)
+, Vidya Academy of Science and Technology, on 16
+December 2020.
+Blockchain and its Applications
+AICTE Sponsored 6-Day STTP on Emerging Trends in Cryptography and its Applications in Cyber Security (TERM 2)
+, Vidya Academy of Science and Technology, on 23
+Blockchain and Bitcoin
+AICTE Sponsored 6-Day STTP on Emerging Trends in Cryptography and its Applications in Cyber Security (TERM 3)
+, Vidya Academy of Science and Technology, on 3
+OTHER RESEARCH ACTIVITIES:
+As the Faculty In-charge and Founder of CyberLabs IIIT Kottayam: Advanced Cryptology and Quantum-Safe Communication Research (
+In-House Projects Managed and Ongoing:
+ALPHA
+(Active Learning for Practical Hacking Approaches): This project envisions the creation of a
+Cyber Range
+— a dedicated, immersive environment for hands-on offensive security training. ALPHA will provide students and professionals with realistic scenarios to practice ethical hacking techniques, vulnerability assessments, penetration testing, and red team exercises.
+DRAGON
+(Defensive Response & Analytics for Guarding, Observation, and Neutralisation): This initiative aims to develop an integrated platform combining the functions of a
+Security Operations Center (SOC)
+Network Operations Center (NOC)
+, and
+Extended Detection and Response (XDR)
+system. DRAGON is designed to offer next-generation capabilities in monitoring, threat detection, incident response, and real-time analytics — making it a powerful tool for cybersecurity defense and operational continuity.

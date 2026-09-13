@@ -1,84 +1,65 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/alkha
 
-Dr. SYAMALA S| IIIT Kottayam
+Dr. Alkha Mohan| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. SYAMALA S
+Dr. Alkha Mohan
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: syamala
+Email: alkha
 iiitkottayam
 ac.in
-Hello at: 04822202231
-"The purpose of education is to make good human beings with skill and expertise... Enlightened human beings can be created by teachers.” Dr. APJ Abdul Kalam
-“Hope rises like a phoenix from the ashes of shattered.”
+Hello at: 04822202367
+Honours and Achievements :
+Post Doctoral Fellow, National Yunlin University of Science and Technology, Taiwan under National Science and Technology Council Taiwan
+M.Tech Rank Holder (CUSAT)
+UGC-NET
 Education
-Ph.D, Indian Institute of Technology Guwahati, Thesis titled: "Enhancing User Experience of Digital Design Learning Platforms through User Interface Improvements", 2025 .
-M.Tech., Computer Science & Engineering, M G University,2014
-B.Tech., Computer Science and Engineering, M G University,2008
+Ph.D, Department of Computer Science and Engineering, Thesis titled: "Machine Learning Based Crop Yield Prediction From Spectral Images", National Institute of Technology Karnataka , 2022.
+M.Tech., Computer Science (Image Processing),Cochin University of Science and Technology, 2013
+B.Tech., Computer Science and Engineering, Cochin University of Science and Technology, 2011
 Invited Talk/Sessions
-Delivered a Guest Lecture Session on the topic " Demystifying Machine Learning: A Practical Approach Using Excel" at University of Stirling - Ras Al Khaimah Campus, UAE on 1st April 2026.
-Session Chair in the 7th International Conference on Innovative Trends in Information Technology (ICITIIT'26) organized by the Department of CSE,IIIT Kottayam during 27-28 March 2026.
-Delivered a Keynote Address  on the topic " Technological Innovation and Digital Transformation" at the  International Conference on Innovation, Entrepreneurship and Digital Knowledge Economy at V. K. Krishna Menon College of Commerce and Economics, Mumbai, India on 13th February 2026.
-Experience
-7 years of teaching experience
+“Role of AI in Precision Agriculture” in One Week Faculty Development Program on DEEPLEARNING AND ITS CUTTING EDGE APPLICATIONS(DLCEA) organized by Department of Artificial Intelligence on 1 - 6 APRIL, 2024 at Anurag University.
 Publications
 Journals
-S. Syamala, A. Shrivastava, and S. Karmakar, “Enhancing user experience in digital design learning environments through user interface improvements: A comprehensive approach,”
-IEEE Access (Q1)
-, 2025.
-S. Syamala, A. Shrivastava, and S. Karmakar, “Identifying interface design factors impacting user experience in digital learning platforms—A pilot study,”
-Social Sciences & Humanities Open (Q1)
-, vol. 2025, Elsevier, 2025.
-S. Syamala, “An architectural approach for distributed network management using mobile agents,”
-International Journal of Scientific and Engineering Research
-, vol. 4, no. 8, Aug. 2013.
-S. Syamala, “Face detection: A comparison of HSV with LAB color space model,”
-International Journal of Engineering Research and Technology
-, vol. 2, no. 9, Sept. 2013.
+Jayakrishnan Anandakrishnan, Kuei-Chung Chang,
+Mohan, Alkha
+, Chuan-Yu Chang, Keping Yu, and Arun Kumar Sangaiah. “E-OptEEG: A Hybrid Ensemble Metaheuristic Feature Opti-mization for EEG-Based Sentiment Analysis on Resource-Constrained Edge Devices”. In: IEEE Transactions on Computational Social Systems (2026), pp. 1–14. doi: 10.1109/TCSS.2026.3663208. [Q1].
+Arun Kumar Sangaiah,
+Alkha Mohan
+, Jayakrishnan Anandakrishnan, Yi-Bing Lin, Salman A. AlQahtani, and Jong Hyuk Park. “HydroFedNet: An Intent Based Unified Federated Frame-work for Multi-Source Water Quality Monitoring”. In: IEEE Internet of Things Journal (2025), pp. 1–1. doi: 10.1109/JIOT.2025. 3627665. [Q1].
+, Venkatesan, Prabhavathy, and Jayakrishnan. “Temporal convolutional net-work based rice crop yield prediction using multispectral satellite data”. en. In: Infrared Phys. Technol. 135.104960 (2023), p. 104960. [Q2].
+and Venkatesan Meenakshi Sundaram. “V3O2: hybrid deep learning model for hyperspectral image classification using vanilla-3D and octave-2D convolution”. en. In: J. Real Time Image Process. 18.5 (2021), pp. 1681–1695. [Q2].
+and M Venkatesan. “HybridCNN based hyperspectral image classification us-ing multiscale spatiospectral features”. en. In: Infrared Phys. Technol. 108.103326 (2020), p. 103326. [Q2].
+Conference
+Neelkanth Mawood, Arun Kumar Sangaiah,
+, and Hwa-Lung Yu. “SA-BEF: Deep Fusion of Sentinel-1/2 for Forest Biomass Estimation with Occlusion-Aware Attention Mechanisms”. In: The Fourteenth International Conference on Ubi-Media Computing. 2026. [Accepted, SCOPUS].
+Smruthi Sri Datta, Arun Kumar Sangaiah,
+, and Jayakrishnan Anandakrishnan. “TCANAgriCloud: A Cloud-Enabled IoT-Integrated Deep Learning Framework for Spatio-Temporal Crop Yield Prediction”. In: 2025 IEEE International Conference on Cloud Compu-ting Technology and Science (Cloud- Com). 2025, pp. 1–8. doi: 10.1109/CloudCom67567.2025.11331491. [SCOPUS].
+A Jayakrishnan, M Venkatesan, P Prabhavathy, and
+Alkha, Mohan
+. “MSDF-Net: A Multi-Scale Deep Fusion Network with Dilated Convolutions for Cloud Removal from Sentinel-2 Imagery”. In: 2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). 2023, pp. 63–70. doi: 10.1109/APSIPAASC58517.2023.10317471. [SCOPUS].
+and M Venkatesan. “Hybrid dimensionality reduction technique for hyperspec-tral images using random projection and manifold learning”. In: Lecture Notes in Computer Science. Lecture notes in computer science. Cham: Springer International Publishing, 2020, pp. 116–127. [SCOPUS].
+and M Venkatesan. “Spatial data-based prediction models for crop yield analy-sis: A systematic review”. In: Emerging Research in Data Engineering Systems and Computer Communications. Advances in intelligent systems and computing. Singapore: Springer Singa-pore, 2020, pp. 341–352. [SCOPUS].
+and M Venkatesan. “Spatiospectral feature extraction and classification of hy-perspectral images using 3D-CNN + ConvLSTM model”. In: Lecture Notes in Electrical Engi-neering. Lecture notes in electrical engineering. Singapore: Springer Singapore, 2020, pp. 164–173. [SCOPUS].
+and Binu V P. “Quality improvement in Color Extended Visual Cryptography using ABM and PRWP”. In: 2016 International Conference on Data Mining and Advanced Computing (SAPIENCE). 2016, pp. 273–278. doi: 10.1109/SAPIENCE.2016.7684159. [SCOPUS].
 Book Chapters
-S. Syamala, A. Shrivastava, and S. Karmakar, “Evaluating an e-learning framework for enhancing design learning in India,” in
-Research and Industrial Conclave—Integration 2024: Current Progress in Interdisciplinary Research
-, Springer Proceedings, 2025.
-Conferences
-Evaluating an E-Learning Framework for Enhancing Design Learning in India, Research and Industrial Conclave-Integration 2024 Conference, IIT Guwahati
-A Survey on Internet of things: Technology, Protocols and its applications, International Conference on Computational Intelligence and Digital Technologies 11th and 12th April 2019, organized by Mangalam College of Engineering, Kottayam, Kerala.
-Next LOC-An Approach for Mobile Users Future Location Prediction, International Conference on Computational Intelligence and Digital Technologies 11th and 12th April 2019, organized by Mangalam College of Engineering, Kottayam, Kerala.
-An architectural approach for distributed network management using mobile agents, International Conference on Global Innovation in Technology and Science 4th to 6th April 2013, organized by Saintgits College of Engineering, Kottayam, Kerala.
-Faculty Development Programs Attended
-Navigating the Pathways of Quality Publishing workshop by Elseiver on 28th August 2024 at IIT Guwahati.
-Unmute Toolkit Launch Workshop by Swansea University UK delegates, held at centre for Linguistic Science and Technology, Indian Institute of Technology Guwahati on 5th of January 2024.
-Basic Statistics: Analysis and Interpretation workshop 7th and 8th October 2023, IIT Guwahati.
-Thesis and Research Paper Writing in MS Word Workshop organised by Research and Industrial Conclave integration 2023, IIT Guwahati on April 01 and 02,2023.
-Latex Workshop held on January 28 and 29, 2023 organised by IEEE Students Branch, IIT Guwahati.
-Workshop on Mental Healthcare and Artificial Intelligence organised on 29th and 30th of April 2022 under the project Centre for Depression Diagnosis and Medical Adherence at IIT Guwahati.
-IP Awareness / Training program under National Intellectual Property Awareness Mission on October 25, 2025 at Carmel College of Engineering and Technology Alappuzha.
-ISTE Sponsored FDP on “Systemizing Research- Problem Finding to Patenting” organized by Department Computer Science & Engineering from March 29th to 31st 2021, Rajagiri School of Engineering and Technology, Kochi.
-FDP on Management of Software Systems organised by College of Engineering, Trivandrum and sponsored by APJ Abdul Kalam Technological University from 22nd to 27th November 2021.
-Faculty Development programme on Teaching – Learning Methodologies in Engineering (An OBE Approach) conducted by IIT Madras and ISTE Kerala section organised by Carmel College of Engineering and Technology Alappuzha during 11th to 13th July 2019.
-Short Term Course on NBA Accreditation by ISTE organized by Carmel College of Engineering and Technology, Alappuzha, held on 28th to 30th June 2018.
-Workshop on Data Analytics and Information Security during Feb 14 to 16, 2018 held in RIT Govt Engg College, Kottayam and sponsored by Directorate of Technical Education, Govt of India.
-FDP on Smart Technologies for Digital India from 21 to 24 March 2017, conducted by Engineering Staff College of India held in Shimla.
-FDP on Cyber Crime Investigation and Digital Forensics from 30th November- 06th December 2016 conducted at NIT Goa under GIAN, MHRD India.
-FDP -TEQIP Workshop titled Design and Engineering from 28th Dec 2015 to 1st Jan 2016 at College of Engineering Cherthala.
-Two Week ISTE workshop on Introduction to Research Methodologies conducted by Indian Institute of Technology Bombay from 25th June to 04th July 2012.
-Linux Workshop on 18th Nov 2011 by Spoken Tutorial Project, under IIT Bombay organized at Amal Jyothi College of Engineering, Kerala.
-Workshop/Conference/FDP organised
-Part of the organizing team for Unmute Toolkit Launch Workshop by Swansea University UK delegates, held at centre for Linguistic Science and Technology, Indian Institute of Technology Guwahati on 5th of January 2024.
-Part of the organizing team for International Conference on Computational Intelligence and Digital Technologies 11th and 12th April 2019, organized by Mangalam College of Engineering, Kottayam, Kerala.
+, Jayakrishnan Anandakrishnan, M Venkatesan, and P Prabhavathy. “T-HyC : A Transfer Learning-based Multi-Scale 3D-2D Feature Aggregation for Hyperspectral Image Classification”. In: Computational Intelligence Based Hyperspectral Image Analysis and Appli-cations. Ed. by Ajith Abraham Anu Bajaj. Springer Nature, 2025. [SCOPUS].
+Jayakrishnan Anandakrishnan, M Venkatesan, P Prabhavathy, and
+. “A Parallel Attention Guided Generative Adversarial Network for Efficient Thin Cloud Removal from Satellite Imagery”. In: Generative Adversarial Networks for Remote Sensing. Ed. by Karbhari Vishwanth Kale Amol Dattatraya Vibhute Rajesh Kumar Dhanaraj. IGI Global, 2025. [SCO-PUS].
+and Jayakrishnan Anandakrishnan. “Leaf-CAP: A Capsule Network-Based Tea Leaf Disease Recognition and Detection”. In: Predictive Analytics in Smart Agriculture. Ed. by S. Krishnan, A. J. Anand, N. Prasanth, S. Goundar, and C. Ananth. CRC Press, 2023. [SCO-PUS].
+Patent
+“AI BASED CROP HEALTH MONITORING DEVICE”. Design Patent 6468930. Registered with the UK Intellectual Property Office. 2025.
 Professional Activities
 Reviewer:
-India HCI Conference
-Memberships
-ISTE Lifetime Member
-ACM SIGCHI Member
-IEEE Member
+International Journal of Remote Sensing (T&F)
+Remote Sensing Applications: Society and Environment
+IEEE Geoscience and Remote Sensing Letters
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Workshop:
+Granted a sum of Rs.500000 from Anusandhan National Research Foundation (ANRF, Formally SERB) In-dia to conduct Karyashala high-end workshop titled “ AI-Driven Hyperspectral Image Analysis for GIS Ap-plications (AiHiA-2024)” from 01-07 July 2024 at IIIT Tiruchirappally
 Research Interests
-Human Computer Interaction
-E-learning
-Healthcare
-AI for Social Good
-UX/UI Interface Design
-User Centred Design
-Usability Evaluation Research
-Educational technology
+Image Processing
+Precision agriculture
+Remote sensing image analysis
+Machine Learning

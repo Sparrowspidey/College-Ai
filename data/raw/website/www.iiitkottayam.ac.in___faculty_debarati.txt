@@ -1,52 +1,66 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/debarati
 
-Dr. Athira B| IIIT Kottayam
+Dr. Debarati Ganguly| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Athira B
+Dr. Debarati Ganguly
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email:athirab
+Email: debarati
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202268
+Hello at: 00 91  04822202261
 Honours and Achievements :
-First Rank in MTech
-Research Intern - School of Informatics and Computing, Indiana University, Indiana State,USA
-Education
-Ph.D, Cochin University of Science and Technology Thesis titled: "Deep Learning based Health Recommender system in online health community forum” CUSAT 2022.
-M.Tech., Software Engineering  ,CUSAT,2011
-Invited Talk/Sessions
-Expert Lecture on “Leveraging AI and ML for Cloud security” in 5- day FDP/workshop on Secure Cloud, AI and Distributed Systems(SCADS) 2025
-Expert lecture on “Know your Data” in 5-day workshop on Data Science Essentials: Python Powered Learning 2025 at IIIT Kottayam.
-Conference chair at 5th International Conference on “Innovative Trends in Information Technology” (ICITIIT 2024)
-Conference co-chair at 2024 IEEE International Conference on “Signal Processing, Informatics, Communication and Energy System (SPICES).
-Resource person in 2-day National Seminar on “Digital Transformation: Innovations in Electronics, Commerce and Communication” at Baselious Poulose II Catholicose College, Piravom
-Speaker at Syposium.”Exploring frontiers of Data Science, Health Informatics& HCI”, organised by IUPUI at New Delhi
-Conference Chair at
-International Conference on Smart Computing and Communications (ICSSC 2023)
+Invited for delivering talk for “IEEE Young Professionals”, at Wireless Antennas and Microwave Symposium, WAMS, 2024, to be held at Vizag, Feb. 28-Mar., 3rd, 2024.
+Received Best Paper Award (2nd position in Academia) at IEEE Microwaves and Antenna Propagation Conference, MAPCON, Ahmedabad, 10-14th Dec, 2023.
+Invited for panel discussion for “Women in Engineering Session” at IEEE Microwaves and Antenna Propagation Conference, MAPCON, Ahmedabad, 10-14th Dec, 2023, Topic: Future for Microwave Professionals: Opportunities and Challenges.
+Received DST International Travel Support Award for attending the 35th URSI General Assembly Sapporo, Japan, 18th-26th August, 2023.
+Workshop Coordinator of IIT Kharagpur-NMEICT conducted ISTE-STTP workshop on “CMOS, Mixed signals and Radio Frequency IC” held at Lourdes Matha College of Science and Technology (Remote Centre of IIT-Bombay) from 30th Jan -4th Feb, 2017.
+Recipient of Indian National Academy of Engineering Award for “Mentoring Engineering Teachers by INAE fellows” April, 2015.
+Special appreciation certificate in the international conference CODEC 2012 organised by University of Calcutta, IRPE for active participation in the conference and organizing cultural event.
+Organizing Committee Member for IEEE International Conference “Applied Electromagnetics Conference (AEMC-2011)” at Kolkata during December 18-22, 2011, and “IEEE Indian An-tenna Week” at Gangtok, May 27-31st, 2012.
+Received “college topper” award in 2008 for securing 1st rank in Electronics Hons. (CU).
+Received “Gold Medal” as P. C. Chandra Award of Excellence for outstanding academic and all- round performance from Gokhale Memorial Girls College, University of Calcutta, Calcut-ta,2007
+Education :
+Ph.D
+: Institute of Radio Physics and Electronics in the field of Microwave Antennas. Thesis Title: Ultrawideband (UWB) Antennas: Innovative Technique for Time Domain Characterization and Some Novel Designs of UWB Monopoles, Awarded on 28th January 2020.
+M.Tech
+: Radio-Physics & Electronics, University of Calcutta (With Specialization in Microwave and Wireless Communication) in 2013 -1st Class - in Microwave stream - 9.25 CGPA, 28th June, 2013.
+Post B.Sc -B. Tech
+:Radio-Physics & Electronics, University of Calcutta in 2011 -1st Class (8.79 CGPA), 9th rank in the University, 24th June,2011.
+B.Sc (Electronics Hons.)
+: University of Calcutta in 2008- 1st Class 2nd (73.13%), 22nd July,2008.
+ISC (+2)
+: La Martiniere for Girls (Kolkata)in 2005- 1st Div. (83.6%)
+ICSE
+: La Martiniere for Girls (Kolkata) in 2003 - 1st Div. (88.4%)
+Invited Talk/Sessions :
+Dept. of ECE, University College of Kariavattom, Kerala University, July 3, 2020.
+Govt. Engineering College, Barton Hill, IEEE MTT-S Kerala Chapter & IEEE APS SBC and WIE AG, Aug. 20, 2020.
+IEEE MTT-S, Jadavpur University, Sept.19, 2020.
+Sardar Vallabhbhai National Institute of Technology, TEQIP III sponsored STTP in Recent Trends in RF Technology for 5G and IOT, Oct-12-16, 2020.
+IEEE AP Society Madras Section in association with Karunya Institute of Technology and Sciences, Week-long Faculty Development Programme, 21st March -26th March, 2022.
+Delivered a talk on “Applications of Antennas for Biomedical Telemetry” for IEEE AP-S/MTT-S, Kerala Chapter, at LBS Institute of Technology for Women, 19th Oct., 2023.
 Publications
 Journals
-Athira, B., Josette Jones, Sumam Mary Idicula, Anand Kulanthaivel, and Enming Zhang. "Annotating and detecting topics in social media forum and modelling the annotation to derive directions-a case study."
-Journal of Big Data
-; Springer 2021 Jan 8(1): 1-23. SCI-10.8
-Balakrishnan, Athira, Sumam Mary Idicula, and Josette Jones. "Deep learning based analysis of sen-timent dynamics in online cancer community forums: An experience."
-Health Informatics Journal
-27.2 (2021, April): 14604582211007537. –
-SCI(IF-2.932)
-Athira, B., et al. "An answer recommendation framework for an online cancer community fo-rum." Multimedia Tools and Applications (2023): 1-27.
-(SCI-2.5)
+D. Ganguly
+, J. C. Dash and D. Sarkar, "On the Performance of a Miniaturized Reactive Load-ed Monopole Antenna for Ex Vivo Catheter Applications," IEEE Access, vol. 11, pp. 14667-14676, 2023, doi: 10.1109/ACCESS.2023.3243642.
+, D. Guha, Y. M.M. Antar “Cross-finned UWB monopole for wireless applications: Design Insight and Characterization”, AEU - International Journal of Electronics and Commu-nications, vol. 116, 2020, 153055
+E. George,
+, D. Sarkar, C. Saha, J. Siddiqui, and Y. Antar, “Time Domain Analysis of UWB Printed Monopole Based Two-Port Systems for Characterization of On- to Off-Body Channels”, URSI Radio Science Letters, Vol. 2, 2020.
+D. Guha,
+, S. George, C. Kumar, M. Sebastian and Y. M. M. Antar, "A New Design Approach for a Hybrid Monopole to Achieve Increased Ultrawide Bandwidth [Antenna De-signer's Notebook]," IEEE Antennas and Propagation Magazine, vol. 59, no. 1, pp. 139-144, Feb. 2017, doi: 10.1109/MAP.2016.2629180
+, D. Guha, S. Das and A. Rojatkar, "Systematic Approach to Estimating Monocycle Pulse for Time-Domain Studies of UWB Antennas Using Numerical Computations and Simula-tion Tools," IEEE Antennas and Propagation Magazine, vol. 56, no. 4, pp. 73-87, Aug. 2014, doi:10.1109/MAP.2014.6931659
 Book Chapters
-Josu, Anto, Jasu Brinner, and B. Athira. "Improving job recruitment with an interview bot: A study on NLP techniques and AI technologies." Advances in Networks, Intelligence and Computing. CRC Press, 2024. 579-586.
-Sreekumar, Aswathy, R. Reshma, and B. Athira. "Comparative Study of Deep Learning Models for Document Classification." 2023 9th International Conference on Smart Computing and Communications (ICSCC). IEEE, 2023.
-Athira, B., and Sumam Mary Idicula. "Siamese Network with Transfer Learning for Similar Query Re-trieval in Online Health Community Forums." Advances in Micro-Electronics, Embedded Systems and IoT. Springer, Singapore, 2022. 337-346.
-Athira, B., and Sumam Mary Idicula. "An Improved Query Similarity Model for Online Health Community Forum Using Cross-Attention Mechanism on Siamese Network." International Conference on Frontiers of Intelligent Computing: Theory and Applications. Singapore: Springer Nature Singapore, 2022.
+BASIC ELECTRONICS- Principles and Applications
+”, Chinmoy Saha, Arindam Halder, Debarati Ganguly, Cambridge University Press, April, 2018,
+ISBN: 9781316632932
 Professional Activities
 Reviewer:
-Multimedia Tools and application
-Journal of King Saud University - Computer and Information Sciences
-Research Interests
-Data Mining
-Natural Language Processing
-Health Informatics
-Machine Learning
+IEEE Access, 2020-Present
+IEEE Transactions on Antennas and Propagation, 2020- present
+Research Interests :
+IoT enabled Wireless Implantable Antennas for Biomedical Telemetry
+Catheter-type Microwave Ablators for Hepatic Tumors and Cardiac Arrythmia
+ON-to-OFF Body Ultrawideband Channel Modelling
+Antennas for 5G RF Energy Harvesting in IoT Greens.

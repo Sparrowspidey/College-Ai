@@ -1,37 +1,42 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/sreelakshmy
 
-Dr. Sushitha Susan Joseph| IIIT Kottayam
+Dr. Sreelakshmy I J| IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. Sushitha Susan Joseph
+Dr. Sreelakshmy I J
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: sushithasj
+Email: sreelakshmy
 iiitkottayam
 ac.in
-Hello at: 04822202257
+Hello at: 04822202224
 Education
-Ph.D, School of Computer Science and Engineering, Thesis titled: "Three-Dimensional Reconstruction and Visualization of Brain Tumor for Surgical Peocedures” , Vellore Institute of Technology, Vellore  (An Institute of Eminence Status by GOI), Nov 2023.
-M.Tech., Computer Science and Engineering, Anna University, Chennai, 2012.
-B.Tech., Computer Science and Engineering, Mahatma Gandhi University, 2009.
-Experience
-Assistant Professor in the Department of Computer Engineering at College of Engineering Chengannur, Chengannur, Kerala – Aug 2023 to Aug 2024.
-Assistant Professor in the Department of CSE at Mar Baselios Christian College of Engineering and Technology, Peermade, Kerala - Dec 2011 to July 2017.
+Ph.D, School of Engineering, Thesis titled: "Development of high-quality source-driven image inpainting frameworks employing conventional and generative modelling approaches", Cochin University of Science and Technology, 2024.
+M.Tech., Computer Science–Specialization in Data Security, Cochin University of Science and Technology, 2016
+B.Tech., Computer Science and Engineering, Mahatma Gandhi University, 2014
 Publications
 Journals
-Joseph, S.S. and Aju, D. “A comparative objective assessment on mesh-based and SVM-based 3D reconstruction of MRI brain”, International Journal of Natural Computing Research, Volume 8 Issue 3, pp. 41–54
-Joseph SS, Dennisan A. “Three-Dimensional reconstruction models for medical modalities: a comprehensive investigation and analysis.” Current Medical Imaging, Bentham Science, 2020, Volume 16(6):pp.653-68. [SCIE, Scopus Indexed]
-Joseph, S.S. and Dennisan, A. “An affinity propagated clustering aided computerized Inherent Seeded Region Growing and Deep learned Marching Cubes Algorithm (ISRG-DMCA) based three-dimensional image reconstruction approach”, International Journal of Imaging Systems and Technology, Wiley, 2022, pp. 1-15, DOI: 10.1002/ima.22736 [Scopus Indexed]
-Joseph, S.S. and Dennisan, A. “Optimised CNN based Brain Tumour Detection and 3D Reconstruction”, Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, Taylor and Francis,2022, 1–16, DOI: 10.1080/21681163.2022.2113436. [Scopus Indexed]
-Joseph, S.S. and Aju, D., “3D Reconstruction Methods Purporting 3D Visualization and Volume Estimation of Brain Tumors”, International Journal of e-Collaboration, 2022, Volume 18, Issue 1, pp.1–18. [Scopus Indexed]
-Joseph SS, Aju D. “Three-Dimensional Reconstruction of Brain Tumours from 2D MRI Scans: Optimised Curve Fitting Process.” International Journal of Biomedical Engineering and Technology. 2023, Volume 42, Issue 4, pp. 377-97 [Scopus Indexed]
-Conference and Book Chapter
-Joseph SS, Aju D. “A comparative survey on three-dimensional reconstruction of medical modalities based on various approaches. In Information Systems Design and Intelligent Applications” In Proceedings of Fifth International Conference INDIA 2018, Volume 1, 2019, pp. 223-233, Springer Singapore.
-Joseph SS, Aju D. “Three-Dimensional Reconstruction and Digital Printing of Medical Objects in Purview of Clinical Applications.” In Machine Learning and Deep Learning in Medical Data Analytics and Healthcare Applications, Taylor and Francis, 2022, pp. 39-64.
+Sreelakshmy I.J. and Binsu C Kovoor  2022 “Generative Inpainting of High Resolution Im-ages: Redefined with Real-ESRGAN” In International Journal on Artificial Intelligence Tool.
+https://doi.org/10.1142/S021821302250035X
+Sreelakshmy I.J. , Kovoor, B.C., 2020. “A Hybrid Inpainting Model Combining Diffusion and Enhanced Exemplar Methods”. In Journal of Data and Information Quality (JDIQ). ACM 2020.
+http://dx.doi.org/10.1145/3418035
+Sreelakshmy I.J. and Binsu, C.K., 2021. “Towards Source-Based Classification of Image Inpainting Techniques: A Survey”. Journal of Information & Knowledge Management, p.2150039.
+https://doi.org/10.1142/S0219649221500398
+Conference
+Sreelakshmy I.J. , Kovoor, B.C., (2019, December). “Enhanced adaptive patch based exem-plar image inpainting”. In Proceedings of the Second International Conference on Data Sci-ence, E-Learning and Information Systems (p. 8). ACM.
+Sreelakshmy I.J. , Kovoor B.C. (2019) “Hybrid Method for Copy-Move Forgery Detection” in Digital Images. In: Proceedings of the International Conference on ISMAC in Computa-tional Vision and Bio-Engineering (ISMAC-CVB). ISMAC 2018. Lecture Notes in Compu-tational Vision and Biomechanics, vol 30. Springer
+Sreelakshmy I.J. and Jesna Anver, “An Improved Method for Copy Move Forgery Detection in Digital Forensic”. International conference on innovations in Information, Embedded and Communication Systems organised by Karpagam College of Engineering, Coimbatore, ISBN 978-1-4673-8208-3, March 2016. IEEE
 Professional Activities
 Reviewer
-Multimedia Tools and Applications
+Computers & Graphics, Elsevier
+International Conference on Trends in Engineering Systems and Technology 2024 (IEEE)
 Research Interests
+Computer Vision
 Machine Learning
 Deep Learning
-Medical Image Processing
+Image Processing
+Online Certifications
+“Python for Data Science” (NPTEL)
+“Deep Learning-part 1” (NPTEL)
+“Neural networks & deep learning” (Coursera)
+“Convolutional Neural Network” (Coursera)

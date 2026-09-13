@@ -1,98 +1,132 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/milind
 
-Dr.Vineeth Palliyembil| IIIT Kottayam
+Dr. Milind Thomas Themalil | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr.Vineeth Palliyembil
+Dr. Milind Thomas Themalil
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email:vineeth
+Email: milind
 iiitkottayam
 ac.in
-Hello at: +91 (0) 482-2202274
+Hello at: 00 91  04822202221
 Honours and Achievements
-Received the Ministry of Electronics and IT (MEITY) Visvesvaraya PhD Fellowship at NIT Trichy.
-Secured rank of 1331 in GATE 2013.
-Secured all India rank of 1559 in AIEEE 2008.
-Work Experience
-Worked as Assistant Professor at Dept. Of Communication Engineering, School of Electronics, VIT Vellore from June 2023 to December 2023.
-Worked as Assistant Professor at Dept. Of ECE, Amrita School of Engineering Coimbatore, Amrita Vishwa Vidyapeetham from July 2019 to June 2023.
-Education :
-Ph. D, Electronics and Communication Engineering, Thesis titled: " Performance Analysis and Improvement of Free Space Optical Communication Systems over the generalized turbulence channel with pointing errors ", National Institute of Technology Tiruchirappalli, 2020.
-M.Tech., Communication Systems, ECE Dept., National Institute of Technology Tiruchirappalli, 2015.
-B.Tech., Electronics and Communication Engineering, National Institute of Technology Calicut, 2012.
-Invited Talk/Sessions
-Delivered online talk on free space optical communication systems during the MMTTC Sponsored 12-day Refresher Course on Wireless Communication conducted by Department of ECE, IIITDM Kancheepuram.
-Served as Course Instructor for the Certificate Course on Photonics & Optical Communica-tion: Emerging Trends and Future Prospects conducted by the Research Cell, Department of Electronics and Communication Engineering at Adi Shankara Institute of Engineering and Technology.
-Delivered invited talk for the AICTE-sponsored Faculty Development Program (FDP) titled "Advancing Green Communication: Research Perspectives in Sustainable Optical Wireless Technology", conducted by Department of ECE, SSM Institute of Engineering and Tech-nology, Dindigul.
-Delivered a guest lecture on the topic of “Optical Wireless Communication” for the online FDP on “Next Generation Wireless Communication System Design and Simulation”¬ orga-nized by the Faculty Development Training Centre, Government College of Technology, Co-imbatore in association with Department of Electronics and Communication Engineering, Government Polytechnic College, Srirangam, Trichy.
-Served as an invited speaker during Faculty Development Programme on “Research Trends in VLSI, Communications & Signal Processing”, organized by Department of Electronics and Communication Engineering, Bapatla Women’s Engineering College, Bapatla, Andhra Pradesh.
+Air India Scholastic Award
+Titan Boy of the Year Award
+Life Fellow Member, Indian Society for VLSI Education (ISVE)
+Best Paper Award, "Miniaturization Capability of the Pixel Antenna for Nanosatellite        Footprints", VLSI, Microwave and Wireless Technologies, Springer, ISBN: 978-981-19-0311-3,  Lect. Notes Electrical Eng., Vol. 877, DOI : 10.1007/978-981-19-0312-0, 4 Sept 2022
+Gulf Mathematics Olympiad, Top 40%
+Education
+Post-Doctorate, XLIM, University of Limoges, France
+Ph.D, Electronics and Telecommunication Engineering, Thesis titled: “Design of Microstrip  Antennas for Wireless Local Area Network", Jadavpur University, Kolkata, 2015
+M.E., Wireless Communication (Microwave), Birla Institute of Technology, Ranchi, 2007
+B.E., Electronics and Communication Engineering, Birla Institute of Technology, Ranchi, 2005
 Publications
-Journals  :
-Palliyembil, V., Jagadeesh, V.K., Sudheesh, P.G. et al. “Selection combining hybrid FSO/RF system for the performance improvement of HAP to ground communication systems”, Journal of Optics, Springer Nature, 2025.
-https://doi.org/10.1007/s12596-025-02783-8
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Performance Analysis of RF-FSO Communication Systems Over the Malaga distribution channel with Pointing error”, Optik-International Journal for Light and Electron Optics, Elsevier, Volume 247, 2021, 167891, ISSN 0030-4026.
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, “Asymptotic bit error rate analysis of free space optical systems using spatial diversity”, Optics Communications, Elsevier, 427, 617-621, 2018.
-Vineeth Palliyembil, Jagadeesh Vellakudiyan, Palanivel Muthuchidamdaranathan, Theodoros A Tsiftsis, “Capacity and outage probability analysis of asymmetric dual-hop RF–FSO communication systems”, IET Communications, 12, 1979-1983, 2018.
-Jagadeesh Vellakudiyan, Vineeth Palliyembil, Imran Shafique Ansari, P Muthuchidambaranathan, Khalid A Qaraqe, “Performance analysis of the decode-andforward relay-based RF-FSO communication system in the presence of pointing errors”, IET Signal Processing, 13, 480-485, 2019.
-VK Jagadeesh, Vineeth Palliyembil, P Muthuchidambaranathan, Francis M Bui, “Free space optical communication using subcarrier intensity modulation through generalized turbulence channel with pointing error”, Microwave and Optical Technology Letters, Wiley, 57, 1958-1961, 2015.
-Jagadeesh Vellakudiyan, Imran Shafique Ansari, Vineeth Palliyembil, Palanivel Muthuchidambaranathan, Khalid A Qaraqe, “Channel capacity analysis of a mixed dual-hop radio-frequency–free space optical transmission system with Málaga distribution”, IET Communications, 10, 2119-2124,2016.
-Jagadeesh Vellakudiyan, Palanivel Muthuchidambaranathan, Francis Minhthang Bui, Vineeth Palliyembil, “Performance of a subcarrier intensity modulated differential phaseshift keying over generalized turbulence channel”, AEU-International Journal of Electronics and Communications, Elsevier, 68, 1569-1573, 2015.
-List of Conference Proceedings:
-J. V K, V. Palliyembil, S. Rao V. and S. P G, "Performance Analysis of MIMO FSO Communication system over $\mathcal{M}$-distributed Fading Channel," 2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON), Phuket, Thailand, 2023, pp. 268-272, doi: 10.1109/ECTIDAMTNCON57770.2023.10139545.
-V. Palliyembil, K. Prabu, V. K. Jagadeesh, P. Muthuchidamdaranathan and S. Ekpo, "Performance analysis of FSOC system over generalized turbulence channel with pointing errors using PolSK signalling technique," 2021 4th Biennial International Conference on Nascent Technologies in Engineering (ICNTE), 2021, pp. 1-5, doi: 10.1109/ICNTE51185.2021.9487708.
-B. Sukanya and V. Palliyembil, "Performance Improvement of Indoor Lifi Mobile Users with Random Orientation Using Hybrid Lifi and Wifi Networks (HLWNets)," 2021 Sixth International Conference on Wireless Communications, Signal Processing and Networking(WiSPNET), 2021, pp. 390-394, doi: 10.1109/WiSPNET51692.2021.9419442.
-J. Anandpushparaj, V. Palliyembil, L. G. Nadiminti, M. Magarini and P.Muthuchidambaranathan, "Performance Analysis of UAV Cellular Communications," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 370-373, doi: 10.1109/IMICPW.2019.8933212.
-V. Palliyembil, V. K. Jagadeesh and P. Muthuchidamdaranathan, "Analysis of Free Space Optical DPSK-SIM Based Communication System over Málaga Distributed Channel with Misalignment Fading," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 283-287, doi:10.1109/IMICPW.2019.8933269.
-Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relay Assisted Mixed Dual-Hop RF-FSO Systems with Pointing Errors. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_2.
-V. K. Jagadeesh, V. Palliyembil, P. Muthuchidambaranathan and F. M. Bui, "Channel capacity and outage probability analysis of sub carrier intensity modulated BPSK system over Mdistribution free space optical channel," 2015 2nd International Conference on Electronics and Communication Systems (ICECS), 2015, pp. 1051-1054, doi:10.1109/ECS.2015.7124740.
-Jagadeesh V.K., Palliyembil V., Ansari I.S., Muthuchidambaranathan P., Qaraqe K.A. (2019) Performance Analysis of Relaying FSO System over M-Distributed Turbulent Channel with Variable Gain AF Protocol. In: Boyaci A., Ekti A., Aydin M., Yarkan S. (eds) International Telecommunications Conference. Lecture Notes in Electrical Engineering, vol 504. Springer, Singapore. https://doi.org/10.1007/978-981-13-0408-8_1.
+Journals
+Published with external PhD scholar
+: at JK Lakshmipat University, Jaipur; Satya Singh and Milind Thomas Themalil, "Investigation on a Small 4T4R MIMO Microstrip Antenna for Sub-6 GHz New Radio Wireless Network", Progress In Electromagnetics Research C, Vol. 131, pp.1-12, DOI:10.2528/PIERC23011902, 2023.
+Published with foreign authors
+: Jecko B, Majed M, Andrieu J, Lalande M, Martinod E, Rammal M, Milind Thomas Themalil, “Overcoming Limitations of Agile Electronically Scanned Array (AESA) Using a Radiating Surface Antenna called Agile Radiating Matrix Antenna (ARMA)”, 34th General Assembly and Scientific Symposium of the
+International Union of Radio Science, URSI GASS
+2021, Volume , DOI:10.23919/URSIGASS51995.2021.9560395,
+Rome, Italy
+, 2021
+Published with interns
+: Souradeep Dey and Milind Thomas Themalil, “Design and Analysis of Circularly Polarized Miniaturized 2T2R MIMO Proximity Coupled Patch Antenna for 6G Wireless Communication”, 2024 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES), 20-22 September 2024, DOI: 10.1109/SPICES62143.2024.10779838, IIIT Kottayam, Kerala
+: Dev Saran R S, Souradeep Dey and Milind Thomas Themalil,“Design and Analysis of Circularly Polarized 2T2R MIMO U Shaped Notched Patch Antenna for Centimeter Wave Applications”, 2024 International Conference on Smart Electronics and Communication Systems (ISENSE), DOI:10.1109/ISENSE63713.2024.10872023, IIIT Kottayam, Kerala, India, 06-07 Dec 2024
+Satya Singh and Milind Thomas Themalil, "Investigations on a 2T2R MIMO Microstrip Patch Antenna for Next Generation Wireless Networks", IJMOT-2022-7-262406, Vol. 17, No. 6, pp. 630-638, International Journal of Microwave and Optical Technology, USA, Nov 2022.
+Milind Thomas Themalil, Satya Singh, Divanshu Jain, Dinesh Yadav, Mohamad Rammal and Mayank Sharma, "Miniaturization Capability of the Pixel Antenna for Nanosatellite Footprints", VLSI, Microwave and Wireless Technologies, Springer, ISBN: 978-981-19-0311-3, Lect. Notes Electrical Eng., Vol. 877, DOI : 10.1007/978-981-19-0312-0, 4 Sept 2022.
+Samarth Srivastava, Aman Gupta, Satya Singh, Milind Thomas Themalil, “Performance Characterization and Analysis of Bit Error Rate in Binary Phase Shift Keying for Future 5G MIMO Environment”, Algorithms for Intelligent Systems, Springer, DOI: 10.1007/978-981-16-2248-9_20, pp 191-200, 22 July 2021.
+Divanshu Jain, Dinesh Yadav, Milind Thomas Themalil, Vivekanand Tiwari, Design of Microstrip Antennas for 5G applications: A Review, In the 4th International Conference on Optical & Wireless Technologies (OWT 2020). October 3-4, 2020: Malaviya National Institute of Technology (MNIT), Jaipur.
+Jerin M. James, Milind Thomas Themalil, “Design of Heterogeneous Wireless Mesh Network for LTE”, Global Journal of Computer Science and Technology: E Network, Web & Security, USA, Vol. 17, Issue. 3, Online ISSN: 0975-4172 & Print ISSN: 0975-4350, 2017.
+M. Thomas, J. S. Roy, and B. Gupta, “Design of a Circularly Polarized T – Stub Coupled Microstrip Patch Antenna for WLAN”, Asian Journal of Applied Sciences, Vol. 4, Issue. 4, pp. 883 – 888, August 2016.
+J. S. Roy and M. Thomas, “Investigations on a New Proximity Coupled Dual- Frequency Microstrip Antenna for Wireless Communication”, Microwave Review, Vol. 13, No. 1, pp. 12 – 15, June 2007.
+J. S. Roy and M. Thomas, “Compact and Broadband Microstrip Antennas for Next Generation High Speed Wireless Communication Using HIPERLAN/2”, International Jnl. of Microwave Science and Technology, Vol. 2007, No.10, pp.1-4, 2007.
+J. S. Roy and M. Thomas, “Miniaturized Broadband Microstrip Antennas for HIPERLAN/2 Application”, Romanian Journal of Information Science and Technology (ROMJIST), Vol. 10, No. 4, pp. 355 – 360, 2007.
+J. S. Roy, M. Thomas, and J. Ghosh, “Miniaturized Broadband Circularly Polarized Microstrip Antenna for WLAN”, Intl. Jnl. of Microwave and Optical Technology (IJMOT), Vol.3, No.4,  pp. 467 – 473, September 2008.
+J. S. Roy and M. Thomas, “Design of A Circularly Polarized Microstrip Antenna for WLAN”, Progress in Electromagnetics Research, PIER M, Vol. 3, pp. 79 – 90, 2008.
+M. Thomas, J. S. Roy and B. Gupta, “Design of a Miniaturized Proximity-Coupled Microstrip Antenna for 5GHz Band Wireless Communication”, ACTA Technica Journal, Vol. 55, no. 2, pp. 131-138, April-June 2010.
+M. Thomas, J. Ghosh and J. S. Roy, “ Performances of Two Compact Broadband Slot- Loaded Proximity-Coupled Microstrip Antennas for HIPERLAN/2 Application”, International Journal of HIT Trans. Electronics, Communication, Computer and Networks, Vol.-1, No.4, pp.217-223, Oct.-Dec 2006.
+Milind Thomas, Vikas Chelani, Sanjay Sukumar, Rahul Ramesh, Saurav Singh “Parametric Investigation on Slot Loaded Microstrip Antenna for Wireless Communication”, International Journal of Computational Intelligence and Telecommunication Systems, Vol.2, No.1, Serials Publications, New Delhi 2012
 Book Chapters:
-V. Palliyembil and E. G. Anagha, "AI in optics and photonics," in Advances in All-optical Communication, IOP Publishing, 2024, pp. 7-1–7-21, doi: 10.1088/978-0-7503-5623-7ch7.
+"Miniaturization Capability of the Pixel Antenna for Nanosatellite Footprints”, VLSI, Micro-wave and Wireless Technologies, Springer, ISBN: 978-981-19-0311-3, Lect. Notes Electrical Eng., Vol. 877, DOI : 10.1007/978-981-19-0312-0, 20-21 March, 2021.
+“Circularly Polarized T-Stub Coupled Microstrip Antenna Structure for WLAN", Trends in Research on Microstrip Antennas", ISBN: 978-953-51-3601-9, InTech, November 2017
+Invited Talk/Sessions
+Milind Thomas Themalil, Invited Panelist, Opportunities in Artificial Intelligence, Webinar panel discussion with Dr. Roshy John, Ex-Global Head – TCS and Vice President – Stealth Mode (Robotics and AI), Mr. Georgekutty Augusthy, Chairman – Kerala Film and Video Corporation (Kinfra), Adv. Pramod Narayan - Kerala Govt. MLA, other Kerala Govt. officials, public representatives, journalists and professionals, organized by Kerala Professionals Front, 12 February, 2022.
+Milind Thomas Themalil, “Design of Microstrip Patch Antenna Arrays for Isoflux Earth Coverage in Small Satellite Applications, IEEE Region 10, Malabar Subsection, Kerala, 11 February 2021. Link:
+https://www.youtube.com/watch?v=rGtk00n4RVs
+Milind Thomas Themalil, Invited Panelist, Post Flood Kerala – What next?, Webinar panel discussion with Dr. Muralee Thummarukudy, Chief of Disaster Risk Reduction at United Nations Environment Programme (UNEP), Mr. Deepak Raju, Geneva based International Lawyer, Dr. N Jayraj, Kerala Govt. Chief Whip, other Kerala Govt. MLAs and professionals, organized by Kerala Professionals Front, 30 October, 2021.
+Milind Thomas Themalil, Invited Panelist, National Children’s Day Webinar panel discussion with Padmashree Hajjabba, and Kerala Govt. officials and other professionals, organized by Nanmamaram Global Foundation, Kerala, 14 November, 2021.
+Milind Thomas Themalil, Invited Panelist, National Education Policy 2020 Webinar panel discussion with Kerala Govt. MLA Adv. Job Michael, Jawaharlal Nehru University Professor Dr. Barton Cleetus, and other Kerala Govt officials and professionals, organized by Samskaravedi, Kerala, 25 November, 2021.
+Milind Thomas Themalil, Invited talk on Career in Engineering, Student Induction Programme, KMCT College of Engineering for Women, Kerala, 27 November, 2021.
+Milind Thomas Themalil, Design of Microstrip Patch Antenna Arrays for Isoflux Earth Coverage in LEO Satellites for Remote Sensing Applications, In the IEEE GRSS Young Researchers’ Conclave, December 18-20, 2020: Indian Institute of Space Science & Technology, Kerala.
+Felicitation for outgoing/retiring HE Shri. Ramu Damodar IFS, UNAI Chief, Deputy Director, Global Communication & Outreach, United Nations, 12 June 2021.
+Keynote address: Milind Thomas Themalil, “Design of Microstrip Patch Arrays for Isoflux Earth Coverage for Small Satellite Applications”, Keynote address at Arya Institute of Engineering & Technology, Jaipur for Two Days Online 2nd International Conference on "Advances in Electrical, Computing Communication and Sustainable Technology" (AECCST-2022), 27 -28 May, 2022.
+Sanctioned Project Details:
+IGSTC-SING, Small Immediate Need Grants of INDO-GERMAN SCIENCE & TECHNOLOGY CENTRE (IGSTC), A Bilateral Institution of Government of India (DST) and Federal Government of Germany (BMBF).
+Project Details
+a) Name of Principal Investigator
+Dr. Milind Thomas Themalil, Assistant Professor, IIIT Kottayam
+b)Name of Project
+Design and Development of Solar Panel Integrated Transparent Microstrip Patch Antennas with Isoflux coverage for Small Satellite applications in S and X bands
+c) Name of Collaboration University/Industry and SPOC
+Celestial Space Technologies GmbH
+Zollhof, 790443, Nuremberg, Germany
+celestialspacetechnologies.com
+SPOC:
+Johannes Schumacher, Managing Director, Celestial Space Technologies GmbH
+d) Period of Funding
+1 year; Tentatively 01/01/2025 to 01/01/2026 (12 months from date of release of funds)
+e) Amount Sanctioned
+Rs. 8,40,500 /-
+INDO-ASEAN, The research aims to develop advanced predictive models for climate adaptation to rising sea levels, integrating cost-effective High-Performance Computing (HPC), AI-driven analytics, and IoT-enabled data collection. Focusing on India, Thailand, Brunei, and Cambodia, the project will enhance early warning systems and inform urban planning policies
+a) Name of Co-Investigator
+b) Name of Project
+Predictive models for climate adaptation to rising sea levels, integrating cost-effective High-Performance Computing (HPC), AI-driven analytics, and IoT-enabled data collection
+c) Name of Collaboration Countries
+Thailand, Brunei, and Cambodia
+2 years; Tentatively from date of release of funds (29-04-2025)
+Rs. 21,00,000 /- for first year
 Professional Activities
-Organized the Five Days FDP cum Hands-on Workshop on Wireless Communication Technologies for Beyond 5G Systems at IIIT Kottayam during 24 - 28 June, 2024.
-Worked on the DST-India funded Indo-Italian collaborative project on
-“Networked air-borne systems for disaster management”
-and visited Politechnico di Milano, Italy to carry out research collaboration during October, 2018.
-Served as a Board of Studies member for the Revision and Development of the Syllabus and curriculum for the Post Graduate program of Communication Systems at Amrita Vishwa Vidyapeetham University.
-Organized a webinar titled “Machine Learning for Communication Systems” at Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham on May 15th 2021.
+Indian Society for VLSI Education (ISVE), Life Fellow Member
+Kerala Professionals Front (KPF), Kerala State Executive Member
 Reviewer:
-•	Served as a reviewer for
-Journal of Selected areas in communication, IEEE
-Journal of Optics Communications, Elsevier
-ICT Express, Elsevier
-Optical Review, Springer
-Optical and Quantum Electronics, Springer
+Progress In Electromagnetics Research (M), PIER M, ISSN: 1937-8726, United States
+Walailak Journal of Science and Technology (WJST), ISSN: 2228-835X, Thailand
+Articles/Blogs Published
+Milind Thomas Themalil, “Semiconductor chip designing strategic necessity for India” was published in Dataquest on April 07, 2020.
+Milind Thomas Themalil, “Trajectories of Technology that Propel us Forward – Reimagining the Future Through Our Past” was published in www.vietnamvisualvoice.com on January 05, 2021.
+Milind Thomas Themalil, “Trajectories of Technology that Propel us Forward – Reimagining the Future Through Our Past” was published in www. cxooutlook.com on April 22, 2021.
+Patents
+One Foreign (UK)
+; Portable bicycle mobile charger, International Design Classification: Version: 14-2023, Class: 13 EQUIPMENT FOR PRODUCTION, DISTRIBUTION OR TRANSFORMATION OF ELECTRICITY, Subclass: 02 POWER TRANSFORMERS, RECTIFIERS, BATTERIES AND ACCUMULATORS, United Kingdom (UK) – International
+Granted Design number: 6280041 Grant date: 15 May 2023 Registration date: 04 May 2023
+One Indian
+, Diabetes Control Through Soul Stick Aaka Wafers, IPR No: 56A77529
 Research Interests :
-Free Space Optics
-Visible Light Communication
-Wireless Communication
-Optical Communication
-Photonics
-Machine Learning for communication systems
-Short Term Courses Attended
-Participated in Three Days FDP on Recent trends in Machine/Deep Learning for Computer Vision and Biomedical Applications organized by Academic Staff College in association with School of Electronics Engineering of VIT Vellore from 21-Aug-2023 to 23-Aug-2023.
-Participated in the one-week Faculty Development Programme on
-"EMERGING TECH-NIQUES IN 6G WIRELESS COMMUNICATIONS"
-organized by Department of Elec-tronics and Communication Engineering, SRM INSTITUTE OF SCIENCE AND TECH-NOLOGY, TIRUCHIRAPPALLI CAMPUS, Tamilnadu, India. from 04/01/2023 to 10/01/2023.
-Participated in the SERB sponsored five-day online faculty development program on
-“Recent Trends in Free Space Optics and its Applications (RFA-2021)”
-organized by the De-partment of Electronics and Communication Engineering, National Institute of Technology Karnataka, Surathkal, from 04th to 08th October 2021.
-Participated and successfully completed the 5-day online FDP on the theme
-“Inculcating Universal Human Values in Technical Education”
-organized by All India Council for Technical Education (AICTE) from 22nd November 2021 to 26th November 2021.
-Participated in the TEQIP-III sponsored five-day online faculty development program on
-“Recent Trends in Nanoelectronics and Optoelectronics (RNO – 2020)”
-organized by the Department of Electronics and Communication Engineering, National Institute of Technolo-gy Karnataka, Surathkal, from 12th to 16th October, 2020.
-Participated & completed successfully AICTE Training And Learning (ATAL) Academy Online FDP on
-"Advanced Communication Engineering"
-from 2020-12-7 to 2020-12-11 at Bharati Vidyapeeth College of Engineering, Navi Mumbai.
-"Electrical & Computer Engineering"
-from 2020-11-4 to 2020-11-8 at In-dian Institute of Information Technology Kottayam.
-"Photonics"
-from 2020-10-19 to 2020-10-23 at Govt. Model Engineering College, Ernakulam.
-Participated in online SPARC Sponsored Short Term Course on
-“Non-orthogonal Multiple Access Technology for 5GB”
-conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collaboration with National Research Tomsk Polytechnic University, Russia from 14/06/2021 to 25/06/2021.
-“A New Cooperative Wire-less Strategy: Soft Information Forwarding”
-conducted by Department of Electronics and Communication Engineering National Institute of Technology, Tiruchirappalli in collabora-tion with National Research Tomsk Polytechnic University, Russia from 28/04/2021 to 14/05/2021.
+RF & Microwave
+MIMO for 5G and beyond networks
+Microstrip antenna design for small satellite communication
+Optical Wireless Communication
+Total Citations
+Current h-index
+Source
+Google Scholar
+Scopus
+Google Scholar profile link:
+https://scholar.google.com.tw/citations?user=Ltc3q7wAAAAJ&hl=en&oi=ao
+Scopus profile link:
+https://www.scopus.com/authid/detail.uri?authorId=57198885303
+LinkedIn Link -
+https://www.linkedin.com/in/dr-milind-thomas 1b74a024/
+Facebook Link -
+https://www.facebook.com/milind.thomas
+Hobbies & Interests :
+Creative arts
+Film making
+Acting & Directing
+Flying
+Biblical Archaeology
+Badminton
+Chess
+Reading

@@ -1,61 +1,105 @@
 URL: https://www.iiitkottayam.ac.in/#!faculty/manu
 
-Dr. John Paul Martin | IIIT Kottayam
+Dr. Manu Madhavan | IIIT Kottayam
 Indian Institute of Information Technology Kottayam
-Dr. John Paul Martin
+Dr. MANU MADHAVAN
 Assistant Professor
 Valavoor P.O, Pala
 Kottayam - 686635, Kerala, India.
-Email: johnpaul
+Email:  manum
 iiitkottayam
 ac.in
-Hello at: 00 91  04822202202
-Honours and Achievements :
-PhD Research Fellowship from Ministry of Electronics & Information Technology (Meity), Government of India under Visvesvaraya Ph.D. scheme (2016 -2021)
-Cleared Graduate Aptitude Test in Engineering (GATE).
-Recruited as Knowledge associate at CDAC R&D from National Institute of Technology Karnataka (Super Dream Placement Offer).
-Education :
-Ph.D, Thesis titled: “Orchestration Mechanisms for Enabling Distributed Processing in the Fog Computing Environment ", NITK Surathkal, 2021.
-M.Tech., Computer Science and Engineering with Specialization in Information Systems , Mahathma Gandhi University.
-B.Tech., Computer Science and Engineering, University of Calicut.
-Publications
-Journals
-Joseph, Christina Terese, John Paul Martin and K. Chandrasekaran,  "Fog Assisted Personalized Dynamic Pricing for Smartgrid." IEEE Transactions on Computational Social Systems (2022).
-John Paul Martin, Kandasamy A. Chandrasekaran K., “Mobility aware autonomic approach for the migration of application modules in fog computing environment", Journal of Ambient Intelligence and Humanized Computing 8.1 (2020):1-20. [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran CREW: Cost and Reliability aware Eagle and Whale optimiser for service placement in Fog, Software Practice and Experience (Wiley) [SCI]
-John Paul Martin, A. Kandasamy & K. Chandrasekaran Exploring the support for high performance applications in the container runtime environment, Human-centric Computing and Information Sciences, (Springer)[SCI]
-John Paul Martin, A. Kandasamy, K. Chandrasekaran & Christina Terese Joseph Elucidating the challenges for the praxis of fog computing: An aspectbased study, International Journal of Communication Systems (Wiley)[SCI]
-Book Chapters
-Martin, John Paul, A. Kandasamy, and K. Chandrasekaran. "Unraveling the challenges for the application of fog computing in different realms: A multifaceted study." Integrated Intelligent Computing, Communication and Security. Springer, Singapore, 2019. 481-492.
-Joseph, Christina Terese, et al. "Virtual machine migration—a perspective study." Advances in Big Data and Cloud Computing. Springer, Singapore, 2018. 79-89.
-John Paul Martin, Vipin Singh, K Chandrasekaran, A Kandasamy “Explicating Fog Computing Key Research Challenges and Solutions”.  Singapore, 2018. 79-89.
-Conferences:
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran &  Christina Terese Joseph “Machine Learning Powered Auto scaling for Block chain based Fog Environments”, Springer, Spain
-Nishanth, Shashwatha Mitra G.B, John Paul Martin, K. Chandrasekaran “HTmRPL++ : A Trust-Aware RPL Routing Protocol for Fog Enabled Internet of Things”, International Conference on COMmunication Systems & NETworkS (COMSNETS), Scopus
-Christina Terese Joseph, John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Fuzzy Reinforcement Learning based Microservice Allocation in Cloud Computing Environments”,TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus
-Chandan Naik; M Siddhartha; John Paul Martin; K. Chandrasekaran “Location Privacy Using Data Obfuscation in Fog Computing”, TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Scopus.
-Akarsh Murali; Nibir Nirjas Das; Shiv Shankar Sukumaran; K. Chandrasekaran; Christina Joseph; John Paul Martin “Machine Learning Approaches for Resource Allocation in the Cloud: Critical Reflections”, International Conference on Advances in Computing, Communications and Informatics (ICACCI), Scopus.
-John Paul Martin,  A. Kandasamy, K. Chandrasekaran “Toward efficient autonomic management of clouds: A CDS-based hierarchical approach”, Advanced Computing and Systems for Security, Springer, Scopus
-Christina Terese Joseph, John Paul Martin “Task Dependency Aware Selection in Cloud” International conferences in advances in computing and communications,Scopus, Elsevier
-Thasviya Haroon; S Neena; K K Krishnaprasad; Rejoice Wilson; Sanjo Simon; John Paul Martin “Convivial private cloud implementation system using OpenStack”,  2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT), IEEE Scopus
-John Paul Martin; Krishna S. Chinchu; M. J. Hareesh; Babu S. Anish; Sijo Cherian; Yedhu Sastri “Learning Environment as a Service (LEaaS): Cloud”, Fourth International Conference on Advances in Computing and Communications, Scopus
-S. Anish Babu; M. J. Hareesh; John Paul Martin; Sijo Cherian; Yedhu Sastri “System Performance Evaluation of Para Virtualization, Container Virtualization, and Full Virtualization Using Xen, OpenVZ, and XenServer”, Fourth International Conference on Advances in Computing and Communications, Scopus
-John Paul Martin; M. Sarith Divakar; Hareesh M. Joseph” Registry Based Discovery Model for Android Application”, Third International Conference on Advances in Computing and Communications, IEEE, Scopus
-Professional Activities
-Reviewer:
-IEEE Transactions on Industrial Informatics
-Journal of the International Measurement Confederation (Elsevier)
-IEEE Access
-International Journal of Systems Assurance Engineering and Management (Springer)
-Journal of Ambient Intelligence and Humanized Computing (Springer)
-Software Practice and Experience (Wiley)
-International Journal of Communication Systems(Wiley)
+Hello at: 00 91  04822202208
+Personal Webpage:
+https://sites.google.com/site/manumadhavancka/home?authuser=0
 Research Interests :
-Distributed Computing
-Edge/ Fog Computing
-Cloud Computing
-Internet of Things (IoT)
-DevOps and MLOps
-Artificial Intelligence
+Bioinformatics
+Natural Language Processing
+Deep Learning, Graph Neural Network
 Machine Learning
-Optimisation Algorithms
+Honours and Achievements :
+Participated as Young research scientist at ACM Pingala Interactions In Computing, held on 03-06 Feb 2023, at Infosys Campus Mysore.
+NPTEL star in Computer Science discipline .
+Visvesvaraya PhD Scholarship, under MeitY, Govt. of India
+Project intern at Centre for Artificial Intelligence and Robotics (CAIR),DRDO, Bangalore.
+Education :
+Ph.D, Department of Computer Science and Engineering, Thesis titled:
+Computational Analysis of lncRNA Functional Signatures and Disease
+Association, National Institute of Technology Calicut, 2021.
+M.Tech., Computer Science and Engineering (Computational Linguistics),
+Govt. Engineering College, Palakkad, Calicut University,2013.
+B.Tech., Computer Science and Engineering, Nehru College of
+Engineering and Research Center, Thrissur, Calicut University,2010.
+Publications
+Google Scholar Link:
+https://scholar.google.com/citations?hl=en&user=mozeNIsAAAAJ
+Journals
+Anjana M.P., Arun K.S., Manu Madhavan, Transformer-based models for uncovering genetic mutations in cancerous and non-cancerous genomes, Gene, 2025
+https://doi.org/10.1016/j.gene.2025.149460
+Chinju John, Jayakrushna Sahoo, Irish K. Sajan, Manu Madhavan, Oommen K. Mathew, CNN-BLSTM based deep learning framework for eukaryotic kinome classification: An explainability based approach, Computational Biology and Chemistry, 2024, 108169, ISSN 1476-9271,
+https://doi.org/10.1016/j.compbiolchem.2024.108169.
+Chinju John, Jayakrushna Sahoo, Manu Madhavan and Oommen K Mathew, Convolutional Neural Networks: A Promising Deep Learning Architecture for Biological Sequence Analysis, Current Bioinformatics (2023),
+http://dx.doi.org/10.2174/1574893618666230320103421
+Satheesh, R., Chakkungal, N., Rajan, S., Madhavan, M., & Alhelou, H. H.(2022). Identification of Oscillatory Modes in Power System Using Deep Learning Approach. IEEE Access, 10, 16556-16565.
+Manu Madhavan, Gopakumar G, "DBNLDA: Deep Belief Network based representation learning for lncRNA-disease association prediction."Applied Intelligence (2021): 1-11. DOI: 10.1007/s10489-021-02675-x.
+Manu Madhavan, Gopakumar G, 2021. Long Non-coding RNAs in Heart Failure: A Deep Belief Network based Cluster Analysis, Current Bioinformatics, 16-1, DOI:10.2174/1574893616666210528162945.
+Madhavan, M, Gopalakrishnan G. 2018. An Effective Sequence Structure Representation for Long Non-Coding RNA Identification and Cancer Association using Machine Learning Methods. ACM Applied Computing
+Review. 18(3):49-58, DOI: https://doi.org/10.1145/3284971.3284976.
+Book Chapters
+Krutarth, Katharotiya, and Manu Madhavan. "Region-Based Random
+Color Highlighting in Artistic Style Transfer Using CNN." Advances in
+Electrical and Computer Technologies. Springer, Singapore, 2022. 81-90.
+Manu Madhavan, Reshma Stephen, Gopakumar G. 2020. Prediction of
+lncRNA Cancer association using Topic Models on Graph,Advances in
+Machine Learning and Computational Intelligence. Algorithms for
+Intelligent Systems. Springer, Singapore. https://doi.org/10.1007/978-
+981-15-5243-4_28.
+Conference Proceedings
+Manu Madhavan
+, Dr. Jeena Kleenankandy, “Teaching NLP in the era of LLMs”, ACM India COMPUTE 2024, IIT Gandhi Nagar, Dec 2024.
+Gopikrishnan CP,
+, Denoising Autoencoder based Long non-coding RNA-Disease Association Prediction, in  The International conference on Machine Learning and Data Engineering (ICMLDE-22), September 7-8, 2022, UPES, Dehradun, India.
+Ragupathi, Anjali, Siddharth Shanmuganathan, and
+."Compressive Performers in Language Modelling." Proceedings of The Fourth International Conference on Natural Language and Speech Processing (ICNLSP 2021). 2021.
+C. M. Sreeshma,
+M. Manu
+and G. GopaKumar, "Identification of Long Non-coding RNA from inherent features using Machine Learning Techniques," 2018 International Conference on Bioinformatics and Systems Biology (BSB), 2018, pp. 97-102, doi:10.1109/BSB.2018.8770699.
+and Gopakumar G. 2018. A tf-idf based topic model for identifying lncRNAs from genomic background. In Proceedings of the 33rd Annual ACM Symposium on Applied Computing (SAC '18). Association for Computing Machinery, New York, NY, USA, 40–46. DOI:https://doi.org/10.1145/3167132.3167133.
+, Robert Jesuraj, Reghu Raj P C, " Design of Scalable Natural Language Report Management System", in short proceedings of Int. Conf. on NLP (ICON) , Delhi, 2013. [ Selected for upload on TDIL-DC portal].
+, Mujeeb Rehman O, Dr. P. C Reghu Raj, “Computing Prosodic Patterns for Malayalam”, in the proceedings of National Conference on Indian Language Computing, CUSAT, India, 2013.
+, Dr. P. C Reghu Raj, “Application of Karaka Relations in Natural Language Generation”, in the proceedings of National Conference on Indian Language Computing, CUSAT, India, 2012.
+Experience
+Indian Institute of Information Technology, Kottayam [Jul 2022-Present], Assistant Professor, Department of Computer Science and Engineering
+Amrita Vishwa Vidyapeetham (Deemed to be University)  Coimbatore, Tamil Nadu [Mar 2020- Jul 2022] Assistant Professor, Department of Computer Science and Engineering
+Sreepathy Institute of Management and Technology, Palakkad, Kerala [Aug-2013 -Dec 2015]. Assistant Professor, Dept. of Computer Science and Engineering
+Sreepathy Institute of Management and Technology, Palakkad, Kerala[Dec-2010 to Aug-2011].Lecturer in Dept. of Computer Science and Engineering
+Invited Talk/Sessions
+National Symposium on
+Recent Trends in Omics in Plant Biology
+, IISR, Kozhikode, 2025
+INDIA-TAIWAN International Conference, SRMIST, Chennai, 2024
+“Neural Machine Translation"
+- Hands-on session as part of Winter School on NLP and Machine Translation, ICFOSS, Feb, 2023.
+Word embedding, Encoders and Transformers
+- Training session from PG-PhD scholars, Dept of CSE, Govt Engg College, Sreekrishnapuram, Palakkad, Kerala, Oct 2022
+Bayesian Belief Network
+, Anna University sponsored online FDTP on CS8082 – MACHINE LEARNING TECHNIQUES, organized by Dr.N.G.P. Institute of Technology, Coimbatore Jul 2022.
+An invitation to Computational Linguistics
+, Winter School: Mathematics, Computer Science & Information Technology organized by the UGC- Human Resource Development Centre, Kannur University,
+Kerala, 03 March 2021.
+Introduction to Natural Language Processing
+, Invited talk organized
+by MIROSI, March 2, 2021.
+Using Python to Evaluate Machine Learning Algorithms
+, FDP on Theory and Practice of Machine Learning, as part of TRISCCON 2020, organized by GEC Barton Hill and IIST, Thiruvananthapuram on 15 Jan 2020.
+Funded Projects
+SIKER2025: Support for organizing National seminar from Ministry of Ayush
+Lexical Analysis of Sanskrit Verbs- An Online Thesaurus based on Kriyanighantu (Funded by Central Sanskrit University)
+SIKER 2023: Support for organizing national seminar from ICSSR
+Professional Activities
+Professional member, Association for Computing Machinery (ACM)
+Life Member, Bioclues (Bioinformatics association of India)
+Reviewer:
+ACM Transactions on Asian and Low-Resource Language Information Processing
+IEEE/ACM Transactions on Computational Biology and Bioinformatics
+ACM Symbosium on Applied Computing (SAC)
